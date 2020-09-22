@@ -1203,7 +1203,6 @@ S1;E6;Trixie;I can't.
 S1;E6;Snails;and : What?!
 S1;E6;Trixie;Oh, I can't, I never have. No one can vanquish an ursa major. I just made the whole story up to make me look better.
 S1;E6;Snails;and : Made it up?!
-S1;E6;Ursa;
 S1;E6;Spike;Nice use of number sixteen.
 S1;E6;Unidentified cow;Golly, dont'cha know?
 S1;E6;Spike;That's new.
