@@ -6,21 +6,22 @@ public class Song {
 	private String lang;
 	private String lyric;
 	private int season;
+	private int episode;
 	
 	public Song () {
-		this(null,null,null, 0);
+		this(null,null, 0, 0);
 	}
 	
-	public Song(String n, String la, String ly, int s) {
-		this.setName(n);
+	public Song(String la, String ly, int s, int e) {
 		this.setLang(la);
 		this.setLyric(ly);
 		this.setSeason(s);
+		this.setEpisode(e);
 	}
 	
 	@Override
 	public String toString() {
-		return this.getName() + " : " + '"' + this.getLyric() + '"' + " - Season " + this.getSeason();
+		return this.getName() + " : " + '"' + this.getLyric() + '"' + " - S" + this.getSeason() + "E" + this.getEpisode() + "\n";
 	}
 
 	/**
@@ -77,6 +78,20 @@ public class Song {
 	 */
 	public void setSeason(int season) {
 		this.season = season;
+	}
+
+	/**
+	 * @return the episode
+	 */
+	public int getEpisode() {
+		return episode;
+	}
+
+	/**
+	 * @param episode the episode to set
+	 */
+	public void setEpisode(int episode) {
+		this.episode = episode;
 	}
 	
 }
