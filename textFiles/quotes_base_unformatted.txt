@@ -2065,7 +2065,6 @@ S1;E10;Twilight Sparkle;Will you forget about your silly instruments for one sec
 S1;E10;Pinkie Pie;Me? Ruin? I'm not the ruiner, I'm the ruin-ee! Or is it ruiness? Ruinette?
 S1;E10;Applejack;Come on girls, there's no reasoning with that one. She's a few apples short of a bushel.
 S1;E10;Pinkie Pie;Hey! I'm trying to tell you all that the ruining is on the other hoof. If you'd just slow down and listen to me!
-S1;E10;Parasprites;
 S1;E10;Gardening pony;Aah!
 S1;E10;Fluttershy;What do we do? They're eating all the food in town.
 S1;E10;Applejack;My apples!
@@ -2541,7 +2540,6 @@ S1;E12;Twilight Sparkle;All right, all right!
 S1;E12;Apple Bloom;Oh thank you thank you thank you.  Yes! I knew you could do... it.
 S1;E12;Twilight Sparkle;I'm sorry, sweetie, but I told you-
 S1;E12;Apple Bloom;Try again, try again!
-S1;E12;Twilight Sparkle;
 S1;E12;Twilight Sparkle;Told you that not even magic can make a cutie mark appear before its time.
 S1;E12;Apple Bloom;It's hopeless, hopeless! I just won't go to the party, I can't go. Everyone will just laugh at me and make fun of me and call me names. It will be the worst night of my life.
 S1;E12;Twilight Sparkle;I'm sure it won't be as bad as all that.
@@ -2550,7 +2548,6 @@ S1;E12;Apple Bloom;How could I have forgotten the time? How could I have forgott
 S1;E12;Pinkie Pie;Don't forget your party hat, Forgetty Forgetterson!
 S1;E12;Apple Bloom;I have to get out of here before anypony sees me.
 S1;E12;Diamond Tiara;Hey! It's my cute-ceañera, I'm supposed to get the first bite at cake.
-S1;E12;Diamond Tiara;
 S1;E12;Apple Bloom;Okay, Apple Bloom, almost there.
 S1;E12;Applejack;Apple Bloom, you made it. After I heard about Twist, I was afraid you wouldn't show up. I sure am glad you came to your senses about this whole cutie mark thing. These things happen when these things are supposed to happen. Trying to rush 'em just drives you crazy. I'll let you be, looks like your friends want to talk to you.
 S1;E12;Diamond Tiara;Well well well, look who's here.
@@ -12192,7 +12189,6 @@ S3;E6;Scootaloo;It's, it's nothing... Just my imagination...
 S3;E6;Scootaloo;And that isn't the thundering stomp of The Olden Pony...
 S3;E6;Scootaloo;I-Is anyone out there?
 S3;E6;The Olden Pony;Who got my rusty horseshoe?
-S3;E6;Scootaloo;
 S3;E6;The Olden Pony;Who's got my rusty horseshoe?
 S3;E6;Scootaloo;Rainbow Dash–?
 S3;E6;The Olden Pony;You do!
@@ -12206,7 +12202,6 @@ S3;E6;Scootaloo;Dark?!  I'll just ride ahead and make sure the path is clear. We
 S3;E6;Rainbow Dash;Doesn't matter to me.
 S3;E6;Scootaloo;Well, y'know,  it's for the scaredy-ponies, heheh.
 S3;E6;Scootaloo;Don't fall asleep now... We've got to get to that campsite before dark...
-S3;E6;Bear;
 S3;E6;Rarity;That's why it's always important to bring your own trunk on any public outing.
 S3;E6;Scootaloo;Um... don't come this way! Take the path! It's, heh, way better than going through the bushes.
 S3;E6;Applejack;You're more nervous than a worm in an apple on cider making day. What gives, Scootaloo?
@@ -12602,7 +12597,6 @@ S3;E8;Apple Bloom;Great! Ugh...
 S3;E8;Babs Seed;You alright?
 S3;E8;Apple Bloom;So... dizzy...
 S3;E8;Apple Bloom;Ugh...
-S3;E8;Big McIntosh;
 S3;E8;Apple Dumpling;You've got eight now, dont'cha?
 S3;E8;Apple Leaves;Oh, sure do. Tell you what, my Apple Tart may just be a baby, but he is a hoot!
 S3;E8;Applejack;Havin' fun?
@@ -15595,7 +15589,6 @@ S4;E10;Fluttershy;and :
 S4;E10;Rainbow Dash;Nnnngh...
 S4;E10;Fluttershy;Oof!
 S4;E10;Rainbow Dash;You, uh, keep doing your wing-ups. I'm just gonna get some, uh, water.
-S4;E10;Bulk Biceps;
 S4;E10;Fluttershy;and :
 S4;E10;Bulk Biceps;Yeah!
 S4;E10;Rarity;Too much?
@@ -20454,7 +20447,6 @@ S5;E8;Pinkie Pie;Okay, Gummy, I think we're ready to start prepping the second l
 S5;E8;Pinkie Pie;Oh, my gosh! My cutie mark!  You know what this means?!  The map!
 S5;E8;Pinkie Pie;Uh, Gummy? Could you take over for a bit? Hopefully this'll be quick. I'll just measure the baking powder for you...  ...and when the first layer cools, you can drizzle some of the ganache over it. And don't forget to beat the egg whites for the meringue!
 S5;E8;Pinkie Pie;I know you can do this, Gummy! You're the best alligator baker I've ever met!
-S5;E8;Gummy;
 S5;E8;Rainbow Dash;Rude, insensitive bullies?
 S5;E8;Twilight Sparkle;You mean Gilda?
 S5;E8;Rainbow Dash;Yeah, I mean Gilda! When she came to Ponyville, she was a total jerk to all my friends, especially Pinkie Pie!
@@ -29860,7 +29852,6 @@ S7;E3;Twilight Sparkle;Just a couple of toys that reminded me of Flurry.
 S7;E3;Twilight Sparkle;I'm excited to show you I've done some shopping for Flurry Heart.
 S7;E3;Princess Cadance;Oh-ho-ho, you're so sweet. You didn't have to do all that.
 S7;E3;Twilight Sparkle;I know, but I can't help myself! Best aunt ever! Open this one, Flurry.
-S7;E3;Flurry Heart;
 S7;E3;Twilight Sparkle;Exactly! They're bears! You're one smart cookie.
 S7;E3;Shining Armor;We'll just put Flurry's things over here, Twily!
 S7;E3;Twilight Sparkle;Uh-huh. Totally.
