@@ -1,5 +1,11 @@
 package textBlindTest;
 
+/**
+ * @Author: JunkJumper
+ * @Link: https://github.com/JunkJumper
+ * @Copyright: Creative Common 4.0 (CC BY 4.0)
+ */
+
 public class Song {
 	
 	private String name;
@@ -7,10 +13,6 @@ public class Song {
 	private String lyric;
 	private int season;
 	private int episode;
-	
-	public Song () {
-		this(null,null, 0, 0);
-	}
 	
 	public Song(String la, String ly, int s, int e) {
 		this.setLang(la);
