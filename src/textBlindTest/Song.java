@@ -15,6 +15,11 @@ public class Song {
 	private int episode;
 	
 	public Song(String la, String ly, int s, int e) {
+		this(null, la, ly, s, e);
+	}
+	
+	public Song(String n, String la, String ly, int s, int e) {
+		this.setName(n);
 		this.setLang(la);
 		this.setLyric(ly);
 		this.setSeason(s);
