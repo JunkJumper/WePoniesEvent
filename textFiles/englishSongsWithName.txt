@@ -3016,3 +3016,20 @@ SongName;The bonds grow deeper, lasting longer;S9;E26
 SongName;And the greatest spell you'll know ;S9;E26
 SongName;Is how the Magic of Friendship grows;S9;E26
 SongName;How the Magic of Friendship grows;S9;E26
+########################### EG 1 ###########################
+This strange new world;I've never seen a place;S31;E1
+This strange new world;That's quite like this;S31;E1
+This strange new world;Everything is turned around;S31;E1
+This strange new world;This crazy world is upside-down;S31;E1
+This strange new world;Getting on my feet;S31;E1
+This strange new world;It's the hand that I was dealt;S31;E1
+This strange new world;But I don't have much time with them;S31;E1
+This strange new world;Got to learn all that I can;S31;E1
+This strange new world;They don't use any magic or fly with any wings;S31;E1
+This strange new world;I don't get these funny clothes, skinny legs or tiny nose;S31;E1
+This strange new world;Everything's confusing when it seems so new;S31;E1
+This strange new world;But I look a little closer and it starts to feel familiar too;S31;E1
+This strange new world;What a strange new world (what a strange new world);S31;E1
+This strange new world;I'm trying to make heads or tails of this strange new world (what a strange new world);S31;E1
+This strange new world;Sorting through the small details of this strange new world;S31;E1
+This strange new world;What a strange new world;S31;E1
