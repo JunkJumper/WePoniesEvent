@@ -88,7 +88,7 @@ public class TranscriptSongParser {
 			}
 		}
 
-		int i = (int)(Math.random()*770);
+		int i = (int)(Math.random()*1495);
 		int max = i+3;
 		while(i < max) {
 			System.out.println(list.get(i).toString());
