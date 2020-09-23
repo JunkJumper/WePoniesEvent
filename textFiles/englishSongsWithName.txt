@@ -777,267 +777,268 @@ Love Is In Bloom;I said love is in bloom;S2;E26
 Love Is In Bloom;You're starting a life and making room;S2;E26
 Love Is In Bloom;For us, ;S2;E26
 ########################### Season 3 ###########################
-SongName;I was prepared to do my best;S3;E1
-SongName;Thought I could handle any test;S3;E1
-SongName;For I can do so many tricks;S3;E1
-SongName;But I wasn't prepared for this;S3;E1
-SongName;Levitation would have been a breeze;S3;E1
-SongName;Facts and figures I recite with ease;S3;E1
-SongName;I could ace a quiz on friendship's bliss;S3;E1
-SongName;But I wasn't prepared for this;S3;E1
-SongName;Will I fail, or will I pass?;S3;E1
-SongName;I can't be sure...;S3;E1
-SongName;She can't be sure...;S3;E1
-SongName;My mind is sharp, my skills intact;S3;E1
-SongName;My heart is pure...;S3;E1
-SongName;Her heart is pure...;S3;E1
-SongName;Oh, I've taken my share of licks;S3;E1
-SongName;I've made it through the thin and thick;S3;E1
-SongName;But no I wasn't;S3;E1
-SongName;Oh no, she wasn't;S3;E1
-SongName;Oh no, I wasn't;S3;E1
-SongName;Oh no, she wasn't;S3;E1
-SongName;No I wasn't;S3;E1
-SongName;Princess Cadance needs our help;S3;E1
-SongName;Her magic will not last forever;S3;E1
-SongName;I think we can do it;S3;E1
-SongName;But we need to work together;S3;E1
-SongName;We have to get this right;S3;E1
-SongName;Yes, we have to make them see;S3;E1
-SongName;We can save the Crystal Ponies with their history;S3;E1
-SongName;It says that they liked jousting;S3;E1
-SongName;They flew a flag of many hues;S3;E1
-SongName;Made sweets of crystal berries;S3;E1
-SongName;They had a petting zoo with tiny ewes;S3;E1
-SongName;Oh, we have to get this right;S3;E1
-SongName;Yes, we have to make them see;S3;E1
-SongName;We can save the Crystal Ponies with their history;S3;E1
-SongName;There was a crystal flugelhorn;S3;E1
-SongName;That every pony liked to play;S3;E1
-SongName;And the Crystal Kingdom anthem;S3;E1
-SongName;Can you learn it in a day?;S3;E1
-SongName;Oh, we have to get this right;S3;E1
-SongName;Yes, we have to make them see;S3;E1
-SongName;We can save the Crystal Ponies with their history;S3;E1
-SongName;You were prepared to do your best;S3;E2
-SongName;Had what it takes to pass the test;S3;E2
-SongName;All those doubts you can dismiss;S3;E2
-SongName;Turns out you were;S3;E2
-SongName;Prepared for this!;S3;E2
-SongName;You clearly have just what it takes;S3;E2
-SongName;To pass a test with such high stakes;S3;E2
-SongName;We knew for sure you would prevail;S3;E2
-SongName;Since when does Twilight Sparkle ever fail?;S3;E2
-SongName;All those doubts that you can dismiss;S3;E2
-SongName;Trust yourself and you cannot miss;S3;E2
-SongName;Turns out you were;S3;E2
-SongName;Turns out I was;S3;E2
-SongName;Turns out you were;S3;E2
-SongName;Turns out I was;S3;E2
-SongName;Turns out you were;S3;E2
-SongName;Prepared for this!;S3;E2
-SongName;Yeah, yeah, yeah ;S3;E4
-SongName;Yeah, yeah, yeah;S3;E4
-SongName;Yeah, yeah, yeah, yeah, yeah;S3;E4
-SongName;First, we thought that Babs was so really, really sweet;S3;E4
-SongName;A new friend to have, and it seemed like such a treat;S3;E4
-SongName;She went from Babs, yeah, to a bully and a beast;S3;E4
-SongName;Everywhere we turn, she's just a step ahead;S3;E4
-SongName;Babs Seed, Babs Seed, what we gonna do?;S3;E4
-SongName;Got a bully on our tail;S3;E4
-SongName;Gotta hide, we gotta bail;S3;E4
-SongName;Babs Seed, Babs Seed, if she's after you;S3;E4
-SongName;Gotta run, we gotta flee;S3;E4
-SongName;Gotta hurry, don't you see?;S3;E4
-SongName;Babs Seed, Babs Seed, she's just a bad, bad seed;S3;E4
-SongName;Yeah, yeah, yeah;S3;E4
-SongName;Yeah, yeah, yeah;S3;E4
-SongName;Yeah, yeah, yeah, yeah, yeah;S3;E4
-SongName;Hiding from a bully, we know it isn't right;S3;E4
-SongName;But the Cutie Mark Crusaders, we aren't lookin' for a fight;S3;E4
-SongName;Oh, she'll go home soon, and then we'll have some peace again;S3;E4
-SongName;But for now, we're staying out of her way 'til then;S3;E4
-SongName;Everywhere we turn, she's just a step ahead;S3;E4
-SongName;Babs Seed, Babs Seed, what we gonna do?;S3;E4
-SongName;Got a bully on our tail;S3;E4
-SongName;Gotta hide, we gotta bail;S3;E4
-SongName;Babs Seed, Babs Seed, if she's after you;S3;E4
-SongName;Gotta run, we gotta flee;S3;E4
-SongName;Gotta hurry, don't you see?;S3;E4
-SongName;Why so mean? Why so crude?;S3;E4
-SongName;Why so angry? Why so rude?;S3;E4
-SongName;Can't you be nice? Can't we be friends?;S3;E4
-SongName;Isn't it sad? Is this how it all ends?;S3;E4
-SongName;Babs Seed, Babs Seed, she's just a bad, bad-;S3;E4
-SongName;Babs Seed, Babs Seed, she's just a bad, bad-;S3;E4
-SongName;Babs Seed, Babs Seed-;S3;E4
-SongName;She's just a bad, bad seed!;S3;E4
-SongName;Yee-hoo!;S3;E8
-SongName;Raise this barn, raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Together, we can raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Up, up, up, go the beams;S3;E8
-SongName;Hammer those joints, work in teams;S3;E8
-SongName;Turn 'em round quick by the right elbow;S3;E8
-SongName;Grab a new partner, here we go;S3;E8
-SongName;Raise this barn, raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Together, we can raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Finish the frame, recycling wood;S3;E8
-SongName;Workin' hard, you're doin' good;S3;E8
-SongName;Turn 'em round quick by the right elbow;S3;E8
-SongName;Grab a new partner, here we go;S3;E8
-SongName;Raise this barn, oh, raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Together, we can raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Slats of wood come off the ground;S3;E8
-SongName;Hold 'em up and nail 'em down;S3;E8
-SongName;Turn 'em round quick by the left elbow;S3;E8
-SongName;Grab a new partner, here we go;S3;E8
-SongName;Look at us, we're family;S3;E8
-SongName;Workin' together thankfully;S3;E8
-SongName;We Apples, we are proud to say;S3;E8
-SongName;Stick together the pony way;S3;E8
-SongName;Bow to your partner, circle right;S3;E8
-SongName;Get down if you're scared of heights;S3;E8
-SongName;Forward back and twirl around;S3;E8
-SongName;That barn's gonna be the best in town;S3;E8
-SongName;Raise this barn, raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Together, we can raise this barn;S3;E8
-SongName;One, two, three, four;S3;E8
-SongName;Take your brushes, young and old;S3;E8
-SongName;Together, paint it, bright and bold;S3;E8
-SongName;Turn 'em round quick by the left elbow;S3;E8
-SongName;Grab a new partner, here we go;S3;E8
-SongName;We raised this barn, we raised this barn;S3;E8
-SongName;Yes, we did;S3;E8
-SongName;Together we sure raised this barn;S3;E8
-SongName;Yes, we did;S3;E8
-SongName;Being together counts the most;S3;E8
-SongName;We all came here from coast to coast;S3;E8
-SongName;All we need to strive to be;S3;E8
-SongName;Is part of the Apple family;S3;E8
-SongName;Morning in Ponyville shimmers;S3;E13
-SongName;Morning in Ponyville shines;S3;E13
-SongName;And I know for absolute certain;S3;E13
-SongName;That everything is certainly fine;S3;E13
-SongName; to her office;S3;E13
-SongName;There's the sofa clerk selling some quills;S3;E13
-SongName;My Ponyville is so gentle and still;S3;E13
-SongName;Can things ever go wrong?;S3;E13
-SongName;I don't think that they will;S3;E13
-SongName;Morning in Ponyville shimmers;S3;E13
-SongName;Morning in Ponyville shines;S3;E13
-SongName;And I know for absolute certain;S3;E13
-SongName;That everything is certainly—;S3;E13
-SongName;These animals don't listen, no, not one little bit;S3;E13
-SongName;They run around out of control and throw their hissy fits;S3;E13
-SongName;It's up to me to stop them, 'cause plainly you can see;S3;E13
-SongName;It's got to be my destiny, and it's what my cutie mark is telling me;S3;E13
-SongName;I try to keep them laughing, put a smile upon their face;S3;E13
-SongName;But no matter what I try, it seems a bit of a disgrace;S3;E13
-SongName;I have to entertain them, it's there for all to see;S3;E13
-SongName;It's got to be my destiny, and it's what my cutie mark is telling me;S3;E13
-SongName;I don't care much for pickin' fruit and plowin' fields ain't such a hoot;S3;E13
-SongName;No matter what I try, I cannot fix this busted water chute!;S3;E13
-SongName;I've got so many chores to do, it's no fun being me;S3;E13
-SongName;But it has to be my destiny, 'cause it's what my cutie mark is telling me;S3;E13
-SongName;Lookie here at what I made, I think that it's a dress;S3;E13
-SongName;I know it doesn't look like much, I'm under some distress;S3;E13
-SongName;Could y'all give me a hand here and help me fix this mess?;S3;E13
-SongName;My destiny is not pretty, but it's what my cutie mark is tellin' me;S3;E13
-SongName;I'm in love with weather patterns, but the others have concerns;S3;E13
-SongName;For I just gave them frostbite over top of their sunburns;S3;E13
-SongName;I have to keep on trying, for everyone can see;S3;E13
-SongName;It's got to be;S3;E13
-SongName;It's got to be;S3;E13
-SongName;My destiny;S3;E13
-SongName;My destiny;S3;E13
-SongName;And it's what my cutie mark;S3;E13
-SongName;It's what my cutie mark;S3;E13
-SongName;Yes, it's what my cutie mark is telling me!;S3;E13
-SongName;I have to find a way;S3;E13
-SongName;To make this all okay;S3;E13
-SongName;I can't believe this small mistake;S3;E13
-SongName;Could've caused so much heartache;S3;E13
-SongName;Oh why, oh why?;S3;E13
-SongName;Losing promise;S3;E13
-SongName;I don't know what to do;S3;E13
-SongName;Seeking answers;S3;E13
-SongName;I fear I won't get through to you;S3;E13
-SongName;Oh why, oh why?;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;To see the light that shines from a true, true friend;S3;E13
-SongName;Rarity needs your help;S3;E13
-SongName;She's trying hard, doing what she can;S3;E13
-SongName;Would you try, just give it a chance;S3;E13
-SongName;You might find that you'll start to understand;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;A friend will be there to help you see;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;To see the light that shines from a true, true friend;S3;E13
-SongName;Applejack needs your help;S3;E13
-SongName;She's trying hard, doing what she can;S3;E13
-SongName;Would you try, just give it a chance;S3;E13
-SongName;You might find that you'll start to understand;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;A friend will be there to help them see;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;To see the light that shines from a true, true friend;S3;E13
-SongName;Pinkie Pie is in trouble;S3;E13
-SongName;We need to get there by her side;S3;E13
-SongName;We can try to do what we can now;S3;E13
-SongName;For together we can be her guide;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;A friend will be there to help them see;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;To see the light that shines from a true, true friend;S3;E13
-SongName;The townspeople need you;S3;E13
-SongName;They've been sad for a while;S3;E13
-SongName;They march around, face a-frown;S3;E13
-SongName;And never seem to smile;S3;E13
-SongName;And if you feel like helpin';S3;E13
-SongName;We'd appreciate a lot;S3;E13
-SongName;If you'd get up there and spread some cheer;S3;E13
-SongName;From here to Canterlot;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;A friend will be there to help them see;S3;E13
-SongName;A true, true friend helps a friend in need;S3;E13
-SongName;To see the light! ;S3;E13
-SongName;That shines! ;S3;E13
-SongName;From a true, true friend!;S3;E13
-SongName;You've come such a long, long way;S3;E13
-SongName;And I've watched you from that very first day;S3;E13
-SongName;To see how you might grow;S3;E13
-SongName;To see what you might do;S3;E13
-SongName;To see what you've been through;S3;E13
-SongName;And all the ways you've made me proud of you;S3;E13
-SongName;It's time now for a new change to come;S3;E13
-SongName;You've grown up and your new life has begun;S3;E13
-SongName;To go where you will go;S3;E13
-SongName;To see what you will see;S3;E13
-SongName;To find what you will be;S3;E13
-SongName;For it's time for you to fulfill your destiny;S3;E13
-SongName;The Princess Twilight cometh;S3;E13
-SongName;Behold, behold;S3;E13
-SongName;A Princess here before us;S3;E13
-SongName;Behold, behold, behold;S3;E13
-SongName;Behold, behold ;S3;E13
-SongName;The Princess Twilight cometh;S3;E13
-SongName;Behold, behold ;S3;E13
-SongName;The Princess is;S3;E13
-SongName;The Princess is here!;S3;E13
-SongName;Life in Equestria shimmers;S3;E13
-SongName;Life in Equestria shines;S3;E13
-SongName;And I know for absolute certain;S3;E13
-SongName;That everything ;S3;E13
-SongName;Yes, everything ;S3;E13
-SongName;Yes, everything is certainly fine;S3;E13
-SongName;It’s fine;S3;E13
+The Failure Song;I was prepared to do my best;S3;E1
+The Failure Song;Thought I could handle any test;S3;E1
+The Failure Song;For I can do so many tricks;S3;E1
+The Failure Song;But I wasn't prepared for this;S3;E1
+The Failure Song;Levitation would have been a breeze;S3;E1
+The Failure Song;Facts and figures I recite with ease;S3;E1
+The Failure Song;I could ace a quiz on friendship's bliss;S3;E1
+The Failure Song;But I wasn't prepared for this;S3;E1
+The Failure Song;Will I fail, or will I pass?;S3;E1
+The Failure Song;I can't be sure...;S3;E1
+The Failure Song;She can't be sure...;S3;E1
+The Failure Song;My mind is sharp, my skills intact;S3;E1
+The Failure Song;My heart is pure...;S3;E1
+The Failure Song;Her heart is pure...;S3;E1
+The Failure Song;Oh, I've taken my share of licks;S3;E1
+The Failure Song;I've made it through the thin and thick;S3;E1
+The Failure Song;But no I wasn't;S3;E1
+The Failure Song;Oh no, she wasn't;S3;E1
+The Failure Song;Oh no, I wasn't;S3;E1
+The Failure Song;Oh no, she wasn't;S3;E1
+The Failure Song;No I wasn't;S3;E1
+The Ballad of the Crystal Empire;Princess Cadance needs our help;S3;E1
+The Ballad of the Crystal Empire;Her magic will not last forever;S3;E1
+The Ballad of the Crystal Empire;I think we can do it;S3;E1
+The Ballad of the Crystal Empire;But we need to work together;S3;E1
+The Ballad of the Crystal Empire;We have to get this right;S3;E1
+The Ballad of the Crystal Empire;Yes, we have to make them see;S3;E1
+The Ballad of the Crystal Empire;We can save the Crystal Ponies with their history;S3;E1
+The Ballad of the Crystal Empire;It says that they liked jousting;S3;E1
+The Ballad of the Crystal Empire;They flew a flag of many hues;S3;E1
+The Ballad of the Crystal Empire;Made sweets of crystal berries;S3;E1
+The Ballad of the Crystal Empire;They had a petting zoo with tiny ewes;S3;E1
+The Ballad of the Crystal Empire;Oh, we have to get this right;S3;E1
+The Ballad of the Crystal Empire;Yes, we have to make them see;S3;E1
+The Ballad of the Crystal Empire;We can save the Crystal Ponies with their history;S3;E1
+The Ballad of the Crystal Empire;There was a crystal flugelhorn;S3;E1
+The Ballad of the Crystal Empire;That every pony liked to play;S3;E1
+The Ballad of the Crystal Empire;And the Crystal Kingdom anthem;S3;E1
+The Ballad of the Crystal Empire;Can you learn it in a day?;S3;E1
+The Ballad of the Crystal Empire;Oh, we have to get this right;S3;E1
+The Ballad of the Crystal Empire;Yes, we have to make them see;S3;E1
+The Ballad of the Crystal Empire;We can save the Crystal Ponies with their history;S3;E1
+The Success Song;You were prepared to do your best;S3;E2
+The Success Song;Had what it takes to pass the test;S3;E2
+The Success Song;All those doubts you can dismiss;S3;E2
+The Success Song;Turns out you were;S3;E2
+The Success Song;Prepared for this!;S3;E2
+The Success Song;You clearly have just what it takes;S3;E2
+The Success Song;To pass a test with such high stakes;S3;E2
+The Success Song;We knew for sure you would prevail;S3;E2
+The Success Song;Since when does Twilight Sparkle ever fail?;S3;E2
+The Success Song;All those doubts that you can dismiss;S3;E2
+The Success Song;Trust yourself and you cannot miss;S3;E2
+The Success Song;Turns out you were;S3;E2
+The Success Song;Turns out I was;S3;E2
+The Success Song;Turns out you were;S3;E2
+The Success Song;Turns out I was;S3;E2
+The Success Song;Turns out you were;S3;E2
+The Success Song;Prepared for this!;S3;E2
+Babs Seed;Yeah, yeah, yeah ;S3;E4
+Babs Seed;Yeah, yeah, yeah;S3;E4
+Babs Seed;Yeah, yeah, yeah, yeah, yeah;S3;E4
+Babs Seed;First, we thought that Babs was so really, really sweet;S3;E4
+Babs Seed;A new friend to have, and it seemed like such a treat;S3;E4
+Babs Seed;She went from Babs, yeah, to a bully and a beast;S3;E4
+Babs Seed;Everywhere we turn, she's just a step ahead;S3;E4
+Babs Seed;Babs Seed, Babs Seed, what we gonna do?;S3;E4
+Babs Seed;Got a bully on our tail;S3;E4
+Babs Seed;Gotta hide, we gotta bail;S3;E4
+Babs Seed;Babs Seed, Babs Seed, if she's after you;S3;E4
+Babs Seed;Gotta run, we gotta flee;S3;E4
+Babs Seed;Gotta hurry, don't you see?;S3;E4
+Babs Seed;Babs Seed, Babs Seed, she's just a bad, bad seed;S3;E4
+Babs Seed;Yeah, yeah, yeah;S3;E4
+Babs Seed;Yeah, yeah, yeah;S3;E4
+Babs Seed;Yeah, yeah, yeah, yeah, yeah;S3;E4
+Babs Seed;Hiding from a bully, we know it isn't right;S3;E4
+Babs Seed;But the Cutie Mark Crusaders, we aren't lookin' for a fight;S3;E4
+Babs Seed;Oh, she'll go home soon, and then we'll have some peace again;S3;E4
+Babs Seed;But for now, we're staying out of her way 'til then;S3;E4
+Babs Seed;Everywhere we turn, she's just a step ahead;S3;E4
+Babs Seed;Babs Seed, Babs Seed, what we gonna do?;S3;E4
+Babs Seed;Got a bully on our tail;S3;E4
+Babs Seed;Gotta hide, we gotta bail;S3;E4
+Babs Seed;Babs Seed, Babs Seed, if she's after you;S3;E4
+Babs Seed;Gotta run, we gotta flee;S3;E4
+Babs Seed;Gotta hurry, don't you see?;S3;E4
+Babs Seed;Why so mean? Why so crude?;S3;E4
+Babs Seed;Why so angry? Why so rude?;S3;E4
+Babs Seed;Can't you be nice? Can't we be friends?;S3;E4
+Babs Seed;Isn't it sad? Is this how it all ends?;S3;E4
+Babs Seed;Babs Seed, Babs Seed, she's just a bad, bad-;S3;E4
+Babs Seed;Babs Seed, Babs Seed, she's just a bad, bad-;S3;E4
+Babs Seed;Babs Seed, Babs Seed-;S3;E4
+Babs Seed;She's just a bad, bad seed!;S3;E4
+Raise This Barn;Yee-hoo!;S3;E8
+Raise This Barn;Raise this barn, raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Together, we can raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Up, up, up, go the beams;S3;E8
+Raise This Barn;Hammer those joints, work in teams;S3;E8
+Raise This Barn;Turn 'em round quick by the right elbow;S3;E8
+Raise This Barn;Grab a new partner, here we go;S3;E8
+Raise This Barn;Raise this barn, raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Together, we can raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Finish the frame, recycling wood;S3;E8
+Raise This Barn;Workin' hard, you're doin' good;S3;E8
+Raise This Barn;Turn 'em round quick by the right elbow;S3;E8
+Raise This Barn;Grab a new partner, here we go;S3;E8
+Raise This Barn;Raise this barn, oh, raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Together, we can raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Slats of wood come off the ground;S3;E8
+Raise This Barn;Hold 'em up and nail 'em down;S3;E8
+Raise This Barn;Turn 'em round quick by the left elbow;S3;E8
+Raise This Barn;Grab a new partner, here we go;S3;E8
+Raise This Barn;Look at us, we're family;S3;E8
+Raise This Barn;Workin' together thankfully;S3;E8
+Raise This Barn;We Apples, we are proud to say;S3;E8
+Raise This Barn;Stick together the pony way;S3;E8
+Raise This Barn;Bow to your partner, circle right;S3;E8
+Raise This Barn;Get down if you're scared of heights;S3;E8
+Raise This Barn;Forward back and twirl around;S3;E8
+Raise This Barn;That barn's gonna be the best in town;S3;E8
+Raise This Barn;Raise this barn, raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Together, we can raise this barn;S3;E8
+Raise This Barn;One, two, three, four;S3;E8
+Raise This Barn;Take your brushes, young and old;S3;E8
+Raise This Barn;Together, paint it, bright and bold;S3;E8
+Raise This Barn;Turn 'em round quick by the left elbow;S3;E8
+Raise This Barn;Grab a new partner, here we go;S3;E8
+Raise This Barn;We raised this barn, we raised this barn;S3;E8
+Raise This Barn;Yes, we did;S3;E8
+Raise This Barn;Together we sure raised this barn;S3;E8
+Raise This Barn;Yes, we did;S3;E8
+Raise This Barn;Being together counts the most;S3;E8
+Raise This Barn;We all came here from coast to coast;S3;E8
+Raise This Barn;All we need to strive to be;S3;E8
+Raise This Barn;Is part of the Apple family;S3;E8
+Morning in Ponyville;Morning in Ponyville shimmers;S3;E13
+Morning in Ponyville;Morning in Ponyville shines;S3;E13
+Morning in Ponyville;And I know for absolute certain;S3;E13
+Morning in Ponyville;That everything is certainly fine;S3;E13
+Morning in Ponyville; to her office;S3;E13
+Morning in Ponyville;There's the sofa clerk selling some quills;S3;E13
+Morning in Ponyville;My Ponyville is so gentle and still;S3;E13
+Morning in Ponyville;Can things ever go wrong?;S3;E13
+Morning in Ponyville;I don't think that they will;S3;E13
+Morning in Ponyville;Morning in Ponyville shimmers;S3;E13
+Morning in Ponyville;Morning in Ponyville shines;S3;E13
+Morning in Ponyville;And I know for absolute certain;S3;E13
+Morning in Ponyville;That everything is certainly—;S3;E13
+What My Cutie Mark Is Telling Me;These animals don't listen, no, not one little bit;S3;E13
+What My Cutie Mark Is Telling Me;They run around out of control and throw their hissy fits;S3;E13
+What My Cutie Mark Is Telling Me;It's up to me to stop them, 'cause plainly you can see;S3;E13
+What My Cutie Mark Is Telling Me;It's got to be my destiny, and it's what my cutie mark is telling me;S3;E13
+What My Cutie Mark Is Telling Me;I try to keep them laughing, put a smile upon their face;S3;E13
+What My Cutie Mark Is Telling Me;But no matter what I try, it seems a bit of a disgrace;S3;E13
+What My Cutie Mark Is Telling Me;I have to entertain them, it's there for all to see;S3;E13
+What My Cutie Mark Is Telling Me;It's got to be my destiny, and it's what my cutie mark is telling me;S3;E13
+What My Cutie Mark Is Telling Me;I don't care much for pickin' fruit and plowin' fields ain't such a hoot;S3;E13
+What My Cutie Mark Is Telling Me;No matter what I try, I cannot fix this busted water chute!;S3;E13
+What My Cutie Mark Is Telling Me;I've got so many chores to do, it's no fun being me;S3;E13
+What My Cutie Mark Is Telling Me;But it has to be my destiny, 'cause it's what my cutie mark is telling me;S3;E13
+What My Cutie Mark Is Telling Me;Lookie here at what I made, I think that it's a dress;S3;E13
+What My Cutie Mark Is Telling Me;I know it doesn't look like much, I'm under some distress;S3;E13
+What My Cutie Mark Is Telling Me;Could y'all give me a hand here and help me fix this mess?;S3;E13
+What My Cutie Mark Is Telling Me;My destiny is not pretty, but it's what my cutie mark is tellin' me;S3;E13
+What My Cutie Mark Is Telling Me;I'm in love with weather patterns, but the others have concerns;S3;E13
+What My Cutie Mark Is Telling Me;For I just gave them frostbite over top of their sunburns;S3;E13
+What My Cutie Mark Is Telling Me;I have to keep on trying, for everyone can see;S3;E13
+What My Cutie Mark Is Telling Me;It's got to be;S3;E13
+What My Cutie Mark Is Telling Me;It's got to be;S3;E13
+What My Cutie Mark Is Telling Me;My destiny;S3;E13
+What My Cutie Mark Is Telling Me;My destiny;S3;E13
+What My Cutie Mark Is Telling Me;And it's what my cutie mark;S3;E13
+What My Cutie Mark Is Telling Me;It's what my cutie mark;S3;E13
+What My Cutie Mark Is Telling Me;Yes, it's what my cutie mark is telling me!;S3;E13
+I've Got to Find a Way;I have to find a way;S3;E13
+I've Got to Find a Way;To make this all okay;S3;E13
+I've Got to Find a Way;I can't believe this small mistake;S3;E13
+I've Got to Find a Way;Could've caused so much heartache;S3;E13
+I've Got to Find a Way;Oh why, oh why?;S3;E13
+I've Got to Find a Way;Losing promise;S3;E13
+I've Got to Find a Way;I don't know what to do;S3;E13
+I've Got to Find a Way;Seeking answers;S3;E13
+I've Got to Find a Way;I fear I won't get through to you;S3;E13
+I've Got to Find a Way;Oh why, oh why?;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;To see the light that shines from a true, true friend;S3;E13
+A True, True Friend;Rarity needs your help;S3;E13
+A True, True Friend;She's trying hard, doing what she can;S3;E13
+A True, True Friend;Would you try, just give it a chance;S3;E13
+A True, True Friend;You might find that you'll start to understand;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;A friend will be there to help you see;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;To see the light that shines from a true, true friend;S3;E13
+A True, True Friend;Applejack needs your help;S3;E13
+A True, True Friend;She's trying hard, doing what she can;S3;E13
+A True, True Friend;Would you try, just give it a chance;S3;E13
+A True, True Friend;You might find that you'll start to understand;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;A friend will be there to help them see;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;To see the light that shines from a true, true friend;S3;E13
+A True, True Friend;Pinkie Pie is in trouble;S3;E13
+A True, True Friend;We need to get there by her side;S3;E13
+A True, True Friend;We can try to do what we can now;S3;E13
+A True, True Friend;For together we can be her guide;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;A friend will be there to help them see;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;To see the light that shines from a true, true friend;S3;E13
+A True, True Friend;The townspeople need you;S3;E13
+A True, True Friend;They've been sad for a while;S3;E13
+A True, True Friend;They march around, face a-frown;S3;E13
+A True, True Friend;And never seem to smile;S3;E13
+A True, True Friend;And if you feel like helpin';S3;E13
+A True, True Friend;We'd appreciate a lot;S3;E13
+A True, True Friend;If you'd get up there and spread some cheer;S3;E13
+A True, True Friend;From here to Canterlot;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;A friend will be there to help them see;S3;E13
+A True, True Friend;A true, true friend helps a friend in need;S3;E13
+A True, True Friend;To see the light! ;S3;E13
+A True, True Friend;That shines! ;S3;E13
+A True, True Friend;From a true, true friend!;S3;E13
+Celestia's Ballad;You've come such a long, long way;S3;E13
+Celestia's Ballad;And I've watched you from that very first day;S3;E13
+Celestia's Ballad;To see how you might grow;S3;E13
+Celestia's Ballad;To see what you might do;S3;E13
+Celestia's Ballad;To see what you've been through;S3;E13
+Celestia's Ballad;And all the ways you've made me proud of you;S3;E13
+Celestia's Ballad;It's time now for a new change to come;S3;E13
+Celestia's Ballad;You've grown up and your new life has begun;S3;E13
+Celestia's Ballad;To go where you will go;S3;E13
+Celestia's Ballad;To see what you will see;S3;E13
+Celestia's Ballad;To find what you will be;S3;E13
+Celestia's Ballad;For it's time for you to fulfill your destiny;S3;E13
+Behold, Princess Twilight Sparkle;The Princess Twilight cometh;S3;E13
+Behold, Princess Twilight Sparkle;Behold, behold;S3;E13
+Behold, Princess Twilight Sparkle;A Princess here before us;S3;E13
+Behold, Princess Twilight Sparkle;Behold, behold, behold;S3;E13
+Behold, Princess Twilight Sparkle;Behold, behold ;S3;E13
+Behold, Princess Twilight Sparkle;The Princess Twilight cometh;S3;E13
+Behold, Princess Twilight Sparkle;Behold, behold ;S3;E13
+Behold, Princess Twilight Sparkle;The Princess is;S3;E13
+Behold, Princess Twilight Sparkle;The Princess is here!;S3;E13
+Life in Equestria;Life in Equestria shimmers;S3;E13
+Life in Equestria;Life in Equestria shines;S3;E13
+Life in Equestria;And I know for absolute certain;S3;E13
+Life in Equestria;That everything ;S3;E13
+Life in Equestria;Yes, everything ;S3;E13
+Life in Equestria;Yes, everything is certainly fine;S3;E13
+Life in Equestria;It’s fine;S3;E13
+########################### Season 4 ###########################
 SongName;We're the toughest little ponies in town;S4;E5
 SongName;Got the moves, got the mojo, no harder working ponies around;S4;E5
 SongName;We are a trio, work as a team;S4;E5
