@@ -25,6 +25,15 @@ public class TranscriptSongParser {
 		
 	}
 	
+	public static void initialise(TranscriptSongParser tsp) throws IOException {
+		/**
+		 * Call it only one time
+		 */
+		tsp.setListeQuotestoCheck(ParseEnglish());
+		writeEnglish(tsp.getListeQuotestoCheck());
+		
+	}
+	
 	public static List<Song> ParseEnglish() throws IOException {
 		
 		Pattern pattern = Pattern.compile("^*@.+?@$"); //Regex to get all Strings of type "{any text}@{Song lyric}@"
@@ -65,7 +74,7 @@ public class TranscriptSongParser {
 		writer.close();
 	}
 	
-public static List<Song> fillList() throws IOException {
+	public static List<Song> fillList() throws IOException {
 		
 		BufferedReader in = new BufferedReader(new FileReader("./textFiles/englishSongsWithName.txt"));
 		String line; String[] o;
@@ -91,10 +100,20 @@ public static List<Song> fillList() throws IOException {
 		return list;
 	}
 	
+	
+
 	public static void main(String[] args) throws IOException {
 		TranscriptSongParser tsp = new TranscriptSongParser();
-		tsp.setListeQuotestoCheck(ParseEnglish());
-		writeEnglish(tsp.getListeQuotestoCheck());
+		
+		/*
+		 * CALL IT ONLY ONE TIME !!!
+		 */
+					//initialise(tsp);
+		/*
+		 * CALL IT ONLY ONE TIME !!!
+		 */
+		
+		
 		tsp.setListeSongs(fillList());
 	}
 
