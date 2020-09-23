@@ -461,302 +461,322 @@ Pony Pokey;You do the Pony Pokey;S1;E26
 Pony Pokey;You do the Pony Pokey;S1;E26
 Pony Pokey;And that's what it's all about;S1;E26
 Pony Pokey;Yeah!;S1;E26
-SongName;Now, Rainbow, my dear, I cannot express my delight;S2;E7
-SongName;It's abundantly clear;S2;E7
-SongName;That somewhere out here;S2;E7
-SongName;Is the pet that will suit you just right;S2;E7
-SongName;I can't wait to get started, but first let me set a few rules;S2;E7
-SongName;It's of utmost importance;S2;E7
-SongName;The pet that I get;S2;E7
-SongName;Is something that's awesome and cool;S2;E7
-SongName;I need something real fast like a bullet to keep up with me;S2;E7
-SongName;Sure! How 'bout a bunny?;S2;E7
-SongName;They're cutesy and wootsie and quick as can be;S2;E7
-SongName;Cutesy? Wootsie? Have you even met me?;S2;E7
-SongName;Rainbow, have faith;S2;E7
-SongName;You see, I will bet you;S2;E7
-SongName;Somewhere in here is the pet that will get you;S2;E7
-SongName;I have so many wonderful choices for you to decide;S2;E7
-SongName;There are otters and seals;S2;E7
-SongName;With massive appeal;S2;E7
-SongName;Wait! There must be a pet here;S2;E7
-SongName;That will fit the ticket;S2;E7
-SongName;How 'bout a ladybug, or a cute cricket?;S2;E7
-SongName;I have plenty of wonderful creatures who soar in the sky;S2;E7
-SongName;Like a sweet hummingbird or a giant monarch butterfly;S2;E7
-SongName;I see. How 'bout an owl, or a wasp, or a toucan?;S2;E7
-SongName;There's so many wonderful creatures the likes of that;S2;E7
-SongName;There are falcons and eagles;S2;E7
-SongName;They are both quite regal;S2;E7
-SongName;Or perhaps what you need is a dark and mysterious bat?;S2;E7
-SongName;The bat would be awesome, but the wasp I'm digging too;S2;E7
-SongName;Do you have something in a yellow striped bat?;S2;E7
-SongName;What to do, what to do? ;S2;E7
-SongName;A prize! That's it! There's really just one way;S2;E7
-SongName;To find out which animal's best;S2;E7
-SongName;Hold a contest of speed, agility, and guts;S2;E7
-SongName;That will put each pet to the test;S2;E7
-SongName;Don't forget style, that should be considered;S2;E7
-SongName;Then we'll know for sure who's best of the litter;S2;E7
-SongName;The one who is awesomest cool;S2;E7
-SongName;Just like me;S2;E7
-SongName;Can't settle for less, 'cause I'm the best;S2;E7
-SongName;Who's the number one, greatest, perfectest pet;S2;E7
-SongName;May the games;S2;E7
-SongName;I'll be the toast of the town, the girl on the go;S2;E9
-SongName;I'm the type of pony every pony, every pony should know;S2;E9
-SongName;I'll be the one to watch, the girl in the flow;S2;E9
-SongName;I'm the type of pony every pony, every pony should know;S2;E9
-SongName;Becoming as popular as popular can be;S2;E9
-SongName;Making my mark, making my mark in high society;S2;E9
-SongName;I'm the belle of the ball, the star of the show, yeah;S2;E9
-SongName;I'm the type of pony every pony, every pony should know;S2;E9
-SongName;See how they hang on every word that I speak;S2;E9
-SongName;My approving glance is what they all seek;S2;E9
-SongName;I'm the creme de la creme, not just another Jane Doe;S2;E9
-SongName;I'm the type of pony every pony should know;S2;E9
-SongName;At home, at the opera, on a fancy yacht;S2;E9
-SongName;Becoming the talk, the talk of all of Canterlot;S2;E9
-SongName;I'm the creme de la creme, not just another Jane Doe, yeah;S2;E9
-SongName;I'm the type of pony every pony, every pony should know;S2;E9
-SongName;Because I'm the type of pony;S2;E9
-SongName;Yes, I'm the type of pony;S2;E9
-SongName;Yes, I'm the type of pony every pony should know;S2;E9
-SongName;The fire of friendship lives in our hearts;S2;E11
-SongName;As long as it burns, we cannot drift apart;S2;E11
-SongName;Though quarrels arise, their numbers are few;S2;E11
-SongName;Laughter and singing will see us through ;S2;E11
-SongName;We are a circle of pony friends;S2;E11
-SongName;A circle of friends we'll be to the very end;S2;E11
-SongName;Happy month-i-versary to you and you today!;S2;E13
-SongName; I-can't-believe-you're-already-a-month-old. Time-sure-flies-doesn't-it-wow. Seems-like-only yesterday-you-were-born.;S2;E13
-SongName;But now you're a month old today, hey!;S2;E13
-SongName;First you jiggle your tail! Oink oink oink!;S2;E13
-SongName;Then you wriggle your snout! Oink oink oink!;S2;E13
-SongName;Then you wiggle your rump! Oink oink oink!;S2;E13
-SongName;Then shout it out! Oink oink oink!;S2;E13
-SongName;Well, lookie what we got here, brother of mine, it's the same in every town;S2;E15
-SongName;Ponies with thirsty throats, dry tongues, and not a drop of cider to be found;S2;E15
-SongName;Maybe they're not aware that there's really no need for this teary despair;S2;E15
-SongName;That the key that they need to solve this sad cider shortage you and I will share;S2;E15
-SongName;Well you've got opportunity;S2;E15
-SongName;In this very community;S2;E15
-SongName;He's Flim;S2;E15
-SongName;He's Flam;S2;E15
-SongName;We're the world famous Flim Flam Brothers;S2;E15
-SongName;Traveling salesponies nonpareil;S2;E15
-SongName;Nonpareil, and that's exactly the reason why, you see;S2;E15
-SongName;No pony else in this whole place will give you such a chance to be where you need to be;S2;E15
-SongName;And that's a new world, with tons of cider;S2;E15
-SongName;Fresh squeezed and ready for drinking;S2;E15
-SongName;More cider than you could drink in all your days of thinking;S2;E15
-SongName;So take this opportunity;S2;E15
-SongName;In this very community;S2;E15
-SongName;He's Flim;S2;E15
-SongName;He's Flam;S2;E15
-SongName;We're the world famous Flim Flam Brothers;S2;E15
-SongName;Traveling salesponies;S2;E15
-SongName;Nonpareil;S2;E15
-SongName;I suppose by now you're wondering 'bout our peculiar mode of transport;S2;E15
-SongName;I say, our mode of locomotion;S2;E15
-SongName;And I suppose by now you're wondering, where is this promised cider?;S2;E15
-SongName;Any horse can make a claim and any pony can do the same;S2;E15
-SongName;But my brother and I have something most unique and superb;S2;E15
-SongName;Unseen at any time in this big new world;S2;E15
-SongName;And that's opportunity;S2;E15
-SongName;Folks, it's the one and only, the biggest and the best;S2;E15
-SongName;The unbelievable;S2;E15
-SongName;Unimpeachable;S2;E15
-SongName;Indispensable;S2;E15
-SongName;I-can't-believe-able;S2;E15
-SongName;Flim Flam Brothers' Super Speedy Cider Squeezy 6000;S2;E15
-SongName;Oh, we got opportunity;S2;E15
-SongName;In this very community;S2;E15
-SongName;Please, Flim, please, Flam, help us out of this jam;S2;E15
-SongName;With your Flim Flam Brothers' Super Speedy Cider Squeezy 6000;S2;E15
-SongName;Opportunity, in our community;S2;E15
-SongName;Ready, Flim?;S2;E15
-SongName;Ready, Flam?;S2;E15
-SongName;Let's bing bang zam!;S2;E15
-SongName;Cider, cider, cider, cider... ;S2;E15
-SongName;The fun begins!;S2;E15
-SongName;Feel free to take a sneak peek!;S2;E15
-SongName;Now wait, you fellers, hold it!;S2;E15
-SongName;You went and over-sold it!;S2;E15
-SongName;I guarantee that what you have there won't compare;S2;E15
-SongName;For the very most important ingredient;S2;E15
-SongName;Can't be added or done expedient;S2;E15
-SongName;And it's quality, friends, Apple Acres' quality and care!;S2;E15
-SongName;Well, Granny, I'm glad you brought that up, my dear, I say I'm glad you brought that up;S2;E15
-SongName;You see that we are very picky when it comes to cider if you'll kindly try a cup;S2;E15
-SongName;Yes, sir, yes, ma'am, this great machine lets just the very best;S2;E15
-SongName; So whaddaya say then, Apples?;S2;E15
-SongName; Care to step into the modern world;S2;E15
-SongName;And put the Super Speedy Cider Squeezy 6000 to the test?;S2;E15
-SongName;Cider, cider, cider, cider... ;S2;E15
-SongName;We're saying you've got;S2;E15
-SongName;Opportunity;S2;E15
-SongName;In this very community;S2;E15
-SongName;He's Flim, he's Flam;S2;E15
-SongName;We're the world famous Flim Flam Brothers;S2;E15
-SongName;Traveling salesponies nonpareil!;S2;E15
-SongName;Yeah!;S2;E15
-SongName;Cheerilee is sweet and kind,;S2;E17
-SongName;She's the best teacher we could hope for.;S2;E17
-SongName;The perfect stallion you and I must find;S2;E17
-SongName;One to really make her heart so-o-oar.;S2;E17
-SongName;But...;S2;E17
-SongName;This one's too young,;S2;E17
-SongName;This one's too old.;S2;E17
-SongName;He clearly has a terrible cold.;S2;E17
-SongName;This guy's too silly.;S2;E17
-SongName;He's way too uptight.;S2;E17
-SongName;Well nothing's wrong with this one,;S2;E17
-SongName;He seems alright...;S2;E17
-SongName;How 'bout this one?;S2;E17
-SongName;He's much too flashy.;S2;E17
-SongName;He might do!;S2;E17
-SongName;If he weren't so splashy!;S2;E17
-SongName;Too short.;S2;E17
-SongName;Too tall.;S2;E17
-SongName;Too clean.;S2;E17
-SongName;Too smelly.;S2;E17
-SongName;Too strangely obsessed with tubs of jelly.;S2;E17
-SongName;I don't think that we're mistaken,;S2;E17
-SongName;It seems all the good ones are taken.;S2;E17
-SongName;I really feel that at this rate,;S2;E17
-SongName;We'll never find the perfect date.;S2;E17
-SongName;Don't wanna quit and give up hope!;S2;E17
-SongName;Oh please, oh please oh please say—;S2;E17
-SongName;We did it girls,;S2;E17
-SongName;We've found the one!;S2;E17
-SongName;Who will send our teacher's heart aflutter!;S2;E17
-SongName;);S2;E18
-SongName;);S2;E18
-SongName;I'm gonna make you smile and I will brighten up your day;S2;E18
-SongName;);S2;E18
-SongName;);S2;E18
-SongName;'Cause cheering up my friends is just what Pinkie's here to do;S2;E18
-SongName;'Cause I love to make you smile, smile, smile;S2;E18
-SongName;Yes I do;S2;E18
-SongName;It fills my heart with sunshine all the while;S2;E18
-SongName;Yes it does;S2;E18
-SongName;'Cause all I really need's a smile, smile, smile;S2;E18
-SongName;From these happy friends of mine;S2;E18
-SongName;);S2;E18
-SongName;);S2;E18
-SongName;);S2;E18
-SongName;But if you're kind of worried;S2;E18
-SongName;And your face has made a frown;S2;E18
-SongName;I'll work real hard and do my best to turn that sad frown upside down;S2;E18
-SongName;'Cause I love to make you grin, grin, grin;S2;E18
-SongName;Yes I do;S2;E18
-SongName;Bust it out from ear to ear let it begin;S2;E18
-SongName;Just give me a joyful grin, grin, grin;S2;E18
-SongName;And you fill me with good cheer;S2;E18
-SongName;It's true some days are dark and lonely;S2;E18
-SongName;And maybe you feel sad;S2;E18
-SongName;But Pinkie will be there to show you that it isn't that bad;S2;E18
-SongName;There's one thing that makes me happy and makes my whole life worthwhile;S2;E18
-SongName;And that's when I talk to my friends and get them to smile;S2;E18
-SongName;I really am so happy;S2;E18
-SongName;Your smile fills me with glee;S2;E18
-SongName;I give a smile I get a smile;S2;E18
-SongName;And that's so special to me;S2;E18
-SongName;'Cause I love to see you beam, beam, beam;S2;E18
-SongName;Yes I do;S2;E18
-SongName;Tell me what more can I say to make you see;S2;E18
-SongName;That I do;S2;E18
-SongName;It makes me happy when you beam, beam, beam;S2;E18
-SongName;Yes it always makes my day;S2;E18
-SongName;Come on everypony smile, smile, smile;S2;E18
-SongName;Fill my heart up with sunshine, sunshine;S2;E18
-SongName;All I really need's a smile, smile, smile;S2;E18
-SongName;From these happy friends of mine;S2;E18
-SongName;Come on everypony smile, smile, smile;S2;E18
-SongName;Fill my heart up with sunshine, sunshine;S2;E18
-SongName;All I really need's a smile, smile, smile;S2;E18
-SongName;From these happy friends of mine;S2;E18
-SongName;Yes the perfect gift for me;S2;E18
-SongName;Is a smile as wide as a mile;S2;E18
-SongName;To make me happy as can be;S2;E18
-SongName;Come on everypony smile, smile, smile;S2;E18
-SongName;Fill my heart up with sunshine, sunshine;S2;E18
-SongName;All I really need's a smile, smile, smile;S2;E18
-SongName;From these happy friends of;S2;E18
-SongName;Smile, smile, smile, smile, smile;S2;E18
-SongName;Come on and smile;S2;E18
-SongName;Come on and smile;S2;E18
-SongName;You're a Cranky Doodle Donkey guy.;S2;E18
-SongName;A Cranky Doodle Donkey.;S2;E18
-SongName;I never met you but you're my new friend;S2;E18
-SongName;and I'm your best friend Pinkie Pie!;S2;E18
-SongName;Welcome welcome welcome;S2;E18
-SongName;A fine welcome to you;S2;E18
-SongName;Welcome welcome welcome;S2;E18
-SongName;I say how do you do?;S2;E18
-SongName;Welcome welcome welcome;S2;E18
-SongName;I say hip hip hurray;S2;E18
-SongName;Welcome welcome welcome;S2;E18
-SongName;To Ponyville today;S2;E18
-SongName;He had a Cranky Doodle sweetheart;S2;E18
-SongName;She's his cranky doodle joy;S2;E18
-SongName;I helped the Cranky Doodle boy, yeah!;S2;E18
-SongName;I helped the Cranky Doodle boy!;S2;E18
-SongName;Your big brother, best friend forever;S2;E25
-SongName;Like two peas in a pod, you did everything together;S2;E25
-SongName;And though he's, oh, so far away;S2;E25
-SongName;I hoped that he would stay;S2;E25
-SongName;My big brother best friend;S2;E25
-SongName;Forever...;S2;E25
-SongName;Forever...;S2;E25
-SongName;This day is going to be perfect;S2;E26
-SongName;The kind of day of which I've dreamed since I was small;S2;E26
-SongName;Everypony will gather 'round;S2;E26
-SongName;Say I look lovely in my gown;S2;E26
-SongName;What they don't know is that I have fooled them all!;S2;E26
-SongName;This day was going to be perfect;S2;E26
-SongName;The kind of day of which I've dreamed since I was small;S2;E26
-SongName;But instead of having cake;S2;E26
-SongName;With all my friends to celebrate;S2;E26
-SongName;My wedding bells, they may not ring for me at all…;S2;E26
-SongName;I could care less about the dress;S2;E26
-SongName;I won't partake in any cake;S2;E26
-SongName;Vows, well I'll be lying when I say;S2;E26
-SongName;That through any kind of weather;S2;E26
-SongName;I'll want us to be together;S2;E26
-SongName;The truth is I don't care for him at all;S2;E26
-SongName;No I do not love the groom;S2;E26
-SongName;In my heart there is no room;S2;E26
-SongName;But I still want him to be all mine;S2;E26
-SongName;We must escape before it's too late;S2;E26
-SongName;Find a way to save the day;S2;E26
-SongName;Hope, I'll be lying if I say;S2;E26
-SongName;"I don't fear that I may lose him;S2;E26
-SongName;To one who wants to use him;S2;E26
-SongName;Not care for, love, and cherish him each day";S2;E26
-SongName;For I oh so love the groom;S2;E26
-SongName;All my thoughts he does consume;S2;E26
-SongName;Oh, Shining Armor, I'll be there very soon;S2;E26
-SongName;Finally the moment has arrived;S2;E26
-SongName;For me to be one lucky bride;S2;E26
-SongName;Oh, the wedding we won't make;S2;E26
-SongName;He'll end up marrying a fake;S2;E26
-SongName;Shining Armor will be...;S2;E26
-SongName;Love is in bloom;S2;E26
-SongName;A beautiful bride, a handsome groom,;S2;E26
-SongName;Two hearts becoming one;S2;E26
-SongName;A bond that cannot be undone because;S2;E26
-SongName;Love is in bloom;S2;E26
-SongName;A beautiful bride, a handsome groom;S2;E26
-SongName;I said love is in bloom;S2;E26
-SongName;You're starting a life and making room;S2;E26
-SongName;For us ;S2;E26
-SongName;Love is in bloom;S2;E26
-SongName;A beautiful bride, a handsome groom;S2;E26
-SongName;I said love is in bloom;S2;E26
-SongName;You're starting a life and making room;S2;E26
-SongName;For us, ;S2;E26
+########################### Season 2 ###########################
+Find A Pet Song;Now, Rainbow, my dear, I cannot express my delight;S2;E7
+Find A Pet Song;It's abundantly clear;S2;E7
+Find A Pet Song;That somewhere out here;S2;E7
+Find A Pet Song;Is the pet that will suit you just right;S2;E7
+Find A Pet Song;I can't wait to get started, but first let me set a few rules;S2;E7
+Find A Pet Song;It's of utmost importance;S2;E7
+Find A Pet Song;The pet that I get;S2;E7
+Find A Pet Song;Is something that's awesome and cool;S2;E7
+Find A Pet Song;I need something real fast like a bullet to keep up with me;S2;E7
+Find A Pet Song;Sure! How 'bout a bunny?;S2;E7
+Find A Pet Song;They're cutesy and wootsie and quick as can be;S2;E7
+Find A Pet Song;Cutesy? Wootsie? Have you even met me?;S2;E7
+Find A Pet Song;Rainbow, have faith;S2;E7
+Find A Pet Song;You see, I will bet you;S2;E7
+Find A Pet Song;Somewhere in here is the pet that will get you;S2;E7
+Find A Pet Song;I have so many wonderful choices for you to decide;S2;E7
+Find A Pet Song;There are otters and seals;S2;E7
+Find A Pet Song;With massive appeal;S2;E7
+Find A Pet Song;Wait! There must be a pet here;S2;E7
+Find A Pet Song;That will fit the ticket;S2;E7
+Find A Pet Song;How 'bout a ladybug, or a cute cricket?;S2;E7
+Find A Pet Song;I have plenty of wonderful creatures who soar in the sky;S2;E7
+Find A Pet Song;Like a sweet hummingbird or a giant monarch butterfly;S2;E7
+Find A Pet Song;I see. How 'bout an owl, or a wasp, or a toucan?;S2;E7
+Find A Pet Song;There's so many wonderful creatures the likes of that;S2;E7
+Find A Pet Song;There are falcons and eagles;S2;E7
+Find A Pet Song;They are both quite regal;S2;E7
+Find A Pet Song;Or perhaps what you need is a dark and mysterious bat?;S2;E7
+Find A Pet Song;The bat would be awesome, but the wasp I'm digging too;S2;E7
+Find A Pet Song;Do you have something in a yellow striped bat?;S2;E7
+Find A Pet Song;What to do, what to do? ;S2;E7
+Find A Pet Song;A prize! That's it! There's really just one way;S2;E7
+Find A Pet Song;To find out which animal's best;S2;E7
+Find A Pet Song;Hold a contest of speed, agility, and guts;S2;E7
+Find A Pet Song;That will put each pet to the test;S2;E7
+Find A Pet Song;Don't forget style, that should be considered;S2;E7
+Find A Pet Song;Then we'll know for sure who's best of the litter;S2;E7
+Find A Pet Song;The one who is awesomest cool;S2;E7
+Find A Pet Song;Just like me;S2;E7
+Find A Pet Song;Can't settle for less, 'cause I'm the best;S2;E7
+Find A Pet Song;Who's the number one, greatest, perfectest pet;S2;E7
+Find A Pet Song;May the games begin !;S2;E7
+Find A Pet Song;And may the best pet win!;S2;E7
+Becoming Popular;I'll be the toast of the town, the girl on the go;S2;E9
+Becoming Popular;I'm the type of pony every pony, every pony should know;S2;E9
+Becoming Popular;I'll be the one to watch, the girl in the flow;S2;E9
+Becoming Popular;I'm the type of pony every pony, every pony should know;S2;E9
+Becoming Popular;Becoming as popular as popular can be;S2;E9
+Becoming Popular;Making my mark, making my mark in high society;S2;E9
+Becoming Popular;I'm the belle of the ball, the star of the show, yeah;S2;E9
+Becoming Popular;I'm the type of pony every pony, every pony should know;S2;E9
+Becoming Popular;See how they hang on every word that I speak;S2;E9
+Becoming Popular;My approving glance is what they all seek;S2;E9
+Becoming Popular;I'm the creme de la creme, not just another Jane Doe;S2;E9
+Becoming Popular;I'm the type of pony every pony should know;S2;E9
+Becoming Popular;At home, at the opera, on a fancy yacht;S2;E9
+Becoming Popular;Becoming the talk, the talk of all of Canterlot;S2;E9
+Becoming Popular;I'm the creme de la creme, not just another Jane Doe, yeah;S2;E9
+Becoming Popular;I'm the type of pony every pony, every pony should know;S2;E9
+Becoming Popular;Because I'm the type of pony;S2;E9
+Becoming Popular;Yes, I'm the type of pony;S2;E9
+Becoming Popular;Yes, I'm the type of pony every pony should know;S2;E9
+The Heart Carol;The fire of friendship lives in our hearts;S2;E11
+The Heart Carol;As long as it burns, we cannot drift apart;S2;E11
+The Heart Carol;Though quarrels arise, their numbers are few;S2;E11
+The Heart Carol;Laughter and singing will see us through ;S2;E11
+The Heart Carol;We are a circle of pony friends;S2;E11
+The Heart Carol;A circle of friends we'll be to the very end;S2;E11
+Happy Monthiversary;Happy month-i-versary to you and you today!;S2;E13
+Happy Monthiversary; I-can't-believe-you're-already-a-month-old. Time-sure-flies-doesn't-it-wow. Seems-like-only yesterday-you-were-born.;S2;E13
+Happy Monthiversary;But now you're a month old today, hey!;S2;E13
+Piggy Dance;First you jiggle your tail! Oink oink oink!;S2;E13
+Piggy Dance;Then you wriggle your snout! Oink oink oink!;S2;E13
+Piggy Dance;Then you wiggle your rump! Oink oink oink!;S2;E13
+Piggy Dance;Then shout it out! Oink oink oink!;S2;E13
+The Flim Flam Brothers;Well, lookie what we got here, brother of mine, it's the same in every town;S2;E15
+The Flim Flam Brothers;Ponies with thirsty throats, dry tongues, and not a drop of cider to be found;S2;E15
+The Flim Flam Brothers;Maybe they're not aware that there's really no need for this teary despair;S2;E15
+The Flim Flam Brothers;That the key that they need to solve this sad cider shortage you and I will share;S2;E15
+The Flim Flam Brothers;Well you've got opportunity;S2;E15
+The Flim Flam Brothers;In this very community;S2;E15
+The Flim Flam Brothers;He's Flim;S2;E15
+The Flim Flam Brothers;He's Flam;S2;E15
+The Flim Flam Brothers;We're the world famous Flim Flam Brothers;S2;E15
+The Flim Flam Brothers;Traveling salesponies nonpareil;S2;E15
+The Flim Flam Brothers;Nonpareil, and that's exactly the reason why, you see;S2;E15
+The Flim Flam Brothers;No pony else in this whole place will give you such a chance to be where you need to be;S2;E15
+The Flim Flam Brothers;And that's a new world, with tons of cider;S2;E15
+The Flim Flam Brothers;Fresh squeezed and ready for drinking;S2;E15
+The Flim Flam Brothers;More cider than you could drink in all your days of thinking;S2;E15
+The Flim Flam Brothers;So take this opportunity;S2;E15
+The Flim Flam Brothers;In this very community;S2;E15
+The Flim Flam Brothers;He's Flim;S2;E15
+The Flim Flam Brothers;He's Flam;S2;E15
+The Flim Flam Brothers;We're the world famous Flim Flam Brothers;S2;E15
+The Flim Flam Brothers;Traveling salesponies;S2;E15
+The Flim Flam Brothers;Nonpareil;S2;E15
+The Flim Flam Brothers;I suppose by now you're wondering 'bout our peculiar mode of transport;S2;E15
+The Flim Flam Brothers;I say, our mode of locomotion;S2;E15
+The Flim Flam Brothers;And I suppose by now you're wondering, where is this promised cider?;S2;E15
+The Flim Flam Brothers;Any horse can make a claim and any pony can do the same;S2;E15
+The Flim Flam Brothers;But my brother and I have something most unique and superb;S2;E15
+The Flim Flam Brothers;Unseen at any time in this big new world;S2;E15
+The Flim Flam Brothers;And that's opportunity;S2;E15
+The Flim Flam Brothers;Folks, it's the one and only, the biggest and the best;S2;E15
+The Flim Flam Brothers;The unbelievable;S2;E15
+The Flim Flam Brothers;Unimpeachable;S2;E15
+The Flim Flam Brothers;Indispensable;S2;E15
+The Flim Flam Brothers;I-can't-believe-able;S2;E15
+The Flim Flam Brothers;Flim Flam Brothers' Super Speedy Cider Squeezy 6000;S2;E15
+The Flim Flam Brothers;Oh, we got opportunity;S2;E15
+The Flim Flam Brothers;In this very community;S2;E15
+The Flim Flam Brothers;Please, Flim, please, Flam, help us out of this jam;S2;E15
+The Flim Flam Brothers;With your Flim Flam Brothers' Super Speedy Cider Squeezy 6000;S2;E15
+The Flim Flam Brothers;Opportunity, in our community;S2;E15
+The Flim Flam Brothers;Ready, Flim?;S2;E15
+The Flim Flam Brothers;Ready, Flam?;S2;E15
+The Flim Flam Brothers;Let's bing bang zam!;S2;E15
+The Flim Flam Brothers;Cider, cider, cider, cider... ;S2;E15
+The Flim Flam Brothers;The fun begins!;S2;E15
+The Flim Flam Brothers;Feel free to take a sneak peek!;S2;E15
+The Flim Flam Brothers;Now wait, you fellers, hold it!;S2;E15
+The Flim Flam Brothers;You went and over-sold it!;S2;E15
+The Flim Flam Brothers;I guarantee that what you have there won't compare;S2;E15
+The Flim Flam Brothers;For the very most important ingredient;S2;E15
+The Flim Flam Brothers;Can't be added or done expedient;S2;E15
+The Flim Flam Brothers;And it's quality, friends, Apple Acres' quality and care!;S2;E15
+The Flim Flam Brothers;Well, Granny, I'm glad you brought that up, my dear, I say I'm glad you brought that up;S2;E15
+The Flim Flam Brothers;You see that we are very picky when it comes to cider if you'll kindly try a cup;S2;E15
+The Flim Flam Brothers;Yes, sir, yes, ma'am, this great machine lets just the very best;S2;E15
+The Flim Flam Brothers; So whaddaya say then, Apples?;S2;E15
+The Flim Flam Brothers; Care to step into the modern world;S2;E15
+The Flim Flam Brothers;And put the Super Speedy Cider Squeezy 6000 to the test?;S2;E15
+The Flim Flam Brothers;Cider, cider, cider, cider... ;S2;E15
+The Flim Flam Brothers;We're saying you've got;S2;E15
+The Flim Flam Brothers;Opportunity;S2;E15
+The Flim Flam Brothers;In this very community;S2;E15
+The Flim Flam Brothers;He's Flim, he's Flam;S2;E15
+The Flim Flam Brothers;We're the world famous Flim Flam Brothers;S2;E15
+The Flim Flam Brothers;Traveling salesponies nonpareil!;S2;E15
+The Flim Flam Brothers;Yeah!;S2;E15
+The Perfect Stallion;Cheerilee is sweet and kind,;S2;E17
+The Perfect Stallion;She's the best teacher we could hope for.;S2;E17
+The Perfect Stallion;The perfect stallion you and I must find;S2;E17
+The Perfect Stallion;One to really make her heart so-o-oar.;S2;E17
+The Perfect Stallion;But...;S2;E17
+The Perfect Stallion;This one's too young,;S2;E17
+The Perfect Stallion;This one's too old.;S2;E17
+The Perfect Stallion;He clearly has a terrible cold.;S2;E17
+The Perfect Stallion;This guy's too silly.;S2;E17
+The Perfect Stallion;He's way too uptight.;S2;E17
+The Perfect Stallion;Well nothing's wrong with this one,;S2;E17
+The Perfect Stallion;He seems alright...;S2;E17
+The Perfect Stallion;How 'bout this one?;S2;E17
+The Perfect Stallion;He's much too flashy.;S2;E17
+The Perfect Stallion;He might do!;S2;E17
+The Perfect Stallion;If he weren't so splashy!;S2;E17
+The Perfect Stallion;Too short.;S2;E17
+The Perfect Stallion;Too tall.;S2;E17
+The Perfect Stallion;Too clean.;S2;E17
+The Perfect Stallion;Too smelly.;S2;E17
+The Perfect Stallion;Too strangely obsessed with tubs of jelly.;S2;E17
+The Perfect Stallion;I don't think that we're mistaken,;S2;E17
+The Perfect Stallion;It seems all the good ones are taken.;S2;E17
+The Perfect Stallion;I really feel that at this rate,;S2;E17
+The Perfect Stallion;We'll never find the perfect date.;S2;E17
+The Perfect Stallion;Don't wanna quit and give up hope!;S2;E17
+The Perfect Stallion;Oh please, oh please oh please say—;S2;E17
+The Perfect Stallion;We did it girls,;S2;E17
+The Perfect Stallion;We've found the one!;S2;E17
+The Perfect Stallion;Who will send our teacher's heart aflutter!;S2;E17
+Smile;My name is Pinkie Pie;S2;E18
+Smile;And I am here to say;S2;E18
+Smile;I'm gonna make you smile and I will brighten up your day;S2;E18
+Smile;It doesn't matter now;S2;E18
+Smile;If you are sad or blue;S2;E18
+Smile;'Cause cheering up my friends is just what Pinkie's here to do;S2;E18
+Smile;'Cause I love to make you smile, smile, smile;S2;E18
+Smile;Yes I do;S2;E18
+Smile;It fills my heart with sunshine all the while;S2;E18
+Smile;Yes it does;S2;E18
+Smile;'Cause all I really need's a smile, smile, smile;S2;E18
+Smile;From these happy friends of mine;S2;E18
+Smile;I like to see you grin;S2;E18
+Smile;I love to see you beam;S2;E18
+Smile;The corners of your mouth turned up is always Pinkie's dream;S2;E18
+Smile;But if you're kind of worried;S2;E18
+Smile;And your face has made a frown;S2;E18
+Smile;I'll work real hard and do my best to turn that sad frown upside down;S2;E18
+Smile;'Cause I love to make you grin, grin, grin;S2;E18
+Smile;Yes I do;S2;E18
+Smile;Bust it out from ear to ear let it begin;S2;E18
+Smile;Just give me a joyful grin, grin, grin;S2;E18
+Smile;And you fill me with good cheer;S2;E18
+Smile;It's true some days are dark and lonely;S2;E18
+Smile;And maybe you feel sad;S2;E18
+Smile;But Pinkie will be there to show you that it isn't that bad;S2;E18
+Smile;There's one thing that makes me happy and makes my whole life worthwhile;S2;E18
+Smile;And that's when I talk to my friends and get them to smile;S2;E18
+Smile;I really am so happy;S2;E18
+Smile;Your smile fills me with glee;S2;E18
+Smile;I give a smile I get a smile;S2;E18
+Smile;And that's so special to me;S2;E18
+Smile;'Cause I love to see you beam, beam, beam;S2;E18
+Smile;Yes I do;S2;E18
+Smile;Tell me what more can I say to make you see;S2;E18
+Smile;That I do;S2;E18
+Smile;It makes me happy when you beam, beam, beam;S2;E18
+Smile;Yes it always makes my day;S2;E18
+Smile;Come on everypony smile, smile, smile;S2;E18
+Smile;Fill my heart up with sunshine, sunshine;S2;E18
+Smile;All I really need's a smile, smile, smile;S2;E18
+Smile;From these happy friends of mine;S2;E18
+Smile;Come on everypony smile, smile, smile;S2;E18
+Smile;Fill my heart up with sunshine, sunshine;S2;E18
+Smile;All I really need's a smile, smile, smile;S2;E18
+Smile;From these happy friends of mine;S2;E18
+Smile;Yes the perfect gift for me;S2;E18
+Smile;Is a smile as wide as a mile;S2;E18
+Smile;To make me happy as can be;S2;E18
+Smile;Come on everypony smile, smile, smile;S2;E18
+Smile;Fill my heart up with sunshine, sunshine;S2;E18
+Smile;All I really need's a smile, smile, smile;S2;E18
+Smile;From these happy friends of;S2;E18
+Smile;Smile, smile, smile, smile, smile;S2;E18
+Smile;Come on and smile;S2;E18
+Smile;Come on and smile;S2;E18
+Cranky Doodle Donkey;You're a Cranky Doodle Donkey guy.;S2;E18
+Cranky Doodle Donkey;A Cranky Doodle Donkey.;S2;E18
+Cranky Doodle Donkey;I never met you but you're my new friend;S2;E18
+Cranky Doodle Donkey;and I'm your best friend Pinkie Pie!;S2;E18
+Welcome Song;Welcome welcome welcome;S2;E18
+Welcome Song;A fine welcome to you;S2;E18
+Welcome Song;Welcome welcome welcome;S2;E18
+Welcome Song;I say how do you do?;S2;E18
+Welcome Song;Welcome welcome welcome;S2;E18
+Welcome Song;I say hip hip hurray;S2;E18
+Welcome Song;Welcome welcome welcome;S2;E18
+Welcome Song;To Ponyville today;S2;E18
+Cranky Doodle Joy;He had a Cranky Doodle sweetheart;S2;E18
+Cranky Doodle Joy;She's his cranky doodle joy;S2;E18
+Cranky Doodle Joy;I helped the Cranky Doodle boy, yeah!;S2;E18
+Cranky Doodle Joy;I helped the Cranky Doodle boy!;S2;E18
+BBBFF;When I was just a filly, I found it rather silly;S2;E25
+BBBFF;To see how many other ponies I could meet;S2;E25
+BBBFF;I had my books to read, didn't know that I would ever need;S2;E25
+BBBFF;Other ponies to make my life complete;S2;E25
+BBBFF;But there was one colt that I cared for;S2;E25
+BBBFF;I knew he would be there for me;S2;E25
+BBBFF;My big brother, best friend forever!;S2;E25
+BBBFF;Like two peas in a pod, we did everything together;S2;E25
+BBBFF;He taught me how to fly a kite (Best friend forever!);S2;E25
+BBBFF;We never had a single fight (We did everything together!);S2;E25
+BBBFF;We shared our hopes, we shared our dreams;S2;E25
+BBBFF;I miss him more than I realized;S2;E25
+BBBFF;It seems...;S2;E25
+BBBFF;Your big brother, best friend forever;S2;E25
+BBBFF;Like two peas in a pod, you did everything together;S2;E25
+BBBFF;And though he's, oh, so far away;S2;E25
+BBBFF;I hoped that he would stay;S2;E25
+BBBFF;My big brother best friend;S2;E25
+BBBFF;Forever...;S2;E25
+BBBFF;Forever...;S2;E25
+BBBFF;He was my big brother, best friend;S2;E25
+BBBFF;Forever...;S2;E25
+BBBFF;And now, we'll never do anything;S2;E25
+BBBFF;Together...;S2;E25
+This day aria;This day is going to be perfect;S2;E26
+This day aria;The kind of day of which I've dreamed since I was small;S2;E26
+This day aria;Everypony will gather 'round;S2;E26
+This day aria;Say I look lovely in my gown;S2;E26
+This day aria;What they don't know is that I have fooled them all!;S2;E26
+This day aria;This day was going to be perfect;S2;E26
+This day aria;The kind of day of which I've dreamed since I was small;S2;E26
+This day aria;But instead of having cake;S2;E26
+This day aria;With all my friends to celebrate;S2;E26
+This day aria;My wedding bells, they may not ring for me at all…;S2;E26
+This day aria;I could care less about the dress;S2;E26
+This day aria;I won't partake in any cake;S2;E26
+This day aria;Vows, well I'll be lying when I say;S2;E26
+This day aria;That through any kind of weather;S2;E26
+This day aria;I'll want us to be together;S2;E26
+This day aria;The truth is I don't care for him at all;S2;E26
+This day aria;No I do not love the groom;S2;E26
+This day aria;In my heart there is no room;S2;E26
+This day aria;But I still want him to be all mine;S2;E26
+This day aria;We must escape before it's too late;S2;E26
+This day aria;Find a way to save the day;S2;E26
+This day aria;Hope, I'll be lying if I say;S2;E26
+This day aria;"I don't fear that I may lose him;S2;E26
+This day aria;To one who wants to use him;S2;E26
+This day aria;Not care for, love, and cherish him each day";S2;E26
+This day aria;For I oh so love the groom;S2;E26
+This day aria;All my thoughts he does consume;S2;E26
+This day aria;Oh, Shining Armor, I'll be there very soon;S2;E26
+This day aria;Finally the moment has arrived;S2;E26
+This day aria;For me to be one lucky bride;S2;E26
+This day aria;Oh, the wedding we won't make;S2;E26
+This day aria;He'll end up marrying a fake;S2;E26
+This day aria;Shining Armor will be... Mine, all Mine;S2;E26
+Love Is In Bloom;Love is in bloom;S2;E26
+Love Is In Bloom;A beautiful bride, a handsome groom,;S2;E26
+Love Is In Bloom;Two hearts becoming one;S2;E26
+Love Is In Bloom;A bond that cannot be undone because;S2;E26
+Love Is In Bloom;Love is in bloom;S2;E26
+Love Is In Bloom;A beautiful bride, a handsome groom;S2;E26
+Love Is In Bloom;I said love is in bloom;S2;E26
+Love Is In Bloom;You're starting a life and making room;S2;E26
+Love Is In Bloom;For us ;S2;E26
+Love Is In Bloom;Love is in bloom;S2;E26
+Love Is In Bloom;A beautiful bride, a handsome groom;S2;E26
+Love Is In Bloom;I said love is in bloom;S2;E26
+Love Is In Bloom;You're starting a life and making room;S2;E26
+Love Is In Bloom;For us, ;S2;E26
+########################### Season 3 ###########################
 SongName;I was prepared to do my best;S3;E1
 SongName;Thought I could handle any test;S3;E1
 SongName;For I can do so many tricks;S3;E1
