@@ -8,15 +8,11 @@ package textBlindTest;
 
 import java.io.FileReader;
 import java.util.List;
-import java.util.Random;
 import java.util.regex.Pattern;
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.io.UnsupportedEncodingException;
-//import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.regex.*;
 
@@ -47,18 +43,6 @@ public class TranscriptSongParser {
 			}
 			
 		}
-		
-		//System.out.println(listeQuotestoCheck.toString());
-		
-		/*
-		int i = (int)(Math.random()*listeQuotesChecked.size());
-		int max = i+5;
-		while(i < max) {
-			System.out.println(listeQuotesChecked.get(i).toString());
-			i++;
-		}
-		*/
-		
 		in.close();
 		return listeQuotesChecked;
 	}
@@ -74,7 +58,7 @@ public class TranscriptSongParser {
 		for (Song song : l) {
 			s = "SongName;" + song.getLyric() + ";S" + song.getSeason() + ";E" + song.getEpisode();
 			writer.println(s);
-			//System.out.println("Writing with format for lyric " + song.getLyric() + ".");
+			System.out.println("Writing with format for lyric " + song.getLyric() + ".");
 		}
 		
 		
