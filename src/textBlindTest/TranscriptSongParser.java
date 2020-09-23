@@ -21,13 +21,15 @@ import java.util.ArrayList;
 import java.util.regex.*;
 
 public class TranscriptSongParser {
-	private List<Song> listeQuotestoCheck = new ArrayList<Song>();
+	private List<Song> listeQuotestoCheck;
+	private List<Song> listeSongs;
 	
 	public TranscriptSongParser() {
 		this.setListeQuotestoCheck(new ArrayList<Song>());
+		
 	}
 	
-	public static List<Song> readEnglish() throws IOException {
+	public static List<Song> ParseEnglish() throws IOException {
 		
 		Pattern pattern = Pattern.compile("^*@.+?@$"); //Regex to get all Strings of type "{any text}@{Song lyric}@"
 		Matcher matcher;
@@ -72,17 +74,52 @@ public class TranscriptSongParser {
 		for (Song song : l) {
 			s = "SongName;" + song.getLyric() + ";S" + song.getSeason() + ";E" + song.getEpisode();
 			writer.println(s);
-			System.out.println("Writing with format for lyric " + song.getLyric() + ".");
+			//System.out.println("Writing with format for lyric " + song.getLyric() + ".");
 		}
 		
 		
 		writer.close();
 	}
 	
+public static List<Song> fillList() throws IOException {
+		
+		BufferedReader in = new BufferedReader(new FileReader("./textFiles/englishSongsWithName.txt"));
+		String line; String[] o;
+		List<Song> list = new ArrayList<Song>();
+		while ((line = in.readLine()) != null)
+		{
+			if(line.charAt(0) != '#') {
+				o = line.split(";");
+				//Song Name;Song Lyric; Season; Episode
+				list.add(new Song(o[0],"english",o[1], Integer.parseInt(o[2].substring(1)), Integer.parseInt(o[3].substring(1))));
+			}
+		}
+
+		int i = (int)(Math.random()*460);
+		int max = i+3;
+		while(i < max) {
+			System.out.println(list.get(i).toString());
+			i++;
+		}
+
+		
+		in.close();
+		return list;
+	}
+	
 	public static void main(String[] args) throws IOException {
 		TranscriptSongParser tsp = new TranscriptSongParser();
-		tsp.setListeQuotestoCheck(readEnglish());
+		tsp.setListeQuotestoCheck(ParseEnglish());
 		writeEnglish(tsp.getListeQuotestoCheck());
+		tsp.setListeSongs(fillList());
+	}
+
+	public List<Song> getListeSongs() {
+		return listeSongs;
+	}
+
+	public void setListeSongs(List<Song> listeSongs) {
+		this.listeSongs = listeSongs;
 	}
 
 	public List<Song> getListeQuotestoCheck() {
