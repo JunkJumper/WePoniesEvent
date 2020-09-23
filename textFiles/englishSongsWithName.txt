@@ -1,0 +1,2995 @@
+Laughter Song;When I was a little filly and the sun was going down...;S1;E2
+Laughter Song;The darkness and the shadows, they would always make me frown...;S1;E2
+Laughter Song;I'd hide under my pillow;S1;E2
+Laughter Song;From what I thought I saw;S1;E2
+Laughter Song;But Granny Pie said that wasn't the way;S1;E2
+Laughter Song;To deal with fears at all;S1;E2
+Laughter Song;She said, "Pinkie, you gotta stand up tall;S1;E2
+Laughter Song;Learn to face your fears;S1;E2
+Laughter Song;You'll see that they can't hurt you;S1;E2
+Laughter Song;Just laugh to make them disappear.";S1;E2
+Laughter Song;Ha! Ha! Ha!;S1;E2
+Laughter Song;So, giggle at the ghostly;S1;E2
+Laughter Song;Guffaw at the grossly;S1;E2
+Laughter Song;Crack up at the creepy;S1;E2
+Laughter Song;Whoop it up with the weepy;S1;E2
+Laughter Song;Chortle at the kooky;S1;E2
+Laughter Song;Snortle at the spooky;S1;E2
+Laughter Song;And tell that big dumb scary face to take a hike and leave you alone and if he thinks he can scare you then he's got another thing coming and the very idea of such a thing just makes you wanna... hahahaha... heh...;S1;E2
+Laughter Song;Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauuuugh!;S1;E2
+SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
+SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
+SongName;Hip hip;S1;E3
+SongName;Hooray!;S1;E3
+SongName;It's the best place for me;S1;E3
+SongName;For Pinkie...;S1;E3
+SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
+SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
+SongName;'Cause it's the most galarrific superly-terrific gala ever;S1;E3
+SongName;In the whole galaxy;S1;E3
+SongName;Wheee!!;S1;E3
+SongName;Twilight is my bestest friend;S1;E3
+SongName;Whoopie, whoopie!;S1;E3
+SongName;She's the cutest, smartest, all around best pony, pony!;S1;E3
+SongName;I bet if I throw a super-duper fun party, party!;S1;E3
+SongName;She'll give her extra ticket to the Gala to me!;S1;E3
+SongName;Junior Speedsters are our lives,;S1;E5
+SongName;Sky-bound soars and daring dives;S1;E5
+SongName;Junior Speedsters, it's our quest,;S1;E5
+SongName;To someday be the very best!;S1;E5
+SongName;It's not very far;S1;E7
+SongName;Just move your little rump;S1;E7
+SongName;You can make it if you try with a hop, skip and jump;S1;E7
+SongName;A hop, skip and jump,;S1;E7
+SongName;Just move your little rump,;S1;E7
+SongName;A hop, skip and jump,;S1;E7
+SongName;A hop, skip and jump,;S1;E7
+SongName;A hop, skip and jump,;S1;E7
+SongName;A hop skip and jump,;S1;E7
+SongName;A hop skip and jump!;S1;E7
+SongName;She's an evil enchantress;S1;E9
+SongName;She does evil dances;S1;E9
+SongName;And if you look deep in her eyes;S1;E9
+SongName;She'll put you in trances;S1;E9
+SongName;Then what will she do?;S1;E9
+SongName;She'll mix up an evil brew;S1;E9
+SongName;Then she'll gobble you up;S1;E9
+SongName;In a big tasty stew;S1;E9
+SongName;Three months of winter coolness;S1;E11
+SongName;And awesome holidays;S1;E11
+SongName;We've kept our hoofsies warm at home;S1;E11
+SongName;Time off from work to play;S1;E11
+SongName;But the food we've stored is runnin' out;S1;E11
+SongName;And we can't grow in this cold;S1;E11
+SongName;And even though I love my boots;S1;E11
+SongName;This fashion's getting old;S1;E11
+SongName;The time has come to welcome spring;S1;E11
+SongName;And all things warm and green;S1;E11
+SongName;But it's also time to say goodbye;S1;E11
+SongName;It's winter we must clean;S1;E11
+SongName;How can I help? I'm new, you see;S1;E11
+SongName;What does everypony do?;S1;E11
+SongName;How do I fit in without magic?;S1;E11
+SongName;I haven't got a clue!;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;Let's finish our holiday cheer;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring–;S1;E11
+SongName;–is here!;S1;E11
+SongName;'Cause tomorrow spring is here!;S1;E11
+SongName;Bringing home the southern birds;S1;E11
+SongName;A Pegasus' job begins;S1;E11
+SongName;And clearing all the gloomy skies;S1;E11
+SongName;To let the sunshine in;S1;E11
+SongName;We move the clouds;S1;E11
+SongName;And we melt the white snow;S1;E11
+SongName;When the sun comes up;S1;E11
+SongName;Its warmth and beauty will glow!;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;Let's finish our holiday cheer;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;'Cause tomorrow spring is here!;S1;E11
+SongName;Little critters hibernate;S1;E11
+SongName;Under the snow and ice;S1;E11
+SongName;We wake up all their sleepy heads;S1;E11
+SongName;So quietly and nice;S1;E11
+SongName;We help them gather up their food;S1;E11
+SongName;Fix their homes below;S1;E11
+SongName;We welcome back the southern birds;S1;E11
+SongName;So their families can grow!;S1;E11
+SongName; Winter, winter);S1;E11
+SongName;Let's finish our holiday cheer;S1;E11
+SongName; Winter, winter);S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName; Winter, winter);S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;'Cause tomorrow spring is here!;S1;E11
+SongName;No easy task to clear the ground;S1;E11
+SongName;Plant our tiny seeds;S1;E11
+SongName;With proper care and sunshine;S1;E11
+SongName;Everyone it feeds;S1;E11
+SongName;Apples, carrots, celery stalks;S1;E11
+SongName;Colorful flowers too;S1;E11
+SongName;We must work so very hard;S1;E11
+SongName;It's just so much to do!;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;Let's finish our holiday cheer;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;'Cause tomorrow spring is here!;S1;E11
+SongName;Now that I know what they all do;S1;E11
+SongName;I have to find my place;S1;E11
+SongName;And help with all of my heart;S1;E11
+SongName;Tough task ahead I face;S1;E11
+SongName;How will I do without my magic;S1;E11
+SongName;Help the Earth pony way;S1;E11
+SongName;I wanna belong so I must;S1;E11
+SongName;Do my best today,;S1;E11
+SongName;Do my best today!;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;Let's finish our holiday cheer;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;'Cause tomorrow spring is here;S1;E11
+SongName;'Cause tomorrow spring is here!;S1;E11
+SongName;All you have to do is take a cup of flour!;S1;E12
+SongName;Add it to the mix!;S1;E12
+SongName;Now just take a little something sweet, not sour!;S1;E12
+SongName;A bit of salt, just a pinch!;S1;E12
+SongName;Baking these treats is such a cinch!;S1;E12
+SongName;Add a teaspoon of vanilla!;S1;E12
+SongName;Add a little more, and you count to four,;S1;E12
+SongName;And you never get your fill of...;S1;E12
+SongName;Cupcakes! So sweet and tasty!;S1;E12
+SongName;Cupcakes! Don't be too hasty!;S1;E12
+SongName;Cupcakes! Cupcakes, cupcakes, CUPCAKES!;S1;E12
+SongName;Thread by thread, stitching it together;S1;E14
+SongName;Twilight's dress, cutting out the pattern snip by snip;S1;E14
+SongName;Making sure the fabric folds nicely;S1;E14
+SongName; hip;S1;E14
+SongName;Always gotta keep in mind my pacing;S1;E14
+SongName;Making sure the clothes' correctly facing;S1;E14
+SongName;I'm stitching Twilight's dress;S1;E14
+SongName;Yard by yard, fussing on the details;S1;E14
+SongName;Jewel neckline, don't you know a stitch in time saves nine?;S1;E14
+SongName;Make her something perfect to inspire;S1;E14
+SongName;Even though she hates formal attire;S1;E14
+SongName;Gotta mind those intimate details;S1;E14
+SongName;Even though she's more concerned with sales;S1;E14
+SongName;It's Applejack's new dress;S1;E14
+SongName;Dressmaking's easy, for Pinkie Pie something pink;S1;E14
+SongName;Fluttershy something breezy;S1;E14
+SongName;Blend color and form,;S1;E14
+SongName; Do you think it looks cheesy?;S1;E14
+SongName;Something brash, perhaps quite fetching;S1;E14
+SongName;Hook and eye, couldn't you just simply die?;S1;E14
+SongName;Making sure it fits forelock and crest;S1;E14
+SongName;Don't forget some magic in the dress;S1;E14
+SongName;Even though it rides high on the flank;S1;E14
+SongName;Rainbow won't look like a tank;S1;E14
+SongName;I'm stitching Rainbow's dress;S1;E14
+SongName;Piece by piece, snip by snip;S1;E14
+SongName;Croup, dock, haunch, shoulders, hip;S1;E14
+SongName;Thread by thread, primmed and pressed;S1;E14
+SongName;Yard by yard, never stressed;S1;E14
+SongName;And that's the art of the dress!;S1;E14
+SongName;Stitch by stitch, stitching it together;S1;E14
+SongName;Deadline looms, don't you know the client's always right?;S1;E14
+SongName;Even if my fabric choice was perfect;S1;E14
+SongName;Gotta get them all done by tonight;S1;E14
+SongName;Pinkie Pie, that color's too obtrusive;S1;E14
+SongName;Wait until you see it in the light;S1;E14
+SongName;I'm sewing them together!;S1;E14
+SongName;Hour by hour, one more change;S1;E14
+SongName;I'm sewing them together, take great pains;S1;E14
+SongName;Fluttershy, you're putting me in a bind;S1;E14
+SongName;Rainbow Dash, what is on your mind?;S1;E14
+SongName;Oh my gosh, there's simply not much time;S1;E14
+SongName;Don't forget, Applejack's duds must shine;S1;E14
+SongName;Dressmaking's easy, every customer's call;S1;E14
+SongName;Brings a whole new revision;S1;E14
+SongName;Have to pick up the pace, still hold to my vision;S1;E14
+SongName;All we ever want is indecision;S1;E14
+SongName;All we really like is what we know;S1;E14
+SongName;Gotta balance style with adherence;S1;E14
+SongName;Making sure we make a good appearance;S1;E14
+SongName;Even if you simply have to fudge it;S1;E14
+SongName;Make sure that it stays within our budget;S1;E14
+SongName;Got to overcome intimidation;S1;E14
+SongName;Remember, it's all in the presentation!;S1;E14
+SongName;Piece by piece, snip by snip;S1;E14
+SongName;Croup, dock, haunch, shoulders, hip;S1;E14
+SongName;Bolt by bolt, primmed and pressed;S1;E14
+SongName;Yard by yard, always stressed;S1;E14
+SongName;And that's the art of the dress!;S1;E14
+SongName;Hush now, quiet now;S1;E17
+SongName;It's time to lay your sleepy head;S1;E17
+SongName;Hush now, quiet now;S1;E17
+SongName;It's time to go to bed;S1;E17
+SongName;Hush now! Quiet now!;S1;E17
+SongName;It's time to lay your sleepy head!;S1;E17
+SongName;Said hush now! Quiet now!;S1;E17
+SongName;It's time to go to bed!;S1;E17
+SongName;Driftin'  off to sleep!;S1;E17
+SongName;Exciting day behind you!;S1;E17
+SongName;Driftin'  off to sleep!;S1;E17
+SongName;Let the joy of dream land find you!;S1;E17
+SongName;Hush now! Quiet now!;S1;E17
+SongName;Lay your sleepy head!;S1;E17
+SongName;Said hush now! Quiet now!;S1;E17
+SongName;!;S1;E17
+SongName;Ow!;S1;E17
+SongName;We are the Cutie Mark Crusaders... ;S1;E18
+SongName;...Never stop the journey... ;S1;E18
+SongName;They all say that you will get your mark;S1;E18
+SongName;When the time is really right;S1;E18
+SongName;And you know just what you're supposed to do;S1;E18
+SongName; And your talent comes to light!;S1;E18
+SongName;Look, here, are three little ponies,;S1;E18
+SongName;Ready to sing for this crowd,;S1;E18
+SongName;Listen up, 'cause here's our story;S1;E18
+SongName;I'm gonna sing it;S1;E18
+SongName;Very loud!;S1;E18
+SongName;When you're a younger pony;S1;E18
+SongName;And your flank is very bare;S1;E18
+SongName;Feels like the sun will never come;S1;E18
+SongName;When your cutie mark's not there;S1;E18
+SongName;So the three of us will fight the fight;S1;E18
+SongName;There is nothing that we fear;S1;E18
+SongName;We'll have to figure out what we'll do next;S1;E18
+SongName;'Til our cutie marks are here!;S1;E18
+SongName;We are the Cutie Mark Crusaders;S1;E18
+SongName;On a quest to find out who we are;S1;E18
+SongName;And we will never stop the journey;S1;E18
+SongName;Not until we have our cutie marks;S1;E18
+SongName;They all say that you'll get your mark;S1;E18
+SongName;When the time is really right;S1;E18
+SongName;And you know just what you're supposed to do;S1;E18
+SongName;And your talent comes to light;S1;E18
+SongName;But it's not as easy as it sounds;S1;E18
+SongName;And that waiting's hard to do;S1;E18
+SongName;So we test our talents everywhere;S1;E18
+SongName;Until our face is blue;S1;E18
+SongName;We are the Cutie Mark Crusaders;S1;E18
+SongName;On a quest to find out who we are;S1;E18
+SongName;And we will never stop the journey;S1;E18
+SongName;Not until we have our cutie marks;S1;E18
+SongName;We are the Cutie Mark Crusaders;S1;E18
+SongName;On a quest to find out who we are;S1;E18
+SongName;And we will never stop the journey;S1;E18
+SongName;Not until we have our cutie marks!;S1;E18
+SongName;We may be divided;S1;E21
+SongName;But of you all, I beg;S1;E21
+SongName;To remember we're all hoofed;S1;E21
+SongName;At the end of each leg;S1;E21
+SongName;No matter what the issue;S1;E21
+SongName;Come from wherever you please;S1;E21
+SongName;All this fighting gets you nothing;S1;E21
+SongName;But hoof-and-mouth disease;S1;E21
+SongName;Arguing's not the way;S1;E21
+SongName;Hey, come out and play!;S1;E21
+SongName;It's a shiny, new day;S1;E21
+SongName;So, what do you say?;S1;E21
+SongName;You gotta share;S1;E21
+SongName;You gotta care;S1;E21
+SongName;It's the right thing to do;S1;E21
+SongName;You gotta share;S1;E21
+SongName;You gotta care;S1;E21
+SongName;And there'll always be a way through;S1;E21
+SongName;Both our diets, I should mention;S1;E21
+SongName;Are completely vegetarian;S1;E21
+SongName;We all eat hay and oats;S1;E21
+SongName;Why be at each other's throat?;S1;E21
+SongName;You gotta share;S1;E21
+SongName;You gotta care;S1;E21
+SongName;It's the right thing to do;S1;E21
+SongName;And there'll always be a way;S1;E21
+SongName;Throoooough!;S1;E21
+SongName;–what do you say?;S1;E21
+SongName;You gotta share;S1;E21
+SongName;You gotta care;S1;E21
+SongName;It's the right thing to do;S1;E21
+SongName;What is this place;S1;E23
+SongName;Filled with so many wonders?;S1;E23
+SongName;Casting its spell;S1;E23
+SongName;That I am now under;S1;E23
+SongName;Squirrels in the trees;S1;E23
+SongName;And the cute little bunnies;S1;E23
+SongName;Birds flying free;S1;E23
+SongName;And bees with their honey;S1;E23
+SongName;Hooooonneeeeeeey!;S1;E23
+SongName;Oooh, what a magical place;S1;E23
+SongName;And I owe it all to the Pegasus race;S1;E23
+SongName;If I knew the ground had so much up its sleeve ;S1;E23
+SongName;I'd have come here sooner, and never leave;S1;E23
+SongName;Yes, I love ev-er-ythiiiiing!;S1;E23
+SongName;This is your singing telegram;S1;E25
+SongName;I hope it finds you well;S1;E25
+SongName;You're invited to a party;S1;E25
+SongName;'Cause we think you're really swell;S1;E25
+SongName;Gummy's turning one year old;S1;E25
+SongName;So help us celebrate;S1;E25
+SongName;The cake will be delicious;S1;E25
+SongName;The festivities first-rate;S1;E25
+SongName;There will be games and dancing;S1;E25
+SongName;Bob for apples, cut a rug ;S1;E25
+SongName;And when the party's over;S1;E25
+SongName;We'll gather 'round for a group hug;S1;E25
+SongName;No need to bring a gift;S1;E25
+SongName;Being there will be enough;S1;E25
+SongName;Birthdays mean having fun with friends;S1;E25
+SongName;Not getting lots of stuff;S1;E25
+SongName;It won't be the same without you;S1;E25
+SongName;So we hope that you say yes;S1;E25
+SongName;So, please, oh please R.S.V.P.;S1;E25
+SongName;And come, and be our guest!;S1;E25
+SongName;At the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;In the garden;S1;E26
+SongName;I'm going to see them all;S1;E26
+SongName;All the creatures;S1;E26
+SongName;I'll befriend them at the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;All the birdies;S1;E26
+SongName;And the critters;S1;E26
+SongName;They will love me big and small;S1;E26
+SongName;We'll become good friends forever;S1;E26
+SongName;Right here at the Gala!;S1;E26
+SongName;All our dreams will come true;S1;E26
+SongName;Right here at the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;At the Gala ;S1;E26
+SongName;I will sell them ;S1;E26
+SongName;All my appletastic treats ;S1;E26
+SongName;Hungry ponies ;S1;E26
+SongName;They will buy them ;S1;E26
+SongName;Caramel apples, apple sweets ;S1;E26
+SongName;And I'll earn a lot of money;S1;E26
+SongName;for the Apple family!;S1;E26
+SongName;All our dreams and our hopes from now until hereafter;S1;E26
+SongName;All that we've been wishing for will happen at the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;All the royals;S1;E26
+SongName;They will meet fair Rarity;S1;E26
+SongName;They will see I'm just as regal at the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;I will find him;S1;E26
+SongName;My Prince Charming;S1;E26
+SongName;And how gallant he will be;S1;E26
+SongName;He will treat me like a lady;S1;E26
+SongName;Tonight at the Gala!;S1;E26
+SongName;This is what we've waited for to have the best night ever;S1;E26
+SongName;Each of us will live our dreams;S1;E26
+SongName;Tonight at the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;Been dreamin';S1;E26
+SongName;I've been waitin';S1;E26
+SongName;To fly with those great ponies;S1;E26
+SongName;The Wonderbolts, their daring tricks;S1;E26
+SongName;Spinning 'round and having kicks;S1;E26
+SongName;Perform for crowds of thousands;S1;E26
+SongName;They'll shower us with diamonds;S1;E26
+SongName;The Wonderbolts will see me right here at the Gala!;S1;E26
+SongName;All we've longed for;S1;E26
+SongName;All we've dreamed;S1;E26
+SongName;Our happy ever after;S1;E26
+SongName;Finally will all come true;S1;E26
+SongName;Right here at the Grand Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;I am here at the Grand Gala;S1;E26
+SongName;For it is the best party;S1;E26
+SongName;But the one thing it was missing was a pony named Pinkie;S1;E26
+SongName;For I am the best at parties, all the ponies will agree;S1;E26
+SongName;Ponies playing;S1;E26
+SongName;Ponies dancing;S1;E26
+SongName;With me at the Grand Gala!;S1;E26
+SongName;Happiness and laughter at the Gala;S1;E26
+SongName;At the Gala;S1;E26
+SongName;At the Gala ;S1;E26
+SongName;With the Princess ;S1;E26
+SongName;Is where I'm going to be ;S1;E26
+SongName;We will talk all about magic and what I've learned and seen ;S1;E26
+SongName;It is going to be so special;S1;E26
+SongName;);S1;E26
+SongName;Into the Gala we must go;S1;E26
+SongName;We're ready now, we're all aglow;S1;E26
+SongName;Into the Gala, let's go in and have the best night ever;S1;E26
+SongName;Into the Gala, now's the time;S1;E26
+SongName;We're ready and we look divine!;S1;E26
+SongName;Into the Gala;S1;E26
+SongName;Meet new friends;S1;E26
+SongName;Into the Gala;S1;E26
+SongName;Sell some apples;S1;E26
+SongName;Into the Gala;S1;E26
+SongName;Find my Prince;S1;E26
+SongName;Prove I'm great;S1;E26
+SongName;As a Wonderbolt is;S1;E26
+SongName;Into the Gala;S1;E26
+SongName;Into the Gala;S1;E26
+SongName;At the Gala!;S1;E26
+SongName;I'm at the Grand Galloping Gala,;S1;E26
+SongName;I'm at the Grand Galloping Gala,;S1;E26
+SongName;I'm at the Grand Galloping Gala,;S1;E26
+SongName;It's all I ever dreamed.;S1;E26
+SongName;It's all I ever dreamed, woo hoo!;S1;E26
+SongName;It's all I ever dreamed, yippee!;S1;E26
+SongName;I'm at the Grand Galloping GalaaaaaaaaaaAAAAAAAAAAAA!;S1;E26
+SongName;It's all I've ever... dreamed?;S1;E26
+SongName;You reach your right hoof in;S1;E26
+SongName;You reach your right hoof out;S1;E26
+SongName;You reach your right hoof in;S1;E26
+SongName;And you shake it all about;S1;E26
+SongName;You do the Pony Pokey meeting lots of folks with clout;S1;E26
+SongName;That's what I'm talking about;S1;E26
+SongName;You step your left hoof in;S1;E26
+SongName;You pull it right back out;S1;E26
+SongName;You step your left hoof in;S1;E26
+SongName;But you better help him out;S1;E26
+SongName;You do the Pony Pokey but should find a different route;S1;E26
+SongName;That's what it's all about;S1;E26
+SongName;You kick your back left in;S1;E26
+SongName;You pull your back left out;S1;E26
+SongName;You reach your back left in;S1;E26
+SongName;Just be brave and have no doubt;S1;E26
+SongName;You do the Pony Pokey feeling like you're gonna pout;S1;E26
+SongName;That's what I'm singing about;S1;E26
+SongName;You tilt your head in;S1;E26
+SongName;You tilt your head out;S1;E26
+SongName;You tilt your head in;S1;E26
+SongName;Then you shake it all about;S1;E26
+SongName;You do the Pony Pokey even though your date's a lout;S1;E26
+SongName;You're better off without;S1;E26
+SongName;You stomp your whole self in;S1;E26
+SongName;You stomp your whole self out;S1;E26
+SongName;You stomp your whole self in;S1;E26
+SongName;And you stomp yourself about;S1;E26
+SongName;You do the Pony Pokey and you give a little shout-;S1;E26
+SongName;That's what I'm talking about;S1;E26
+SongName;You do the Pony Pokey;S1;E26
+SongName;You do the Pony Pokey;S1;E26
+SongName;You do the Pony Pokey;S1;E26
+SongName;And that's what it's all about;S1;E26
+SongName;Yeah!;S1;E26
+SongName;Now, Rainbow, my dear, I cannot express my delight;S2;E7
+SongName;It's abundantly clear;S2;E7
+SongName;That somewhere out here;S2;E7
+SongName;Is the pet that will suit you just right;S2;E7
+SongName;I can't wait to get started, but first let me set a few rules;S2;E7
+SongName;It's of utmost importance;S2;E7
+SongName;The pet that I get;S2;E7
+SongName;Is something that's awesome and cool;S2;E7
+SongName;I need something real fast like a bullet to keep up with me;S2;E7
+SongName;Sure! How 'bout a bunny?;S2;E7
+SongName;They're cutesy and wootsie and quick as can be;S2;E7
+SongName;Cutesy? Wootsie? Have you even met me?;S2;E7
+SongName;Rainbow, have faith;S2;E7
+SongName;You see, I will bet you;S2;E7
+SongName;Somewhere in here is the pet that will get you;S2;E7
+SongName;I have so many wonderful choices for you to decide;S2;E7
+SongName;There are otters and seals;S2;E7
+SongName;With massive appeal;S2;E7
+SongName;Wait! There must be a pet here;S2;E7
+SongName;That will fit the ticket;S2;E7
+SongName;How 'bout a ladybug, or a cute cricket?;S2;E7
+SongName;I have plenty of wonderful creatures who soar in the sky;S2;E7
+SongName;Like a sweet hummingbird or a giant monarch butterfly;S2;E7
+SongName;I see. How 'bout an owl, or a wasp, or a toucan?;S2;E7
+SongName;There's so many wonderful creatures the likes of that;S2;E7
+SongName;There are falcons and eagles;S2;E7
+SongName;They are both quite regal;S2;E7
+SongName;Or perhaps what you need is a dark and mysterious bat?;S2;E7
+SongName;The bat would be awesome, but the wasp I'm digging too;S2;E7
+SongName;Do you have something in a yellow striped bat?;S2;E7
+SongName;What to do, what to do? ;S2;E7
+SongName;A prize! That's it! There's really just one way;S2;E7
+SongName;To find out which animal's best;S2;E7
+SongName;Hold a contest of speed, agility, and guts;S2;E7
+SongName;That will put each pet to the test;S2;E7
+SongName;Don't forget style, that should be considered;S2;E7
+SongName;Then we'll know for sure who's best of the litter;S2;E7
+SongName;The one who is awesomest cool;S2;E7
+SongName;Just like me;S2;E7
+SongName;Can't settle for less, 'cause I'm the best;S2;E7
+SongName;Who's the number one, greatest, perfectest pet;S2;E7
+SongName;May the games;S2;E7
+SongName;I'll be the toast of the town, the girl on the go;S2;E9
+SongName;I'm the type of pony every pony, every pony should know;S2;E9
+SongName;I'll be the one to watch, the girl in the flow;S2;E9
+SongName;I'm the type of pony every pony, every pony should know;S2;E9
+SongName;Becoming as popular as popular can be;S2;E9
+SongName;Making my mark, making my mark in high society;S2;E9
+SongName;I'm the belle of the ball, the star of the show, yeah;S2;E9
+SongName;I'm the type of pony every pony, every pony should know;S2;E9
+SongName;See how they hang on every word that I speak;S2;E9
+SongName;My approving glance is what they all seek;S2;E9
+SongName;I'm the creme de la creme, not just another Jane Doe;S2;E9
+SongName;I'm the type of pony every pony should know;S2;E9
+SongName;At home, at the opera, on a fancy yacht;S2;E9
+SongName;Becoming the talk, the talk of all of Canterlot;S2;E9
+SongName;I'm the creme de la creme, not just another Jane Doe, yeah;S2;E9
+SongName;I'm the type of pony every pony, every pony should know;S2;E9
+SongName;Because I'm the type of pony;S2;E9
+SongName;Yes, I'm the type of pony;S2;E9
+SongName;Yes, I'm the type of pony every pony should know;S2;E9
+SongName;The fire of friendship lives in our hearts;S2;E11
+SongName;As long as it burns, we cannot drift apart;S2;E11
+SongName;Though quarrels arise, their numbers are few;S2;E11
+SongName;Laughter and singing will see us through ;S2;E11
+SongName;We are a circle of pony friends;S2;E11
+SongName;A circle of friends we'll be to the very end;S2;E11
+SongName;Happy month-i-versary to you and you today!;S2;E13
+SongName; I-can't-believe-you're-already-a-month-old. Time-sure-flies-doesn't-it-wow. Seems-like-only yesterday-you-were-born.;S2;E13
+SongName;But now you're a month old today, hey!;S2;E13
+SongName;First you jiggle your tail! Oink oink oink!;S2;E13
+SongName;Then you wriggle your snout! Oink oink oink!;S2;E13
+SongName;Then you wiggle your rump! Oink oink oink!;S2;E13
+SongName;Then shout it out! Oink oink oink!;S2;E13
+SongName;Well, lookie what we got here, brother of mine, it's the same in every town;S2;E15
+SongName;Ponies with thirsty throats, dry tongues, and not a drop of cider to be found;S2;E15
+SongName;Maybe they're not aware that there's really no need for this teary despair;S2;E15
+SongName;That the key that they need to solve this sad cider shortage you and I will share;S2;E15
+SongName;Well you've got opportunity;S2;E15
+SongName;In this very community;S2;E15
+SongName;He's Flim;S2;E15
+SongName;He's Flam;S2;E15
+SongName;We're the world famous Flim Flam Brothers;S2;E15
+SongName;Traveling salesponies nonpareil;S2;E15
+SongName;Nonpareil, and that's exactly the reason why, you see;S2;E15
+SongName;No pony else in this whole place will give you such a chance to be where you need to be;S2;E15
+SongName;And that's a new world, with tons of cider;S2;E15
+SongName;Fresh squeezed and ready for drinking;S2;E15
+SongName;More cider than you could drink in all your days of thinking;S2;E15
+SongName;So take this opportunity;S2;E15
+SongName;In this very community;S2;E15
+SongName;He's Flim;S2;E15
+SongName;He's Flam;S2;E15
+SongName;We're the world famous Flim Flam Brothers;S2;E15
+SongName;Traveling salesponies;S2;E15
+SongName;Nonpareil;S2;E15
+SongName;I suppose by now you're wondering 'bout our peculiar mode of transport;S2;E15
+SongName;I say, our mode of locomotion;S2;E15
+SongName;And I suppose by now you're wondering, where is this promised cider?;S2;E15
+SongName;Any horse can make a claim and any pony can do the same;S2;E15
+SongName;But my brother and I have something most unique and superb;S2;E15
+SongName;Unseen at any time in this big new world;S2;E15
+SongName;And that's opportunity;S2;E15
+SongName;Folks, it's the one and only, the biggest and the best;S2;E15
+SongName;The unbelievable;S2;E15
+SongName;Unimpeachable;S2;E15
+SongName;Indispensable;S2;E15
+SongName;I-can't-believe-able;S2;E15
+SongName;Flim Flam Brothers' Super Speedy Cider Squeezy 6000;S2;E15
+SongName;Oh, we got opportunity;S2;E15
+SongName;In this very community;S2;E15
+SongName;Please, Flim, please, Flam, help us out of this jam;S2;E15
+SongName;With your Flim Flam Brothers' Super Speedy Cider Squeezy 6000;S2;E15
+SongName;Opportunity, in our community;S2;E15
+SongName;Ready, Flim?;S2;E15
+SongName;Ready, Flam?;S2;E15
+SongName;Let's bing bang zam!;S2;E15
+SongName;Cider, cider, cider, cider... ;S2;E15
+SongName;The fun begins!;S2;E15
+SongName;Feel free to take a sneak peek!;S2;E15
+SongName;Now wait, you fellers, hold it!;S2;E15
+SongName;You went and over-sold it!;S2;E15
+SongName;I guarantee that what you have there won't compare;S2;E15
+SongName;For the very most important ingredient;S2;E15
+SongName;Can't be added or done expedient;S2;E15
+SongName;And it's quality, friends, Apple Acres' quality and care!;S2;E15
+SongName;Well, Granny, I'm glad you brought that up, my dear, I say I'm glad you brought that up;S2;E15
+SongName;You see that we are very picky when it comes to cider if you'll kindly try a cup;S2;E15
+SongName;Yes, sir, yes, ma'am, this great machine lets just the very best;S2;E15
+SongName; So whaddaya say then, Apples?;S2;E15
+SongName; Care to step into the modern world;S2;E15
+SongName;And put the Super Speedy Cider Squeezy 6000 to the test?;S2;E15
+SongName;Cider, cider, cider, cider... ;S2;E15
+SongName;We're saying you've got;S2;E15
+SongName;Opportunity;S2;E15
+SongName;In this very community;S2;E15
+SongName;He's Flim, he's Flam;S2;E15
+SongName;We're the world famous Flim Flam Brothers;S2;E15
+SongName;Traveling salesponies nonpareil!;S2;E15
+SongName;Yeah!;S2;E15
+SongName;Cheerilee is sweet and kind,;S2;E17
+SongName;She's the best teacher we could hope for.;S2;E17
+SongName;The perfect stallion you and I must find;S2;E17
+SongName;One to really make her heart so-o-oar.;S2;E17
+SongName;But...;S2;E17
+SongName;This one's too young,;S2;E17
+SongName;This one's too old.;S2;E17
+SongName;He clearly has a terrible cold.;S2;E17
+SongName;This guy's too silly.;S2;E17
+SongName;He's way too uptight.;S2;E17
+SongName;Well nothing's wrong with this one,;S2;E17
+SongName;He seems alright...;S2;E17
+SongName;How 'bout this one?;S2;E17
+SongName;He's much too flashy.;S2;E17
+SongName;He might do!;S2;E17
+SongName;If he weren't so splashy!;S2;E17
+SongName;Too short.;S2;E17
+SongName;Too tall.;S2;E17
+SongName;Too clean.;S2;E17
+SongName;Too smelly.;S2;E17
+SongName;Too strangely obsessed with tubs of jelly.;S2;E17
+SongName;I don't think that we're mistaken,;S2;E17
+SongName;It seems all the good ones are taken.;S2;E17
+SongName;I really feel that at this rate,;S2;E17
+SongName;We'll never find the perfect date.;S2;E17
+SongName;Don't wanna quit and give up hope!;S2;E17
+SongName;Oh please, oh please oh please say—;S2;E17
+SongName;We did it girls,;S2;E17
+SongName;We've found the one!;S2;E17
+SongName;Who will send our teacher's heart aflutter!;S2;E17
+SongName;);S2;E18
+SongName;);S2;E18
+SongName;I'm gonna make you smile and I will brighten up your day;S2;E18
+SongName;);S2;E18
+SongName;);S2;E18
+SongName;'Cause cheering up my friends is just what Pinkie's here to do;S2;E18
+SongName;'Cause I love to make you smile, smile, smile;S2;E18
+SongName;Yes I do;S2;E18
+SongName;It fills my heart with sunshine all the while;S2;E18
+SongName;Yes it does;S2;E18
+SongName;'Cause all I really need's a smile, smile, smile;S2;E18
+SongName;From these happy friends of mine;S2;E18
+SongName;);S2;E18
+SongName;);S2;E18
+SongName;);S2;E18
+SongName;But if you're kind of worried;S2;E18
+SongName;And your face has made a frown;S2;E18
+SongName;I'll work real hard and do my best to turn that sad frown upside down;S2;E18
+SongName;'Cause I love to make you grin, grin, grin;S2;E18
+SongName;Yes I do;S2;E18
+SongName;Bust it out from ear to ear let it begin;S2;E18
+SongName;Just give me a joyful grin, grin, grin;S2;E18
+SongName;And you fill me with good cheer;S2;E18
+SongName;It's true some days are dark and lonely;S2;E18
+SongName;And maybe you feel sad;S2;E18
+SongName;But Pinkie will be there to show you that it isn't that bad;S2;E18
+SongName;There's one thing that makes me happy and makes my whole life worthwhile;S2;E18
+SongName;And that's when I talk to my friends and get them to smile;S2;E18
+SongName;I really am so happy;S2;E18
+SongName;Your smile fills me with glee;S2;E18
+SongName;I give a smile I get a smile;S2;E18
+SongName;And that's so special to me;S2;E18
+SongName;'Cause I love to see you beam, beam, beam;S2;E18
+SongName;Yes I do;S2;E18
+SongName;Tell me what more can I say to make you see;S2;E18
+SongName;That I do;S2;E18
+SongName;It makes me happy when you beam, beam, beam;S2;E18
+SongName;Yes it always makes my day;S2;E18
+SongName;Come on everypony smile, smile, smile;S2;E18
+SongName;Fill my heart up with sunshine, sunshine;S2;E18
+SongName;All I really need's a smile, smile, smile;S2;E18
+SongName;From these happy friends of mine;S2;E18
+SongName;Come on everypony smile, smile, smile;S2;E18
+SongName;Fill my heart up with sunshine, sunshine;S2;E18
+SongName;All I really need's a smile, smile, smile;S2;E18
+SongName;From these happy friends of mine;S2;E18
+SongName;Yes the perfect gift for me;S2;E18
+SongName;Is a smile as wide as a mile;S2;E18
+SongName;To make me happy as can be;S2;E18
+SongName;Come on everypony smile, smile, smile;S2;E18
+SongName;Fill my heart up with sunshine, sunshine;S2;E18
+SongName;All I really need's a smile, smile, smile;S2;E18
+SongName;From these happy friends of;S2;E18
+SongName;Smile, smile, smile, smile, smile;S2;E18
+SongName;Come on and smile;S2;E18
+SongName;Come on and smile;S2;E18
+SongName;You're a Cranky Doodle Donkey guy.;S2;E18
+SongName;A Cranky Doodle Donkey.;S2;E18
+SongName;I never met you but you're my new friend;S2;E18
+SongName;and I'm your best friend Pinkie Pie!;S2;E18
+SongName;Welcome welcome welcome;S2;E18
+SongName;A fine welcome to you;S2;E18
+SongName;Welcome welcome welcome;S2;E18
+SongName;I say how do you do?;S2;E18
+SongName;Welcome welcome welcome;S2;E18
+SongName;I say hip hip hurray;S2;E18
+SongName;Welcome welcome welcome;S2;E18
+SongName;To Ponyville today;S2;E18
+SongName;He had a Cranky Doodle sweetheart;S2;E18
+SongName;She's his cranky doodle joy;S2;E18
+SongName;I helped the Cranky Doodle boy, yeah!;S2;E18
+SongName;I helped the Cranky Doodle boy!;S2;E18
+SongName;Your big brother, best friend forever;S2;E25
+SongName;Like two peas in a pod, you did everything together;S2;E25
+SongName;And though he's, oh, so far away;S2;E25
+SongName;I hoped that he would stay;S2;E25
+SongName;My big brother best friend;S2;E25
+SongName;Forever...;S2;E25
+SongName;Forever...;S2;E25
+SongName;This day is going to be perfect;S2;E26
+SongName;The kind of day of which I've dreamed since I was small;S2;E26
+SongName;Everypony will gather 'round;S2;E26
+SongName;Say I look lovely in my gown;S2;E26
+SongName;What they don't know is that I have fooled them all!;S2;E26
+SongName;This day was going to be perfect;S2;E26
+SongName;The kind of day of which I've dreamed since I was small;S2;E26
+SongName;But instead of having cake;S2;E26
+SongName;With all my friends to celebrate;S2;E26
+SongName;My wedding bells, they may not ring for me at all…;S2;E26
+SongName;I could care less about the dress;S2;E26
+SongName;I won't partake in any cake;S2;E26
+SongName;Vows, well I'll be lying when I say;S2;E26
+SongName;That through any kind of weather;S2;E26
+SongName;I'll want us to be together;S2;E26
+SongName;The truth is I don't care for him at all;S2;E26
+SongName;No I do not love the groom;S2;E26
+SongName;In my heart there is no room;S2;E26
+SongName;But I still want him to be all mine;S2;E26
+SongName;We must escape before it's too late;S2;E26
+SongName;Find a way to save the day;S2;E26
+SongName;Hope, I'll be lying if I say;S2;E26
+SongName;"I don't fear that I may lose him;S2;E26
+SongName;To one who wants to use him;S2;E26
+SongName;Not care for, love, and cherish him each day";S2;E26
+SongName;For I oh so love the groom;S2;E26
+SongName;All my thoughts he does consume;S2;E26
+SongName;Oh, Shining Armor, I'll be there very soon;S2;E26
+SongName;Finally the moment has arrived;S2;E26
+SongName;For me to be one lucky bride;S2;E26
+SongName;Oh, the wedding we won't make;S2;E26
+SongName;He'll end up marrying a fake;S2;E26
+SongName;Shining Armor will be...;S2;E26
+SongName;Love is in bloom;S2;E26
+SongName;A beautiful bride, a handsome groom,;S2;E26
+SongName;Two hearts becoming one;S2;E26
+SongName;A bond that cannot be undone because;S2;E26
+SongName;Love is in bloom;S2;E26
+SongName;A beautiful bride, a handsome groom;S2;E26
+SongName;I said love is in bloom;S2;E26
+SongName;You're starting a life and making room;S2;E26
+SongName;For us ;S2;E26
+SongName;Love is in bloom;S2;E26
+SongName;A beautiful bride, a handsome groom;S2;E26
+SongName;I said love is in bloom;S2;E26
+SongName;You're starting a life and making room;S2;E26
+SongName;For us, ;S2;E26
+SongName;I was prepared to do my best;S3;E1
+SongName;Thought I could handle any test;S3;E1
+SongName;For I can do so many tricks;S3;E1
+SongName;But I wasn't prepared for this;S3;E1
+SongName;Levitation would have been a breeze;S3;E1
+SongName;Facts and figures I recite with ease;S3;E1
+SongName;I could ace a quiz on friendship's bliss;S3;E1
+SongName;But I wasn't prepared for this;S3;E1
+SongName;Will I fail, or will I pass?;S3;E1
+SongName;I can't be sure...;S3;E1
+SongName;She can't be sure...;S3;E1
+SongName;My mind is sharp, my skills intact;S3;E1
+SongName;My heart is pure...;S3;E1
+SongName;Her heart is pure...;S3;E1
+SongName;Oh, I've taken my share of licks;S3;E1
+SongName;I've made it through the thin and thick;S3;E1
+SongName;But no I wasn't;S3;E1
+SongName;Oh no, she wasn't;S3;E1
+SongName;Oh no, I wasn't;S3;E1
+SongName;Oh no, she wasn't;S3;E1
+SongName;No I wasn't;S3;E1
+SongName;Princess Cadance needs our help;S3;E1
+SongName;Her magic will not last forever;S3;E1
+SongName;I think we can do it;S3;E1
+SongName;But we need to work together;S3;E1
+SongName;We have to get this right;S3;E1
+SongName;Yes, we have to make them see;S3;E1
+SongName;We can save the Crystal Ponies with their history;S3;E1
+SongName;It says that they liked jousting;S3;E1
+SongName;They flew a flag of many hues;S3;E1
+SongName;Made sweets of crystal berries;S3;E1
+SongName;They had a petting zoo with tiny ewes;S3;E1
+SongName;Oh, we have to get this right;S3;E1
+SongName;Yes, we have to make them see;S3;E1
+SongName;We can save the Crystal Ponies with their history;S3;E1
+SongName;There was a crystal flugelhorn;S3;E1
+SongName;That every pony liked to play;S3;E1
+SongName;And the Crystal Kingdom anthem;S3;E1
+SongName;Can you learn it in a day?;S3;E1
+SongName;Oh, we have to get this right;S3;E1
+SongName;Yes, we have to make them see;S3;E1
+SongName;We can save the Crystal Ponies with their history;S3;E1
+SongName;You were prepared to do your best;S3;E2
+SongName;Had what it takes to pass the test;S3;E2
+SongName;All those doubts you can dismiss;S3;E2
+SongName;Turns out you were;S3;E2
+SongName;Prepared for this!;S3;E2
+SongName;You clearly have just what it takes;S3;E2
+SongName;To pass a test with such high stakes;S3;E2
+SongName;We knew for sure you would prevail;S3;E2
+SongName;Since when does Twilight Sparkle ever fail?;S3;E2
+SongName;All those doubts that you can dismiss;S3;E2
+SongName;Trust yourself and you cannot miss;S3;E2
+SongName;Turns out you were;S3;E2
+SongName;Turns out I was;S3;E2
+SongName;Turns out you were;S3;E2
+SongName;Turns out I was;S3;E2
+SongName;Turns out you were;S3;E2
+SongName;Prepared for this!;S3;E2
+SongName;Yeah, yeah, yeah ;S3;E4
+SongName;Yeah, yeah, yeah;S3;E4
+SongName;Yeah, yeah, yeah, yeah, yeah;S3;E4
+SongName;First, we thought that Babs was so really, really sweet;S3;E4
+SongName;A new friend to have, and it seemed like such a treat;S3;E4
+SongName;She went from Babs, yeah, to a bully and a beast;S3;E4
+SongName;Everywhere we turn, she's just a step ahead;S3;E4
+SongName;Babs Seed, Babs Seed, what we gonna do?;S3;E4
+SongName;Got a bully on our tail;S3;E4
+SongName;Gotta hide, we gotta bail;S3;E4
+SongName;Babs Seed, Babs Seed, if she's after you;S3;E4
+SongName;Gotta run, we gotta flee;S3;E4
+SongName;Gotta hurry, don't you see?;S3;E4
+SongName;Babs Seed, Babs Seed, she's just a bad, bad seed;S3;E4
+SongName;Yeah, yeah, yeah;S3;E4
+SongName;Yeah, yeah, yeah;S3;E4
+SongName;Yeah, yeah, yeah, yeah, yeah;S3;E4
+SongName;Hiding from a bully, we know it isn't right;S3;E4
+SongName;But the Cutie Mark Crusaders, we aren't lookin' for a fight;S3;E4
+SongName;Oh, she'll go home soon, and then we'll have some peace again;S3;E4
+SongName;But for now, we're staying out of her way 'til then;S3;E4
+SongName;Everywhere we turn, she's just a step ahead;S3;E4
+SongName;Babs Seed, Babs Seed, what we gonna do?;S3;E4
+SongName;Got a bully on our tail;S3;E4
+SongName;Gotta hide, we gotta bail;S3;E4
+SongName;Babs Seed, Babs Seed, if she's after you;S3;E4
+SongName;Gotta run, we gotta flee;S3;E4
+SongName;Gotta hurry, don't you see?;S3;E4
+SongName;Why so mean? Why so crude?;S3;E4
+SongName;Why so angry? Why so rude?;S3;E4
+SongName;Can't you be nice? Can't we be friends?;S3;E4
+SongName;Isn't it sad? Is this how it all ends?;S3;E4
+SongName;Babs Seed, Babs Seed, she's just a bad, bad-;S3;E4
+SongName;Babs Seed, Babs Seed, she's just a bad, bad-;S3;E4
+SongName;Babs Seed, Babs Seed-;S3;E4
+SongName;She's just a bad, bad seed!;S3;E4
+SongName;Yee-hoo!;S3;E8
+SongName;Raise this barn, raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Together, we can raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Up, up, up, go the beams;S3;E8
+SongName;Hammer those joints, work in teams;S3;E8
+SongName;Turn 'em round quick by the right elbow;S3;E8
+SongName;Grab a new partner, here we go;S3;E8
+SongName;Raise this barn, raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Together, we can raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Finish the frame, recycling wood;S3;E8
+SongName;Workin' hard, you're doin' good;S3;E8
+SongName;Turn 'em round quick by the right elbow;S3;E8
+SongName;Grab a new partner, here we go;S3;E8
+SongName;Raise this barn, oh, raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Together, we can raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Slats of wood come off the ground;S3;E8
+SongName;Hold 'em up and nail 'em down;S3;E8
+SongName;Turn 'em round quick by the left elbow;S3;E8
+SongName;Grab a new partner, here we go;S3;E8
+SongName;Look at us, we're family;S3;E8
+SongName;Workin' together thankfully;S3;E8
+SongName;We Apples, we are proud to say;S3;E8
+SongName;Stick together the pony way;S3;E8
+SongName;Bow to your partner, circle right;S3;E8
+SongName;Get down if you're scared of heights;S3;E8
+SongName;Forward back and twirl around;S3;E8
+SongName;That barn's gonna be the best in town;S3;E8
+SongName;Raise this barn, raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Together, we can raise this barn;S3;E8
+SongName;One, two, three, four;S3;E8
+SongName;Take your brushes, young and old;S3;E8
+SongName;Together, paint it, bright and bold;S3;E8
+SongName;Turn 'em round quick by the left elbow;S3;E8
+SongName;Grab a new partner, here we go;S3;E8
+SongName;We raised this barn, we raised this barn;S3;E8
+SongName;Yes, we did;S3;E8
+SongName;Together we sure raised this barn;S3;E8
+SongName;Yes, we did;S3;E8
+SongName;Being together counts the most;S3;E8
+SongName;We all came here from coast to coast;S3;E8
+SongName;All we need to strive to be;S3;E8
+SongName;Is part of the Apple family;S3;E8
+SongName;Morning in Ponyville shimmers;S3;E13
+SongName;Morning in Ponyville shines;S3;E13
+SongName;And I know for absolute certain;S3;E13
+SongName;That everything is certainly fine;S3;E13
+SongName; to her office;S3;E13
+SongName;There's the sofa clerk selling some quills;S3;E13
+SongName;My Ponyville is so gentle and still;S3;E13
+SongName;Can things ever go wrong?;S3;E13
+SongName;I don't think that they will;S3;E13
+SongName;Morning in Ponyville shimmers;S3;E13
+SongName;Morning in Ponyville shines;S3;E13
+SongName;And I know for absolute certain;S3;E13
+SongName;That everything is certainly—;S3;E13
+SongName;These animals don't listen, no, not one little bit;S3;E13
+SongName;They run around out of control and throw their hissy fits;S3;E13
+SongName;It's up to me to stop them, 'cause plainly you can see;S3;E13
+SongName;It's got to be my destiny, and it's what my cutie mark is telling me;S3;E13
+SongName;I try to keep them laughing, put a smile upon their face;S3;E13
+SongName;But no matter what I try, it seems a bit of a disgrace;S3;E13
+SongName;I have to entertain them, it's there for all to see;S3;E13
+SongName;It's got to be my destiny, and it's what my cutie mark is telling me;S3;E13
+SongName;I don't care much for pickin' fruit and plowin' fields ain't such a hoot;S3;E13
+SongName;No matter what I try, I cannot fix this busted water chute!;S3;E13
+SongName;I've got so many chores to do, it's no fun being me;S3;E13
+SongName;But it has to be my destiny, 'cause it's what my cutie mark is telling me;S3;E13
+SongName;Lookie here at what I made, I think that it's a dress;S3;E13
+SongName;I know it doesn't look like much, I'm under some distress;S3;E13
+SongName;Could y'all give me a hand here and help me fix this mess?;S3;E13
+SongName;My destiny is not pretty, but it's what my cutie mark is tellin' me;S3;E13
+SongName;I'm in love with weather patterns, but the others have concerns;S3;E13
+SongName;For I just gave them frostbite over top of their sunburns;S3;E13
+SongName;I have to keep on trying, for everyone can see;S3;E13
+SongName;It's got to be;S3;E13
+SongName;It's got to be;S3;E13
+SongName;My destiny;S3;E13
+SongName;My destiny;S3;E13
+SongName;And it's what my cutie mark;S3;E13
+SongName;It's what my cutie mark;S3;E13
+SongName;Yes, it's what my cutie mark is telling me!;S3;E13
+SongName;I have to find a way;S3;E13
+SongName;To make this all okay;S3;E13
+SongName;I can't believe this small mistake;S3;E13
+SongName;Could've caused so much heartache;S3;E13
+SongName;Oh why, oh why?;S3;E13
+SongName;Losing promise;S3;E13
+SongName;I don't know what to do;S3;E13
+SongName;Seeking answers;S3;E13
+SongName;I fear I won't get through to you;S3;E13
+SongName;Oh why, oh why?;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;To see the light that shines from a true, true friend;S3;E13
+SongName;Rarity needs your help;S3;E13
+SongName;She's trying hard, doing what she can;S3;E13
+SongName;Would you try, just give it a chance;S3;E13
+SongName;You might find that you'll start to understand;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;A friend will be there to help you see;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;To see the light that shines from a true, true friend;S3;E13
+SongName;Applejack needs your help;S3;E13
+SongName;She's trying hard, doing what she can;S3;E13
+SongName;Would you try, just give it a chance;S3;E13
+SongName;You might find that you'll start to understand;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;A friend will be there to help them see;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;To see the light that shines from a true, true friend;S3;E13
+SongName;Pinkie Pie is in trouble;S3;E13
+SongName;We need to get there by her side;S3;E13
+SongName;We can try to do what we can now;S3;E13
+SongName;For together we can be her guide;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;A friend will be there to help them see;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;To see the light that shines from a true, true friend;S3;E13
+SongName;The townspeople need you;S3;E13
+SongName;They've been sad for a while;S3;E13
+SongName;They march around, face a-frown;S3;E13
+SongName;And never seem to smile;S3;E13
+SongName;And if you feel like helpin';S3;E13
+SongName;We'd appreciate a lot;S3;E13
+SongName;If you'd get up there and spread some cheer;S3;E13
+SongName;From here to Canterlot;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;A friend will be there to help them see;S3;E13
+SongName;A true, true friend helps a friend in need;S3;E13
+SongName;To see the light! ;S3;E13
+SongName;That shines! ;S3;E13
+SongName;From a true, true friend!;S3;E13
+SongName;You've come such a long, long way;S3;E13
+SongName;And I've watched you from that very first day;S3;E13
+SongName;To see how you might grow;S3;E13
+SongName;To see what you might do;S3;E13
+SongName;To see what you've been through;S3;E13
+SongName;And all the ways you've made me proud of you;S3;E13
+SongName;It's time now for a new change to come;S3;E13
+SongName;You've grown up and your new life has begun;S3;E13
+SongName;To go where you will go;S3;E13
+SongName;To see what you will see;S3;E13
+SongName;To find what you will be;S3;E13
+SongName;For it's time for you to fulfill your destiny;S3;E13
+SongName;The Princess Twilight cometh;S3;E13
+SongName;Behold, behold;S3;E13
+SongName;A Princess here before us;S3;E13
+SongName;Behold, behold, behold;S3;E13
+SongName;Behold, behold ;S3;E13
+SongName;The Princess Twilight cometh;S3;E13
+SongName;Behold, behold ;S3;E13
+SongName;The Princess is;S3;E13
+SongName;The Princess is here!;S3;E13
+SongName;Life in Equestria shimmers;S3;E13
+SongName;Life in Equestria shines;S3;E13
+SongName;And I know for absolute certain;S3;E13
+SongName;That everything ;S3;E13
+SongName;Yes, everything ;S3;E13
+SongName;Yes, everything is certainly fine;S3;E13
+SongName;It’s fine;S3;E13
+SongName;We're the toughest little ponies in town;S4;E5
+SongName;Got the moves, got the mojo, no harder working ponies around;S4;E5
+SongName;We are a trio, work as a team;S4;E5
+SongName;We'll be the first ponies out on the flag-waving scene;S4;E5
+SongName;We get going when the going gets tough;S4;E5
+SongName;We know our very best is just never enough;S4;E5
+SongName;We're kinda short, but so what? We don't get defeated;S4;E5
+SongName;We could take a little break, but we don't need it;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hea-a-a-arts, hearts strong as horses;S4;E5
+SongName;When we put our minds together, we can achieve;S4;E5
+SongName;We're the Cutie Mark Crusaders, and you should believe;S4;E5
+SongName;We've got determination to represent the nation;S4;E5
+SongName;For the win;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;And we're playing to win as we gallop to glory;S4;E5
+SongName;We can conquer any challenge we're in;S4;E5
+SongName;We've got hea-a-a-arts, hearts strong as horses;S4;E5
+SongName;Hearts strong as horses;S4;E5
+SongName;Got the moves, got the mojo...;S4;E5
+SongName;No harder working pony around.;S4;E5
+SongName;We are a trio, work as a team;S4;E5
+SongName;We'll be the first ponies out on the flag-waving scene;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;We've got hearts as strong as horses;S4;E5
+SongName;And we're playing to win as we gallop to glory;S4;E5
+SongName;We can conquer any challenge we're in;S4;E5
+SongName;We've got hea-a-a-arts, hearts strong as horses;S4;E5
+SongName;Hearts strong as horses;S4;E5
+SongName;Those vampire bats will give you a fright;S4;E7
+SongName;Eating apples both day and night;S4;E7
+SongName;They rest for a minute, maybe three;S4;E7
+SongName;Then they're eatin' every apple in your apple tree;S4;E7
+SongName;They don't care about nada, not zilch, no, nothin';S4;E7
+SongName;'Cept bringin' about an orchard's destruction;S4;E7
+SongName;Now wait just a minute, there's another side to this;S4;E7
+SongName;And if I did not defend them, then I would be remiss;S4;E7
+SongName;These bats are mamas and papas too;S4;E7
+SongName;They care for their young just like we ponies do;S4;E7
+SongName;Oh, give me a break, you're bein' too kind;S4;E7
+SongName;These creatures have a one-track mind;S4;E7
+SongName;The orchard is not their restaurant;S4;E7
+SongName;But do they ever think what others may want?;S4;E7
+SongName;No! They don't! And that is just a fact;S4;E7
+SongName;These bats, they simply don't know how to act;S4;E7
+SongName;That's where I have to disagree;S4;E7
+SongName;They're loyal to their family;S4;E7
+SongName;Spreading seeds both far and wide;S4;E7
+SongName;You see one comin', you'd better run and hide!;S4;E7
+SongName;They're big and ugly and mean as sin;S4;E7
+SongName;Will ya look at the state my trees are in?;S4;E7
+SongName;They help your trees, they'll grow stronger faster;S4;E7
+SongName;They've turned my life to a total disaster!;S4;E7
+SongName;Well, I for one don't have a doubt;S4;E7
+SongName;These vermin must be stamped right out;S4;E7
+SongName;I second that, they've got to go;S4;E7
+SongName;These bats, they've got to hit the road;S4;E7
+SongName;It comes down to just one simple fact;S4;E7
+SongName;They've crossed the line, it's time to fight them back!;S4;E7
+SongName;Stop the bats! Stop the bats!;S4;E7
+SongName;Make them go and not come back!;S4;E7
+SongName;Stop the bats! Stop the bats!;S4;E7
+SongName;Make them go and not come back!;S4;E7
+SongName;Stop the bats! Stop the bats!;S4;E7
+SongName;Make them go and not come back!;S4;E7
+SongName;Yes, it comes down to just one simple fact;S4;E7
+SongName;They've crossed the line, it's time that we attack!;S4;E7
+SongName;Oh, Manehattan, what you do to me;S4;E8
+SongName;Such a huge bustling community;S4;E8
+SongName;And there's always opportunity;S4;E8
+SongName;To do the friendly thing;S4;E8
+SongName;If some are grouchy, pay no mind;S4;E8
+SongName;Surprise instead with something kind;S4;E8
+SongName;Lo and behold, you may just find;S4;E8
+SongName;A smile is what you bring;S4;E8
+SongName;Generosity, I'm here to show all that I can give;S4;E8
+SongName;Generosity, I'm here to set the bar;S4;E8
+SongName;Just sit back and watch how I live;S4;E8
+SongName;Some may say, "Rarity,;S4;E8
+SongName;Don't be so big-hearted and bold;S4;E8
+SongName;Treating strangers like they're friends;S4;E8
+SongName;This town's too big and cold";S4;E8
+SongName;But this is how I play my cards;S4;E8
+SongName;I'm not about to fold;S4;E8
+SongName;Where I see a frown, I go to town;S4;E8
+SongName;Call me the smile patrol;S4;E8
+SongName;Oh, Manehattan, what you do to us;S4;E8
+SongName;What if you find a Gloomy Gus?;S4;E8
+SongName;It's no intimidatin' thing;S4;E8
+SongName;Just be kind without a fuss;S4;E8
+SongName;Generosity, I'm here to show all that I can do;S4;E8
+SongName;Generosity, you are the key;S4;E8
+SongName;Manehattan, I'm here just for you;S4;E8
+SongName;Just for you;S4;E8
+SongName;Oh, Manehattan, what have I done?;S4;E8
+SongName;The thought of Fashion Week was fun;S4;E8
+SongName;But I went way too far;S4;E8
+SongName;My friends gave to me in ways so kind;S4;E8
+SongName;And I gave them nothing but a hard time;S4;E8
+SongName;And now alone I stand;S4;E8
+SongName;And now alone I stand;S4;E8
+SongName;We've traveled the road of generations;S4;E9
+SongName;Joined by a common bond;S4;E9
+SongName;We sing our song 'cross the pony nation;S4;E9
+SongName;From Equestria and beyond;S4;E9
+SongName;We're Apples forever, Apples together;S4;E9
+SongName;We're family, but so much more;S4;E9
+SongName;No matter what comes, we will face the weather;S4;E9
+SongName;We're Apples to the core;S4;E9
+SongName;There's no place that I'd rather be;S4;E9
+SongName;Than travelin' with my family;S4;E9
+SongName;Friends all around come to join and see;S4;E9
+SongName;As we sing out across the land;S4;E9
+SongName;We're Apples forever, Apples together;S4;E9
+SongName;We're family, but so much more;S4;E9
+SongName;No matter what comes, we will face the weather;S4;E9
+SongName;We're Apples to the core;S4;E9
+SongName;We're peas in a pod, we're thick as thieves;S4;E9
+SongName;Any cliché you can throw at me;S4;E9
+SongName;We're here for each other, through thick and thin;S4;E9
+SongName;You're always welcome with your Apple kin;S4;E9
+SongName;Wheeeeee!;S4;E9
+SongName;You're more fun than the color pink;S4;E9
+SongName;Or balloons flying over your favorite drink;S4;E9
+SongName;The love I feel here is swim, not sink;S4;E9
+SongName;As we party across this land;S4;E9
+SongName;We're Apples forever, Apples together;S4;E9
+SongName;We're family, but so much more;S4;E9
+SongName;No matter what comes, we will face the weather;S4;E9
+SongName;We're Apples to the core!;S4;E9
+SongName;We're Apples forever, Apples together;S4;E9
+SongName;We're family, but so much more;S4;E9
+SongName;No matter what comes, we will face the weather;S4;E9
+SongName;We're Apples to the core!;S4;E9
+SongName;A little glass of water please;S4;E11
+SongName;A fresh pressed hanky if I sneeze;S4;E11
+SongName;Some tea with honey from the bees;S4;E11
+SongName;Whenever you can brew it;S4;E11
+SongName;And while I get a little rest;S4;E11
+SongName;A teeny tiny small request;S4;E11
+SongName;Some codfish oil for my chest;S4;E11
+SongName;Poured from a crystal cruet;S4;E11
+SongName;My goodness, I'm a nincompoop;S4;E11
+SongName;Because I fear I've got the croup;S4;E11
+SongName;I need a vat of pumpkin soup;S4;E11
+SongName;And scarves made out of zinnias;S4;E11
+SongName;Did I say zinnias? I meant silk;S4;E11
+SongName;Or something shiny of that ilk;S4;E11
+SongName;And then I'll need some nice warm milk;S4;E11
+SongName;And pastries from Abyssinia;S4;E11
+SongName;And since my stomach's feeling crummy;S4;E11
+SongName;Why not give my aching tummy;S4;E11
+SongName;Something soothing, something yummy;S4;E11
+SongName;Piled up with noodles?;S4;E11
+SongName;Add a slice of homemade rye;S4;E11
+SongName;With stacks of Swiss way up high;S4;E11
+SongName;Served with sides of sweet mince pie;S4;E11
+SongName;I'll be grateful for your charity;S4;E11
+SongName;Until the bitter end;S4;E11
+SongName;Because I've heard that tenderness;S4;E11
+SongName;Is what you lend an ailing friend;S4;E11
+SongName;Tenderness, isn't that right, friend?;S4;E11
+SongName;Every single day there's something new you can plan for;S4;E12
+SongName;Every single day there's something wonderful to do;S4;E12
+SongName;But nothing makes me happy like a day that I can say;S4;E12
+SongName;"Today I planned a party, and it's just for you!";S4;E12
+SongName;Don't have much time to gather all the things I need;S4;E12
+SongName;If I'm really gonna make this party fly;S4;E12
+SongName;For today's another day that all of Ponyville will say;S4;E12
+SongName;There goes the super party pony Pinkie Pie!;S4;E12
+SongName;She planned our first foal shower where we played all sorts of games;S4;E12
+SongName;Having so much fun as we chose Pound and Pumpkin's names;S4;E12
+SongName;She planned my cute-ceañera my dad made me, I won't lie;S4;E12
+SongName;I demanded all the best, I suppose she passed the test;S4;E12
+SongName;Sure it was pretty good all thanks to Pinkie Pie;S4;E12
+SongName;Every single day there's something new we can plan for;S4;E12
+SongName;Every single day there's something wonderful to try;S4;E12
+SongName;But nothing makes us happy like a day that we can say;S4;E12
+SongName;"Today there'll be a party planned by Pinkie Pie!";S4;E12
+SongName;There's no other pony like her, no pony that could be;S4;E12
+SongName;As great!  As fun! ;S4;E12
+SongName;As our super party pony Pinkie!;S4;E12
+SongName;The super-duper party pony–that pony is me;S4;E12
+SongName;I always knew that was the kind of pony I would be;S4;E12
+SongName;But everypony told me, "Cheese, that fun just wastes the day";S4;E12
+SongName;But when I threw a party and I busted out some moves;S4;E12
+SongName;The ponies finally saw the light and got into the groove;S4;E12
+SongName;The super-duper party pony–that pony is me;S4;E12
+SongName;You'll never meet another party pony quite like Cheese!;S4;E12
+SongName;The super-duper party pony–that pony is me;S4;E12
+SongName;You'll never meet another party pony quite like Cheese;S4;E12
+SongName;C'mon, kid, take it for a spin!;S4;E12
+SongName;Oh, when I throw a Cheese party, be sure to not be lame;S4;E12
+SongName;And miss my pie fights, wacky kites, and streamers in your mane;S4;E12
+SongName;Fizzy drinks, Hawaiian shirts, and brie fondue delight;S4;E12
+SongName;You know that with Cheese Sandwich, you'll be partying all night!;S4;E12
+SongName;But what about the super party pony named Pinkie...?;S4;E12
+SongName;For all my life, all I've wanted to do;S4;E12
+SongName;Was make my friends want to smile true;S4;E12
+SongName;But maybe I was wrong;S4;E12
+SongName;And Pinkie Pie shouldn't plan parties at all;S4;E12
+SongName;I'll try to get up on my hooves;S4;E12
+SongName;And try a different task;S4;E12
+SongName;I'll find something new to do;S4;E12
+SongName;There's gotta be more to me than planning a party or two;S4;E12
+SongName;I put away my party cannon, I deflated all my balloons;S4;E12
+SongName;The bubbles all burst, now what is next for you?;S4;E12
+SongName;For you...;S4;E12
+SongName; got a hold of the music.;S4;E12
+SongName;Oh, look at those happy faces;S4;E12
+SongName;All the parties that I had thrown;S4;E12
+SongName;I made them laugh, had such a blast;S4;E12
+SongName;A smile that's all their own;S4;E12
+SongName;They loved seeing me, the real Pinkie;S4;E12
+SongName;Show them the time of their life like they've never known;S4;E12
+SongName;Like they've never kno-o-own;S4;E12
+SongName;I've got to get back out there, have to show them that I've tried;S4;E12
+SongName;For there's only one great party pony -- that is Pinkie Pie;S4;E12
+SongName;Won't let Cheese Sandwich beat me, won't let him get me down;S4;E12
+SongName;For I am Pinkie, the bestest party pony around!;S4;E12
+SongName;It's your birthday party, a very special day;S4;E12
+SongName;I've got a song, it won't take long, I just wanted to say;S4;E12
+SongName;Happy, happy, happy, happy;S4;E12
+SongName;Happy, happy, happy, happy;S4;E12
+SongName;Happy, happy, happy, happy birthday to you!;S4;E12
+SongName;If you wanna be the life of the party;S4;E12
+SongName;But you're feeling just a little uptight;S4;E12
+SongName;Call the doctor, beg and plead;S4;E12
+SongName;"Doctor, tell me what I need";S4;E12
+SongName;Try to put a little cheese in your knees!;S4;E12
+SongName;Bubbles and balloons, bubbles and balloons;S4;E12
+SongName;What's a birthday party without bubbles and balloons?;S4;E12
+SongName;Star-shaped or trapezoid, look what I can do;S4;E12
+SongName;Only Pinkie Pie can make a bubble shaped like you!;S4;E12
+SongName;Just let yourself go floppy, for now this is your chance;S4;E12
+SongName;Pretend you have no bones and do the rubber chicken dance!;S4;E12
+SongName;Hit it, Boneless!;S4;E12
+SongName;Cooler than a rubber chicken and tastier than cake;S4;E12
+SongName;Come on, you, let's party down and do the Gummy shake!;S4;E12
+SongName;Hit it, Gummy! Uh-huh! You know it! Shake it!;S4;E12
+SongName;'Cause I like to make you smile, smile, smile;S4;E12
+SongName;Yes I do;S4;E12
+SongName;It fills my heart with sunshine all the while;S4;E12
+SongName;Yes it does;S4;E12
+SongName;'Cause all I really need's a smile, smile, smile;S4;E12
+SongName;From these happy friends of mine;S4;E12
+SongName;Roll out the party cannon;S4;E12
+SongName;When you hear the party cannon song;S4;E12
+SongName;Ka-BOOM!;S4;E12
+SongName;Why should you compromise? Try this one on for size;S4;E12
+SongName;'Cause nothing quite says cheer like the ringing in your ear;S4;E12
+SongName;Of the cheese supreme cannonball surprise!;S4;E12
+SongName;I fear I told a little fib about my pony past;S4;E12
+SongName;I hope that when you hear the truth, you will not be aghast;S4;E12
+SongName;I wasn't quite the super party pony like I claimed;S4;E12
+SongName;The fact is that I was so shy, nopony knew my name;S4;E12
+SongName;I stumbled into Ponyville one afternoon by chance;S4;E12
+SongName;And found the biggest ever celebration party dance;S4;E12
+SongName;Everything was perfect, cheer was filling up the place;S4;E12
+SongName;And I saw that everypony had a smile upon their face;S4;E12
+SongName;I vowed that day to change my life, the past I did set free;S4;E12
+SongName;For now Cheese Sandwich was a party pony full of glee;S4;E12
+SongName;A super duper party pony -- that's what I became;S4;E12
+SongName;I traveled all Equestria, and all did know my name;S4;E12
+SongName;But that never would have happened on my own, I'll tell you why;S4;E12
+SongName;For the one who threw that party, it was you, Pinkie Pie;S4;E12
+SongName;Super duper party ponies -- that is me and you;S4;E12
+SongName;A party thrown by one is good, but not as great as two;S4;E12
+SongName;Come on and let's join forces, have twice the expertise;S4;E12
+SongName;Now let's all go to the party planned by Pinkie Pie and Cheese!;S4;E12
+SongName;Get your hooves up, party's starting out right now;S4;E12
+SongName;Everypony, everypony get down;S4;E12
+SongName;Time to make a wish, better make it right now;S4;E12
+SongName;It's been a year and today is your birthday party;S4;E12
+SongName;Make a wish, it's your birthday;S4;E12
+SongName;Make a wish, it's your birthday party;S4;E12
+SongName;Make a wish, it's your birthday;S4;E12
+SongName;Make a wish, it's your birthday party;S4;E12
+SongName;Bum, bum, bum-ba-da, ba-da;S4;E14
+SongName;Dum, bum, bum-ba-da ah;S4;E14
+SongName;Bum, bum, bum-ba-da, ba-da ;S4;E14
+SongName;Bum, bum, bum-ba-da ah ;S4;E14
+SongName;Everypony's sayin' you should learn to express your voice;S4;E14
+SongName;But if talk doesn't seem like it's the answer;S4;E14
+SongName;Luckily you have a choice;S4;E14
+SongName;Bum, bum, bum-ba-da, ba-da;S4;E14
+SongName;Bum, bum, bum-ba-da ah;S4;E14
+SongName;Bum, bum, bum-ba-da, ba-da ;S4;E14
+SongName;Bum, bum, bum-ba-da ah ;S4;E14
+SongName;Bum, bum, bum-ba-da, ba-da ;S4;E14
+SongName;Bum, bum, bum-ba-da ah ;S4;E14
+SongName;Trot outside and you see the sunshine;S4;E14
+SongName;Something's in the air today;S4;E14
+SongName;Sky is clear and you're feelin' so fine;S4;E14
+SongName;Everything's gonna be a-okay;S4;E14
+SongName;If you listen carefully;S4;E14
+SongName;On every corner there's a rhythm playing;S4;E14
+SongName;Then it happens suddenly;S4;E14
+SongName;The music takes you over and you'll;S4;E14
+SongName;Oh, o-o-oh;S4;E14
+SongName;Everypony's sayin' you should learn to express your voice;S4;E14
+SongName;But if talk doesn't seem like it's the answer;S4;E14
+SongName;Luckily you have a choice;S4;E14
+SongName;When you find you've got the music;S4;E14
+SongName;Got the music in you;S4;E14
+SongName;Find you've got the music;S4;E14
+SongName;Got the music in you;S4;E14
+SongName;Got the music, got the music in you!;S4;E14
+SongName;Trot outside and see the sunshine;S4;E14
+SongName;Something's in the air today;S4;E14
+SongName;Sky is clear and you're feelin' so fine;S4;E14
+SongName;Everything's gonna be a-okay;S4;E14
+SongName;If you listen carefully;S4;E14
+SongName;On every corner there's a rhythm playing;S4;E14
+SongName;Then it happens suddenly;S4;E14
+SongName;The music takes you over and you'll;S4;E14
+SongName;Find the music;S4;E14
+SongName;Deep down in your heart;S4;E14
+SongName;You can find it, oh ye-eah;S4;E14
+SongName;Got the music in you now;S4;E14
+SongName;Ye-e-eah, got the music in you;S4;E14
+SongName;Hey, find it, oh why, you can find it;S4;E14
+SongName;In your heart, yeah, find the music, yeah;S4;E14
+SongName;It's in you right now! Oh, yeah!;S4;E14
+SongName;You can find the music!;S4;E14
+SongName;Yeah, yeah, I love the music, ye—;S4;E14
+SongName;There's music in the treetops;S4;E14
+SongName;And there's music in the vale;S4;E14
+SongName;And all around the music fills the sky;S4;E14
+SongName;There's music by the river;S4;E14
+SongName;And there's music in the grass;S4;E14
+SongName;And the music makes your heart soar in reply;S4;E14
+SongName;When you find you've got the music;S4;E14
+SongName;You've got to look inside and find;S4;E14
+SongName;Find you've got the music;S4;E14
+SongName;The music deep inside you;S4;E14
+SongName;Find you've got the music;S4;E14
+SongName;'Cause when you look inside, you'll see it;S4;E14
+SongName;Find you've got the music;S4;E14
+SongName;You're gonna find it, gonna find;S4;E14
+SongName;You've got the music;S4;E14
+SongName;Got the music, got the music;S4;E14
+SongName;Got the music in you!;S4;E14
+SongName;A sickness that lies waiting there in every breath you breathe;S4;E20
+SongName;Disease will up and grab you as it crawls from land and sea;S4;E20
+SongName;It's amazing how infected that the natural world and all its things can be;S4;E20
+SongName;Slip and fall, break or sprain something here tonight;S4;E20
+SongName;But luckily for you, we've got the thing you need;S4;E20
+SongName;And it's easier when all you need's the cure;S4;E20
+SongName;The Flim Flam Miracle Curative Tonic;S4;E20
+SongName;Is just what the doctor ordered, I'm sure;S4;E20
+SongName;That's why you're so lucky we've got the thing for you;S4;E20
+SongName;Just come on up, we've always got some more;S4;E20
+SongName;Of the Flim Flam Miracle Curative Tonic;S4;E20
+SongName;I won't need these crutches to dance out the door;S4;E20
+SongName;Now some of you may suffer from feelings of despair;S4;E20
+SongName;You're old, you're tired, your legs won't work, there's graying in your hair;S4;E20
+SongName;Just listen and I'll tell you that you don't need to fear;S4;E20
+SongName;Your ears will work, your muscles tone, your eyes will see so clear;S4;E20
+SongName;Luckily for us, you've got the thing we need;S4;E20
+SongName;The answer to our problems in a jar;S4;E20
+SongName;The Flim Flam Miracle Curative Tonic;S4;E20
+SongName;Is the greatest ever miracle by far!;S4;E20
+SongName;Tonic... tonic... tonic...;S4;E20
+SongName;It can make you shorter, taller, or even grow old;S4;E20
+SongName;But who'd want that?;S4;E20
+SongName;When with one drink;S4;E20
+SongName;You can be young again–;S4;E20
+SongName;–out the door!;S4;E20
+SongName;Well, back in ancient times, there were the Wonderbolts of old;S4;E21
+SongName;A general named Firefly, amazing and so...;S4;E21
+SongName;Bold!;S4;E21
+SongName;She brought them all together, spreading unity...;S4;E21
+SongName;In flight!;S4;E21
+SongName;Performing at their very best with wonder...;S4;E21
+SongName;And with might!;S4;E21
+SongName;There's Admiral Fairweather and the Colonel Purple...;S4;E21
+SongName;Dart!;S4;E21
+SongName;Gave Wonderbolts a bit of steel along with...;S4;E21
+SongName;Lots of heart!;S4;E21
+SongName;An admiral named Fairy Flight and general called...;S4;E21
+SongName;Flash!;S4;E21
+SongName;Helped the 'bolts fly super high...;S4;E21
+SongName;With style and panache!;S4;E21
+SongName;Commander Easyglider was the real cream of...;S4;E21
+SongName;The crop!;S4;E21
+SongName;For with her wicked moves, the Wonderbolts...;S4;E21
+SongName;Soared to the top!;S4;E21
+SongName;Wonderbolts, yeah! Wonderbolts...;S4;E21
+SongName;Huh!;S4;E21
+SongName;Wonderbolts, yeah! Wonderbolts...;S4;E21
+SongName;Unh!;S4;E21
+SongName;That is my rappin' history of the Wonderbolts!;S4;E21
+SongName;Commander Easyglider was the real cream of the crop—;S4;E21
+SongName;Well, I suggest you put down your silly cards of flash,;S4;E21
+SongName;For I know that they cannot help our good friend Rainbow Dash!;S4;E21
+SongName;It isn't that I'm ungrateful;S4;E25
+SongName;For all the things that I've earned,;S4;E25
+SongName;For all the journeys I have taken,;S4;E25
+SongName;All the lessons that I have learned;S4;E25
+SongName;But I wonder where I'm going now,;S4;E25
+SongName;What my role is meant to be;S4;E25
+SongName;I don't know how to travel;S4;E25
+SongName;To a future that I can't see;S4;E25
+SongName;I have my wings, I wear this crown;S4;E25
+SongName;I'm a princess, this is true;S4;E25
+SongName;But it's still unclear to me;S4;E25
+SongName;Just what I am meant to do;S4;E25
+SongName;I wanna have a purpose;S4;E25
+SongName;Wanna do all that I can;S4;E25
+SongName;I wanna make a contribution;S4;E25
+SongName;I want to be a part of the plan;S4;E25
+SongName;Your destiny's uncertain;S4;E25
+SongName;And that's sometimes hard to take;S4;E25
+SongName;But it will become much clearer;S4;E25
+SongName;With every new choice you make;S4;E25
+SongName;Patience is never easy;S4;E25
+SongName;I understand wanting more;S4;E25
+SongName;I know how hard it is to wait;S4;E25
+SongName;To spread out your wings and soar;S4;E25
+SongName;But you stand here for a reason;S4;E25
+SongName;You're gifted and you are strong;S4;E25
+SongName;That crown is upon your head because;S4;E25
+SongName;You belong;S4;E25
+SongName;Know that your time is coming soon;S4;E25
+SongName;As the sun rises, so does the moon;S4;E25
+SongName;As love finds a place in every heart;S4;E25
+SongName;We understand you wanting more;S4;E25
+SongName;A chance to shine, a chance to soar;S4;E25
+SongName;Soon will come the day it turns around;S4;E25
+SongName;Know that your time is coming soon;S4;E25
+SongName;As the sun rises, so does the moon;S4;E25
+SongName;As love finds a place in every heart;S4;E25
+SongName;Each one of us has something special;S4;E26
+SongName;That makes us different, that makes us rare;S4;E26
+SongName;We have a light that shines within us;S4;E26
+SongName;That we were always meant to share;S4;E26
+SongName;And when we come together;S4;E26
+SongName;Combine the light that shines within;S4;E26
+SongName;There is nothing we can't do;S4;E26
+SongName;There is no battle we can't win;S4;E26
+SongName;When we come together;S4;E26
+SongName;There'll be a star to guide the way;S4;E26
+SongName;It's inside us every day;S4;E26
+SongName;See it now! See it now!;S4;E26
+SongName;Let the rainbow remind you;S4;E26
+SongName;That together we will always shine;S4;E26
+SongName;Let the rainbow remind you;S4;E26
+SongName;That forever this will be our time;S4;E26
+SongName;Let the rainbow remind you;S4;E26
+SongName;That together we will always shine;S4;E26
+SongName;In Our Town, in Our Town;S5;E1
+SongName;We don't have to wait;S5;E1
+SongName;To find out that our destiny;S5;E1
+SongName;Is just to emulate;S5;E1
+SongName;In Our Town, in Our Town;S5;E1
+SongName;We dare not compete;S5;E1
+SongName;Winning only breeds the worst;S5;E1
+SongName;Ego-filled conceit;S5;E1
+SongName;In Our Town, in Our Town;S5;E1
+SongName;We work as a team;S5;E1
+SongName;You can't have a nightmare;S5;E1
+SongName;If you never dream;S5;E1
+SongName;Other ponies argue;S5;E1
+SongName;Do you ever wonder why?;S5;E1
+SongName;When you think your talent's special;S5;E1
+SongName;You don't see eye-to-eye;S5;E1
+SongName;There's just too many differences;S5;E1
+SongName;That lead to disarray;S5;E1
+SongName;But when you learn to act as one;S5;E1
+SongName;It's like a holiday;S5;E1
+SongName;In Our Town, in Our Town;S5;E1
+SongName;We don't complicate;S5;E1
+SongName;When you learn to simplify;S5;E1
+SongName;Life is oh, so great;S5;E1
+SongName;Join in our utopia;S5;E1
+SongName;Come out of the dark;S5;E1
+SongName;Banded by equality;S5;E1
+SongName;By our cutie mark!;S5;E1
+SongName;Let's all work together;S5;E3
+SongName;To make this castle shi-i-ine;S5;E3
+SongName;Once we add some sparkle;S5;E3
+SongName;It'll feel, it'll feel, it'll feel...;S5;E3
+SongName;It'll feel divine;S5;E3
+SongName;Crates of apples an' bales o' hay;S5;E3
+SongName;Just makes ya feel at home;S5;E3
+SongName;Furry friends and some popinjays;S5;E3
+SongName;So she won't be alone;S5;E3
+SongName;And we'll make, and we'll make, and we'll make;S5;E3
+SongName;This castle a home;S5;E3
+SongName;There's nothing like balloons and confetti;S5;E3
+SongName;To greet you every time you walk through the door;S5;E3
+SongName;She'll need this and those;S5;E3
+SongName;Posters of all my heroes;S5;E3
+SongName;How could anypony awesome ever ask for more?;S5;E3
+SongName;And we'll make, and we'll make, and we'll make;S5;E3
+SongName;A home she'll adore;S5;E3
+SongName;Bright curtains of flowing silk and lace;S5;E3
+SongName;This picture of me winning a race;S5;E3
+SongName;Party cannons to give her a surprise;S5;E3
+SongName;Hoes and rakes and some more garden supplies;S5;E3
+SongName;Getting hugs from this nice, big, friendly bear;S5;E3
+SongName;Decorate with some gemstones bright and rare;S5;E3
+SongName;More of this and that;S5;E3
+SongName;Don't forget the party hats;S5;E3
+SongName;How could anypony awesome ask for more than that?;S5;E3
+SongName;Let's all work together;S5;E3
+SongName;To show that we have shown;S5;E3
+SongName;Princess Twilight Sparkle;S5;E3
+SongName;How we make, how we make, how we make;S5;E3
+SongName;This castle a home;S5;E3
+SongName;How we make, how we make;S5;E3
+SongName;This castle a home;S5;E3
+SongName;How we make, how we make;S5;E3
+SongName;This castle a home!;S5;E3
+SongName;It's not the things that ya gather 'round;S5;E3
+SongName;It's not how much you own;S5;E3
+SongName;The things that hold the meaning in your life;S5;E3
+SongName;Are the memories you've sown;S5;E3
+SongName;So we make, so we make, so we make;S5;E3
+SongName;This castle a home;S5;E3
+SongName;So we make, so we make;S5;E3
+SongName;This castle a home;S5;E3
+SongName;So we make, so we make;S5;E3
+SongName;This castle a home!;S5;E3
+SongName;There ain't no call to worry;S5;E4
+SongName;So don't you cry or fret;S5;E4
+SongName;A cutie mark won't change me;S5;E4
+SongName;No matter what I get;S5;E4
+SongName;When life gives you lemons;S5;E5
+SongName;You can make lemonade;S5;E5
+SongName;But life gave me Tank here;S5;E5
+SongName;And my choice has long been made;S5;E5
+SongName;No winter will come to Ponyville;S5;E5
+SongName;I'll do it on my own;S5;E5
+SongName;I will keep you by my side;S5;E5
+SongName;So I will not be alone;S5;E5
+SongName;And I'll fly, and I'll fly;S5;E5
+SongName;Until the end of the sky;S5;E5
+SongName;So I'll be the one who doesn't;S5;E5
+SongName;Have to say goodbye;S5;E5
+SongName;I'll clear the skies forever;S5;E5
+SongName;So we won't be apart;S5;E5
+SongName;I'll keep the weather warm for you;S5;E5
+SongName;And the winter will never start;S5;E5
+SongName;Weather-makers Pegasi;S5;E5
+SongName;You make the seasons in the sky;S5;E5
+SongName;I don't want to sabotage you;S5;E5
+SongName;But you see, I've got to try;S5;E5
+SongName;No winter can come here now;S5;E5
+SongName;I'll keep the warmth and the sun somehow;S5;E5
+SongName;I'm sorry, ponies, this has to be;S5;E5
+SongName;For I need my friend and he needs me;S5;E5
+SongName;I know it's wrong, but what does it matter?;S5;E5
+SongName;'Cause nothing's gonna stop me now;S5;E5
+SongName;I'll change it all, it's only the weather;S5;E5
+SongName;And nopony's gonna bring me down;S5;E5
+SongName;I'll keep the sunlight shining free;S5;E5
+SongName;And I'll bust the clouds apart so you can stay with me;S5;E5
+SongName;And I'll fly, and I'll fly;S5;E5
+SongName;Until the end of the sky;S5;E5
+SongName;So I'll be the one who doesn't;S5;E5
+SongName;Have to say goodbye;S5;E5
+SongName;I'll clear the skies forever;S5;E5
+SongName;So we won't be apart;S5;E5
+SongName;I'll keep the weather warm for you;S5;E5
+SongName;And the winter will never start!;S5;E5
+SongName;The rules of Rarity, guaranteed quality;S5;E14
+SongName;This I can assure;S5;E14
+SongName;For each and every dress;S5;E14
+SongName;I vow to give finesse;S5;E14
+SongName;With time, love, and couture;S5;E14
+SongName;My favorite moment's when a pony sees it;S5;E14
+SongName;That special gown that she just adores;S5;E14
+SongName;That pony's now in style;S5;E14
+SongName;My hard work's all worthwhile;S5;E14
+SongName;Oh, yes, it makes my heart;S5;E14
+SongName;My heart just soar;S5;E14
+SongName;The rules of Rarity, just a parody;S5;E14
+SongName;No dress here's unique;S5;E14
+SongName;The panels all the same;S5;E14
+SongName;Each colored windowpane;S5;E14
+SongName;I fashion only makes me want to shriek!;S5;E14
+SongName;Oh, to create would give me elation;S5;E14
+SongName;To feel once again some inspiration;S5;E14
+SongName;Come on now, Rarity;S5;E14
+SongName;Give me some clarity;S5;E14
+SongName;Time for your couture love to rule;S5;E14
+SongName;The rules of Rarity, extra TLC;S5;E14
+SongName;This feels more sublime;S5;E14
+SongName;Soon now, they will see how good these can be;S5;E14
+SongName;With a little extra shine;S5;E14
+SongName;The rules of Rarity, guaranteed quality;S5;E14
+SongName;All can see it's true;S5;E14
+SongName;These new gems add such flair;S5;E14
+SongName;Their beauty can't compare;S5;E14
+SongName;This old style suddenly gleams anew;S5;E14
+SongName;The rules of Rarity;S5;E14
+SongName;Once stood for something;S5;E14
+SongName;But now it feels just like some factory;S5;E14
+SongName;Now every dress I make;S5;E14
+SongName;With every flaw and mistake;S5;E14
+SongName;Oh, how it makes my heart;S5;E14
+SongName;My heart just break;S5;E14
+SongName;My favorite moment's when a pony sees it;S5;E14
+SongName;That special gown that she just adores;S5;E14
+SongName;That pony's now in style;S5;E14
+SongName;My hard work's all worthwhile;S5;E14
+SongName;Oh, yes, it makes my heart;S5;E14
+SongName;My heart just soar!;S5;E14
+SongName;Sisterhood;S5;E17
+SongName;Is a special kind of friend;S5;E17
+SongName;Sisterhood;S5;E17
+SongName;Is a bond that never ends;S5;E17
+SongName;Sisterhood;S5;E17
+SongName;Sisterhood;S5;E17
+SongName;Sisterhood;S5;E17
+SongName; ...ood;S5;E17
+SongName;We've been searchin' for our cutie marks;S5;E18
+SongName;For a while now;S5;E18
+SongName;Tryin' to find out how we fit in;S5;E18
+SongName;So many ways we've tried before;S5;E18
+SongName;But we keep on tryin' more;S5;E18
+SongName;'Cause the Cutie Mark Crusaders don't give in;S5;E18
+SongName;We'll make our mark;S5;E18
+SongName;One way or another;S5;E18
+SongName;We'll make our mark;S5;E18
+SongName;On the day that we discover;S5;E18
+SongName;The ultimate reward of our cutie marks!;S5;E18
+SongName;It's time to make a change;S5;E18
+SongName;This is our chance;S5;E18
+SongName;Don't be afraid to do what's right;S5;E18
+SongName;He's it! Vote for Pip!;S5;E18
+SongName;We got an opportunity;S5;E18
+SongName;To have fun again;S5;E18
+SongName;A vote for Pip, and you can join the fight;S5;E18
+SongName;It's time for a new leader;S5;E18
+SongName;It's time to make a change;S5;E18
+SongName;We're here to fight for what we believe;S5;E18
+SongName;It's finally time we beat her;S5;E18
+SongName;And play a better game;S5;E18
+SongName;'Cause when we vote together;S5;E18
+SongName;There's nothing that we can't achieve;S5;E18
+SongName;I don't believe what I am hearing;S5;E18
+SongName;I'm the only one you should be cheering;S5;E18
+SongName;Pipsqueak? Try "Pip's weak!" Don't you think?;S5;E18
+SongName;But a diamond is perfection;S5;E18
+SongName;It's natural selection;S5;E18
+SongName;So your vote better be for me, not the weakest link;S5;E18
+SongName;Everypony has their little secrets;S5;E18
+SongName;A vote for me will help you keep them safe;S5;E18
+SongName;Like your creepy super strength!;S5;E18
+SongName;Or your mane extension;S5;E18
+SongName;A little thing I won't mention;S5;E18
+SongName;Or those freakish large teeth in your face!;S5;E18
+SongName;You've gotta vote for change;S5;E18
+SongName;It's time for a new leader;S5;E18
+SongName;End all the tyranny;S5;E18
+SongName;Vote now and we can beat her;S5;E18
+SongName;It's now another day;S5;E18
+SongName;And we believe in what's right;S5;E18
+SongName;Vote for Pip! Vote for Pip!;S5;E18
+SongName;Our victory is in sight;S5;E18
+SongName;I've a tiny suggestion;S5;E18
+SongName;That you should be aware;S5;E18
+SongName;You could probably win this election;S5;E18
+SongName;If you show them all you real—;S5;E18
+SongName;Vote!;S5;E18
+SongName;Stand strong and don't be afraid, ponies;S5;E18
+SongName;Let's free ourselves from the past;S5;E18
+SongName;For Pip!;S5;E18
+SongName;Vote!;S5;E18
+SongName;He's it! Vote for Pip! Vote!;S5;E18
+SongName;We'll let honor win out against the tyranny;S5;E18
+SongName;And make a change that will last;S5;E18
+SongName;For Pip!;S5;E18
+SongName;Vote!;S5;E18
+SongName;Vote for Pip!;S5;E18
+SongName;It's time for a new leader;S5;E18
+SongName;It's time to make a change;S5;E18
+SongName;We're here to fight for what we believe;S5;E18
+SongName;Vote for Pip!;S5;E18
+SongName;It's finally time we beat her;S5;E18
+SongName;And play a better game;S5;E18
+SongName;'Cause when we vote together;S5;E18
+SongName;There's nothing that we can't achieve;S5;E18
+SongName;Vote for Pip!;S5;E18
+SongName;If I'm a diamond;S5;E18
+SongName;Then why do I feel so rough?;S5;E18
+SongName;I'm as strong as a stone;S5;E18
+SongName;Even that's not enough;S5;E18
+SongName;There's something jagged in me;S5;E18
+SongName;And I've made such mistakes;S5;E18
+SongName;I thought that diamonds were hard;S5;E18
+SongName;Though I feel I could break;S5;E18
+SongName;Would you believe;S5;E18
+SongName;That I've always wished I could be somepony else?;S5;E18
+SongName;Yet I can't see;S5;E18
+SongName;What I need to do to be the pony I want to be;S5;E18
+SongName;I've been told my whole life;S5;E18
+SongName;What to do, what to say;S5;E18
+SongName;Nopony showed me that;S5;E18
+SongName;There might be some better way;S5;E18
+SongName;And now I feel like I'm lost;S5;E18
+SongName;I don't know what to do;S5;E18
+SongName;The ground is sinking away;S5;E18
+SongName;I'm about to fall through;S5;E18
+SongName;Would you believe;S5;E18
+SongName;That I've always wished I could be somepony else?;S5;E18
+SongName;Yet I can't see;S5;E18
+SongName;What I need to do to be the pony I want to be;S5;E18
+SongName;To be the pony I want to be;S5;E18
+SongName;Cutie Mark Crusaders, get out of my way;S5;E18
+SongName;Those ponies need to know the truth;S5;E18
+SongName;And they'll hear it from me;S5;E18
+SongName;Stop! Diamond Tiara, this is not the way;S5;E18
+SongName;You know you're better than this hostility;S5;E18
+SongName;You don't even know me at all;S5;E18
+SongName;Don't understand the meaning of my fall;S5;E18
+SongName;What my family would think if I ever;S5;E18
+SongName;Fail at anything;S5;E18
+SongName;I'm a diamond – that means you'll never break;S5;E18
+SongName;No matter what be the cost of the path I take;S5;E18
+SongName;Whatever I have to do to win in the end;S5;E18
+SongName;Stop! This is not the answer;S5;E18
+SongName;Wait! And it's plainly seen;S5;E18
+SongName;Listen! You can redeem yourself;S5;E18
+SongName;But by helping others, not by being mean;S5;E18
+SongName;We know you want friends who admire you;S5;E18
+SongName;You want to be the star with all the power too;S5;E18
+SongName;But there's a better way, there's a better wa-a-ay;S5;E18
+SongName;There's so much more still left to;S5;E18
+SongName;Learn about yourself;S5;E18
+SongName;See the light that shines in you;S5;E18
+SongName;We know you can be somepony else;S5;E18
+SongName;You can stop right now;S5;E18
+SongName;And try another start;S5;E18
+SongName;You'll finally free yourself from the dark;S5;E18
+SongName;And see the light;S5;E18
+SongName;And see the light of your cutie mark;S5;E18
+SongName;We'll build a playground;S5;E18
+SongName;For all of us to enjoy;S5;E18
+SongName;So full of games;S5;E18
+SongName;There's enough for each girl and boy;S5;E18
+SongName;I want to help and do;S5;E18
+SongName;Everything that I can;S5;E18
+SongName;I'm here to show you I changed;S5;E18
+SongName;Listen up, here's the plan;S5;E18
+SongName;Bring it in! That's right, keep it coming! Hey there, you with the amazing strength. Can you help them move that merry-go-round across the lawn? Thank you so much! And you with the super teeth, we need you to help with that teeter-totter. You got it! That's the spirit!;S5;E18
+SongName;There's so much I can do;S5;E18
+SongName;To help everypony else;S5;E18
+SongName;I see the light that shines in me;S5;E18
+SongName;I know I can be my better self;S5;E18
+SongName;I can free the past;S5;E18
+SongName;'Cause now the future's bright for me;S5;E18
+SongName;My cutie mark has set me free;S5;E18
+SongName;To do what's right and be the pony I want to be;S5;E18
+SongName;And be the pony I want to be!;S5;E18
+SongName;We were searching for our cutie marks;S5;E18
+SongName;For a while there;S5;E18
+SongName;Trying to find out how we fit in;S5;E18
+SongName;So many ways we've tried before;S5;E18
+SongName;But we kept on trying more;S5;E18
+SongName;'Cause the Cutie Mark Crusaders don't give in;S5;E18
+SongName;Now we know what it took all along;S5;E18
+SongName;And our journey here is never really done;S5;E18
+SongName;For it is more than just a mark;S5;E18
+SongName;It's a place for us to start;S5;E18
+SongName;An adventure that has only just begun;S5;E18
+SongName;We'll make our mark;S5;E18
+SongName;Show the world what we can do;S5;E18
+SongName;We'll make our mark;S5;E18
+SongName;Helping fillies to break through;S5;E18
+SongName;To the ultimate reward of a cutie mark;S5;E18
+SongName;I'm so proud of you, little buddy;S5;E18
+SongName;You've taught me a thing or two;S5;E18
+SongName;You've inspired everypony around you;S5;E18
+SongName;And you've inspired me too;S5;E18
+SongName;You've made your mark;S5;E18
+SongName;Done Equestria so proud;S5;E18
+SongName;You've made your mark;S5;E18
+SongName;And we're here to sing it loud;S5;E18
+SongName;For the ultimate reward of your cutie mark;S5;E18
+SongName;We started out just three;S5;E18
+SongName;Crusaders driven to see;S5;E18
+SongName;What we find in our hearts;S5;E18
+SongName;Discover our destiny;S5;E18
+SongName;And here we are, best friends;S5;E18
+SongName;About to start it again;S5;E18
+SongName;An adventure that never will end;S5;E18
+SongName;We'll make our mark;S5;E18
+SongName;Helping fillies most in need;S5;E18
+SongName;We'll make our mark;S5;E18
+SongName;So each one of them succeeds;S5;E18
+SongName;'Cause the ultimate reward is a cutie mark!;S5;E18
+SongName;Equestria, the land I love;S5;E24
+SongName;A land of harmony;S5;E24
+SongName;Our flag does wave from high above;S5;E24
+SongName;For ponykind to see;S5;E24
+SongName;Equestria, a land of friends;S5;E24
+SongName;Where ponykind do roam;S5;E24
+SongName;They say true friendship never ends;S5;E24
+SongName;Equestria, my home;S5;E24
+SongName;Time for the spectacle;S5;E24
+SongName;Time for the show;S5;E24
+SongName;The lights are bright and the colors glow;S5;E24
+SongName;I'm not just anypony;S5;E24
+SongName;I think you know;S5;E24
+SongName;The time is now, it's about to blow!;S5;E24
+SongName;Razzle dazzle;S5;E24
+SongName;Glitz and glam;S5;E24
+SongName;Turn it all up, it's a spectacle;S5;E24
+SongName;Razzle dazzle;S5;E24
+SongName;Glitz and glam;S5;E24
+SongName;Turn it all up, it's a spectacle;S5;E24
+SongName;Give me more;S5;E24
+SongName;Razzle dazzle;S5;E24
+SongName;Glitter eyes, big surprise;S5;E24
+SongName;Lights, cameras;S5;E24
+SongName;Razzle dazzle;S5;E24
+SongName;Glitz and glam;S5;E24
+SongName;Turn it all up, it's a spectacle;S5;E24
+SongName;Hear the applause;S5;E24
+SongName;Here to impress;S5;E24
+SongName;Not just a pony, I am the Countess!;S5;E24
+SongName;I'm here to show you who I am;S5;E24
+SongName;Throw off the veil, it's finally time;S5;E24
+SongName;There's more to me than glitz and glam, oh-whoa;S5;E24
+SongName;And now I feel my stars align;S5;E24
+SongName;For I had believed what I was sold;S5;E24
+SongName;I did all the things that I was told;S5;E24
+SongName;But all that has changed, and now I'm bold;S5;E24
+SongName;'Cause I know;S5;E24
+SongName;That I am just a pony;S5;E24
+SongName;I make mistakes from time to time;S5;E24
+SongName;But now I know the real me;S5;E24
+SongName;And put my heart out on the line;S5;E24
+SongName;And let the magic in my heart stay true;S5;E24
+SongName;Whoa-whoa-whoa-whoa;S5;E24
+SongName;And let the magic in my heart stay true;S5;E24
+SongName;Whoa-whoa-whoa-whoa;S5;E24
+SongName;Just like the magic inside of you;S5;E24
+SongName;And now I see those colors;S5;E24
+SongName;Right before my eyes;S5;E24
+SongName;I hear my voice so clearly;S5;E24
+SongName;And I know that it is right;S5;E24
+SongName;They thought I was weak, but I am strong;S5;E24
+SongName;They sold me the world, but they were wrong;S5;E24
+SongName;And now that I'm back, I still belong;S5;E24
+SongName;'Cause I know;S5;E24
+SongName;That I am just a pony;S5;E24
+SongName;I make mistakes from time to time;S5;E24
+SongName;But now I know the real me;S5;E24
+SongName;And put my heart out on the line;S5;E24
+SongName;And let the magic in my heart stay true;S5;E24
+SongName;Whoa-whoa-whoa-whoa;S5;E24
+SongName;And let the magic in my heart stay true;S5;E24
+SongName;Whoa-whoa-whoa-whoa;S5;E24
+SongName;Just like the magic inside of you;S5;E24
+SongName;Just like the magic inside of you...;S5;E24
+SongName;Equestria, the land I love;S5;E24
+SongName;A land of harmony;S5;E24
+SongName;Our flag does wave from high above;S5;E24
+SongName;For ponykind to see;S5;E24
+SongName;Equestria, a land of friends;S5;E24
+SongName;Where ponykind do roam;S5;E24
+SongName;They say true friendship never ends;S5;E24
+SongName;Equestria, my home;S5;E24
+SongName;I never thought that I would find a place;S5;E26
+SongName;To step right in and start again;S5;E26
+SongName;I never thought that I could just begin;S5;E26
+SongName;Right where I left off and make a friend;S5;E26
+SongName;Don't ever think that it might be too late;S5;E26
+SongName;You don't have to wait, there's no mistakes with the friends you make;S5;E26
+SongName;A friendship's only made of what you bring;S5;E26
+SongName;And if you do it right, you can do anything;S5;E26
+SongName;Just use your eyes;S5;E26
+SongName;This time, no lies;S5;E26
+SongName;Just don't disguise;S5;E26
+SongName;Who you are inside;S5;E26
+SongName;Because your friends are always there for you;S5;E26
+SongName;You don't have to be the same for friendship to be true;S5;E26
+SongName;Because your friends are always there for you;S5;E26
+SongName;Around the world, it's still the same;S5;E26
+SongName;Together you have more to gain;S5;E26
+SongName;There's nothing that a friend won't do;S5;E26
+SongName;Everywhere you go;S5;E26
+SongName;Friendship there will grow;S5;E26
+SongName;When you find it, it's the key;S5;E26
+SongName;Friends can change the world, you see;S5;E26
+SongName;Everywhere you go;S5;E26
+SongName;Friendship there will grow;S5;E26
+SongName;When you find it, it's the key;S5;E26
+SongName;Friends can change the world ;S5;E26
+SongName;Friends can change the world ;S5;E26
+SongName;Friends can change the world, you see;S5;E26
+SongName;It's the Pie Sisters' Swap Day Sooooooong!;S6;E3
+SongName;I never imagined myself out on my own;S6;E4
+SongName;Tryin' to find out what's next for me;S6;E4
+SongName;The Cutie Mark Crusaders have always been my home;S6;E4
+SongName;Maybe now there's more that I could be;S6;E4
+SongName;I guess as time goes by;S6;E4
+SongName;Everypony has to go out on their own;S6;E4
+SongName;And maybe someday I'll have to try;S6;E4
+SongName;Somethin' new that's just for me;S6;E4
+SongName;A little somethin' that could be;S6;E4
+SongName;Just my own and I won't feel so left behind;S6;E4
+SongName;We used to say that we'd be always side by side;S6;E4
+SongName;Maybe things are changin' and this could mean goodbye;S6;E4
+SongName;I always thought our friendship was all I'd ever need;S6;E4
+SongName;We've always been crusadin' – what else is there for me?;S6;E4
+SongName;I guess as time goes by;S6;E4
+SongName;Everypony has to go out on their own;S6;E4
+SongName;And maybe someday I'll have to try;S6;E4
+SongName;Somethin' new that's just for me;S6;E4
+SongName;A little somethin' that could be;S6;E4
+SongName;Just my own and I won't feel so left behind;S6;E4
+SongName;Ponies' voices fill the night;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Happy hearts so full and bright;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Oh, what a sight;S6;E8
+SongName;Look at the light;S6;E8
+SongName;All for tonight;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName; they're just so;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Gonna make some awesome snow;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;The chill wind blows;S6;E8
+SongName;Making a show;S6;E8
+SongName;Snowflakes aglow;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;A day that's filled with songs to sing;S6;E8
+SongName;Ding-dong, ding-dong-ding;S6;E8
+SongName;Cakes and pastries we shall bring;S6;E8
+SongName;Ding-dong, ding-dong-ding;S6;E8
+SongName;We're so busy making merry;S6;E8
+SongName;Windigos should all be wary;S6;E8
+SongName;As our mighty voices carry;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Decorations we shall make;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Perfection you just cannot fake;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Not one mistake;S6;E8
+SongName;Don't let that break;S6;E8
+SongName;Oh, goodness' sake!;S6;E8
+SongName;Hearth's Warming Eve is here once a—;S6;E8
+SongName;Happy, happy Hearth's Warming Eve;S6;E8
+SongName;Happy, happy Hearth's Warming Eve;S6;E8
+SongName;Hearth's Warming Eve is here once again!;S6;E8
+SongName;Hearth's Warming Eve is filled with presents;S6;E8
+SongName;Some take you by surprise;S6;E8
+SongName;A story shared by your good friends;S6;E8
+SongName;That makes your spirits rise;S6;E8
+SongName;Sometimes you just let go of the past;S6;E8
+SongName;Enjoy the present while it lasts;S6;E8
+SongName;And really it's not that much to ask;S6;E8
+SongName;With good friends by your side;S6;E8
+SongName;Now it's time to celebrate;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;All together, feeling great;S6;E8
+SongName;Hearth's Warming Eve is here once again;S6;E8
+SongName;Can hardly wait;S6;E8
+SongName;We'll party 'til late;S6;E8
+SongName;Our favorite date;S6;E8
+SongName;Hearth's Warming Eve is here once a—;S6;E8
+SongName;Happy, happy Hearth's Warming Eve;S6;E8
+SongName;Happy, happy Hearth's Warming Eve;S6;E8
+SongName;Hearth's Warming Eve is here once again!;S6;E8
+SongName;Everypony has times in their lives;S6;E11
+SongName;When their hearts are filled with doubt;S6;E11
+SongName;Frustration builds up inside;S6;E11
+SongName;And it makes you want to shout;S6;E11
+SongName;But if you just take that first step;S6;E11
+SongName;The next one will appear;S6;E11
+SongName;And you find you can walk, then run;S6;E11
+SongName;Then fly...!;S6;E11
+SongName;Into the stratosphere;S6;E11
+SongName;You've got to give it your best;S6;E11
+SongName;So you can pass the test;S6;E11
+SongName;Give it everything that you've got;S6;E11
+SongName;And we know you can win;S6;E11
+SongName;You just have to begin;S6;E11
+SongName;Have to give it your very best shot;S6;E11
+SongName;There are times when you want to give up;S6;E11
+SongName;When you think that you can't go on;S6;E11
+SongName;But if you fight through with all of your might;S6;E11
+SongName;You will find that you can't go wrong;S6;E11
+SongName;That you could do it all along;S6;E11
+SongName;Everypony has times in their lives;S6;E11
+SongName;When their hearts are filled with doubt;S6;E11
+SongName;But if you just give it your all;S6;E11
+SongName;You'll start to work it out;S6;E11
+SongName;And I know I can't give up too soon;S6;E11
+SongName;Get myself in the zone;S6;E11
+SongName;And I find I can walk, then run;S6;E11
+SongName;Then fly...!;S6;E11
+SongName;I can do it on my own;S6;E11
+SongName;You can do it on your own;S6;E11
+SongName;I can do it on my own;S6;E11
+SongName;I can do it on my own;S6;E11
+SongName;Here's what I know:;S6;E12
+SongName;If you want to succeed;S6;E12
+SongName;You must follow the trends, that's the key;S6;E12
+SongName;If you want to show;S6;E12
+SongName;That you've got what it takes;S6;E12
+SongName;You must be what they want you to be;S6;E12
+SongName;Here's what I know:;S6;E12
+SongName;Your food is so good;S6;E12
+SongName;The flavor's so fancy and free;S6;E12
+SongName;You just need to show;S6;E12
+SongName;That unique sense of taste;S6;E12
+SongName;Go on, be yourself, let them see;S6;E12
+SongName;It's gonna work;S6;E12
+SongName;I know it's gonna work;S6;E12
+SongName;It's gonna work out just fine, trust me;S6;E12
+SongName;It's gonna work;S6;E12
+SongName;I swear it's gonna work;S6;E12
+SongName;It's gonna work out just fine, you'll see!;S6;E12
+SongName;You need to change;S6;E12
+SongName;If you want to compete;S6;E12
+SongName;But fear not, for I know what to do;S6;E12
+SongName;I know it feels strange;S6;E12
+SongName;But trust me, when we're done;S6;E12
+SongName;We'll make sure that you're a hit, too;S6;E12
+SongName;Don't ever change;S6;E12
+SongName;Being different is good;S6;E12
+SongName;Don't let what others do be your cue;S6;E12
+SongName;Never rearrange;S6;E12
+SongName;'Cause somepony said you should;S6;E12
+SongName;Just trust your heart, it will know what to do;S6;E12
+SongName;It's gonna work;S6;E12
+SongName;I know it's gonna work;S6;E12
+SongName;It's gonna work out just fine, trust me;S6;E12
+SongName;It's gonna work;S6;E12
+SongName;I swear it's gonna work;S6;E12
+SongName;It's gonna work out just fine, you'll see!;S6;E12
+SongName;Be unique;S6;E12
+SongName;Just be the same;S6;E12
+SongName;Trust your heart;S6;E12
+SongName;You'll make your name;S6;E12
+SongName;We'll help you every step of the way;S6;E12
+SongName;Because we know what you need to do;S6;E12
+SongName;And you should know it too;S6;E12
+SongName;It's gonna work;S6;E12
+SongName;I know it's gonna work;S6;E12
+SongName;It's gonna work out just fine, trust me;S6;E12
+SongName;It's gonna work;S6;E12
+SongName;I swear it's gonna work;S6;E12
+SongName;It's gonna work out just fine, you'll see!;S6;E12
+SongName;Go, go, go!;S6;E14
+SongName;Check me out, racin' the Derby;S6;E14
+SongName;Check out my old-fashioned cart;S6;E14
+SongName;Check me out, racing the Derby;S6;E14
+SongName;In my original work of art;S6;E14
+SongName;Check me out, faster than ever;S6;E14
+SongName;There's nopony can catch me now;S6;E14
+SongName;Let me out, I'd do it over;S6;E14
+SongName;If I only knew how!;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Go, go, go!;S6;E14
+SongName;My cart's the most original;S6;E14
+SongName;Designed with imagination;S6;E14
+SongName;My cart's the most traditional;S6;E14
+SongName;Just plain, no complications;S6;E14
+SongName;Look at me, I am the ace;S6;E14
+SongName;Might as well give up the chase;S6;E14
+SongName;Wish we could stop this race;S6;E14
+SongName;Start again and do it our way;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Go, go, go!;S6;E14
+SongName;Gotta get some attention;S6;E14
+SongName;If I want that ribbon;S6;E14
+SongName;Gotta push the limit further;S6;E14
+SongName;Blow away the competition;S6;E14
+SongName;Gotta coast on through;S6;E14
+SongName;Just relax, we're gonna cruise it;S6;E14
+SongName;Guess I don't really care;S6;E14
+SongName;Since we're clearly gonna lose it;S6;E14
+SongName;See, everypony's watching;S6;E14
+SongName;Presentation is a glory;S6;E14
+SongName;Just passed you, even faster;S6;E14
+SongName;Speed is king, end of story;S6;E14
+SongName;Bigger, bolder down the track;S6;E14
+SongName;Love the view from the back of the pack;S6;E14
+SongName;Won't stop, we're on the attack;S6;E14
+SongName;Too late to take it all back!;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Giddyup, derby racers;S6;E14
+SongName;Go, go—;S6;E14
+SongName;Would you say I'm a hero;S6;E16
+SongName;Glorious and brave;S6;E16
+SongName;If I told you something you wouldn't believe?;S6;E16
+SongName;That sometimes I'm scared;S6;E16
+SongName;And I can make mistakes;S6;E16
+SongName;And I'm not so heroic, it seems;S6;E16
+SongName;But if day can turn to night;S6;E16
+SongName;And the darkness turn to light;S6;E16
+SongName;Then why can't we imagine a changeling can change?;S6;E16
+SongName;No two ponies are exactly the same;S6;E16
+SongName;No two snowflakes ever match their design;S6;E16
+SongName;And I thought I was strong;S6;E16
+SongName;But I was nothing but wrong;S6;E16
+SongName;When I forgot to be friendly and kind;S6;E16
+SongName;But if day can turn to night;S6;E16
+SongName;And the darkness turn to light;S6;E16
+SongName;Then why can't we imagine a changeling can change?;S6;E16
+SongName;Would you say I'm a hero;S6;E16
+SongName;Glorious and brave;S6;E16
+SongName;If I told you something you wouldn't believe?;S6;E16
+SongName;This changeling, it seems;S6;E16
+SongName;Knows the real me;S6;E16
+SongName;And would stay by my side 'til the end;S6;E16
+SongName;So if day can turn to night;S6;E16
+SongName;And the darkness turn to light;S6;E16
+SongName;Then why can't we imagine;S6;E16
+SongName;Just why can't we imagine;S6;E16
+SongName;Then why can't we imagine a changeling can change?;S6;E16
+SongName;Carryin' my water;S6;E18
+SongName;My water, my water;S6;E18
+SongName;Carryin' my water;S6;E18
+SongName;On my shoulder pole;S6;E18
+SongName;Like a racer at the starting line;S6;E19
+SongName;You're chomping at the bit;S6;E19
+SongName;You are here to find your purpose;S6;E19
+SongName;And a place you really fit;S6;E19
+SongName;And until you find your place in life;S6;E19
+SongName;You're never gonna quit;S6;E19
+SongName;We can help you find the purpose in your life;S6;E19
+SongName;A griffon mixes lion's strength;S6;E19
+SongName;With winged eagle's might;S6;E19
+SongName;When I finally find my purpose;S6;E19
+SongName;Then my cutie mark's in sight;S6;E19
+SongName;Crusaders, I won't let you down;S6;E19
+SongName;I've just begun to fight;S6;E19
+SongName;You're gonna help me find the purpose in my life;S6;E19
+SongName;Got a job that's just no fun?;S6;E19
+SongName;Call on me, I'll get it done;S6;E19
+SongName;Cauldron's stuck and needs a mix?;S6;E19
+SongName;I'm the one who's got the fix;S6;E19
+SongName;Help you teach pre-calculus;S6;E19
+SongName;Scrub the floors, won't make a fuss;S6;E19
+SongName;Clearing kelp? Just give a yelp;S6;E19
+SongName;Raring to go, ready to help!;S6;E19
+SongName;That's the spirit;S6;E19
+SongName;You ought to see what you do best;S6;E19
+SongName;Try it all, pick your fave;S6;E19
+SongName;And leave behind the rest;S6;E19
+SongName;I'll try anything;S6;E19
+SongName;To get my cutie mark;S6;E19
+SongName;Keep up with me, Crusaders;S6;E19
+SongName;We're just getting our start;S6;E19
+SongName;Rock your little ones to sleep;S6;E19
+SongName;While hanging up the sheets;S6;E19
+SongName;I can help you with your heavy load;S6;E19
+SongName;Walk Granny 'cross the street;S6;E19
+SongName;I'll run you 'round the bases fast;S6;E19
+SongName;It's really no big feat;S6;E19
+SongName;Can we help her find the purpose in her life?;S6;E19
+SongName;Cheer you if you're feeling low;S6;E19
+SongName;Plant your garden, make it grow;S6;E19
+SongName;Write a piece for your quartet;S6;E19
+SongName;Filling in on clarinet;S6;E19
+SongName;Bake that cake as fast as lightning;S6;E19
+SongName;She's so good at things, it's frightening;S6;E19
+SongName;Cutie Mark Crusaders,;S6;E19
+SongName;I think we've got a problem!;S6;E19
+SongName;Build a boat;S6;E19
+SongName;And sail it out across the sea;S6;E19
+SongName;Need some help?;S6;E19
+SongName;You know that you can count on me;S6;E19
+SongName;CMCs, you're gonna help me find my purpose;S6;E19
+SongName;The purpose in my life!;S6;E19
+SongName;In my life!;S6;E19
+SongName;Friendship used to make me so queasy, queasy;S7;E2
+SongName;But you made it all so easy, easy;S7;E2
+SongName;Now I don't have to say what I'm thinking;S7;E2
+SongName;You already know without even blinking;S7;E2
+SongName;You girls are the apple of my eye;S7;E2
+SongName;The race that doesn't end in a tie;S7;E2
+SongName;You are the funnel cake at my fair;S7;E2
+SongName;The warm hug of a fuzzy bear;S7;E2
+SongName;Best friends until the end of time;S7;E2
+SongName;We'll have each other's backs;S7;E2
+SongName;And let our true selves shine;S7;E2
+SongName;And that's because everything we need is all right here;S7;E2
+SongName;When we're with our team;S7;E2
+SongName;I simply can't imagine there'd be a day;S7;E2
+SongName;Where I wouldn't want to be walking your way;S7;E2
+SongName;Whatever new problems there may be, may be;S7;E2
+SongName;Our friendship is always the door with a key;S7;E2
+SongName;You are the jewels in my friendship crown;S7;E2
+SongName;The sparks that make my world go 'round;S7;E2
+SongName;We bring the best out, that's our goal;S7;E2
+SongName;There's no telling how far we'll go;S7;E2
+SongName;Best friends until the end of time;S7;E2
+SongName;We'll have each other's backs;S7;E2
+SongName;And let our true selves shine;S7;E2
+SongName;And that's because everything we need is all right here;S7;E2
+SongName;When we're with our team!;S7;E2
+SongName;We'll take a walk down by the river;S7;E8
+SongName;Watch the sunset from the field;S7;E8
+SongName;We'll plant the seeds of love together;S7;E8
+SongName;And water 'em right for a really good yield;S7;E8
+SongName;Sugar Belle, sweet as pie;S7;E8
+SongName;You're the apple of my eye;S7;E8
+SongName;A cherry blossom in a field of rye;S7;E8
+SongName;And when the heifer's milked and fed;S7;E8
+SongName;And the pigs are in the sty;S7;E8
+SongName;Won't you be there by my side?;S7;E8
+SongName;Oh, oh;S7;E8
+SongName;Oh, ah-oh;S7;E8
+SongName;When you appeared before me;S7;E8
+SongName;My heart stopped beating;S7;E8
+SongName;Stars crossed the sky;S7;E8
+SongName;To come see what I was seeing;S7;E8
+SongName;You were the one;S7;E8
+SongName;That made me believe I could fly;S7;E8
+SongName;Whoa, whoa, whoa;S7;E8
+SongName;Birds could not sing;S7;E8
+SongName;A song that's as beautiful;S7;E8
+SongName;I'd do anything;S7;E8
+SongName;That's irrefutable;S7;E8
+SongName;'Cause you are the sun;S7;E8
+SongName;Painting my heart in the sky ;S7;E8
+SongName;Sugar, Sugar Belle, whoa-oh;S7;E8
+SongName;When will you tell me that you feel the same?;S7;E8
+SongName;Like an angel on a candy cane;S7;E8
+SongName;Or the sunlight shining through a drain;S7;E8
+SongName;Sugar Belle, when I look in your eyes;S7;E8
+SongName;I see the color blue;S7;E8
+SongName;And it reminds me of the sky above;S7;E8
+SongName;Uh, which is also... blue;S7;E8
+SongName;Hey, hey, hey, yeah;S7;E8
+SongName;Be my sugarplum;S7;E8
+SongName;I will be your watermelon;S7;E8
+SongName;Every time you smile;S7;E8
+SongName;I can feel my heart a-swellin';S7;E8
+SongName;Blood is rushing from my head to my hooves, yeah;S7;E8
+SongName;I start movin' when I'm feeling that groove, yeah;S7;E8
+SongName;I've been writin' this song for you;S7;E8
+SongName;Searchin' for the perfect rhyme;S7;E8
+SongName;For the words I wanna say;S7;E8
+SongName; Be mine;S7;E8
+SongName; Every day I see you;S7;E8
+SongName;I know you could be the one for me;S7;E8
+SongName;Feel my heart a-beating like;S7;E8
+SongName;The rain upon a bumblebee;S7;E8
+SongName;Don't you see that I could, ah oh, ah oh;S7;E8
+SongName;Whenever you are near me, I'm so... ah-oh;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Roses are red and violets are blue!;S7;E8
+SongName;Sugar, Sugar!;S7;E8
+SongName;My love is burning hot like a cheese fondue!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;Sugar Belle!;S7;E8
+SongName;We're far apart in every way;S7;E13
+SongName;But you're the best part of my day;S7;E13
+SongName;And sure as I breathe the air;S7;E13
+SongName;I know we are the perfect pair;S7;E13
+SongName;On a prickly path that goes on for miles;S7;E13
+SongName;But it's worth it just to see you smile;S7;E13
+SongName;And I cannot be pulled apart;S7;E13
+SongName;From the hold you have on my heart;S7;E13
+SongName;And even if the world tells us it's wrong;S7;E13
+SongName;You're in my head like a catchy song;S7;E13
+SongName;The seasons change and leaves may fall;S7;E13
+SongName;But I'll be with you through them all;S7;E13
+SongName;And rain or shine, you'll always be mine;S7;E13
+SongName;On a prickly path that goes on for miles;S7;E13
+SongName;You're the only one who makes it all worthwhile;S7;E13
+SongName;And you should not blame me, too;S7;E13
+SongName;If I can't help fallin' in love with you...;S7;E13
+SongName;I never claimed to be perfect;S7;E14
+SongName;My mistakes are all written in ink;S7;E14
+SongName;None of us claimed to be perfect;S7;E14
+SongName;And it's sad if that's what you all think;S7;E14
+SongName;Our flaws helped to make us special;S7;E14
+SongName;They bond us and keep us strong;S7;E14
+SongName;Our flaws are what brought us together;S7;E14
+SongName;So stop actin' like somethin's wrong;S7;E14
+SongName;We're not flawless;S7;E14
+SongName;We're a work in progress;S7;E14
+SongName;We've got dents and we've got quirks;S7;E14
+SongName;But it's our flaws that make us work;S7;E14
+SongName;Yeah, we're not flawless;S7;E14
+SongName;We're a work in progress;S7;E14
+SongName;So tell me what flaws you got, too;S7;E14
+SongName;'Cause I still like what's flawed about you;S7;E14
+SongName;They say I'm a big shot;S7;E14
+SongName;That my ego's the size of a whale;S7;E14
+SongName;My confidence comes off as cocky;S7;E14
+SongName;But it gives me the courage to fail;S7;E14
+SongName;Sure, I can be a drama queen;S7;E14
+SongName;A bit stuck-up, it's true;S7;E14
+SongName;And I can be too eager to please;S7;E14
+SongName;There's such thing as bein' too honest, too, 'cause;S7;E14
+SongName;We're not flawless;S7;E14
+SongName;We're a work in progress;S7;E14
+SongName;We've got dents and we've got quirks;S7;E14
+SongName;But it's our flaws that make us work;S7;E14
+SongName;Yeah, we're not flawless;S7;E14
+SongName;We're a work in progress;S7;E14
+SongName;So tell me what flaws you got, too;S7;E14
+SongName;'Cause I still like what's flawed about you;S7;E14
+SongName;Ponies think I'm all bubbles and laughter;S7;E14
+SongName;That I don't seem sincere;S7;E14
+SongName;I might joke around a little too much;S7;E14
+SongName;But I'm just so happy you're here;S7;E14
+SongName;It took me a while to be confident;S7;E14
+SongName;To really come out of my shell;S7;E14
+SongName;But nopony has to be perfect;S7;E14
+SongName;By now, don't you know us so well? Because, yeah;S7;E14
+SongName;We're not flawless;S7;E14
+SongName;We're a work in progress;S7;E14
+SongName;We've got dents and we've got quirks;S7;E14
+SongName;But it's our flaws that make us work;S7;E14
+SongName;Yeah, we're not flawless;S7;E14
+SongName;We're a work in progress;S7;E14
+SongName;"Cutie marks are great," they say;S7;E21
+SongName;Pfft, yeah, right!;S7;E21
+SongName;They make you special in your way;S7;E21
+SongName;But that special mark that's just for you;S7;E21
+SongName;Will erase the stuff you liiiiiiike... to do;S7;E21
+SongName;So you're good at charming snakes;S7;E21
+SongName;Too bad!;S7;E21
+SongName;Or you bake delicious cakes;S7;E21
+SongName;Oh, well!;S7;E21
+SongName;Maybe there are lots of things;S7;E21
+SongName;That you like to do;S7;E21
+SongName;Well, your options get pretty stark;S7;E21
+SongName;Once you got that cutie mark;S7;E21
+SongName;Blank flanks are better;S7;E21
+SongName;Nopony to tell you who you have to be;S7;E21
+SongName;Blank flanks are better;S7;E21
+SongName;Keep your spirit soarin' free;S7;E21
+SongName;So listen up 'cause I ain't lyin';S7;E21
+SongName;Don't need no mark, so why keep tryin'?;S7;E21
+SongName;If you like just bein' you;S7;E21
+SongName;Then keepin' that blank flank blank;S7;E21
+SongName;Is the thiiiiiiiing to do;S7;E21
+SongName;Blank flanks;S7;E21
+SongName;Blank flanks;S7;E21
+SongName;Blank flanks;S7;E21
+SongName;Blank flanks;S7;E21
+SongName;You say there's nothin' you can do?;S7;E21
+SongName;A blank flank is the way for you;S7;E21
+SongName;It's no work to just be who you are;S7;E21
+SongName;No hunt to be some cutie star;S7;E21
+SongName;You're perfect just being you;S7;E21
+SongName;Don't bother with what you cannot do;S7;E21
+SongName;Blank flanks!;S7;E21
+SongName;...are better;S7;E21
+SongName;Nopony to tell you who you have to be;S7;E21
+SongName;Blank flanks!;S7;E21
+SongName;...are better;S7;E21
+SongName;Keep your spirit soarin' free;S7;E21
+SongName;So listen up 'cause I ain't lyin';S7;E21
+SongName;Don't need no mark...;S7;E21
+SongName;...so why keep tryin'?;S7;E21
+SongName;If you like just bein' you;S7;E21
+SongName;Then keepin' that blank flank blank;S7;E21
+SongName;Is the thiiiiiiiiiing to do!;S7;E21
+SongName;Blank flanks forever!;S7;E21
+SongName;Blank flanks forever and ever!;S7;E21
+SongName;Blank flanks forever!;S7;E21
+SongName;Blank flanks forever and ever!;S7;E21
+SongName;Blank flanks forever!;S7;E21
+SongName;Blank flanks forever and ever!;S7;E21
+SongName;Blank flanks!;S7;E21
+SongName;The School of Friendship, first day of class;S8;E1
+SongName;Will we fail or will we pass?;S8;E1
+SongName;Students come from far and wide;S8;E1
+SongName;Brand-new friends here by our side;S8;E1
+SongName;Take a breath, look around, it's amazing;S8;E1
+SongName;I can't believe that it's real;S8;E1
+SongName;Students galore, new ideas to explore;S8;E1
+SongName;Can't contain the excitement I feel;S8;E1
+SongName;Can't mess up, can't afford a mistake now;S8;E1
+SongName;Think "success", keep it firmly in sight;S8;E1
+SongName;Make sure to do things by the book;S8;E1
+SongName;Make sure to do it all right;S8;E1
+SongName;The School of Friendship, must get to class;S8;E1
+SongName;Will we fail or will we pass?;S8;E1
+SongName;Students learning from the best;S8;E1
+SongName;Taking notes to pass the test;S8;E1
+SongName;Wait, hold on! Not like that! Just a second!;S8;E1
+SongName;I'm not sure if that method's approved;S8;E1
+SongName;Let me take a look – yup, right here in the book;S8;E1
+SongName;Come on! We just got in the groove!;S8;E1
+SongName;Can't mess up, can't afford a mistake now;S8;E1
+SongName;We are shaping young minds to ignite;S8;E1
+SongName;Do it like it says in the book;S8;E1
+SongName;Now make sure you're doing it right;S8;E1
+SongName;There's not an equation on how to have fun;S8;E1
+SongName;The students look bored now – oh, what have I done?;S8;E1
+SongName;Can't teach bein' honest, not sure what to do;S8;E1
+SongName;I'm quite certain I'm lost;S8;E1
+SongName;None of us has a clue!;S8;E1
+SongName;School of Friendship, another class;S8;E1
+SongName;Wish it were more of a blast;S8;E1
+SongName;Thought this school would be more fun;S8;E1
+SongName;Can't wait for our classes to be done;S8;E1
+SongName;School of Friendship;S8;E1
+SongName;Can't mess up, can't afford a mistake now;S8;E1
+SongName;No way to have fun;S8;E1
+SongName;Oh, what have I done?;S8;E1
+SongName;Bored with this class;S8;E1
+SongName;Think "success", keep it firmly in sight;S8;E1
+SongName;Wish that we could leave en masse!;S8;E1
+SongName;We don't have a clue;S8;E1
+SongName;Listen to this one request;S8;E1
+SongName;Make things fun, we're really stressed;S8;E1
+SongName;Make sure to do things by the book now;S8;E1
+SongName;Can we tell her this thing is a mess?;S8;E1
+SongName;This brand new school of friendship;S8;E2
+SongName;Is home to everyone;S8;E2
+SongName;We're learning how to trust;S8;E2
+SongName;We're here to all have fun;S8;E2
+SongName;With friendship ties that bind us;S8;E2
+SongName;Tighter than the strongest bonds;S8;E2
+SongName;We're hoof-in-hoof;S8;E2
+SongName;In hand in hoof in wing or even claw;S8;E2
+SongName;There's a griffon in the garden;S8;E2
+SongName;Hippogriffs hang in the hall;S8;E2
+SongName;And the door will be open;S8;E2
+SongName;To all creatures great and small;S8;E2
+SongName;And a yak or two or three;S8;E2
+SongName;Sing in perfect harmony;S8;E2
+SongName;That might have been a changeling;S8;E2
+SongName;But it kind of looks like me;S8;E2
+SongName;This school of friendship is for all of us;S8;E2
+SongName;A place where we belong;S8;E2
+SongName;Where we all learn to share and trust;S8;E2
+SongName;The only rule here is to find your way;S8;E2
+SongName;And friendship always wins at the end of the day;S8;E2
+SongName;Some things you just can't teach with books;S8;E2
+SongName;Some things you only know;S8;E2
+SongName;So trust your heart and let us lead;S8;E2
+SongName;And your friendship's sure to grow;S8;E2
+SongName;And once we master kindness;S8;E2
+SongName;We will spread it 'cross this land;S8;E2
+SongName;And give the gift that's ours to share;S8;E2
+SongName;So others understand;S8;E2
+SongName;This school of friendship is for all of us;S8;E2
+SongName;A place where we belong;S8;E2
+SongName;Where we all learn to share and trust;S8;E2
+SongName;The only rule here is to find your way;S8;E2
+SongName;And friendship always wins at the end of the day!;S8;E2
+SongName;Your heart is in two places, you can only live in one;S8;E6
+SongName;You're torn between the hilltops and the tide;S8;E6
+SongName;Thank goodness that the Cutie Mark Crusaders have begun;S8;E6
+SongName;To give you hope and help you to decide;S8;E6
+SongName;These hills, they call to you, they say "Harmonizing Heights";S8;E6
+SongName;This is your home, simple and serene;S8;E6
+SongName;The sun-dappled leaves or a mountain terrace;S8;E6
+SongName;You can see twenty-three different shades of green;S8;E6
+SongName;To dare to compare anywhere to there;S8;E6
+SongName;Is unfair and just plain wrong;S8;E6
+SongName;Colt or mare or you wear feathers, fins, or hair;S8;E6
+SongName;This is where you belong;S8;E6
+SongName;Build your nest here on Harmonizing Heights;S8;E6
+SongName;Live it up here in Seaquestria;S8;E6
+SongName;Nothing compares to Harmonizing Heights;S8;E6
+SongName;The eagles are regal;S8;E6
+SongName;But the schools are cooler;S8;E6
+SongName;Their claws are so awesome;S8;E6
+SongName;With their sweet maneuvers;S8;E6
+SongName;Star wishes every night;S8;E6
+SongName;Starfish by eel light;S8;E6
+SongName;Better;S8;E6
+SongName;Wetter;S8;E6
+SongName;Shinier;S8;E6
+SongName;Brinier;S8;E6
+SongName;Seaquestria!;S8;E6
+SongName;Harmonizing Heights!;S8;E6
+SongName;Seaquestria!;S8;E6
+SongName;Harmonizing Heights!;S8;E6
+SongName;That's it! This is the end!;S8;E6
+SongName;Don't ever talk to me again!;S8;E6
+SongName;Ponies' voices fill the night;S8;E15
+SongName;Hearth's Warming Eve is here once again;S8;E15
+SongName;Come on, everycreature! Sing!;S8;E15
+SongName;La-la-la-la, la-la-la-la;S8;E15
+SongName;La-la, la-la, la-la, la-la;S8;E15
+SongName; La-la-la-la... la...;S8;E15
+SongName;Carols, carols, carols, carols, caroooools;S8;E15
+SongName;Yak song! Yak song! Not very long! Sing again!;S8;E15
+SongName;Yak song! Yak song! Not very long! Sing again!;S8;E15
+SongName;Yak song! Yak song! Not very long! Sing again!;S8;E15
+SongName;Hearth's Warming Eve is here once again!;S8;E15
+SongName;If you're alone and you can't make friends;S8;E16
+SongName;We understand your plight;S8;E16
+SongName;Until now, there was just one way;S8;E16
+SongName;Your friendships could take flight;S8;E16
+SongName;There is a school real far away;S8;E16
+SongName;That'll teach you what to know;S8;E16
+SongName;But if you live here, you couldn't stay;S8;E16
+SongName;You'd learn you have to go-o-o-o;S8;E16
+SongName;Now, there is an alternative to all of that adversity;S8;E16
+SongName;Not just a school, I'll have you know;S8;E16
+SongName;But a whole university;S8;E16
+SongName;At Friendship U, our aim is true;S8;E16
+SongName;In a city, not some backwater;S8;E16
+SongName;You'll learn the things you need to know;S8;E16
+SongName;At our new alma mater;S8;E16
+SongName;As you can see, we're a success;S8;E16
+SongName;By any kind of stat;S8;E16
+SongName;That may be so, for all I know;S8;E16
+SongName;But I still smell a rat;S8;E16
+SongName;Everypony, lookie here;S8;E16
+SongName;That other school's headmare;S8;E16
+SongName;Her presence is a testament;S8;E16
+SongName;To the mutual respect...;S8;E16
+SongName;...we sha-a-a-are;S8;E16
+SongName;It really is the final piece;S8;E16
+SongName;To make our work complete;S8;E16
+SongName;To have the Friendship Princess;S8;E16
+SongName;Bless our school is such a treat;S8;E16
+SongName;At Friendship U, we teach to you ;S8;E16
+SongName;All of our friendship knowledge;S8;E16
+SongName;You'll learn it all in half the time;S8;E16
+SongName;At the one and only friendship college;S8;E16
+SongName;The lessons that we teach have been;S8;E16
+SongName;Reviewed and checked and edited;S8;E16
+SongName;Which might explain why our new school's;S8;E16
+SongName;About to be accredited;S8;E16
+SongName;At Friendship U, oh, yes, it's true;S8;E16
+SongName;Even the Princess of Friendship agrees;S8;E16
+SongName;The only place in Equestria;S8;E16
+SongName;To give out friendship degrees;S8;E16
+SongName;Yeah!;S8;E16
+SongName;Friendship U!;S8;E16
+SongName;Friendship U!;S8;E16
+SongName;Friendship U!;S8;E16
+SongName;Friendship U!;S8;E16
+SongName;Friendship U!;S8;E16
+SongName;Friendship U!;S8;E16
+SongName;It's the only university of Friendship U!;S8;E16
+SongName;Yeah!;S8;E16
+SongName;We're off on the road to friendship;S8;E19
+SongName;Our ride might be tiny and small;S8;E19
+SongName;But road trips are a great way, we've been told, to get along;S8;E19
+SongName;I'm glad we're sticking to it, we've already got a song;S8;E19
+SongName;We're off on the road to friendship;S8;E19
+SongName;Side by side, just like peas in a pod;S8;E19
+SongName;Our bond of friendship is stronger than this tour's demands;S8;E19
+SongName;We're so tight, we can't move around;S8;E19
+SongName;I guess we're stuck together 'cause we're friendship bound;S8;E19
+SongName;We're off on the road to friendship;S8;E19
+SongName;We've each got the other to blame;S8;E19
+SongName;Any trip can be exhausting if you make a fuss;S8;E19
+SongName;But we get on so well that's there no way that could be us;S8;E19
+SongName;We're off on the road to friendship;S8;E19
+SongName;And there's nowhere that we'd rather be;S8;E19
+SongName;In summer, winter, spring, and fall, we're friends throughout the year;S8;E19
+SongName;For untold seasons yet to come, our friendship will be here;S8;E19
+SongName;We're so tight, we can't move around;S8;E19
+SongName;We're friendship boooooound;S8;E19
+SongName;We're friendship boooooound!;S8;E19
+SongName;La, la-la-la, la-la;S8;E23
+SongName;La-la-la, la-la-la;S8;E23
+SongName;The Kirin used to speak and sing;S8;E23
+SongName;We weren't always quiet;S8;E23
+SongName;We told stories and funny jokes;S8;E23
+SongName;My stand-up was a riot;S8;E23
+SongName;But then one day, a fight broke out;S8;E23
+SongName;And hurtful words were said;S8;E23
+SongName;Flaring tempers were inflamed;S8;E23
+SongName;Destruction quickly spread;S8;E23
+SongName;And flaming bred from head to head;S8;E23
+SongName;It even burnt our... bread;S8;E23
+SongName;Sorry, I forgot how much I love rhyming. Where was I? Oh, right!;S8;E23
+SongName;My happy village lay in ruins;S8;E23
+SongName;Relationships got worse;S8;E23
+SongName;Spoiler alert: we quickly learned;S8;E23
+SongName;That words could be a curse;S8;E23
+SongName;"No more talking," yelled our leader;S8;E23
+SongName;The last thing said aloud;S8;E23
+SongName;Into the Stream of Silence;S8;E23
+SongName;We stepped as a crowd;S8;E23
+SongName;The water cooled emotions;S8;E23
+SongName;And peace was soon restored;S8;E23
+SongName;But with no way to speak my thoughts;S8;E23
+SongName;I got super... bored;S8;E23
+SongName;Seriously, there's only so long that Sudoku can keep you entertained!;S8;E23
+SongName;'Cause rainbows won't light up the sky;S8;E23
+SongName;Unless you let it rain;S8;E23
+SongName;And shiny apples sometimes come with worms;S8;E23
+SongName;No, you can't give up your laughter;S8;E23
+SongName;'Cause you're scared of a little pain;S8;E23
+SongName;It's a lesson that the Kirin never learned;S8;E23
+SongName;I was stuck in silent prison;S8;E23
+SongName;With the voices in my head;S8;E23
+SongName;'Til I tripped over my salvation;S8;E23
+SongName;In a helpful flowerbed;S8;E23
+SongName;I found a cure to clear my pipes;S8;E23
+SongName;And I became quite chatty;S8;E23
+SongName;With years and years of stored-up words;S8;E23
+SongName;I drove my village batty;S8;E23
+SongName;They didn't like my jokes and songs;S8;E23
+SongName;And daily dose of news;S8;E23
+SongName;The plays I wrote, the speeches spoke;S8;E23
+SongName;Variety revues;S8;E23
+SongName;Or the story about the Kirin who hid below an opera stage;S8;E23
+SongName;And fell in love with this opera singer, and he wore a freaky half-mask thing, and he played the organ a lot and got all broody 'cause the singer was in love with another dude, so he took her away on this underground gondola. I mean, who doesn't love musical theater?!;S8;E23
+SongName;The village leader made it clear;S8;E23
+SongName;I had to make my choice;S8;E23
+SongName;I could stay and live with them;S8;E23
+SongName;Or I could keep my voice;S8;E23
+SongName;So I came here, but left the couch alone;S8;E23
+SongName;They're hard to move;S8;E23
+SongName;With just the view for company;S8;E23
+SongName;Until ya heard me groove;S8;E23
+SongName;Take it away, boys!;S8;E23
+SongName;'Cause rainbows won't light up the sky;S8;E23
+SongName;Unless you let it rain;S8;E23
+SongName;And candles just won't glow until they're burned;S8;E23
+SongName;No, you can't give up your laughter;S8;E23
+SongName;'Cause you're scared of a little pain;S8;E23
+SongName;It's a lesson that my village never learned;S8;E23
+SongName;No matter how hard I schooled them;S8;E23
+SongName;Fear of hurt is still what ruled them;S8;E23
+SongName;Sometimes you gotta let it raaaaaaaain!;S8;E23
+SongName;Yeah, sometimes you've gotta let it rain;S8;E23
+SongName;'Cause rainbows won't light up the sky ;S8;E23
+SongName;Unless you let it rain ;S8;E23
+SongName;And candles just won't glow until they're burned ;S8;E23
+SongName;No, you can't give up your laughter ;S8;E23
+SongName;'Cause you're scared of a little pain ;S8;E23
+SongName;It's a lesson that my village never learned;S8;E23
+SongName;Oh, yes, 'cause rainbows won't light up the sky ;S8;E23
+SongName;Unless you let it...;S8;E23
+SongName;Raaaaaaaain!;S8;E23
+SongName;You can't be a dragon here;S8;E24
+SongName;Look at these books up on the wall;S8;E24
+SongName;This treasure pile's not right, I fear;S8;E24
+SongName;Trust me, I got you covered here. You see all this soft pony stuff you're surrounded with? This has got to be the first thing to go.;S8;E24
+SongName;Nothin' 'bout this place says "dragon den", there's too much fluff;S8;E24
+SongName;All these fancy robes, toss in a pile;S8;E24
+SongName;Take those goblets, dishes, is that gold? Still not enough!;S8;E24
+SongName;De-ponifying might just take a while;S8;E24
+SongName;Sure, this place is grandiose;S8;E24
+SongName;But to a dragon, it's just gross;S8;E24
+SongName;Time we make the lot all disappear;S8;E24
+SongName;Reality you need a dose;S8;E24
+SongName;To all these ponies, you're too close;S8;E24
+SongName;You just can't be a dragon here;S8;E24
+SongName;Good job, my boy! But this is still just the beginning!;S8;E24
+SongName;Each and every dragon has a swagger all his own;S8;E24
+SongName;Watch and I'll show you what I mean;S8;E24
+SongName;You can't move like this with so much stuff to weigh you down;S8;E24
+SongName;A dragon always keeps it lean;S8;E24
+SongName;Lose this! This! Ooh, this is nice!;S8;E24
+SongName;Your life is soft, your scales are coiffed;S8;E24
+SongName;These pillows, beds, and sheets are washed;S8;E24
+SongName;A delight, but it's just not right what's underneath;S8;E24
+SongName;Every dragon must be free;S8;E24
+SongName;Look at you, then look at me;S8;E24
+SongName;Since when do dragons brush their teeth?;S8;E24
+SongName;Ha! Please!;S8;E24
+SongName;Sure, this place is grandiose;S8;E24
+SongName;But to a dragon, it's just gross;S8;E24
+SongName;Time we make the lot all disappear;S8;E24
+SongName;Just grab it all and give to me;S8;E24
+SongName;After that, then you'll be free;S8;E24
+SongName;You just can't be a dragon heeeeere!;S8;E24
+SongName;We celebrate our friendship;S9;E3
+SongName;We celebrate the tree;S9;E3
+SongName;The memories inside us;S9;E3
+SongName;We'll build for all to see;S9;E3
+SongName;The tree brought us together;S9;E3
+SongName;And even though it's gone;S9;E3
+SongName;Our monument of friendship;S9;E3
+SongName;Can make the gift live on;S9;E3
+SongName;A piece from me, a piece from you;S9;E3
+SongName;We'll use the tree and we'll make do;S9;E3
+SongName;If things don't fit, there's lots of glue;S9;E3
+SongName;Friends don't quit in the end;S9;E3
+SongName;And together, we'll see this through;S9;E3
+SongName;It's hard to say farewell;S9;E3
+SongName;To something you hold dear;S9;E3
+SongName;But goodbye isn't forever;S9;E3
+SongName;As long as we are here;S9;E3
+SongName;The tree is in our memory ;S9;E3
+SongName;Its roots have grown deep in our hearts;S9;E3
+SongName;Its branches raise our spirits, together we're all bound;S9;E3
+SongName;Forever it stands, lost but now it's found;S9;E3
+SongName;So lift a beam and build it strong;S9;E3
+SongName;Work as a team, it won't take long;S9;E3
+SongName;Hey, Silverstream, I think that's wrong;S9;E3
+SongName;We'll live the dream and sing our song;S9;E3
+SongName;And make the tree something all can see;S9;E3
+SongName;In a place where we belong!;S9;E3
+SongName;The more you know how things are done;S9;E7
+SongName;The more confident you'll be;S9;E7
+SongName;There's more to a dance than just having fun;S9;E7
+SongName;And there's no better teacher than me;S9;E7
+SongName;Rarity!;S9;E7
+SongName;Right in!;S9;E7
+SongName;No need to wait another day;S9;E7
+SongName;To be part of our smart soiree;S9;E7
+SongName;The perfect dress;S9;E7
+SongName;A color all the rage, but still unique;S9;E7
+SongName;Now loose the braids;S9;E7
+SongName;Try a style more fantastique;S9;E7
+SongName;Here's what we'll do:;S9;E7
+SongName;A horn-icure and a de-frizz;S9;E7
+SongName;We'll dry shampoo this;S9;E7
+SongName;Whatever yak part this is;S9;E7
+SongName;Too curly, too blue;S9;E7
+SongName;Too retro, too new;S9;E7
+SongName;Too Twilight, too furry;S9;E7
+SongName;We'll find one, don't you worry;S9;E7
+SongName;Choose what you want to be and be it;S9;E7
+SongName;Picture you to see and see it;S9;E7
+SongName;I'm the mare to guarantee it;S9;E7
+SongName;You'll fit right in;S9;E7
+SongName;My plan, my grand design;S9;E7
+SongName;Your friends will thrill to find;S9;E7
+SongName;A new you that's too divine;S9;E7
+SongName;Yeah, you're gonna—;S9;E7
+SongName;Yona gonna—;S9;E7
+SongName;Fit right in;S9;E7
+SongName;Right in;S9;E7
+SongName;Listen to me when I say;S9;E7
+SongName;Once you learn the pony way;S9;E7
+SongName;You'll/I'll start to fit right in;S9;E7
+SongName;Right in;S9;E7
+SongName;Yak not waste another day;S9;E7
+SongName;To be part of your pony...;S9;E7
+SongName;Waaaaayyyyy;S9;E7
+SongName;Yak not waste another day to;S9;E7
+SongName;Fit... right... in!;S9;E7
+SongName;You've mastered so many pony ways;S9;E7
+SongName;And grown a lot in the past few days;S9;E7
+SongName;You've shown a turn that has earned our praise;S9;E7
+SongName;And now I fit right...;S9;E7
+SongName;...in;S9;E7
+SongName;You fit right in!;S9;E7
+SongName;I think I know a way that we can grow;S9;E8
+SongName;Time to try something new, something better;S9;E8
+SongName;No more solo, trust is the way to go;S9;E8
+SongName;And all we need to do is work together;S9;E8
+SongName;It's time to try a better way to be bad;S9;E8
+SongName;Do we really need a better way to be bad?;S9;E8
+SongName;United as one;S9;E8
+SongName;Teamwork? Please, what a fad;S9;E8
+SongName;Combine all our strength, we'll go to any length;S9;E8
+SongName;Once we have a better way to be bad;S9;E8
+SongName;Let's go begin, this time we're gonna win;S9;E8
+SongName; say;S9;E8
+SongName;I know you're in, I think I see a grin;S9;E8
+SongName;For all this pain and torture, I swear you'll pay;S9;E8
+SongName;This time, we've got a better way to be bad;S9;E8
+SongName;Sounds like a long shot, this "better way" to be bad;S9;E8
+SongName;United as one, we'll make those ponies so sad;S9;E8
+SongName;If we say "okay", would you just go away?;S9;E8
+SongName;Once we have a better way to be bad;S9;E8
+SongName;We want to break their friendship;S9;E8
+SongName;We want to make them weak;S9;E8
+SongName;You want revenge on Starlight;S9;E8
+SongName;You want that huge physique;S9;E8
+SongName;So let's increase our chances;S9;E8
+SongName;By working as a team;S9;E8
+SongName;To crush our enemies to dust;S9;E8
+SongName;And laugh as they all scream!;S9;E8
+SongName;I think I see a better way to be bad;S9;E8
+SongName;Just put me in charge, make me queen, you'll be glad;S9;E8
+SongName;No! Listen to me, I'm the best of us three;S9;E8
+SongName;Then you'll see a better way to be bad;S9;E8
+SongName;You shall do as I command, I will rule this triad!;S9;E8
+SongName; song!;S9;E8
+SongName;Sorry, not any longer!;S9;E8
+SongName;A better way to be bad;S9;E8
+SongName;Now you're making me mad;S9;E8
+SongName;Won't the ponies be sad?;S9;E8
+SongName;That would make me so glad;S9;E8
+SongName;Now we've got a better way to be baaaaaad!;S9;E8
+SongName;There's a lotta little things you gotta do in this world;S9;E13
+SongName;There's a lotta little things you gotta try;S9;E13
+SongName;Just a pack of punchy plunges other ponies all take;S9;E13
+SongName;That have princess-pony-passed us right by;S9;E13
+SongName;Nopony knows you like your little sister;S9;E13
+SongName;Nopony is a better confidante;S9;E13
+SongName;Nopony is truer than the one you are;S9;E13
+SongName;Nopony else here I could want;S9;E13
+SongName;You can't saunter on a sojourn hid behind castle walls;S9;E13
+SongName;You can't throw a throne down on the beach;S9;E13
+SongName;So we're gonna be absconding;S9;E13
+SongName;To a little vagabonding;S9;E13
+SongName;And this bucket list is gonna be a peach;S9;E13
+SongName;Nopony knows you like your older sister;S9;E13
+SongName;Nopony is a better confidante;S9;E13
+SongName;Nopony is truer than the one you are;S9;E13
+SongName;Nopony else here I could want;S9;E13
+SongName;There's a lotta little things you gotta try in this world;S9;E13
+SongName;There's a lotta little things you gotta see;S9;E13
+SongName;But just reading by a river and resting our hooves;S9;E13
+SongName;Would practically be perfect for me;S9;E13
+SongName;Nopony knows you like your sister;S9;E13
+SongName;Nopony is a better confidante;S9;E13
+SongName;Nopony is truer than the one you are;S9;E13
+SongName;Nopony else here I could want;S9;E13
+SongName;You can't venture on adventures if you're taking a nap;S9;E13
+SongName;You can't check things off your checklist while you sleep;S9;E13
+SongName;So let's take another hill;S9;E13
+SongName;Sometimes you can be a pill;S9;E13
+SongName;And why's the way ahead always so steep?;S9;E13
+SongName;There's a lotta little things you gotta do in this world;S9;E13
+SongName;There's a lotta little things you ought to view;S9;E13
+SongName;And our little lotta list may be a little bit long;S9;E13
+SongName; And might take a lotta bother to do;S9;E13
+SongName;But I'm sure it gets better later on;S9;E13
+SongName;And after darkest night's a new dawn;S9;E13
+SongName;It's my turn to do the choosing;S9;E13
+SongName;After river rapid cruising;S9;E13
+SongName;This adventure isn't too fun to be on;S9;E13
+SongName;So you're saying it's a mix-up;S9;E14
+SongName;Of the sounds that I just made;S9;E14
+SongName;That coaxed the snicker from your throat;S9;E14
+SongName;In a delicate cascade?;S9;E14
+SongName;If I did it one more time;S9;E14
+SongName;If I reproduced that feat;S9;E14
+SongName;Mixed up some letters here and there;S9;E14
+SongName;You'd "lelly-baugh" tout suite?;S9;E14
+SongName;Then that's all I need to do;S9;E14
+SongName;That's who I need to be;S9;E14
+SongName;I thought I needed laughter;S9;E14
+SongName;But it has to come from me;S9;E14
+SongName;Squirting flowers and knobby knees;S9;E14
+SongName;Rubber chickens my expertise;S9;E14
+SongName;If you want laughter, then stick with Cheese;S9;E14
+SongName;I suppose now I should amp things up;S9;E14
+SongName;To get the thing I'm after;S9;E14
+SongName;Move whole syll-AB-les around;S9;E14
+SongName;And change em-PHA-sis to get laughter ;S9;E14
+SongName;Can't stop now, I'm on a roll;S9;E14
+SongName;I've almost got it back;S9;E14
+SongName;Bright folks like you aren't subject to;S9;E14
+SongName;My play-on-words attack!;S9;E14
+SongName;With something else, I'll have to play;S9;E14
+SongName;To get me where I'm going;S9;E14
+SongName;To get the laughter flowing;S9;E14
+SongName;And it's what I need to do;S9;E14
+SongName;It's who I need to be;S9;E14
+SongName;I thought I needed laughter;S9;E14
+SongName;But it has to come from me;S9;E14
+SongName;Follow right behind, if you please;S9;E14
+SongName;Walk this way and I guarantee;S9;E14
+SongName;If you want laughter, then stick with Cheese;S9;E14
+SongName;Accordion solo!;S9;E14
+SongName;And now my biggest test;S9;E14
+SongName;The hardest fish to fry;S9;E14
+SongName;Ooh-ooh-ooh-ooh;S9;E14
+SongName;A mind so analytical;S9;E14
+SongName;A sense of humor dry ;S9;E14
+SongName;So dry!;S9;E14
+SongName;To make you laugh would prove to me;S9;E14
+SongName;That this experiment's done;S9;E14
+SongName;Ooh-ooh-ooh-ooh;S9;E14
+SongName;Something ridiculous and not too smart;S9;E14
+SongName;Something like a pun;S9;E14
+SongName;Hey, Sans! How did the laughing bird's eggs hatch? They cracked up!;S9;E14
+SongName;Then that's all I need to do;S9;E14
+SongName;That's all I need to see;S9;E14
+SongName;I thought I needed laughter;S9;E14
+SongName;But it had to come from me;S9;E14
+SongName;Squirting flowers and knobby knees;S9;E14
+SongName;Rubber chickens and Dungarees;S9;E14
+SongName;If you want laughter, then stick with Cheese!;S9;E14
+SongName; We wanna dance for each other and for all of our friends!;S9;E15
+SongName;Over... and over... and over again!;S9;E15
+SongName;We wanna dance for each other and for all of our friends!;S9;E15
+SongName; School of Friendship, rah, rah, rah;S9;E15
+SongName;Let's win this game and hit the... oh, what rhymes with "rah"? Spa?;S9;E15
+SongName;Over and over and over again!;S9;E15
+SongName;We'll cheer for our team 'til the ve-ry end!;S9;E15
+SongName;Everypony in the crowd, if you're feeling hip;S9;E15
+SongName;When I say "friend-", you say "-ship"!;S9;E15
+SongName;Friend!;S9;E15
+SongName;Ship!;S9;E15
+SongName;Friend!;S9;E15
+SongName;Ship!;S9;E15
+SongName;Welcome, everypony, to the halftime show;S9;E15
+SongName;We're the friendship squad, and we're ready to go!;S9;E15
+SongName;We're here to cheer and get you all excited;S9;E15
+SongName;If you'd like to join in, then you're all invited!;S9;E15
+SongName;It's a simple cheer, so don't chime in late;S9;E15
+SongName;It goes two, four, six, GREAT!;S9;E15
+SongName;Woke up this morning feeling tired and small;S9;E22
+SongName;But look at us now - we must be ninety feet tall;S9;E22
+SongName;Don't have to worry 'bout making mistakes;S9;E22
+SongName;Because being big is all it takes;S9;E22
+SongName;A tiny twist of fate brought on this big change;S9;E22
+SongName;Give me room, gotta zoom, I've got plans to arrange;S9;E22
+SongName;Can do what I want, be it run, trot, or traipse;S9;E22
+SongName;'Cause being big is all it takes;S9;E22
+SongName;Being big isn't just a size;S9;E22
+SongName;At bedtime we don't even have to close our eyes;S9;E22
+SongName;We're in control now, for goodness' sake;S9;E22
+SongName;'Cause being big is all it takes;S9;E22
+SongName;Leaving behind the little pony you've known;S9;E22
+SongName;Stepping out, growing up, making moves of my own;S9;E22
+SongName;You can't tell me no, there's no place I can't go;S9;E22
+SongName;Mountains, cities, jungles, or lakes;S9;E22
+SongName;'Cause being big is all it takes;S9;E22
+SongName;Being big isn't just a size;S9;E22
+SongName;We'll tell you our opinion 'cause we're oh, so wise;S9;E22
+SongName;We're in control now, for goodness' sake;S9;E22
+SongName;'Cause being big is all it takes;S9;E22
+SongName;I can eat all the snacks 'cause that's for me to decide;S9;E22
+SongName;We know how it all works, even what we ain't tried;S9;E22
+SongName;Facts don't matter now 'cause it's not what we know;S9;E22
+SongName;We can win any argument with...;S9;E22
+SongName;"Because I say so!";S9;E22
+SongName;Can't stop us now, don't try to stand in our way;S9;E22
+SongName;We're awake, gonna take all we can from today;S9;E22
+SongName;Once we had to listen, now you'll hear what we say;S9;E22
+SongName;Everything is always okay;S9;E22
+SongName;'Cause being big is all it taaaaaakes;S9;E22
+SongName;All it takes!;S9;E22
+SongName;When I started out, I was unsure;S9;E26
+SongName;I thought I knew all that I needed, didn't know what to expect;S9;E26
+SongName;But when my walls came down, I saw the truth;S9;E26
+SongName;All along something was missing;S9;E26
+SongName;And I think you'll see it, too;S9;E26
+SongName;This is where the magic happens;S9;E26
+SongName;This is where the magic lives;S9;E26
+SongName;Our friendships weave together stronger;S9;E26
+SongName;The bonds grow deeper, lasting longer;S9;E26
+SongName;And the greatest spell you'll know;S9;E26
+SongName;Is how the Magic of Friendship grows;S9;E26
+SongName;And no matter how much time goes by;S9;E26
+SongName;The party will still be here with some fun new games to try;S9;E26
+SongName;Big adventure's waiting obviously;S9;E26
+SongName;Long as we're still here together;S9;E26
+SongName;We'll be flying happily;S9;E26
+SongName;This is where the magic happens ;S9;E26
+SongName;This is where the magic lives ;S9;E26
+SongName;Our friendships weave together stronger;S9;E26
+SongName;The bonds grow deeper, lasting longer;S9;E26
+SongName;And the greatest spell there is;S9;E26
+SongName;What the Magic of Friendship gives;S9;E26
+SongName;And it's somethin' true to pass on down;S9;E26
+SongName;To generations yet to come;S9;E26
+SongName;And we'll never stop believing in;S9;E26
+SongName;The generosity of the friendships we've won;S9;E26
+SongName;And because the love that I feel;S9;E26
+SongName;For every single living creature is something that is real;S9;E26
+SongName;Friendship happens so naturally;S9;E26
+SongName;Oh, and how I used to wonder;S9;E26
+SongName;What friendship could be!;S9;E26
+SongName;This is where the magic happens ;S9;E26
+SongName;This is where the magic lives ;S9;E26
+SongName;Our friendships weave together stronger;S9;E26
+SongName;The bonds grow deeper, lasting longer;S9;E26
+SongName;And the greatest spell you'll know ;S9;E26
+SongName;Is how the Magic of Friendship grows;S9;E26
+SongName;How the Magic of Friendship grows;S9;E26
