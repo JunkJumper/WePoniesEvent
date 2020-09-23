@@ -17,448 +17,448 @@ Laughter Song;Chortle at the kooky;S1;E2
 Laughter Song;Snortle at the spooky;S1;E2
 Laughter Song;And tell that big dumb scary face to take a hike and leave you alone and if he thinks he can scare you then he's got another thing coming and the very idea of such a thing just makes you wanna... hahahaha... heh...;S1;E2
 Laughter Song;Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauuuugh!;S1;E2
-SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
-SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
-SongName;Hip hip;S1;E3
-SongName;Hooray!;S1;E3
-SongName;It's the best place for me;S1;E3
-SongName;For Pinkie...;S1;E3
-SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
-SongName;Oh the Grand Galloping Gala is the best place for me;S1;E3
-SongName;'Cause it's the most galarrific superly-terrific gala ever;S1;E3
-SongName;In the whole galaxy;S1;E3
-SongName;Wheee!!;S1;E3
-SongName;Twilight is my bestest friend;S1;E3
-SongName;Whoopie, whoopie!;S1;E3
-SongName;She's the cutest, smartest, all around best pony, pony!;S1;E3
-SongName;I bet if I throw a super-duper fun party, party!;S1;E3
-SongName;She'll give her extra ticket to the Gala to me!;S1;E3
-SongName;Junior Speedsters are our lives,;S1;E5
-SongName;Sky-bound soars and daring dives;S1;E5
-SongName;Junior Speedsters, it's our quest,;S1;E5
-SongName;To someday be the very best!;S1;E5
-SongName;It's not very far;S1;E7
-SongName;Just move your little rump;S1;E7
-SongName;You can make it if you try with a hop, skip and jump;S1;E7
-SongName;A hop, skip and jump,;S1;E7
-SongName;Just move your little rump,;S1;E7
-SongName;A hop, skip and jump,;S1;E7
-SongName;A hop, skip and jump,;S1;E7
-SongName;A hop, skip and jump,;S1;E7
-SongName;A hop skip and jump,;S1;E7
-SongName;A hop skip and jump!;S1;E7
-SongName;She's an evil enchantress;S1;E9
-SongName;She does evil dances;S1;E9
-SongName;And if you look deep in her eyes;S1;E9
-SongName;She'll put you in trances;S1;E9
-SongName;Then what will she do?;S1;E9
-SongName;She'll mix up an evil brew;S1;E9
-SongName;Then she'll gobble you up;S1;E9
-SongName;In a big tasty stew;S1;E9
-SongName;Three months of winter coolness;S1;E11
-SongName;And awesome holidays;S1;E11
-SongName;We've kept our hoofsies warm at home;S1;E11
-SongName;Time off from work to play;S1;E11
-SongName;But the food we've stored is runnin' out;S1;E11
-SongName;And we can't grow in this cold;S1;E11
-SongName;And even though I love my boots;S1;E11
-SongName;This fashion's getting old;S1;E11
-SongName;The time has come to welcome spring;S1;E11
-SongName;And all things warm and green;S1;E11
-SongName;But it's also time to say goodbye;S1;E11
-SongName;It's winter we must clean;S1;E11
-SongName;How can I help? I'm new, you see;S1;E11
-SongName;What does everypony do?;S1;E11
-SongName;How do I fit in without magic?;S1;E11
-SongName;I haven't got a clue!;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;Let's finish our holiday cheer;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring–;S1;E11
-SongName;–is here!;S1;E11
-SongName;'Cause tomorrow spring is here!;S1;E11
-SongName;Bringing home the southern birds;S1;E11
-SongName;A Pegasus' job begins;S1;E11
-SongName;And clearing all the gloomy skies;S1;E11
-SongName;To let the sunshine in;S1;E11
-SongName;We move the clouds;S1;E11
-SongName;And we melt the white snow;S1;E11
-SongName;When the sun comes up;S1;E11
-SongName;Its warmth and beauty will glow!;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;Let's finish our holiday cheer;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;'Cause tomorrow spring is here!;S1;E11
-SongName;Little critters hibernate;S1;E11
-SongName;Under the snow and ice;S1;E11
-SongName;We wake up all their sleepy heads;S1;E11
-SongName;So quietly and nice;S1;E11
-SongName;We help them gather up their food;S1;E11
-SongName;Fix their homes below;S1;E11
-SongName;We welcome back the southern birds;S1;E11
-SongName;So their families can grow!;S1;E11
-SongName; Winter, winter);S1;E11
-SongName;Let's finish our holiday cheer;S1;E11
-SongName; Winter, winter);S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName; Winter, winter);S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;'Cause tomorrow spring is here!;S1;E11
-SongName;No easy task to clear the ground;S1;E11
-SongName;Plant our tiny seeds;S1;E11
-SongName;With proper care and sunshine;S1;E11
-SongName;Everyone it feeds;S1;E11
-SongName;Apples, carrots, celery stalks;S1;E11
-SongName;Colorful flowers too;S1;E11
-SongName;We must work so very hard;S1;E11
-SongName;It's just so much to do!;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;Let's finish our holiday cheer;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;'Cause tomorrow spring is here!;S1;E11
-SongName;Now that I know what they all do;S1;E11
-SongName;I have to find my place;S1;E11
-SongName;And help with all of my heart;S1;E11
-SongName;Tough task ahead I face;S1;E11
-SongName;How will I do without my magic;S1;E11
-SongName;Help the Earth pony way;S1;E11
-SongName;I wanna belong so I must;S1;E11
-SongName;Do my best today,;S1;E11
-SongName;Do my best today!;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;Let's finish our holiday cheer;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;Winter Wrap Up! Winter Wrap Up!;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;'Cause tomorrow spring is here;S1;E11
-SongName;'Cause tomorrow spring is here!;S1;E11
-SongName;All you have to do is take a cup of flour!;S1;E12
-SongName;Add it to the mix!;S1;E12
-SongName;Now just take a little something sweet, not sour!;S1;E12
-SongName;A bit of salt, just a pinch!;S1;E12
-SongName;Baking these treats is such a cinch!;S1;E12
-SongName;Add a teaspoon of vanilla!;S1;E12
-SongName;Add a little more, and you count to four,;S1;E12
-SongName;And you never get your fill of...;S1;E12
-SongName;Cupcakes! So sweet and tasty!;S1;E12
-SongName;Cupcakes! Don't be too hasty!;S1;E12
-SongName;Cupcakes! Cupcakes, cupcakes, CUPCAKES!;S1;E12
-SongName;Thread by thread, stitching it together;S1;E14
-SongName;Twilight's dress, cutting out the pattern snip by snip;S1;E14
-SongName;Making sure the fabric folds nicely;S1;E14
-SongName; hip;S1;E14
-SongName;Always gotta keep in mind my pacing;S1;E14
-SongName;Making sure the clothes' correctly facing;S1;E14
-SongName;I'm stitching Twilight's dress;S1;E14
-SongName;Yard by yard, fussing on the details;S1;E14
-SongName;Jewel neckline, don't you know a stitch in time saves nine?;S1;E14
-SongName;Make her something perfect to inspire;S1;E14
-SongName;Even though she hates formal attire;S1;E14
-SongName;Gotta mind those intimate details;S1;E14
-SongName;Even though she's more concerned with sales;S1;E14
-SongName;It's Applejack's new dress;S1;E14
-SongName;Dressmaking's easy, for Pinkie Pie something pink;S1;E14
-SongName;Fluttershy something breezy;S1;E14
-SongName;Blend color and form,;S1;E14
-SongName; Do you think it looks cheesy?;S1;E14
-SongName;Something brash, perhaps quite fetching;S1;E14
-SongName;Hook and eye, couldn't you just simply die?;S1;E14
-SongName;Making sure it fits forelock and crest;S1;E14
-SongName;Don't forget some magic in the dress;S1;E14
-SongName;Even though it rides high on the flank;S1;E14
-SongName;Rainbow won't look like a tank;S1;E14
-SongName;I'm stitching Rainbow's dress;S1;E14
-SongName;Piece by piece, snip by snip;S1;E14
-SongName;Croup, dock, haunch, shoulders, hip;S1;E14
-SongName;Thread by thread, primmed and pressed;S1;E14
-SongName;Yard by yard, never stressed;S1;E14
-SongName;And that's the art of the dress!;S1;E14
-SongName;Stitch by stitch, stitching it together;S1;E14
-SongName;Deadline looms, don't you know the client's always right?;S1;E14
-SongName;Even if my fabric choice was perfect;S1;E14
-SongName;Gotta get them all done by tonight;S1;E14
-SongName;Pinkie Pie, that color's too obtrusive;S1;E14
-SongName;Wait until you see it in the light;S1;E14
-SongName;I'm sewing them together!;S1;E14
-SongName;Hour by hour, one more change;S1;E14
-SongName;I'm sewing them together, take great pains;S1;E14
-SongName;Fluttershy, you're putting me in a bind;S1;E14
-SongName;Rainbow Dash, what is on your mind?;S1;E14
-SongName;Oh my gosh, there's simply not much time;S1;E14
-SongName;Don't forget, Applejack's duds must shine;S1;E14
-SongName;Dressmaking's easy, every customer's call;S1;E14
-SongName;Brings a whole new revision;S1;E14
-SongName;Have to pick up the pace, still hold to my vision;S1;E14
-SongName;All we ever want is indecision;S1;E14
-SongName;All we really like is what we know;S1;E14
-SongName;Gotta balance style with adherence;S1;E14
-SongName;Making sure we make a good appearance;S1;E14
-SongName;Even if you simply have to fudge it;S1;E14
-SongName;Make sure that it stays within our budget;S1;E14
-SongName;Got to overcome intimidation;S1;E14
-SongName;Remember, it's all in the presentation!;S1;E14
-SongName;Piece by piece, snip by snip;S1;E14
-SongName;Croup, dock, haunch, shoulders, hip;S1;E14
-SongName;Bolt by bolt, primmed and pressed;S1;E14
-SongName;Yard by yard, always stressed;S1;E14
-SongName;And that's the art of the dress!;S1;E14
-SongName;Hush now, quiet now;S1;E17
-SongName;It's time to lay your sleepy head;S1;E17
-SongName;Hush now, quiet now;S1;E17
-SongName;It's time to go to bed;S1;E17
-SongName;Hush now! Quiet now!;S1;E17
-SongName;It's time to lay your sleepy head!;S1;E17
-SongName;Said hush now! Quiet now!;S1;E17
-SongName;It's time to go to bed!;S1;E17
-SongName;Driftin'  off to sleep!;S1;E17
-SongName;Exciting day behind you!;S1;E17
-SongName;Driftin'  off to sleep!;S1;E17
-SongName;Let the joy of dream land find you!;S1;E17
-SongName;Hush now! Quiet now!;S1;E17
-SongName;Lay your sleepy head!;S1;E17
-SongName;Said hush now! Quiet now!;S1;E17
-SongName;!;S1;E17
-SongName;Ow!;S1;E17
-SongName;We are the Cutie Mark Crusaders... ;S1;E18
-SongName;...Never stop the journey... ;S1;E18
-SongName;They all say that you will get your mark;S1;E18
-SongName;When the time is really right;S1;E18
-SongName;And you know just what you're supposed to do;S1;E18
-SongName; And your talent comes to light!;S1;E18
-SongName;Look, here, are three little ponies,;S1;E18
-SongName;Ready to sing for this crowd,;S1;E18
-SongName;Listen up, 'cause here's our story;S1;E18
-SongName;I'm gonna sing it;S1;E18
-SongName;Very loud!;S1;E18
-SongName;When you're a younger pony;S1;E18
-SongName;And your flank is very bare;S1;E18
-SongName;Feels like the sun will never come;S1;E18
-SongName;When your cutie mark's not there;S1;E18
-SongName;So the three of us will fight the fight;S1;E18
-SongName;There is nothing that we fear;S1;E18
-SongName;We'll have to figure out what we'll do next;S1;E18
-SongName;'Til our cutie marks are here!;S1;E18
-SongName;We are the Cutie Mark Crusaders;S1;E18
-SongName;On a quest to find out who we are;S1;E18
-SongName;And we will never stop the journey;S1;E18
-SongName;Not until we have our cutie marks;S1;E18
-SongName;They all say that you'll get your mark;S1;E18
-SongName;When the time is really right;S1;E18
-SongName;And you know just what you're supposed to do;S1;E18
-SongName;And your talent comes to light;S1;E18
-SongName;But it's not as easy as it sounds;S1;E18
-SongName;And that waiting's hard to do;S1;E18
-SongName;So we test our talents everywhere;S1;E18
-SongName;Until our face is blue;S1;E18
-SongName;We are the Cutie Mark Crusaders;S1;E18
-SongName;On a quest to find out who we are;S1;E18
-SongName;And we will never stop the journey;S1;E18
-SongName;Not until we have our cutie marks;S1;E18
-SongName;We are the Cutie Mark Crusaders;S1;E18
-SongName;On a quest to find out who we are;S1;E18
-SongName;And we will never stop the journey;S1;E18
-SongName;Not until we have our cutie marks!;S1;E18
-SongName;We may be divided;S1;E21
-SongName;But of you all, I beg;S1;E21
-SongName;To remember we're all hoofed;S1;E21
-SongName;At the end of each leg;S1;E21
-SongName;No matter what the issue;S1;E21
-SongName;Come from wherever you please;S1;E21
-SongName;All this fighting gets you nothing;S1;E21
-SongName;But hoof-and-mouth disease;S1;E21
-SongName;Arguing's not the way;S1;E21
-SongName;Hey, come out and play!;S1;E21
-SongName;It's a shiny, new day;S1;E21
-SongName;So, what do you say?;S1;E21
-SongName;You gotta share;S1;E21
-SongName;You gotta care;S1;E21
-SongName;It's the right thing to do;S1;E21
-SongName;You gotta share;S1;E21
-SongName;You gotta care;S1;E21
-SongName;And there'll always be a way through;S1;E21
-SongName;Both our diets, I should mention;S1;E21
-SongName;Are completely vegetarian;S1;E21
-SongName;We all eat hay and oats;S1;E21
-SongName;Why be at each other's throat?;S1;E21
-SongName;You gotta share;S1;E21
-SongName;You gotta care;S1;E21
-SongName;It's the right thing to do;S1;E21
-SongName;And there'll always be a way;S1;E21
-SongName;Throoooough!;S1;E21
-SongName;–what do you say?;S1;E21
-SongName;You gotta share;S1;E21
-SongName;You gotta care;S1;E21
-SongName;It's the right thing to do;S1;E21
-SongName;What is this place;S1;E23
-SongName;Filled with so many wonders?;S1;E23
-SongName;Casting its spell;S1;E23
-SongName;That I am now under;S1;E23
-SongName;Squirrels in the trees;S1;E23
-SongName;And the cute little bunnies;S1;E23
-SongName;Birds flying free;S1;E23
-SongName;And bees with their honey;S1;E23
-SongName;Hooooonneeeeeeey!;S1;E23
-SongName;Oooh, what a magical place;S1;E23
-SongName;And I owe it all to the Pegasus race;S1;E23
-SongName;If I knew the ground had so much up its sleeve ;S1;E23
-SongName;I'd have come here sooner, and never leave;S1;E23
-SongName;Yes, I love ev-er-ythiiiiing!;S1;E23
-SongName;This is your singing telegram;S1;E25
-SongName;I hope it finds you well;S1;E25
-SongName;You're invited to a party;S1;E25
-SongName;'Cause we think you're really swell;S1;E25
-SongName;Gummy's turning one year old;S1;E25
-SongName;So help us celebrate;S1;E25
-SongName;The cake will be delicious;S1;E25
-SongName;The festivities first-rate;S1;E25
-SongName;There will be games and dancing;S1;E25
-SongName;Bob for apples, cut a rug ;S1;E25
-SongName;And when the party's over;S1;E25
-SongName;We'll gather 'round for a group hug;S1;E25
-SongName;No need to bring a gift;S1;E25
-SongName;Being there will be enough;S1;E25
-SongName;Birthdays mean having fun with friends;S1;E25
-SongName;Not getting lots of stuff;S1;E25
-SongName;It won't be the same without you;S1;E25
-SongName;So we hope that you say yes;S1;E25
-SongName;So, please, oh please R.S.V.P.;S1;E25
-SongName;And come, and be our guest!;S1;E25
-SongName;At the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;In the garden;S1;E26
-SongName;I'm going to see them all;S1;E26
-SongName;All the creatures;S1;E26
-SongName;I'll befriend them at the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;All the birdies;S1;E26
-SongName;And the critters;S1;E26
-SongName;They will love me big and small;S1;E26
-SongName;We'll become good friends forever;S1;E26
-SongName;Right here at the Gala!;S1;E26
-SongName;All our dreams will come true;S1;E26
-SongName;Right here at the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;At the Gala ;S1;E26
-SongName;I will sell them ;S1;E26
-SongName;All my appletastic treats ;S1;E26
-SongName;Hungry ponies ;S1;E26
-SongName;They will buy them ;S1;E26
-SongName;Caramel apples, apple sweets ;S1;E26
-SongName;And I'll earn a lot of money;S1;E26
-SongName;for the Apple family!;S1;E26
-SongName;All our dreams and our hopes from now until hereafter;S1;E26
-SongName;All that we've been wishing for will happen at the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;All the royals;S1;E26
-SongName;They will meet fair Rarity;S1;E26
-SongName;They will see I'm just as regal at the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;I will find him;S1;E26
-SongName;My Prince Charming;S1;E26
-SongName;And how gallant he will be;S1;E26
-SongName;He will treat me like a lady;S1;E26
-SongName;Tonight at the Gala!;S1;E26
-SongName;This is what we've waited for to have the best night ever;S1;E26
-SongName;Each of us will live our dreams;S1;E26
-SongName;Tonight at the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;Been dreamin';S1;E26
-SongName;I've been waitin';S1;E26
-SongName;To fly with those great ponies;S1;E26
-SongName;The Wonderbolts, their daring tricks;S1;E26
-SongName;Spinning 'round and having kicks;S1;E26
-SongName;Perform for crowds of thousands;S1;E26
-SongName;They'll shower us with diamonds;S1;E26
-SongName;The Wonderbolts will see me right here at the Gala!;S1;E26
-SongName;All we've longed for;S1;E26
-SongName;All we've dreamed;S1;E26
-SongName;Our happy ever after;S1;E26
-SongName;Finally will all come true;S1;E26
-SongName;Right here at the Grand Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;I am here at the Grand Gala;S1;E26
-SongName;For it is the best party;S1;E26
-SongName;But the one thing it was missing was a pony named Pinkie;S1;E26
-SongName;For I am the best at parties, all the ponies will agree;S1;E26
-SongName;Ponies playing;S1;E26
-SongName;Ponies dancing;S1;E26
-SongName;With me at the Grand Gala!;S1;E26
-SongName;Happiness and laughter at the Gala;S1;E26
-SongName;At the Gala;S1;E26
-SongName;At the Gala ;S1;E26
-SongName;With the Princess ;S1;E26
-SongName;Is where I'm going to be ;S1;E26
-SongName;We will talk all about magic and what I've learned and seen ;S1;E26
-SongName;It is going to be so special;S1;E26
-SongName;);S1;E26
-SongName;Into the Gala we must go;S1;E26
-SongName;We're ready now, we're all aglow;S1;E26
-SongName;Into the Gala, let's go in and have the best night ever;S1;E26
-SongName;Into the Gala, now's the time;S1;E26
-SongName;We're ready and we look divine!;S1;E26
-SongName;Into the Gala;S1;E26
-SongName;Meet new friends;S1;E26
-SongName;Into the Gala;S1;E26
-SongName;Sell some apples;S1;E26
-SongName;Into the Gala;S1;E26
-SongName;Find my Prince;S1;E26
-SongName;Prove I'm great;S1;E26
-SongName;As a Wonderbolt is;S1;E26
-SongName;Into the Gala;S1;E26
-SongName;Into the Gala;S1;E26
-SongName;At the Gala!;S1;E26
-SongName;I'm at the Grand Galloping Gala,;S1;E26
-SongName;I'm at the Grand Galloping Gala,;S1;E26
-SongName;I'm at the Grand Galloping Gala,;S1;E26
-SongName;It's all I ever dreamed.;S1;E26
-SongName;It's all I ever dreamed, woo hoo!;S1;E26
-SongName;It's all I ever dreamed, yippee!;S1;E26
-SongName;I'm at the Grand Galloping GalaaaaaaaaaaAAAAAAAAAAAA!;S1;E26
-SongName;It's all I've ever... dreamed?;S1;E26
-SongName;You reach your right hoof in;S1;E26
-SongName;You reach your right hoof out;S1;E26
-SongName;You reach your right hoof in;S1;E26
-SongName;And you shake it all about;S1;E26
-SongName;You do the Pony Pokey meeting lots of folks with clout;S1;E26
-SongName;That's what I'm talking about;S1;E26
-SongName;You step your left hoof in;S1;E26
-SongName;You pull it right back out;S1;E26
-SongName;You step your left hoof in;S1;E26
-SongName;But you better help him out;S1;E26
-SongName;You do the Pony Pokey but should find a different route;S1;E26
-SongName;That's what it's all about;S1;E26
-SongName;You kick your back left in;S1;E26
-SongName;You pull your back left out;S1;E26
-SongName;You reach your back left in;S1;E26
-SongName;Just be brave and have no doubt;S1;E26
-SongName;You do the Pony Pokey feeling like you're gonna pout;S1;E26
-SongName;That's what I'm singing about;S1;E26
-SongName;You tilt your head in;S1;E26
-SongName;You tilt your head out;S1;E26
-SongName;You tilt your head in;S1;E26
-SongName;Then you shake it all about;S1;E26
-SongName;You do the Pony Pokey even though your date's a lout;S1;E26
-SongName;You're better off without;S1;E26
-SongName;You stomp your whole self in;S1;E26
-SongName;You stomp your whole self out;S1;E26
-SongName;You stomp your whole self in;S1;E26
-SongName;And you stomp yourself about;S1;E26
-SongName;You do the Pony Pokey and you give a little shout-;S1;E26
-SongName;That's what I'm talking about;S1;E26
-SongName;You do the Pony Pokey;S1;E26
-SongName;You do the Pony Pokey;S1;E26
-SongName;You do the Pony Pokey;S1;E26
-SongName;And that's what it's all about;S1;E26
-SongName;Yeah!;S1;E26
+Pinkie's Gala Fantasy Song;Oh the Grand Galloping Gala is the best place for me;S1;E3
+Pinkie's Gala Fantasy Song;Oh the Grand Galloping Gala is the best place for me;S1;E3
+Pinkie's Gala Fantasy Song;Hip hip;S1;E3
+Pinkie's Gala Fantasy Song;Hooray!;S1;E3
+Pinkie's Gala Fantasy Song;It's the best place for me;S1;E3
+Pinkie's Gala Fantasy Song;For Pinkie...;S1;E3
+Pinkie's Gala Fantasy Song;Oh the Grand Galloping Gala is the best place for me;S1;E3
+Pinkie's Gala Fantasy Song;Oh the Grand Galloping Gala is the best place for me;S1;E3
+Pinkie's Gala Fantasy Song;'Cause it's the most galarrific superly-terrific gala ever;S1;E3
+Pinkie's Gala Fantasy Song;In the whole galaxy;S1;E3
+Pinkie's Gala Fantasy Song;Wheee!!;S1;E3
+The Ticket Song;Twilight is my bestest friend;S1;E3
+The Ticket Song;Whoopie, whoopie!;S1;E3
+The Ticket Song;She's the cutest, smartest, all around best pony, pony!;S1;E3
+The Ticket Song;I bet if I throw a super-duper fun party, party!;S1;E3
+The Ticket Song;She'll give her extra ticket to the Gala to me!;S1;E3
+Junior Speedsters Chant;Junior Speedsters are our lives,;S1;E5
+Junior Speedsters Chant;Sky-bound soars and daring dives;S1;E5
+Junior Speedsters Chant;Junior Speedsters, it's our quest,;S1;E5
+Junior Speedsters Chant;To someday be the very best!;S1;E5
+Hop, skip and jump;It's not very far;S1;E7
+Hop, skip and jump;Just move your little rump;S1;E7
+Hop, skip and jump;You can make it if you try with a hop, skip and jump;S1;E7
+Hop, skip and jump;A hop, skip and jump,;S1;E7
+Hop, skip and jump;Just move your little rump,;S1;E7
+Hop, skip and jump;A hop, skip and jump,;S1;E7
+Hop, skip and jump;A hop, skip and jump,;S1;E7
+Hop, skip and jump;A hop, skip and jump,;S1;E7
+Hop, skip and jump;A hop skip and jump,;S1;E7
+Hop, skip and jump;A hop skip and jump!;S1;E7
+Evil Enchantress song;She's an evil enchantress;S1;E9
+Evil Enchantress song;She does evil dances;S1;E9
+Evil Enchantress song;And if you look deep in her eyes;S1;E9
+Evil Enchantress song;She'll put you in trances;S1;E9
+Evil Enchantress song;Then what will she do?;S1;E9
+Evil Enchantress song;She'll mix up an evil brew;S1;E9
+Evil Enchantress song;Then she'll gobble you up;S1;E9
+Evil Enchantress song;In a big tasty stew;S1;E9
+Winter Wrap Up;Three months of winter coolness;S1;E11
+Winter Wrap Up;And awesome holidays;S1;E11
+Winter Wrap Up;We've kept our hoofsies warm at home;S1;E11
+Winter Wrap Up;Time off from work to play;S1;E11
+Winter Wrap Up;But the food we've stored is runnin' out;S1;E11
+Winter Wrap Up;And we can't grow in this cold;S1;E11
+Winter Wrap Up;And even though I love my boots;S1;E11
+Winter Wrap Up;This fashion's getting old;S1;E11
+Winter Wrap Up;The time has come to welcome spring;S1;E11
+Winter Wrap Up;And all things warm and green;S1;E11
+Winter Wrap Up;But it's also time to say goodbye;S1;E11
+Winter Wrap Up;It's winter we must clean;S1;E11
+Winter Wrap Up;How can I help? I'm new, you see;S1;E11
+Winter Wrap Up;What does everypony do?;S1;E11
+Winter Wrap Up;How do I fit in without magic?;S1;E11
+Winter Wrap Up;I haven't got a clue!;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;Let's finish our holiday cheer;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring–;S1;E11
+Winter Wrap Up;–is here!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here!;S1;E11
+Winter Wrap Up;Bringing home the southern birds;S1;E11
+Winter Wrap Up;A Pegasus' job begins;S1;E11
+Winter Wrap Up;And clearing all the gloomy skies;S1;E11
+Winter Wrap Up;To let the sunshine in;S1;E11
+Winter Wrap Up;We move the clouds;S1;E11
+Winter Wrap Up;And we melt the white snow;S1;E11
+Winter Wrap Up;When the sun comes up;S1;E11
+Winter Wrap Up;Its warmth and beauty will glow!;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;Let's finish our holiday cheer;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here!;S1;E11
+Winter Wrap Up;Little critters hibernate;S1;E11
+Winter Wrap Up;Under the snow and ice;S1;E11
+Winter Wrap Up;We wake up all their sleepy heads;S1;E11
+Winter Wrap Up;So quietly and nice;S1;E11
+Winter Wrap Up;We help them gather up their food;S1;E11
+Winter Wrap Up;Fix their homes below;S1;E11
+Winter Wrap Up;We welcome back the southern birds;S1;E11
+Winter Wrap Up;So their families can grow!;S1;E11
+Winter Wrap Up; Winter, winter);S1;E11
+Winter Wrap Up;Let's finish our holiday cheer;S1;E11
+Winter Wrap Up; Winter, winter);S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up; Winter, winter);S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here!;S1;E11
+Winter Wrap Up;No easy task to clear the ground;S1;E11
+Winter Wrap Up;Plant our tiny seeds;S1;E11
+Winter Wrap Up;With proper care and sunshine;S1;E11
+Winter Wrap Up;Everyone it feeds;S1;E11
+Winter Wrap Up;Apples, carrots, celery stalks;S1;E11
+Winter Wrap Up;Colorful flowers too;S1;E11
+Winter Wrap Up;We must work so very hard;S1;E11
+Winter Wrap Up;It's just so much to do!;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;Let's finish our holiday cheer;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here!;S1;E11
+Winter Wrap Up;Now that I know what they all do;S1;E11
+Winter Wrap Up;I have to find my place;S1;E11
+Winter Wrap Up;And help with all of my heart;S1;E11
+Winter Wrap Up;Tough task ahead I face;S1;E11
+Winter Wrap Up;How will I do without my magic;S1;E11
+Winter Wrap Up;Help the Earth pony way;S1;E11
+Winter Wrap Up;I wanna belong so I must;S1;E11
+Winter Wrap Up;Do my best today,;S1;E11
+Winter Wrap Up;Do my best today!;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;Let's finish our holiday cheer;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;Winter Wrap Up! Winter Wrap Up!;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here;S1;E11
+Winter Wrap Up;'Cause tomorrow spring is here!;S1;E11
+Cupcake Song;All you have to do is take a cup of flour!;S1;E12
+Cupcake Song;Add it to the mix!;S1;E12
+Cupcake Song;Now just take a little something sweet, not sour!;S1;E12
+Cupcake Song;A bit of salt, just a pinch!;S1;E12
+Cupcake Song;Baking these treats is such a cinch!;S1;E12
+Cupcake Song;Add a teaspoon of vanilla!;S1;E12
+Cupcake Song;Add a little more, and you count to four,;S1;E12
+Cupcake Song;And you never get your fill of...;S1;E12
+Cupcake Song;Cupcakes! So sweet and tasty!;S1;E12
+Cupcake Song;Cupcakes! Don't be too hasty!;S1;E12
+Cupcake Song;Cupcakes! Cupcakes, cupcakes, CUPCAKES!;S1;E12
+Art of the Dress;Thread by thread, stitching it together;S1;E14
+Art of the Dress;Twilight's dress, cutting out the pattern snip by snip;S1;E14
+Art of the Dress;Making sure the fabric folds nicely;S1;E14
+Art of the Dress; hip;S1;E14
+Art of the Dress;Always gotta keep in mind my pacing;S1;E14
+Art of the Dress;Making sure the clothes' correctly facing;S1;E14
+Art of the Dress;I'm stitching Twilight's dress;S1;E14
+Art of the Dress;Yard by yard, fussing on the details;S1;E14
+Art of the Dress;Jewel neckline, don't you know a stitch in time saves nine?;S1;E14
+Art of the Dress;Make her something perfect to inspire;S1;E14
+Art of the Dress;Even though she hates formal attire;S1;E14
+Art of the Dress;Gotta mind those intimate details;S1;E14
+Art of the Dress;Even though she's more concerned with sales;S1;E14
+Art of the Dress;It's Applejack's new dress;S1;E14
+Art of the Dress;Dressmaking's easy, for Pinkie Pie something pink;S1;E14
+Art of the Dress;Fluttershy something breezy;S1;E14
+Art of the Dress;Blend color and form,;S1;E14
+Art of the Dress; Do you think it looks cheesy?;S1;E14
+Art of the Dress;Something brash, perhaps quite fetching;S1;E14
+Art of the Dress;Hook and eye, couldn't you just simply die?;S1;E14
+Art of the Dress;Making sure it fits forelock and crest;S1;E14
+Art of the Dress;Don't forget some magic in the dress;S1;E14
+Art of the Dress;Even though it rides high on the flank;S1;E14
+Art of the Dress;Rainbow won't look like a tank;S1;E14
+Art of the Dress;I'm stitching Rainbow's dress;S1;E14
+Art of the Dress;Piece by piece, snip by snip;S1;E14
+Art of the Dress;Croup, dock, haunch, shoulders, hip;S1;E14
+Art of the Dress;Thread by thread, primmed and pressed;S1;E14
+Art of the Dress;Yard by yard, never stressed;S1;E14
+Art of the Dress;And that's the art of the dress!;S1;E14
+Art of the Dress;Stitch by stitch, stitching it together;S1;E14
+Art of the Dress;Deadline looms, don't you know the client's always right?;S1;E14
+Art of the Dress;Even if my fabric choice was perfect;S1;E14
+Art of the Dress;Gotta get them all done by tonight;S1;E14
+Art of the Dress;Pinkie Pie, that color's too obtrusive;S1;E14
+Art of the Dress;Wait until you see it in the light;S1;E14
+Art of the Dress;I'm sewing them together!;S1;E14
+Art of the Dress;Hour by hour, one more change;S1;E14
+Art of the Dress;I'm sewing them together, take great pains;S1;E14
+Art of the Dress;Fluttershy, you're putting me in a bind;S1;E14
+Art of the Dress;Rainbow Dash, what is on your mind?;S1;E14
+Art of the Dress;Oh my gosh, there's simply not much time;S1;E14
+Art of the Dress;Don't forget, Applejack's duds must shine;S1;E14
+Art of the Dress;Dressmaking's easy, every customer's call;S1;E14
+Art of the Dress;Brings a whole new revision;S1;E14
+Art of the Dress;Have to pick up the pace, still hold to my vision;S1;E14
+Art of the Dress;All we ever want is indecision;S1;E14
+Art of the Dress;All we really like is what we know;S1;E14
+Art of the Dress;Gotta balance style with adherence;S1;E14
+Art of the Dress;Making sure we make a good appearance;S1;E14
+Art of the Dress;Even if you simply have to fudge it;S1;E14
+Art of the Dress;Make sure that it stays within our budget;S1;E14
+Art of the Dress;Got to overcome intimidation;S1;E14
+Art of the Dress;Remember, it's all in the presentation!;S1;E14
+Art of the Dress;Piece by piece, snip by snip;S1;E14
+Art of the Dress;Croup, dock, haunch, shoulders, hip;S1;E14
+Art of the Dress;Bolt by bolt, primmed and pressed;S1;E14
+Art of the Dress;Yard by yard, always stressed;S1;E14
+Art of the Dress;And that's the art of the dress!;S1;E14
+Hush Now Lullaby;Hush now, quiet now;S1;E17
+Hush Now Lullaby;It's time to lay your sleepy head;S1;E17
+Hush Now Lullaby;Hush now, quiet now;S1;E17
+Hush Now Lullaby;It's time to go to bed;S1;E17
+Hush Now Lullaby;Hush now! Quiet now!;S1;E17
+Hush Now Lullaby;It's time to lay your sleepy head!;S1;E17
+Hush Now Lullaby;Said hush now! Quiet now!;S1;E17
+Hush Now Lullaby;It's time to go to bed!;S1;E17
+Hush Now Lullaby;Driftin'  off to sleep!;S1;E17
+Hush Now Lullaby;Exciting day behind you!;S1;E17
+Hush Now Lullaby;Driftin'  off to sleep!;S1;E17
+Hush Now Lullaby;Let the joy of dream land find you!;S1;E17
+Hush Now Lullaby;Hush now! Quiet now!;S1;E17
+Hush Now Lullaby;Lay your sleepy head!;S1;E17
+Hush Now Lullaby;Said hush now! Quiet now!;S1;E17
+Hush Now Lullaby;!;S1;E17
+Hush Now Lullaby;Ow!;S1;E17
+Cutie Mark Crusaders Song;We are the Cutie Mark Crusaders... ;S1;E18
+Cutie Mark Crusaders Song;...Never stop the journey... ;S1;E18
+Cutie Mark Crusaders Song;They all say that you will get your mark;S1;E18
+Cutie Mark Crusaders Song;When the time is really right;S1;E18
+Cutie Mark Crusaders Song;And you know just what you're supposed to do;S1;E18
+Cutie Mark Crusaders Song; And your talent comes to light!;S1;E18
+Cutie Mark Crusaders Song;Look, here, are three little ponies,;S1;E18
+Cutie Mark Crusaders Song;Ready to sing for this crowd,;S1;E18
+Cutie Mark Crusaders Song;Listen up, 'cause here's our story;S1;E18
+Cutie Mark Crusaders Song;I'm gonna sing it;S1;E18
+Cutie Mark Crusaders Song;Very loud!;S1;E18
+Cutie Mark Crusaders Song;When you're a younger pony;S1;E18
+Cutie Mark Crusaders Song;And your flank is very bare;S1;E18
+Cutie Mark Crusaders Song;Feels like the sun will never come;S1;E18
+Cutie Mark Crusaders Song;When your cutie mark's not there;S1;E18
+Cutie Mark Crusaders Song;So the three of us will fight the fight;S1;E18
+Cutie Mark Crusaders Song;There is nothing that we fear;S1;E18
+Cutie Mark Crusaders Song;We'll have to figure out what we'll do next;S1;E18
+Cutie Mark Crusaders Song;'Til our cutie marks are here!;S1;E18
+Cutie Mark Crusaders Song;We are the Cutie Mark Crusaders;S1;E18
+Cutie Mark Crusaders Song;On a quest to find out who we are;S1;E18
+Cutie Mark Crusaders Song;And we will never stop the journey;S1;E18
+Cutie Mark Crusaders Song;Not until we have our cutie marks;S1;E18
+Cutie Mark Crusaders Song;They all say that you'll get your mark;S1;E18
+Cutie Mark Crusaders Song;When the time is really right;S1;E18
+Cutie Mark Crusaders Song;And you know just what you're supposed to do;S1;E18
+Cutie Mark Crusaders Song;And your talent comes to light;S1;E18
+Cutie Mark Crusaders Song;But it's not as easy as it sounds;S1;E18
+Cutie Mark Crusaders Song;And that waiting's hard to do;S1;E18
+Cutie Mark Crusaders Song;So we test our talents everywhere;S1;E18
+Cutie Mark Crusaders Song;Until our face is blue;S1;E18
+Cutie Mark Crusaders Song;We are the Cutie Mark Crusaders;S1;E18
+Cutie Mark Crusaders Song;On a quest to find out who we are;S1;E18
+Cutie Mark Crusaders Song;And we will never stop the journey;S1;E18
+Cutie Mark Crusaders Song;Not until we have our cutie marks;S1;E18
+Cutie Mark Crusaders Song;We are the Cutie Mark Crusaders;S1;E18
+Cutie Mark Crusaders Song;On a quest to find out who we are;S1;E18
+Cutie Mark Crusaders Song;And we will never stop the journey;S1;E18
+Cutie Mark Crusaders Song;Not until we have our cutie marks!;S1;E18
+You Got to Share, You Got to Care;We may be divided;S1;E21
+You Got to Share, You Got to Care;But of you all, I beg;S1;E21
+You Got to Share, You Got to Care;To remember we're all hoofed;S1;E21
+You Got to Share, You Got to Care;At the end of each leg;S1;E21
+You Got to Share, You Got to Care;No matter what the issue;S1;E21
+You Got to Share, You Got to Care;Come from wherever you please;S1;E21
+You Got to Share, You Got to Care;All this fighting gets you nothing;S1;E21
+You Got to Share, You Got to Care;But hoof-and-mouth disease;S1;E21
+You Got to Share, You Got to Care;Arguing's not the way;S1;E21
+You Got to Share, You Got to Care;Hey, come out and play!;S1;E21
+You Got to Share, You Got to Care;It's a shiny, new day;S1;E21
+You Got to Share, You Got to Care;So, what do you say?;S1;E21
+You Got to Share, You Got to Care;You gotta share;S1;E21
+You Got to Share, You Got to Care;You gotta care;S1;E21
+You Got to Share, You Got to Care;It's the right thing to do;S1;E21
+You Got to Share, You Got to Care;You gotta share;S1;E21
+You Got to Share, You Got to Care;You gotta care;S1;E21
+You Got to Share, You Got to Care;And there'll always be a way through;S1;E21
+You Got to Share, You Got to Care;Both our diets, I should mention;S1;E21
+You Got to Share, You Got to Care;Are completely vegetarian;S1;E21
+You Got to Share, You Got to Care;We all eat hay and oats;S1;E21
+You Got to Share, You Got to Care;Why be at each other's throat?;S1;E21
+You Got to Share, You Got to Care;You gotta share;S1;E21
+You Got to Share, You Got to Care;You gotta care;S1;E21
+You Got to Share, You Got to Care;It's the right thing to do;S1;E21
+You Got to Share, You Got to Care;And there'll always be a way;S1;E21
+You Got to Share, You Got to Care;Throoooough!;S1;E21
+You Got to Share, You Got to Care;–what do you say?;S1;E21
+You Got to Share, You Got to Care;You gotta share;S1;E21
+You Got to Share, You Got to Care;You gotta care;S1;E21
+You Got to Share, You Got to Care;It's the right thing to do;S1;E21
+So Many Wonders;What is this place;S1;E23
+So Many Wonders;Filled with so many wonders?;S1;E23
+So Many Wonders;Casting its spell;S1;E23
+So Many Wonders;That I am now under;S1;E23
+So Many Wonders;Squirrels in the trees;S1;E23
+So Many Wonders;And the cute little bunnies;S1;E23
+So Many Wonders;Birds flying free;S1;E23
+So Many Wonders;And bees with their honey;S1;E23
+So Many Wonders;Hooooonneeeeeeey!;S1;E23
+So Many Wonders;Oooh, what a magical place;S1;E23
+So Many Wonders;And I owe it all to the Pegasus race;S1;E23
+So Many Wonders;If I knew the ground had so much up its sleeve ;S1;E23
+So Many Wonders;I'd have come here sooner, and never leave;S1;E23
+So Many Wonders;Yes, I love ev-er-ythiiiiing!;S1;E23
+Pinkie Pie's Singing Telegram;This is your singing telegram;S1;E25
+Pinkie Pie's Singing Telegram;I hope it finds you well;S1;E25
+Pinkie Pie's Singing Telegram;You're invited to a party;S1;E25
+Pinkie Pie's Singing Telegram;'Cause we think you're really swell;S1;E25
+Pinkie Pie's Singing Telegram;Gummy's turning one year old;S1;E25
+Pinkie Pie's Singing Telegram;So help us celebrate;S1;E25
+Pinkie Pie's Singing Telegram;The cake will be delicious;S1;E25
+Pinkie Pie's Singing Telegram;The festivities first-rate;S1;E25
+Pinkie Pie's Singing Telegram;There will be games and dancing;S1;E25
+Pinkie Pie's Singing Telegram;Bob for apples, cut a rug ;S1;E25
+Pinkie Pie's Singing Telegram;And when the party's over;S1;E25
+Pinkie Pie's Singing Telegram;We'll gather 'round for a group hug;S1;E25
+Pinkie Pie's Singing Telegram;No need to bring a gift;S1;E25
+Pinkie Pie's Singing Telegram;Being there will be enough;S1;E25
+Pinkie Pie's Singing Telegram;Birthdays mean having fun with friends;S1;E25
+Pinkie Pie's Singing Telegram;Not getting lots of stuff;S1;E25
+Pinkie Pie's Singing Telegram;It won't be the same without you;S1;E25
+Pinkie Pie's Singing Telegram;So we hope that you say yes;S1;E25
+Pinkie Pie's Singing Telegram;So, please, oh please R.S.V.P.;S1;E25
+Pinkie Pie's Singing Telegram;And come, and be our guest!;S1;E25
+At the Gala;At the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;In the garden;S1;E26
+At the Gala;I'm going to see them all;S1;E26
+At the Gala;All the creatures;S1;E26
+At the Gala;I'll befriend them at the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;All the birdies;S1;E26
+At the Gala;And the critters;S1;E26
+At the Gala;They will love me big and small;S1;E26
+At the Gala;We'll become good friends forever;S1;E26
+At the Gala;Right here at the Gala!;S1;E26
+At the Gala;All our dreams will come true;S1;E26
+At the Gala;Right here at the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;At the Gala ;S1;E26
+At the Gala;I will sell them ;S1;E26
+At the Gala;All my appletastic treats ;S1;E26
+At the Gala;Hungry ponies ;S1;E26
+At the Gala;They will buy them ;S1;E26
+At the Gala;Caramel apples, apple sweets ;S1;E26
+At the Gala;And I'll earn a lot of money;S1;E26
+At the Gala;for the Apple family!;S1;E26
+At the Gala;All our dreams and our hopes from now until hereafter;S1;E26
+At the Gala;All that we've been wishing for will happen at the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;All the royals;S1;E26
+At the Gala;They will meet fair Rarity;S1;E26
+At the Gala;They will see I'm just as regal at the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;I will find him;S1;E26
+At the Gala;My Prince Charming;S1;E26
+At the Gala;And how gallant he will be;S1;E26
+At the Gala;He will treat me like a lady;S1;E26
+At the Gala;Tonight at the Gala!;S1;E26
+At the Gala;This is what we've waited for to have the best night ever;S1;E26
+At the Gala;Each of us will live our dreams;S1;E26
+At the Gala;Tonight at the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;Been dreamin';S1;E26
+At the Gala;I've been waitin';S1;E26
+At the Gala;To fly with those great ponies;S1;E26
+At the Gala;The Wonderbolts, their daring tricks;S1;E26
+At the Gala;Spinning 'round and having kicks;S1;E26
+At the Gala;Perform for crowds of thousands;S1;E26
+At the Gala;They'll shower us with diamonds;S1;E26
+At the Gala;The Wonderbolts will see me right here at the Gala!;S1;E26
+At the Gala;All we've longed for;S1;E26
+At the Gala;All we've dreamed;S1;E26
+At the Gala;Our happy ever after;S1;E26
+At the Gala;Finally will all come true;S1;E26
+At the Gala;Right here at the Grand Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;I am here at the Grand Gala;S1;E26
+At the Gala;For it is the best party;S1;E26
+At the Gala;But the one thing it was missing was a pony named Pinkie;S1;E26
+At the Gala;For I am the best at parties, all the ponies will agree;S1;E26
+At the Gala;Ponies playing;S1;E26
+At the Gala;Ponies dancing;S1;E26
+At the Gala;With me at the Grand Gala!;S1;E26
+At the Gala;Happiness and laughter at the Gala;S1;E26
+At the Gala;At the Gala;S1;E26
+At the Gala;At the Gala ;S1;E26
+At the Gala;With the Princess ;S1;E26
+At the Gala;Is where I'm going to be ;S1;E26
+At the Gala;We will talk all about magic and what I've learned and seen ;S1;E26
+At the Gala;It is going to be so special;S1;E26
+At the Gala;And she takes time just for me;S1;E26
+At the Gala;Into the Gala we must go;S1;E26
+At the Gala;We're ready now, we're all aglow;S1;E26
+At the Gala;Into the Gala, let's go in and have the best night ever;S1;E26
+At the Gala;Into the Gala, now's the time;S1;E26
+At the Gala;We're ready and we look divine!;S1;E26
+At the Gala;Into the Gala;S1;E26
+At the Gala;Meet new friends;S1;E26
+At the Gala;Into the Gala;S1;E26
+At the Gala;Sell some apples;S1;E26
+At the Gala;Into the Gala;S1;E26
+At the Gala;Find my Prince;S1;E26
+At the Gala;Prove I'm great;S1;E26
+At the Gala;As a Wonderbolt is;S1;E26
+At the Gala;Into the Gala;S1;E26
+At the Gala;Into the Gala;S1;E26
+At the Gala;At the Gala!;S1;E26
+I'm at the Grand Galloping Gala;I'm at the Grand Galloping Gala,;S1;E26
+I'm at the Grand Galloping Gala;I'm at the Grand Galloping Gala,;S1;E26
+I'm at the Grand Galloping Gala;I'm at the Grand Galloping Gala,;S1;E26
+I'm at the Grand Galloping Gala;It's all I ever dreamed.;S1;E26
+I'm at the Grand Galloping Gala;It's all I ever dreamed, woo hoo!;S1;E26
+I'm at the Grand Galloping Gala;It's all I ever dreamed, yippee!;S1;E26
+I'm at the Grand Galloping Gala;I'm at the Grand Galloping GalaaaaaaaaaaAAAAAAAAAAAA!;S1;E26
+I'm at the Grand Galloping Gala;It's all I've ever... dreamed?;S1;E26
+Pony Pokey;You reach your right hoof in;S1;E26
+Pony Pokey;You reach your right hoof out;S1;E26
+Pony Pokey;You reach your right hoof in;S1;E26
+Pony Pokey;And you shake it all about;S1;E26
+Pony Pokey;You do the Pony Pokey meeting lots of folks with clout;S1;E26
+Pony Pokey;That's what I'm talking about;S1;E26
+Pony Pokey;You step your left hoof in;S1;E26
+Pony Pokey;You pull it right back out;S1;E26
+Pony Pokey;You step your left hoof in;S1;E26
+Pony Pokey;But you better help him out;S1;E26
+Pony Pokey;You do the Pony Pokey but should find a different route;S1;E26
+Pony Pokey;That's what it's all about;S1;E26
+Pony Pokey;You kick your back left in;S1;E26
+Pony Pokey;You pull your back left out;S1;E26
+Pony Pokey;You reach your back left in;S1;E26
+Pony Pokey;Just be brave and have no doubt;S1;E26
+Pony Pokey;You do the Pony Pokey feeling like you're gonna pout;S1;E26
+Pony Pokey;That's what I'm singing about;S1;E26
+Pony Pokey;You tilt your head in;S1;E26
+Pony Pokey;You tilt your head out;S1;E26
+Pony Pokey;You tilt your head in;S1;E26
+Pony Pokey;Then you shake it all about;S1;E26
+Pony Pokey;You do the Pony Pokey even though your date's a lout;S1;E26
+Pony Pokey;You're better off without;S1;E26
+Pony Pokey;You stomp your whole self in;S1;E26
+Pony Pokey;You stomp your whole self out;S1;E26
+Pony Pokey;You stomp your whole self in;S1;E26
+Pony Pokey;And you stomp yourself about;S1;E26
+Pony Pokey;You do the Pony Pokey and you give a little shout-;S1;E26
+Pony Pokey;That's what I'm talking about;S1;E26
+Pony Pokey;You do the Pony Pokey;S1;E26
+Pony Pokey;You do the Pony Pokey;S1;E26
+Pony Pokey;You do the Pony Pokey;S1;E26
+Pony Pokey;And that's what it's all about;S1;E26
+Pony Pokey;Yeah!;S1;E26
 SongName;Now, Rainbow, my dear, I cannot express my delight;S2;E7
 SongName;It's abundantly clear;S2;E7
 SongName;That somewhere out here;S2;E7
