@@ -3377,3 +3377,332 @@ Shake tour tail;Shake your tail, shake your tail;S0;E2
 Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
 Shake tour tail;Shake your tail, shake your tail;S0;E2
 Shake tour tail;Shake your tail 'cause we're here to have a party tonight!;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;You didn't know that you fell;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;Now that you're under our spell;S0;E2
+Under our spell;Blindsided by the beat;S0;E2
+Under our spell;Clapping your hands, stomping your feet;S0;E2
+Under our spell;You didn't know that you fell;S0;E2
+Under our spell;Oh-whoa-oh-oh-oh;S0;E2
+Under our spell;Now you've fallen under our spell;S0;E2
+Under our spell;Oh-whoa-oh-oh-oh-oh;S0;E2
+Under our spell;We've got the music, makes you move it;S0;E2
+Under our spell;Got the song that makes you lose it;S0;E2
+Under our spell;We say "jump", you say "how high?";S0;E2
+Under our spell;Put your hands up to the sky;S0;E2
+Under our spell;We've got the music, makes you move it;S0;E2
+Under our spell;Got the song that makes you lose it;S0;E2
+Under our spell;We say "jump", you say "how high?";S0;E2
+Under our spell;Put your hands up to the sky;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;You didn't know that you fell;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;Now that you're under our spell;S0;E2
+Under our spell;Listen to the sound of my voice;S0;E2
+Under our spell;Oh-oh, whoa-oh-oh;S0;E2
+Under our spell;Soon you'll find you don't have a choice;S0;E2
+Under our spell;Oh-oh, whoa-oh-oh;S0;E2
+Under our spell;Captured in the web of my song;S0;E2
+Under our spell;Oh-oh, whoa-oh-oh;S0;E2
+Under our spell;Soon you'll all be singing along;S0;E2
+Under our spell;Oh, whoa, oh;S0;E2
+Under our spell;We've got the music, makes you move it;S0;E2
+Under our spell;Got the song that makes you lose it;S0;E2
+Under our spell;We say "jump", you say "how high?";S0;E2
+Under our spell;Put your hands up to the sky;S0;E2
+Under our spell;We've got the music, makes you move it;S0;E2
+Under our spell;Got the song that makes you lose it;S0;E2
+Under our spell;We say "jump", you say "how high?";S0;E2
+Under our spell;Put your hands up to the sky;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;You didn't know that you fell;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;Now that you're under our spell;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;You didn't know that you fell;S0;E2
+Under our spell;Oh-whoa-oh, oh-whoa-oh;S0;E2
+Under our spell;Now that you're under our Spell;S0;E2
+Tricks Up My Sleeve;Ya better believe;S0;E2
+Tricks Up My Sleeve;I got tricks up my sleeve;S0;E2
+Tricks Up My Sleeve;And I captivate;S0;E2
+Tricks Up My Sleeve;'Cause I'm powerful and grea-ea-eat;S0;E2
+Tricks Up My Sleeve;Oh, whoa, oh-oh-oh-oh;S0;E2
+Tricks Up My Sleeve;Ya better believe;S0;E2
+Tricks Up My Sleeve;I got tricks up my sleeve;S0;E2
+Tricks Up My Sleeve;See me dominate;S0;E2
+Tricks Up My Sleeve;'Cause I'm powerful and grea-ea-eat;S0;E2
+Tricks Up My Sleeve;Oh, whoa, oh-oh-oh-oh;S0;E2
+Tricks Up My Sleeve;You think you've got what it takes to go toe to toe?;S0;E2
+Tricks Up My Sleeve;I've got more moves than you'll ever know;S0;E2
+Tricks Up My Sleeve;I own the stage, I'm all the rage;S0;E2
+Tricks Up My Sleeve;You're from the past, I'm from the Space Age;S0;E2
+Tricks Up My Sleeve;Come on, you're just making noise;S0;E2
+Tricks Up My Sleeve;Listen how my music destroys;S0;E2
+Tricks Up My Sleeve;Anything you throw at me;S0;E2
+Tricks Up My Sleeve;I'm gonna throw back, just wait and see-ee;S0;E2
+Tricks Up My Sleeve;Ya better believe;S0;E2
+Tricks Up My Sleeve;I got tricks up my sleeve;S0;E2
+Tricks Up My Sleeve;And I captivate;S0;E2
+Tricks Up My Sleeve;'Cause I'm powerful and grea-ea-eat;S0;E2
+Tricks Up My Sleeve;Oh, whoa, oh-oh-oh-oh;S0;E2
+Tricks Up My Sleeve;Ya better believe;S0;E2
+Tricks Up My Sleeve;I got tricks up my sleeve;S0;E2
+Tricks Up My Sleeve;See me dominate;S0;E2
+Tricks Up My Sleeve;'Cause I'm powerful and grea-ea-eat;S0;E2
+Tricks Up My Sleeve;I'm here to take you down a peg;S0;E2
+Tricks Up My Sleeve;Oh, whoa, oh-whoa-oh-whoa-oh-oh;S0;E2
+Tricks Up My Sleeve;By the time I'm done, you're gonna beg;S0;E2
+Tricks Up My Sleeve;Oh, whoa, oh-whoa-oh-whoa-oh-oh;S0;E2
+Tricks Up My Sleeve;To be in my band, application rejected!;S0;E2
+Tricks Up My Sleeve;Rejected!;S0;E2
+Tricks Up My Sleeve;Don't look so sad and so dejected;S0;E2
+Tricks Up My Sleeve;And so dejected;S0;E2
+Tricks Up My Sleeve;Don't mean to brag, don't mean to boast;S0;E2
+Tricks Up My Sleeve;But I'm a six-course meal and you're just burnt toast;S0;E2
+Tricks Up My Sleeve;Think I'm gonna ever give up?;S0;E2
+Tricks Up My Sleeve;No, never, ever, ever, ever!;S0;E2
+Tricks Up My Sleeve;Come on, you're just making noise;S0;E2
+Tricks Up My Sleeve;Listen how my music destroys;S0;E2
+Tricks Up My Sleeve;Anything you throw at me;S0;E2
+Tricks Up My Sleeve;I'm gonna throw back, just wait and see-ee;S0;E2
+Tricks Up My Sleeve;Ya better believe;S0;E2
+Tricks Up My Sleeve;I got tricks up my sleeve;S0;E2
+Tricks Up My Sleeve;And I captivate;S0;E2
+Tricks Up My Sleeve;'Cause I'm powerful and grea-ea-eat;S0;E2
+Tricks Up My Sleeve;Oh, whoa, oh-oh-oh-oh;S0;E2
+Tricks Up My Sleeve;Ya better believe;S0;E2
+Tricks Up My Sleeve;I got tricks up my sleeve;S0;E2
+Tricks Up My Sleeve;See me dominate;S0;E2
+Tricks Up My Sleeve;'Cause I'm powerful and grea-ea-eat!;S0;E2
+Awesome as I wanna be;Hey! Hey! Hey! Hey! Hey! Hey!;S0;E2
+Awesome as I wanna be;Awesome as I wanna be;S0;E2
+Awesome as I wanna be;Hey! Hey! Hey! Hey! Hey! Hey!;S0;E2
+Awesome as I wanna be;Awesome as I wanna be;S0;E2
+Awesome as I wanna be;First you see me riding on a sonic boom;S0;E2
+Awesome as I wanna be;Got my guitar shreddin' up the latest tune;S0;E2
+Awesome as I wanna be;There is nothin' you can do to beat me;S0;E2
+Awesome as I wanna be;I'm so good that you can't defeat me;S0;E2
+Awesome as I wanna be;Yeah!, I'm awesome,;S0;E2
+Awesome as I wanna be;Take caution;S0;E2
+Awesome as I wanna be;Watch out for me,;S0;E2
+Awesome as I wanna be;I'm awesome as I wanna be;S0;E2
+Awesome as I wanna be;Yeah!, I'm awesome,;S0;E2
+Awesome as I wanna be;Take caution;S0;E2
+Awesome as I wanna be;Watch out for me,;S0;E2
+Awesome as I wanna be;I'm awesome as I wanna be;S0;E2
+Awesome as I wanna be;Hey! Hey! Hey! Hey! Hey! Hey!;S0;E2
+Awesome as I wanna be;Hey! Hey! Hey! Hey! Hey! Hey!;S0;E2
+Awesome as I wanna be;Step aside now,;S0;E2
+Awesome as I wanna be;You're just gettin' in my way;S0;E2
+Awesome as I wanna be;I got sick chops you can never hope to play;S0;E2
+Awesome as I wanna be;When it comes to makin' music, I'm A Gruler;S0;E2
+Awesome as I wanna be;You wish you could be twenty percent cooler;S0;E2
+Awesome as I wanna be;Yeah!, I'm awesome,;S0;E2
+Awesome as I wanna be;Take caution;S0;E2
+Awesome as I wanna be;Watch out for me,;S0;E2
+Awesome as I wanna be;I'm awesome as I wanna be;S0;E2
+Awesome as I wanna be;Yeah!, I'm awesome,;S0;E2
+Awesome as I wanna be;Take caution;S0;E2
+Awesome as I wanna be;Watch out for me,;S0;E2
+Awesome as I wanna be;I'm awesome as I wanna be!;S0;E2
+Welcome to the Show;Welcome to the show;S0;E2
+Welcome to the Show;We're here to let you know;S0;E2
+Welcome to the Show;Our time is now;S0;E2
+Welcome to the Show;Your time is running out;S0;E2
+Welcome to the Show;Feel the wave of sound;S0;E2
+Welcome to the Show;As it crashes down;S0;E2
+Welcome to the Show;You can't turn away;S0;E2
+Welcome to the Show;We'll make you wanna sta-a-a-ay;S0;E2
+Welcome to the Show;We will be adored;S0;E2
+Welcome to the Show;Tell us that you want us;S0;E2
+Welcome to the Show;We won't be ignored;S0;E2
+Welcome to the Show;It's time for our reward;S0;E2
+Welcome to the Show;Now you need us;S0;E2
+Welcome to the Show;Come and heed us;S0;E2
+Welcome to the Show;Nothing can stop us now;S0;E2
+Welcome to the Show;Oh-oh, oh-whoa-oh;S0;E2
+Welcome to the Show;I've got the music in me;S0;E2
+Welcome to the Show;Oh-oh, oh-whoa-oh;S0;E2
+Welcome to the Show;Don't need to hear a crowd;S0;E2
+Welcome to the Show;Cheering out my name;S0;E2
+Welcome to the Show;I didn't come here seeking;S0;E2
+Welcome to the Show;Infamy or fame;S0;E2
+Welcome to the Show;The one and only thing;S0;E2
+Welcome to the Show;That I am here to bring;S0;E2
+Welcome to the Show;Is music, is the music;S0;E2
+Welcome to the Show;Is the music in my soul;S0;E2
+Welcome to the Show;Gonna break out (Out!);S0;E2
+Welcome to the Show;Set myself free, yeah;S0;E2
+Welcome to the Show;Let it all go (Go!);S0;E2
+Welcome to the Show;Just let it be, yeah;S0;E2
+Welcome to the Show;Find the music in your heart;S0;E2
+Welcome to the Show;Let the music make you start;S0;E2
+Welcome to the Show;To set yourself apart;S0;E2
+Welcome to the Show;What we have in store (ah-ah);S0;E2
+Welcome to the Show;All we want and more (ah-ah);S0;E2
+Welcome to the Show;We will break on through (ah-ah);S0;E2
+Welcome to the Show;Now it's time to finish you!;S0;E2
+Welcome to the Show;You're never gonna bring me down;S0;E2
+Welcome to the Show;You're never gonna break this part of me;S0;E2
+Welcome to the Show;My friends are here to bring me 'round;S0;E2
+Welcome to the Show;Not singing just for popularity;S0;E2
+Welcome to the Show;We're here to let you know;S0;E2
+Welcome to the Show;That we won't let it go;S0;E2
+Welcome to the Show;Our music is a bomb and it's about to blow;S0;E2
+Welcome to the Show;And you can try to fight;S0;E2
+Welcome to the Show;But we have got the light of;S0;E2
+Welcome to the Show;Friendship on our side!;S0;E2
+Welcome to the Show;Got the music in our hearts;S0;E2
+Welcome to the Show;We're here to blow this thing apart;S0;E2
+Welcome to the Show;And together, we will never;S0;E2
+Welcome to the Show;Be afraid of the dark;S0;E2
+Welcome to the Show;Here to sing our song out loud;S0;E2
+Welcome to the Show;Get you dancing with the crowd;S0;E2
+Welcome to the Show;As the music of our friendship;S0;E2
+Welcome to the Show;Survives, survives!;S0;E2
+Welcome to the Show;Got the music in our hearts;S0;E2
+Welcome to the Show;We're here to blow this thing apart;S0;E2
+Welcome to the Show;And together, we will never;S0;E2
+Welcome to the Show;Be afraid of the dark;S0;E2
+Welcome to the Show;Here to sing our song out loud;S0;E2
+Welcome to the Show;Get you dancing with the crowd;S0;E2
+Welcome to the Show;As the music of our friendship;S0;E2
+Welcome to the Show;Survives, survives, survives!;S0;E2
+Shine Like Rainbows;Once upon a time;S0;E2
+Shine Like Rainbows;You came into my world and made the stars align;S0;E2
+Shine Like Rainbows;Now I can see the signs;S0;E2
+Shine Like Rainbows;You pick me up when I get down so I can shine;S0;E2
+Shine Like Rainbows;Shine like rainbows;S0;E2
+Shine Like Rainbows;Shine like rainbows;S0;E2
+Shine Like Rainbows;Friends, you are in my life;S0;E2
+Shine Like Rainbows;And you can count on me to be there by your side;S0;E2
+Shine Like Rainbows;And when the music comes alive;S0;E2
+Shine Like Rainbows;We sing our songs to lift us up so we can shine;S0;E2
+Shine Like Rainbows;And the sound that we hear in our hearts;S0;E2
+Shine Like Rainbows;Makes a crescendo;S0;E2
+Shine Like Rainbows;And the light that ignites in the dark;S0;E2
+Shine Like Rainbows;It makes us all glow;S0;E2
+Shine Like Rainbows;And shine like rainbows;S0;E2
+Shine Like Rainbows;We shine like rainbows;S0;E2
+Shine Like Rainbows;Together we stand;S0;E2
+Shine Like Rainbows;As the rain begins to fall;S0;E2
+Shine Like Rainbows;And holdin' our heads up high;S0;E2
+Shine Like Rainbows;As the sun shines through it all;S0;E2
+Shine Like Rainbows;And the sound that we hear in our hearts;S0;E2
+Shine Like Rainbows;Makes a crescendo;S0;E2
+Shine Like Rainbows;And the light that ignites in the dark;S0;E2
+Shine Like Rainbows;It makes us all glow;S0;E2
+Shine Like Rainbows;And shine like rainbows;S0;E2
+Shine Like Rainbows;We shine like rainbows;S0;E2
+Shine Like Rainbows;Shine like rainbows;S0;E2
+Shine Like Rainbows;We shine like rainbows;S0;E2
+Shine Like Rainbows;We shine like rainbows;S0;E2
+My Past is Not Today;Power;S0;E2
+My Past is Not Today;Was all I desired (I desired, all I desired);S0;E2
+My Past is Not Today;But all that grew inside me;S0;E2
+My Past is Not Today;Was the darkness I acquired;S0;E2
+My Past is Not Today;When I began to fall;S0;E2
+My Past is Not Today;And I lost the path ahead;S0;E2
+My Past is Not Today;That's when your friendship found me;S0;E2
+My Past is Not Today;And it lifted me instead;S0;E2
+My Past is Not Today;Like a phoenix burning bright;S0;E2
+My Past is Not Today;In the sky;S0;E2
+My Past is Not Today;I'll show there's another side to me;S0;E2
+My Past is Not Today;You can't deny;S0;E2
+My Past is Not Today;I may not know what the future holds;S0;E2
+My Past is Not Today;But hear me when I say;S0;E2
+My Past is Not Today;That my past does not define me;S0;E2
+My Past is Not Today;'Cause my past is not today;S0;E2
+My Past is Not Today;Ambition;S0;E2
+My Past is Not Today;Is what I believed;S0;E2
+My Past is Not Today;Would be the only way;S0;E2
+My Past is Not Today;To set me free;S0;E2
+My Past is Not Today;But when it disappeared;S0;E2
+My Past is Not Today;And I found myself alone;S0;E2
+My Past is Not Today;That's when you came and got me;S0;E2
+My Past is Not Today;And it felt like I was home;S0;E2
+My Past is Not Today;Like a phoenix burning bright;S0;E2
+My Past is Not Today;In the sky;S0;E2
+My Past is Not Today;I'll show there's another side to me;S0;E2
+My Past is Not Today;You can't deny;S0;E2
+My Past is Not Today;I may not know what the future holds;S0;E2
+My Past is Not Today;But hear me when I say;S0;E2
+My Past is Not Today;That my past does not define me;S0;E2
+My Past is Not Today;'Cause my past is not today;S0;E2
+Friendship Through the Ages;Nothing stays the same for long;S0;E2
+Friendship Through the Ages;But when it changes doesn't mean it's gone;S0;E2
+Friendship Through the Ages;Time will always get away;S0;E2
+Friendship Through the Ages;As it leaves behind another day;S0;E2
+Friendship Through the Ages;Things may come and things may go;S0;E2
+Friendship Through the Ages;Some go fast and some go slow;S0;E2
+Friendship Through the Ages;Few things last, that's all I know;S0;E2
+Friendship Through the Ages;But friendship carries on through the ages;S0;E2
+Friendship Through the Ages;Things may come and things may go;S0;E2
+Friendship Through the Ages;Some go fast and some go slow;S0;E2
+Friendship Through the Ages;Few things last, that's all I know;S0;E2
+Friendship Through the Ages;But friendship carries on through the ages;S0;E2
+Friendship Through the Ages;Been around for a long time;S0;E2
+Friendship Through the Ages;Rocking out hard 'cause I'm in my prime;S0;E2
+Friendship Through the Ages;Maybe it'll change further down the line;S0;E2
+Friendship Through the Ages;But my friendship carries on through the ages;S0;E2
+Friendship Through the Ages;Every single style has something;S0;E2
+Friendship Through the Ages;Different it can say;S0;E2
+Friendship Through the Ages;There's nothing wrong with being unique;S0;E2
+Friendship Through the Ages;And special in your own way;S0;E2
+Friendship Through the Ages;Maybe you wanna be a pop star;S0;E2
+Friendship Through the Ages;Get your fifteen minutes of fame, wha, ah! Ah, oh!;S0;E2
+Friendship Through the Ages;That won't last forever;S0;E2
+Friendship Through the Ages;But friendship remains the same, ah-oh, oh!;S0;E2
+Friendship Through the Ages;Things may come and things may go;S0;E2
+Friendship Through the Ages;Some go fast and some go slow;S0;E2
+Friendship Through the Ages;Few things last, that's all I know;S0;E2
+Friendship Through the Ages;But friendship carries on through the ages;S0;E2
+Friendship Through the Ages;Things may come and things may go;S0;E2
+Friendship Through the Ages;Some go fast and some go slow;S0;E2
+Friendship Through the Ages;Few things last, that's all I know;S0;E2
+Friendship Through the Ages;But friendship carries on through the ages;S0;E2
+Friendship Through the Ages;Ohhh-oh, carries on...;S0;E2
+Life is a Runway;Life is a runway (runway);S0;E2
+Life is a Runway;Listen, here's what it's all about;S0;E2
+Life is a Runway;I tell you, life is a runway (runway);S0;E2
+Life is a Runway;Time to bring what's on the inside out;S0;E2
+Life is a Runway;Into the light;S0;E2
+Life is a Runway;Into the light;S0;E2
+Life is a Runway;Life is a runway;S0;E2
+Life is a Runway;When you see it my way;S0;E2
+Life is a Runway;Take all the good inside;S0;E2
+Life is a Runway;Make it beautiful;S0;E2
+Life is a Runway;Fashion is a way to start;S0;E2
+Life is a Runway;Showing what's in your heart;S0;E2
+Life is a Runway;Call it superficial;S0;E2
+Life is a Runway;I call it irrefutable;S0;E2
+Life is a Runway;Oh-oh, oh wha-oh;S0;E2
+Life is a Runway;Oh-oh, oh wha-oh;S0;E2
+Life is a Runway;Oh-oh, oh wha-oh;S0;E2
+Life is a Runway;Life is a runway;S0;E2
+Life is a Runway;You can be the girl;S0;E2
+Life is a Runway;That you want to be;S0;E2
+Life is a Runway;With a little love;S0;E2
+Life is a Runway;And some accessories (life is a runway);S0;E2
+Life is a Runway;Don't be scared to show you have;S0;E2
+Life is a Runway;Personal style;S0;E2
+Life is a Runway;Just go do your thing;S0;E2
+Life is a Runway;You'll make everyone smile (life is a runway);S0;E2
+Life is a Runway;You can be the girl;S0;E2
+Life is a Runway;That you want to be;S0;E2
+Life is a Runway;With a little love;S0;E2
+Life is a Runway;And some accessories (life is a runway);S0;E2
+Life is a Runway;Don't be scared to show you have;S0;E2
+Life is a Runway;Personal style;S0;E2
+Life is a Runway;Just go do your thing;S0;E2
+Life is a Runway;You'll make everyone smile (life is a runway);S0;E2
+Life is a Runway;Life is a runway (runway);S0;E2
+Life is a Runway;I'll show you what it's all about;S0;E2
+Life is a Runway;I tell you, life is a runway (runway);S0;E2
+Life is a Runway;Time to bring what's on the inside out;S0;E2
+Life is a Runway;Into the light;S0;E2
+Life is a Runway;Into the light;S0;E2
+Life is a Runway;Into the light;S0;E2
+Life is a Runway;Into the light;S0;E2
+Life is a Runway;Into the light;S0;E2
