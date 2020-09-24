@@ -1501,451 +1501,444 @@ Let the Rainbow Remind You;That forever this will be our time;S4;E26
 Let the Rainbow Remind You;Let the rainbow remind you;S4;E26
 Let the Rainbow Remind You;That together we will always shine;S4;E26
 ########################### Season 5 ###########################
-SongName;In Our Town, in Our Town;S5;E1
-SongName;We don't have to wait;S5;E1
-SongName;To find out that our destiny;S5;E1
-SongName;Is just to emulate;S5;E1
-SongName;In Our Town, in Our Town;S5;E1
-SongName;We dare not compete;S5;E1
-SongName;Winning only breeds the worst;S5;E1
-SongName;Ego-filled conceit;S5;E1
-SongName;In Our Town, in Our Town;S5;E1
-SongName;We work as a team;S5;E1
-SongName;You can't have a nightmare;S5;E1
-SongName;If you never dream;S5;E1
-SongName;Other ponies argue;S5;E1
-SongName;Do you ever wonder why?;S5;E1
-SongName;When you think your talent's special;S5;E1
-SongName;You don't see eye-to-eye;S5;E1
-SongName;There's just too many differences;S5;E1
-SongName;That lead to disarray;S5;E1
-SongName;But when you learn to act as one;S5;E1
-SongName;It's like a holiday;S5;E1
-SongName;In Our Town, in Our Town;S5;E1
-SongName;We don't complicate;S5;E1
-SongName;When you learn to simplify;S5;E1
-SongName;Life is oh, so great;S5;E1
-SongName;Join in our utopia;S5;E1
-SongName;Come out of the dark;S5;E1
-SongName;Banded by equality;S5;E1
-SongName;By our cutie mark!;S5;E1
-SongName;Let's all work together;S5;E3
-SongName;To make this castle shi-i-ine;S5;E3
-SongName;Once we add some sparkle;S5;E3
-SongName;It'll feel, it'll feel, it'll feel...;S5;E3
-SongName;It'll feel divine;S5;E3
-SongName;Crates of apples an' bales o' hay;S5;E3
-SongName;Just makes ya feel at home;S5;E3
-SongName;Furry friends and some popinjays;S5;E3
-SongName;So she won't be alone;S5;E3
-SongName;And we'll make, and we'll make, and we'll make;S5;E3
-SongName;This castle a home;S5;E3
-SongName;There's nothing like balloons and confetti;S5;E3
-SongName;To greet you every time you walk through the door;S5;E3
-SongName;She'll need this and those;S5;E3
-SongName;Posters of all my heroes;S5;E3
-SongName;How could anypony awesome ever ask for more?;S5;E3
-SongName;And we'll make, and we'll make, and we'll make;S5;E3
-SongName;A home she'll adore;S5;E3
-SongName;Bright curtains of flowing silk and lace;S5;E3
-SongName;This picture of me winning a race;S5;E3
-SongName;Party cannons to give her a surprise;S5;E3
-SongName;Hoes and rakes and some more garden supplies;S5;E3
-SongName;Getting hugs from this nice, big, friendly bear;S5;E3
-SongName;Decorate with some gemstones bright and rare;S5;E3
-SongName;More of this and that;S5;E3
-SongName;Don't forget the party hats;S5;E3
-SongName;How could anypony awesome ask for more than that?;S5;E3
-SongName;Let's all work together;S5;E3
-SongName;To show that we have shown;S5;E3
-SongName;Princess Twilight Sparkle;S5;E3
-SongName;How we make, how we make, how we make;S5;E3
-SongName;This castle a home;S5;E3
-SongName;How we make, how we make;S5;E3
-SongName;This castle a home;S5;E3
-SongName;How we make, how we make;S5;E3
-SongName;This castle a home!;S5;E3
-SongName;It's not the things that ya gather 'round;S5;E3
-SongName;It's not how much you own;S5;E3
-SongName;The things that hold the meaning in your life;S5;E3
-SongName;Are the memories you've sown;S5;E3
-SongName;So we make, so we make, so we make;S5;E3
-SongName;This castle a home;S5;E3
-SongName;So we make, so we make;S5;E3
-SongName;This castle a home;S5;E3
-SongName;So we make, so we make;S5;E3
-SongName;This castle a home!;S5;E3
-SongName;There ain't no call to worry;S5;E4
-SongName;So don't you cry or fret;S5;E4
-SongName;A cutie mark won't change me;S5;E4
-SongName;No matter what I get;S5;E4
-SongName;When life gives you lemons;S5;E5
-SongName;You can make lemonade;S5;E5
-SongName;But life gave me Tank here;S5;E5
-SongName;And my choice has long been made;S5;E5
-SongName;No winter will come to Ponyville;S5;E5
-SongName;I'll do it on my own;S5;E5
-SongName;I will keep you by my side;S5;E5
-SongName;So I will not be alone;S5;E5
-SongName;And I'll fly, and I'll fly;S5;E5
-SongName;Until the end of the sky;S5;E5
-SongName;So I'll be the one who doesn't;S5;E5
-SongName;Have to say goodbye;S5;E5
-SongName;I'll clear the skies forever;S5;E5
-SongName;So we won't be apart;S5;E5
-SongName;I'll keep the weather warm for you;S5;E5
-SongName;And the winter will never start;S5;E5
-SongName;Weather-makers Pegasi;S5;E5
-SongName;You make the seasons in the sky;S5;E5
-SongName;I don't want to sabotage you;S5;E5
-SongName;But you see, I've got to try;S5;E5
-SongName;No winter can come here now;S5;E5
-SongName;I'll keep the warmth and the sun somehow;S5;E5
-SongName;I'm sorry, ponies, this has to be;S5;E5
-SongName;For I need my friend and he needs me;S5;E5
-SongName;I know it's wrong, but what does it matter?;S5;E5
-SongName;'Cause nothing's gonna stop me now;S5;E5
-SongName;I'll change it all, it's only the weather;S5;E5
-SongName;And nopony's gonna bring me down;S5;E5
-SongName;I'll keep the sunlight shining free;S5;E5
-SongName;And I'll bust the clouds apart so you can stay with me;S5;E5
-SongName;And I'll fly, and I'll fly;S5;E5
-SongName;Until the end of the sky;S5;E5
-SongName;So I'll be the one who doesn't;S5;E5
-SongName;Have to say goodbye;S5;E5
-SongName;I'll clear the skies forever;S5;E5
-SongName;So we won't be apart;S5;E5
-SongName;I'll keep the weather warm for you;S5;E5
-SongName;And the winter will never start!;S5;E5
-SongName;The rules of Rarity, guaranteed quality;S5;E14
-SongName;This I can assure;S5;E14
-SongName;For each and every dress;S5;E14
-SongName;I vow to give finesse;S5;E14
-SongName;With time, love, and couture;S5;E14
-SongName;My favorite moment's when a pony sees it;S5;E14
-SongName;That special gown that she just adores;S5;E14
-SongName;That pony's now in style;S5;E14
-SongName;My hard work's all worthwhile;S5;E14
-SongName;Oh, yes, it makes my heart;S5;E14
-SongName;My heart just soar;S5;E14
-SongName;The rules of Rarity, just a parody;S5;E14
-SongName;No dress here's unique;S5;E14
-SongName;The panels all the same;S5;E14
-SongName;Each colored windowpane;S5;E14
-SongName;I fashion only makes me want to shriek!;S5;E14
-SongName;Oh, to create would give me elation;S5;E14
-SongName;To feel once again some inspiration;S5;E14
-SongName;Come on now, Rarity;S5;E14
-SongName;Give me some clarity;S5;E14
-SongName;Time for your couture love to rule;S5;E14
-SongName;The rules of Rarity, extra TLC;S5;E14
-SongName;This feels more sublime;S5;E14
-SongName;Soon now, they will see how good these can be;S5;E14
-SongName;With a little extra shine;S5;E14
-SongName;The rules of Rarity, guaranteed quality;S5;E14
-SongName;All can see it's true;S5;E14
-SongName;These new gems add such flair;S5;E14
-SongName;Their beauty can't compare;S5;E14
-SongName;This old style suddenly gleams anew;S5;E14
-SongName;The rules of Rarity;S5;E14
-SongName;Once stood for something;S5;E14
-SongName;But now it feels just like some factory;S5;E14
-SongName;Now every dress I make;S5;E14
-SongName;With every flaw and mistake;S5;E14
-SongName;Oh, how it makes my heart;S5;E14
-SongName;My heart just break;S5;E14
-SongName;My favorite moment's when a pony sees it;S5;E14
-SongName;That special gown that she just adores;S5;E14
-SongName;That pony's now in style;S5;E14
-SongName;My hard work's all worthwhile;S5;E14
-SongName;Oh, yes, it makes my heart;S5;E14
-SongName;My heart just soar!;S5;E14
-SongName;Sisterhood;S5;E17
-SongName;Is a special kind of friend;S5;E17
-SongName;Sisterhood;S5;E17
-SongName;Is a bond that never ends;S5;E17
-SongName;Sisterhood;S5;E17
-SongName;Sisterhood;S5;E17
-SongName;Sisterhood;S5;E17
-SongName; ...ood;S5;E17
-SongName;We've been searchin' for our cutie marks;S5;E18
-SongName;For a while now;S5;E18
-SongName;Tryin' to find out how we fit in;S5;E18
-SongName;So many ways we've tried before;S5;E18
-SongName;But we keep on tryin' more;S5;E18
-SongName;'Cause the Cutie Mark Crusaders don't give in;S5;E18
-SongName;We'll make our mark;S5;E18
-SongName;One way or another;S5;E18
-SongName;We'll make our mark;S5;E18
-SongName;On the day that we discover;S5;E18
-SongName;The ultimate reward of our cutie marks!;S5;E18
-SongName;It's time to make a change;S5;E18
-SongName;This is our chance;S5;E18
-SongName;Don't be afraid to do what's right;S5;E18
-SongName;He's it! Vote for Pip!;S5;E18
-SongName;We got an opportunity;S5;E18
-SongName;To have fun again;S5;E18
-SongName;A vote for Pip, and you can join the fight;S5;E18
-SongName;It's time for a new leader;S5;E18
-SongName;It's time to make a change;S5;E18
-SongName;We're here to fight for what we believe;S5;E18
-SongName;It's finally time we beat her;S5;E18
-SongName;And play a better game;S5;E18
-SongName;'Cause when we vote together;S5;E18
-SongName;There's nothing that we can't achieve;S5;E18
-SongName;I don't believe what I am hearing;S5;E18
-SongName;I'm the only one you should be cheering;S5;E18
-SongName;Pipsqueak? Try "Pip's weak!" Don't you think?;S5;E18
-SongName;But a diamond is perfection;S5;E18
-SongName;It's natural selection;S5;E18
-SongName;So your vote better be for me, not the weakest link;S5;E18
-SongName;Everypony has their little secrets;S5;E18
-SongName;A vote for me will help you keep them safe;S5;E18
-SongName;Like your creepy super strength!;S5;E18
-SongName;Or your mane extension;S5;E18
-SongName;A little thing I won't mention;S5;E18
-SongName;Or those freakish large teeth in your face!;S5;E18
-SongName;You've gotta vote for change;S5;E18
-SongName;It's time for a new leader;S5;E18
-SongName;End all the tyranny;S5;E18
-SongName;Vote now and we can beat her;S5;E18
-SongName;It's now another day;S5;E18
-SongName;And we believe in what's right;S5;E18
-SongName;Vote for Pip! Vote for Pip!;S5;E18
-SongName;Our victory is in sight;S5;E18
-SongName;I've a tiny suggestion;S5;E18
-SongName;That you should be aware;S5;E18
-SongName;You could probably win this election;S5;E18
-SongName;If you show them all you real—;S5;E18
-SongName;Vote!;S5;E18
-SongName;Stand strong and don't be afraid, ponies;S5;E18
-SongName;Let's free ourselves from the past;S5;E18
-SongName;For Pip!;S5;E18
-SongName;Vote!;S5;E18
-SongName;He's it! Vote for Pip! Vote!;S5;E18
-SongName;We'll let honor win out against the tyranny;S5;E18
-SongName;And make a change that will last;S5;E18
-SongName;For Pip!;S5;E18
-SongName;Vote!;S5;E18
-SongName;Vote for Pip!;S5;E18
-SongName;It's time for a new leader;S5;E18
-SongName;It's time to make a change;S5;E18
-SongName;We're here to fight for what we believe;S5;E18
-SongName;Vote for Pip!;S5;E18
-SongName;It's finally time we beat her;S5;E18
-SongName;And play a better game;S5;E18
-SongName;'Cause when we vote together;S5;E18
-SongName;There's nothing that we can't achieve;S5;E18
-SongName;Vote for Pip!;S5;E18
-SongName;If I'm a diamond;S5;E18
-SongName;Then why do I feel so rough?;S5;E18
-SongName;I'm as strong as a stone;S5;E18
-SongName;Even that's not enough;S5;E18
-SongName;There's something jagged in me;S5;E18
-SongName;And I've made such mistakes;S5;E18
-SongName;I thought that diamonds were hard;S5;E18
-SongName;Though I feel I could break;S5;E18
-SongName;Would you believe;S5;E18
-SongName;That I've always wished I could be somepony else?;S5;E18
-SongName;Yet I can't see;S5;E18
-SongName;What I need to do to be the pony I want to be;S5;E18
-SongName;I've been told my whole life;S5;E18
-SongName;What to do, what to say;S5;E18
-SongName;Nopony showed me that;S5;E18
-SongName;There might be some better way;S5;E18
-SongName;And now I feel like I'm lost;S5;E18
-SongName;I don't know what to do;S5;E18
-SongName;The ground is sinking away;S5;E18
-SongName;I'm about to fall through;S5;E18
-SongName;Would you believe;S5;E18
-SongName;That I've always wished I could be somepony else?;S5;E18
-SongName;Yet I can't see;S5;E18
-SongName;What I need to do to be the pony I want to be;S5;E18
-SongName;To be the pony I want to be;S5;E18
-SongName;Cutie Mark Crusaders, get out of my way;S5;E18
-SongName;Those ponies need to know the truth;S5;E18
-SongName;And they'll hear it from me;S5;E18
-SongName;Stop! Diamond Tiara, this is not the way;S5;E18
-SongName;You know you're better than this hostility;S5;E18
-SongName;You don't even know me at all;S5;E18
-SongName;Don't understand the meaning of my fall;S5;E18
-SongName;What my family would think if I ever;S5;E18
-SongName;Fail at anything;S5;E18
-SongName;I'm a diamond – that means you'll never break;S5;E18
-SongName;No matter what be the cost of the path I take;S5;E18
-SongName;Whatever I have to do to win in the end;S5;E18
-SongName;Stop! This is not the answer;S5;E18
-SongName;Wait! And it's plainly seen;S5;E18
-SongName;Listen! You can redeem yourself;S5;E18
-SongName;But by helping others, not by being mean;S5;E18
-SongName;We know you want friends who admire you;S5;E18
-SongName;You want to be the star with all the power too;S5;E18
-SongName;But there's a better way, there's a better wa-a-ay;S5;E18
-SongName;There's so much more still left to;S5;E18
-SongName;Learn about yourself;S5;E18
-SongName;See the light that shines in you;S5;E18
-SongName;We know you can be somepony else;S5;E18
-SongName;You can stop right now;S5;E18
-SongName;And try another start;S5;E18
-SongName;You'll finally free yourself from the dark;S5;E18
-SongName;And see the light;S5;E18
-SongName;And see the light of your cutie mark;S5;E18
-SongName;We'll build a playground;S5;E18
-SongName;For all of us to enjoy;S5;E18
-SongName;So full of games;S5;E18
-SongName;There's enough for each girl and boy;S5;E18
-SongName;I want to help and do;S5;E18
-SongName;Everything that I can;S5;E18
-SongName;I'm here to show you I changed;S5;E18
-SongName;Listen up, here's the plan;S5;E18
-SongName;Bring it in! That's right, keep it coming! Hey there, you with the amazing strength. Can you help them move that merry-go-round across the lawn? Thank you so much! And you with the super teeth, we need you to help with that teeter-totter. You got it! That's the spirit!;S5;E18
-SongName;There's so much I can do;S5;E18
-SongName;To help everypony else;S5;E18
-SongName;I see the light that shines in me;S5;E18
-SongName;I know I can be my better self;S5;E18
-SongName;I can free the past;S5;E18
-SongName;'Cause now the future's bright for me;S5;E18
-SongName;My cutie mark has set me free;S5;E18
-SongName;To do what's right and be the pony I want to be;S5;E18
-SongName;And be the pony I want to be!;S5;E18
-SongName;We were searching for our cutie marks;S5;E18
-SongName;For a while there;S5;E18
-SongName;Trying to find out how we fit in;S5;E18
-SongName;So many ways we've tried before;S5;E18
-SongName;But we kept on trying more;S5;E18
-SongName;'Cause the Cutie Mark Crusaders don't give in;S5;E18
-SongName;Now we know what it took all along;S5;E18
-SongName;And our journey here is never really done;S5;E18
-SongName;For it is more than just a mark;S5;E18
-SongName;It's a place for us to start;S5;E18
-SongName;An adventure that has only just begun;S5;E18
-SongName;We'll make our mark;S5;E18
-SongName;Show the world what we can do;S5;E18
-SongName;We'll make our mark;S5;E18
-SongName;Helping fillies to break through;S5;E18
-SongName;To the ultimate reward of a cutie mark;S5;E18
-SongName;I'm so proud of you, little buddy;S5;E18
-SongName;You've taught me a thing or two;S5;E18
-SongName;You've inspired everypony around you;S5;E18
-SongName;And you've inspired me too;S5;E18
-SongName;You've made your mark;S5;E18
-SongName;Done Equestria so proud;S5;E18
-SongName;You've made your mark;S5;E18
-SongName;And we're here to sing it loud;S5;E18
-SongName;For the ultimate reward of your cutie mark;S5;E18
-SongName;We started out just three;S5;E18
-SongName;Crusaders driven to see;S5;E18
-SongName;What we find in our hearts;S5;E18
-SongName;Discover our destiny;S5;E18
-SongName;And here we are, best friends;S5;E18
-SongName;About to start it again;S5;E18
-SongName;An adventure that never will end;S5;E18
-SongName;We'll make our mark;S5;E18
-SongName;Helping fillies most in need;S5;E18
-SongName;We'll make our mark;S5;E18
-SongName;So each one of them succeeds;S5;E18
-SongName;'Cause the ultimate reward is a cutie mark!;S5;E18
-SongName;Equestria, the land I love;S5;E24
-SongName;A land of harmony;S5;E24
-SongName;Our flag does wave from high above;S5;E24
-SongName;For ponykind to see;S5;E24
-SongName;Equestria, a land of friends;S5;E24
-SongName;Where ponykind do roam;S5;E24
-SongName;They say true friendship never ends;S5;E24
-SongName;Equestria, my home;S5;E24
-SongName;Time for the spectacle;S5;E24
-SongName;Time for the show;S5;E24
-SongName;The lights are bright and the colors glow;S5;E24
-SongName;I'm not just anypony;S5;E24
-SongName;I think you know;S5;E24
-SongName;The time is now, it's about to blow!;S5;E24
-SongName;Razzle dazzle;S5;E24
-SongName;Glitz and glam;S5;E24
-SongName;Turn it all up, it's a spectacle;S5;E24
-SongName;Razzle dazzle;S5;E24
-SongName;Glitz and glam;S5;E24
-SongName;Turn it all up, it's a spectacle;S5;E24
-SongName;Give me more;S5;E24
-SongName;Razzle dazzle;S5;E24
-SongName;Glitter eyes, big surprise;S5;E24
-SongName;Lights, cameras;S5;E24
-SongName;Razzle dazzle;S5;E24
-SongName;Glitz and glam;S5;E24
-SongName;Turn it all up, it's a spectacle;S5;E24
-SongName;Hear the applause;S5;E24
-SongName;Here to impress;S5;E24
-SongName;Not just a pony, I am the Countess!;S5;E24
-SongName;I'm here to show you who I am;S5;E24
-SongName;Throw off the veil, it's finally time;S5;E24
-SongName;There's more to me than glitz and glam, oh-whoa;S5;E24
-SongName;And now I feel my stars align;S5;E24
-SongName;For I had believed what I was sold;S5;E24
-SongName;I did all the things that I was told;S5;E24
-SongName;But all that has changed, and now I'm bold;S5;E24
-SongName;'Cause I know;S5;E24
-SongName;That I am just a pony;S5;E24
-SongName;I make mistakes from time to time;S5;E24
-SongName;But now I know the real me;S5;E24
-SongName;And put my heart out on the line;S5;E24
-SongName;And let the magic in my heart stay true;S5;E24
-SongName;Whoa-whoa-whoa-whoa;S5;E24
-SongName;And let the magic in my heart stay true;S5;E24
-SongName;Whoa-whoa-whoa-whoa;S5;E24
-SongName;Just like the magic inside of you;S5;E24
-SongName;And now I see those colors;S5;E24
-SongName;Right before my eyes;S5;E24
-SongName;I hear my voice so clearly;S5;E24
-SongName;And I know that it is right;S5;E24
-SongName;They thought I was weak, but I am strong;S5;E24
-SongName;They sold me the world, but they were wrong;S5;E24
-SongName;And now that I'm back, I still belong;S5;E24
-SongName;'Cause I know;S5;E24
-SongName;That I am just a pony;S5;E24
-SongName;I make mistakes from time to time;S5;E24
-SongName;But now I know the real me;S5;E24
-SongName;And put my heart out on the line;S5;E24
-SongName;And let the magic in my heart stay true;S5;E24
-SongName;Whoa-whoa-whoa-whoa;S5;E24
-SongName;And let the magic in my heart stay true;S5;E24
-SongName;Whoa-whoa-whoa-whoa;S5;E24
-SongName;Just like the magic inside of you;S5;E24
-SongName;Just like the magic inside of you...;S5;E24
-SongName;Equestria, the land I love;S5;E24
-SongName;A land of harmony;S5;E24
-SongName;Our flag does wave from high above;S5;E24
-SongName;For ponykind to see;S5;E24
-SongName;Equestria, a land of friends;S5;E24
-SongName;Where ponykind do roam;S5;E24
-SongName;They say true friendship never ends;S5;E24
-SongName;Equestria, my home;S5;E24
-SongName;I never thought that I would find a place;S5;E26
-SongName;To step right in and start again;S5;E26
-SongName;I never thought that I could just begin;S5;E26
-SongName;Right where I left off and make a friend;S5;E26
-SongName;Don't ever think that it might be too late;S5;E26
-SongName;You don't have to wait, there's no mistakes with the friends you make;S5;E26
-SongName;A friendship's only made of what you bring;S5;E26
-SongName;And if you do it right, you can do anything;S5;E26
-SongName;Just use your eyes;S5;E26
-SongName;This time, no lies;S5;E26
-SongName;Just don't disguise;S5;E26
-SongName;Who you are inside;S5;E26
-SongName;Because your friends are always there for you;S5;E26
-SongName;You don't have to be the same for friendship to be true;S5;E26
-SongName;Because your friends are always there for you;S5;E26
-SongName;Around the world, it's still the same;S5;E26
-SongName;Together you have more to gain;S5;E26
-SongName;There's nothing that a friend won't do;S5;E26
-SongName;Everywhere you go;S5;E26
-SongName;Friendship there will grow;S5;E26
-SongName;When you find it, it's the key;S5;E26
-SongName;Friends can change the world, you see;S5;E26
-SongName;Everywhere you go;S5;E26
-SongName;Friendship there will grow;S5;E26
-SongName;When you find it, it's the key;S5;E26
-SongName;Friends can change the world ;S5;E26
-SongName;Friends can change the world ;S5;E26
-SongName;Friends can change the world, you see;S5;E26
+In Our Town;In Our Town, in Our Town;S5;E1
+In Our Town;We don't have to wait;S5;E1
+In Our Town;To find out that our destiny;S5;E1
+In Our Town;Is just to emulate;S5;E1
+In Our Town;In Our Town, in Our Town;S5;E1
+In Our Town;We dare not compete;S5;E1
+In Our Town;Winning only breeds the worst;S5;E1
+In Our Town;Ego-filled conceit;S5;E1
+In Our Town;In Our Town, in Our Town;S5;E1
+In Our Town;We work as a team;S5;E1
+In Our Town;You can't have a nightmare;S5;E1
+In Our Town;If you never dream;S5;E1
+In Our Town;Other ponies argue;S5;E1
+In Our Town;Do you ever wonder why?;S5;E1
+In Our Town;When you think your talent's special;S5;E1
+In Our Town;You don't see eye-to-eye;S5;E1
+In Our Town;There's just too many differences;S5;E1
+In Our Town;That lead to disarray;S5;E1
+In Our Town;But when you learn to act as one;S5;E1
+In Our Town;It's like a holiday;S5;E1
+In Our Town;In Our Town, in Our Town;S5;E1
+In Our Town;We don't complicate;S5;E1
+In Our Town;When you learn to simplify;S5;E1
+In Our Town;Life is oh, so great;S5;E1
+In Our Town;Join in our utopia;S5;E1
+In Our Town;Come out of the dark;S5;E1
+In Our Town;Banded by equality;S5;E1
+In Our Town;By our cutie mark!;S5;E1
+Make This Castle A Home;Let's all work together;S5;E3
+Make This Castle A Home;To make this castle shi-i-ine;S5;E3
+Make This Castle A Home;Once we add some sparkle;S5;E3
+Make This Castle A Home;It'll feel, it'll feel, it'll feel...;S5;E3
+Make This Castle A Home;It'll feel divine;S5;E3
+Make This Castle A Home;Crates of apples an' bales o' hay;S5;E3
+Make This Castle A Home;Just makes ya feel at home;S5;E3
+Make This Castle A Home;Furry friends and some popinjays;S5;E3
+Make This Castle A Home;So she won't be alone;S5;E3
+Make This Castle A Home;And we'll make, and we'll make, and we'll make;S5;E3
+Make This Castle A Home;This castle a home;S5;E3
+Make This Castle A Home;There's nothing like balloons and confetti;S5;E3
+Make This Castle A Home;To greet you every time you walk through the door;S5;E3
+Make This Castle A Home;She'll need this and those;S5;E3
+Make This Castle A Home;Posters of all my heroes;S5;E3
+Make This Castle A Home;How could anypony awesome ever ask for more?;S5;E3
+Make This Castle A Home;And we'll make, and we'll make, and we'll make;S5;E3
+Make This Castle A Home;A home she'll adore;S5;E3
+Make This Castle A Home;Bright curtains of flowing silk and lace;S5;E3
+Make This Castle A Home;This picture of me winning a race;S5;E3
+Make This Castle A Home;Party cannons to give her a surprise;S5;E3
+Make This Castle A Home;Hoes and rakes and some more garden supplies;S5;E3
+Make This Castle A Home;Getting hugs from this nice, big, friendly bear;S5;E3
+Make This Castle A Home;Decorate with some gemstones bright and rare;S5;E3
+Make This Castle A Home;More of this and that;S5;E3
+Make This Castle A Home;Don't forget the party hats;S5;E3
+Make This Castle A Home;How could anypony awesome ask for more than that?;S5;E3
+Make This Castle A Home;Let's all work together;S5;E3
+Make This Castle A Home;To show that we have shown;S5;E3
+Make This Castle A Home;Princess Twilight Sparkle;S5;E3
+Make This Castle A Home;How we make, how we make, how we make;S5;E3
+Make This Castle A Home;This castle a home;S5;E3
+Make This Castle A Home;How we make, how we make;S5;E3
+Make This Castle A Home;This castle a home;S5;E3
+Make This Castle A Home;How we make, how we make;S5;E3
+Make This Castle A Home;This castle a home!;S5;E3
+Make This Castle A Home;It's not the things that ya gather 'round;S5;E3
+Make This Castle A Home;It's not how much you own;S5;E3
+Make This Castle A Home;The things that hold the meaning in your life;S5;E3
+Make This Castle A Home;Are the memories you've sown;S5;E3
+Make This Castle A Home;So we make, so we make, so we make;S5;E3
+Make This Castle A Home;This castle a home;S5;E3
+Make This Castle A Home;So we make, so we make;S5;E3
+Make This Castle A Home;This castle a home;S5;E3
+Make This Castle A Home;So we make, so we make;S5;E3
+Make This Castle A Home;This castle a home!;S5;E3
+I'll Fly;When life gives you lemons;S5;E5
+I'll Fly;You can make lemonade;S5;E5
+I'll Fly;But life gave me Tank here;S5;E5
+I'll Fly;And my choice has long been made;S5;E5
+I'll Fly;No winter will come to Ponyville;S5;E5
+I'll Fly;I'll do it on my own;S5;E5
+I'll Fly;I will keep you by my side;S5;E5
+I'll Fly;So I will not be alone;S5;E5
+I'll Fly;And I'll fly, and I'll fly;S5;E5
+I'll Fly;Until the end of the sky;S5;E5
+I'll Fly;So I'll be the one who doesn't;S5;E5
+I'll Fly;Have to say goodbye;S5;E5
+I'll Fly;I'll clear the skies forever;S5;E5
+I'll Fly;So we won't be apart;S5;E5
+I'll Fly;I'll keep the weather warm for you;S5;E5
+I'll Fly;And the winter will never start;S5;E5
+I'll Fly;Weather-makers Pegasi;S5;E5
+I'll Fly;You make the seasons in the sky;S5;E5
+I'll Fly;I don't want to sabotage you;S5;E5
+I'll Fly;But you see, I've got to try;S5;E5
+I'll Fly;No winter can come here now;S5;E5
+I'll Fly;I'll keep the warmth and the sun somehow;S5;E5
+I'll Fly;I'm sorry, ponies, this has to be;S5;E5
+I'll Fly;For I need my friend and he needs me;S5;E5
+I'll Fly;I know it's wrong, but what does it matter?;S5;E5
+I'll Fly;'Cause nothing's gonna stop me now;S5;E5
+I'll Fly;I'll change it all, it's only the weather;S5;E5
+I'll Fly;And nopony's gonna bring me down;S5;E5
+I'll Fly;I'll keep the sunlight shining free;S5;E5
+I'll Fly;And I'll bust the clouds apart so you can stay with me;S5;E5
+I'll Fly;And I'll fly, and I'll fly;S5;E5
+I'll Fly;Until the end of the sky;S5;E5
+I'll Fly;So I'll be the one who doesn't;S5;E5
+I'll Fly;Have to say goodbye;S5;E5
+I'll Fly;I'll clear the skies forever;S5;E5
+I'll Fly;So we won't be apart;S5;E5
+I'll Fly;I'll keep the weather warm for you;S5;E5
+I'll Fly;And the winter will never start!;S5;E5
+Rules of Rarity;The rules of Rarity, guaranteed quality;S5;E14
+Rules of Rarity;This I can assure;S5;E14
+Rules of Rarity;For each and every dress;S5;E14
+Rules of Rarity;I vow to give finesse;S5;E14
+Rules of Rarity;With time, love, and couture;S5;E14
+Rules of Rarity;My favorite moment's when a pony sees it;S5;E14
+Rules of Rarity;That special gown that she just adores;S5;E14
+Rules of Rarity;That pony's now in style;S5;E14
+Rules of Rarity;My hard work's all worthwhile;S5;E14
+Rules of Rarity;Oh, yes, it makes my heart;S5;E14
+Rules of Rarity;My heart just soar;S5;E14
+Rules of Rarity;The rules of Rarity, just a parody;S5;E14
+Rules of Rarity;No dress here's unique;S5;E14
+Rules of Rarity;The panels all the same;S5;E14
+Rules of Rarity;Each colored windowpane;S5;E14
+Rules of Rarity;I fashion only makes me want to shriek!;S5;E14
+Rules of Rarity;Oh, to create would give me elation;S5;E14
+Rules of Rarity;To feel once again some inspiration;S5;E14
+Rules of Rarity;Come on now, Rarity;S5;E14
+Rules of Rarity;Give me some clarity;S5;E14
+Rules of Rarity;Time for your couture love to rule;S5;E14
+Rules of Rarity;The rules of Rarity, extra TLC;S5;E14
+Rules of Rarity;This feels more sublime;S5;E14
+Rules of Rarity;Soon now, they will see how good these can be;S5;E14
+Rules of Rarity;With a little extra shine;S5;E14
+Rules of Rarity;The rules of Rarity, guaranteed quality;S5;E14
+Rules of Rarity;All can see it's true;S5;E14
+Rules of Rarity;These new gems add such flair;S5;E14
+Rules of Rarity;Their beauty can't compare;S5;E14
+Rules of Rarity;This old style suddenly gleams anew;S5;E14
+Rules of Rarity;The rules of Rarity;S5;E14
+Rules of Rarity;Once stood for something;S5;E14
+Rules of Rarity;But now it feels just like some factory;S5;E14
+Rules of Rarity;Now every dress I make;S5;E14
+Rules of Rarity;With every flaw and mistake;S5;E14
+Rules of Rarity;Oh, how it makes my heart;S5;E14
+Rules of Rarity;My heart just break;S5;E14
+Rules of Rarity;My favorite moment's when a pony sees it;S5;E14
+Rules of Rarity;That special gown that she just adores;S5;E14
+Rules of Rarity;That pony's now in style;S5;E14
+Rules of Rarity;My hard work's all worthwhile;S5;E14
+Rules of Rarity;Oh, yes, it makes my heart;S5;E14
+Rules of Rarity;My heart just soar!;S5;E14
+Sisterhood;Sisterhood;S5;E17
+Sisterhood;Is a special kind of friend;S5;E17
+Sisterhood;Sisterhood;S5;E17
+Sisterhood;Is a bond that never ends;S5;E17
+We'll Make Our Mark;We've been searchin' for our cutie marks;S5;E18
+We'll Make Our Mark;For a while now;S5;E18
+We'll Make Our Mark;Tryin' to find out how we fit in;S5;E18
+We'll Make Our Mark;So many ways we've tried before;S5;E18
+We'll Make Our Mark;But we keep on tryin' more;S5;E18
+We'll Make Our Mark;'Cause the Cutie Mark Crusaders don't give in;S5;E18
+We'll Make Our Mark;We'll make our mark;S5;E18
+We'll Make Our Mark;One way or another;S5;E18
+We'll Make Our Mark;We'll make our mark;S5;E18
+We'll Make Our Mark;On the day that we discover;S5;E18
+We'll Make Our Mark;The ultimate reward of our cutie marks!;S5;E18
+The Vote;It's time to make a change;S5;E18
+The Vote;This is our chance;S5;E18
+The Vote;Don't be afraid to do what's right;S5;E18
+The Vote;He's it! Vote for Pip!;S5;E18
+The Vote;We got an opportunity;S5;E18
+The Vote;To have fun again;S5;E18
+The Vote;A vote for Pip, and you can join the fight;S5;E18
+The Vote;It's time for a new leader;S5;E18
+The Vote;It's time to make a change;S5;E18
+The Vote;We're here to fight for what we believe;S5;E18
+The Vote;It's finally time we beat her;S5;E18
+The Vote;And play a better game;S5;E18
+The Vote;'Cause when we vote together;S5;E18
+The Vote;There's nothing that we can't achieve;S5;E18
+The Vote;I don't believe what I am hearing;S5;E18
+The Vote;I'm the only one you should be cheering;S5;E18
+The Vote;Pipsqueak? Try "Pip's weak!" Don't you think?;S5;E18
+The Vote;But a diamond is perfection;S5;E18
+The Vote;It's natural selection;S5;E18
+The Vote;So your vote better be for me, not the weakest link;S5;E18
+The Vote;Everypony has their little secrets;S5;E18
+The Vote;A vote for me will help you keep them safe;S5;E18
+The Vote;Like your creepy super strength!;S5;E18
+The Vote;Or your mane extension;S5;E18
+The Vote;A little thing I won't mention;S5;E18
+The Vote;Or those freakish large teeth in your face!;S5;E18
+The Vote;You've gotta vote for change;S5;E18
+The Vote;It's time for a new leader;S5;E18
+The Vote;End all the tyranny;S5;E18
+The Vote;Vote now and we can beat her;S5;E18
+The Vote;It's now another day;S5;E18
+The Vote;And we believe in what's right;S5;E18
+The Vote;Vote for Pip! Vote for Pip!;S5;E18
+The Vote;Our victory is in sight;S5;E18
+The Vote;I've a tiny suggestion;S5;E18
+The Vote;That you should be aware;S5;E18
+The Vote;You could probably win this election;S5;E18
+The Vote;If you show them all you real—;S5;E18
+The Vote;Vote!;S5;E18
+The Vote;Stand strong and don't be afraid, ponies;S5;E18
+The Vote;Let's free ourselves from the past;S5;E18
+The Vote;For Pip!;S5;E18
+The Vote;Vote!;S5;E18
+The Vote;He's it! Vote for Pip! Vote!;S5;E18
+The Vote;We'll let honor win out against the tyranny;S5;E18
+The Vote;And make a change that will last;S5;E18
+The Vote;For Pip!;S5;E18
+The Vote;Vote!;S5;E18
+The Vote;Vote for Pip!;S5;E18
+The Vote;It's time for a new leader;S5;E18
+The Vote;It's time to make a change;S5;E18
+The Vote;We're here to fight for what we believe;S5;E18
+The Vote;Vote for Pip!;S5;E18
+The Vote;It's finally time we beat her;S5;E18
+The Vote;And play a better game;S5;E18
+The Vote;'Cause when we vote together;S5;E18
+The Vote;There's nothing that we can't achieve;S5;E18
+The Vote;Vote for Pip!;S5;E18
+The Pony I Want to Be;If I'm a diamond;S5;E18
+The Pony I Want to Be;Then why do I feel so rough?;S5;E18
+The Pony I Want to Be;I'm as strong as a stone;S5;E18
+The Pony I Want to Be;Even that's not enough;S5;E18
+The Pony I Want to Be;There's something jagged in me;S5;E18
+The Pony I Want to Be;And I've made such mistakes;S5;E18
+The Pony I Want to Be;I thought that diamonds were hard;S5;E18
+The Pony I Want to Be;Though I feel I could break;S5;E18
+The Pony I Want to Be;Would you believe;S5;E18
+The Pony I Want to Be;That I've always wished I could be somepony else?;S5;E18
+The Pony I Want to Be;Yet I can't see;S5;E18
+The Pony I Want to Be;What I need to do to be the pony I want to be;S5;E18
+The Pony I Want to Be;I've been told my whole life;S5;E18
+The Pony I Want to Be;What to do, what to say;S5;E18
+The Pony I Want to Be;Nopony showed me that;S5;E18
+The Pony I Want to Be;There might be some better way;S5;E18
+The Pony I Want to Be;And now I feel like I'm lost;S5;E18
+The Pony I Want to Be;I don't know what to do;S5;E18
+The Pony I Want to Be;The ground is sinking away;S5;E18
+The Pony I Want to Be;I'm about to fall through;S5;E18
+The Pony I Want to Be;Would you believe;S5;E18
+The Pony I Want to Be;That I've always wished I could be somepony else?;S5;E18
+The Pony I Want to Be;Yet I can't see;S5;E18
+The Pony I Want to Be;What I need to do to be the pony I want to be;S5;E18
+The Pony I Want to Be;To be the pony I want to be;S5;E18
+Light of Your Cutie Mark;Cutie Mark Crusaders, get out of my way;S5;E18
+Light of Your Cutie Mark;Those ponies need to know the truth;S5;E18
+Light of Your Cutie Mark;And they'll hear it from me;S5;E18
+Light of Your Cutie Mark;Stop! Diamond Tiara, this is not the way;S5;E18
+Light of Your Cutie Mark;You know you're better than this hostility;S5;E18
+Light of Your Cutie Mark;You don't even know me at all;S5;E18
+Light of Your Cutie Mark;Don't understand the meaning of my fall;S5;E18
+Light of Your Cutie Mark;What my family would think if I ever;S5;E18
+Light of Your Cutie Mark;Fail at anything;S5;E18
+Light of Your Cutie Mark;I'm a diamond – that means you'll never break;S5;E18
+Light of Your Cutie Mark;No matter what be the cost of the path I take;S5;E18
+Light of Your Cutie Mark;Whatever I have to do to win in the end;S5;E18
+Light of Your Cutie Mark;Stop! This is not the answer;S5;E18
+Light of Your Cutie Mark;Wait! And it's plainly seen;S5;E18
+Light of Your Cutie Mark;Listen! You can redeem yourself;S5;E18
+Light of Your Cutie Mark;But by helping others, not by being mean;S5;E18
+Light of Your Cutie Mark;We know you want friends who admire you;S5;E18
+Light of Your Cutie Mark;You want to be the star with all the power too;S5;E18
+Light of Your Cutie Mark;But there's a better way, there's a better wa-a-ay;S5;E18
+Light of Your Cutie Mark;There's so much more still left to;S5;E18
+Light of Your Cutie Mark;Learn about yourself;S5;E18
+Light of Your Cutie Mark;See the light that shines in you;S5;E18
+Light of Your Cutie Mark;We know you can be somepony else;S5;E18
+Light of Your Cutie Mark;You can stop right now;S5;E18
+Light of Your Cutie Mark;And try another start;S5;E18
+Light of Your Cutie Mark;You'll finally free yourself from the dark;S5;E18
+Light of Your Cutie Mark;And see the light;S5;E18
+Light of Your Cutie Mark;And see the light of your cutie mark;S5;E18
+The Pony I Want to Be;We'll build a playground;S5;E18
+The Pony I Want to Be;For all of us to enjoy;S5;E18
+The Pony I Want to Be;So full of games;S5;E18
+The Pony I Want to Be;There's enough for each girl and boy;S5;E18
+The Pony I Want to Be;I want to help and do;S5;E18
+The Pony I Want to Be;Everything that I can;S5;E18
+The Pony I Want to Be;I'm here to show you I changed;S5;E18
+The Pony I Want to Be;Listen up, here's the plan;S5;E18
+The Pony I Want to Be;Bring it in! That's right, keep it coming! Hey there, you with the amazing strength. Can you help them move that merry-go-round across the lawn? Thank you so much! And you with the super teeth, we need you to help with that teeter-totter. You got it! That's the spirit!;S5;E18
+The Pony I Want to Be;There's so much I can do;S5;E18
+The Pony I Want to Be;To help everypony else;S5;E18
+The Pony I Want to Be;I see the light that shines in me;S5;E18
+The Pony I Want to Be;I know I can be my better self;S5;E18
+The Pony I Want to Be;I can free the past;S5;E18
+The Pony I Want to Be;'Cause now the future's bright for me;S5;E18
+The Pony I Want to Be;My cutie mark has set me free;S5;E18
+The Pony I Want to Be;To do what's right and be the pony I want to be;S5;E18
+The Pony I Want to Be;And be the pony I want to be!;S5;E18
+We'll Make Our Mark;We were searching for our cutie marks;S5;E18
+We'll Make Our Mark;For a while there;S5;E18
+We'll Make Our Mark;Trying to find out how we fit in;S5;E18
+We'll Make Our Mark;So many ways we've tried before;S5;E18
+We'll Make Our Mark;But we kept on trying more;S5;E18
+We'll Make Our Mark;'Cause the Cutie Mark Crusaders don't give in;S5;E18
+We'll Make Our Mark;Now we know what it took all along;S5;E18
+We'll Make Our Mark;And our journey here is never really done;S5;E18
+We'll Make Our Mark;For it is more than just a mark;S5;E18
+We'll Make Our Mark;It's a place for us to start;S5;E18
+We'll Make Our Mark;An adventure that has only just begun;S5;E18
+We'll Make Our Mark;We'll make our mark;S5;E18
+We'll Make Our Mark;Show the world what we can do;S5;E18
+We'll Make Our Mark;We'll make our mark;S5;E18
+We'll Make Our Mark;Helping fillies to break through;S5;E18
+We'll Make Our Mark;To the ultimate reward of a cutie mark;S5;E18
+We'll Make Our Mark;I'm so proud of you, little buddy;S5;E18
+We'll Make Our Mark;You've taught me a thing or two;S5;E18
+We'll Make Our Mark;You've inspired everypony around you;S5;E18
+We'll Make Our Mark;And you've inspired me too;S5;E18
+We'll Make Our Mark;You've made your mark;S5;E18
+We'll Make Our Mark;Done Equestria so proud;S5;E18
+We'll Make Our Mark;You've made your mark;S5;E18
+We'll Make Our Mark;And we're here to sing it loud;S5;E18
+We'll Make Our Mark;For the ultimate reward of your cutie mark;S5;E18
+We'll Make Our Mark;We started out just three;S5;E18
+We'll Make Our Mark;Crusaders driven to see;S5;E18
+We'll Make Our Mark;What we find in our hearts;S5;E18
+We'll Make Our Mark;Discover our destiny;S5;E18
+We'll Make Our Mark;And here we are, best friends;S5;E18
+We'll Make Our Mark;About to start it again;S5;E18
+We'll Make Our Mark;An adventure that never will end;S5;E18
+We'll Make Our Mark;We'll make our mark;S5;E18
+We'll Make Our Mark;Helping fillies most in need;S5;E18
+We'll Make Our Mark;We'll make our mark;S5;E18
+We'll Make Our Mark;So each one of them succeeds;S5;E18
+We'll Make Our Mark;'Cause the ultimate reward is a cutie mark!;S5;E18
+Equestria, the Land I Love;Equestria, the land I love;S5;E24
+Equestria, the Land I Love;A land of harmony;S5;E24
+Equestria, the Land I Love;Our flag does wave from high above;S5;E24
+Equestria, the Land I Love;For ponykind to see;S5;E24
+Equestria, the Land I Love;Equestria, a land of friends;S5;E24
+Equestria, the Land I Love;Where ponykind do roam;S5;E24
+Equestria, the Land I Love;They say true friendship never ends;S5;E24
+Equestria, the Land I Love;Equestria, my home;S5;E24
+The Spectacle;Time for the spectacle;S5;E24
+The Spectacle;Time for the show;S5;E24
+The Spectacle;The lights are bright and the colors glow;S5;E24
+The Spectacle;I'm not just anypony;S5;E24
+The Spectacle;I think you know;S5;E24
+The Spectacle;The time is now, it's about to blow!;S5;E24
+The Spectacle;Razzle dazzle;S5;E24
+The Spectacle;Glitz and glam;S5;E24
+The Spectacle;Turn it all up, it's a spectacle;S5;E24
+The Spectacle;Razzle dazzle;S5;E24
+The Spectacle;Glitz and glam;S5;E24
+The Spectacle;Turn it all up, it's a spectacle;S5;E24
+The Spectacle;Give me more;S5;E24
+The Spectacle;Razzle dazzle;S5;E24
+The Spectacle;Glitter eyes, big surprise;S5;E24
+The Spectacle;Lights, cameras;S5;E24
+The Spectacle;Razzle dazzle;S5;E24
+The Spectacle;Glitz and glam;S5;E24
+The Spectacle;Turn it all up, it's a spectacle;S5;E24
+The Spectacle;Hear the applause;S5;E24
+The Spectacle;Here to impress;S5;E24
+The Spectacle;Not just a pony, I am the Countess!;S5;E24
+The Magic Inside;I'm here to show you who I am;S5;E24
+The Magic Inside;Throw off the veil, it's finally time;S5;E24
+The Magic Inside;There's more to me than glitz and glam, oh-whoa;S5;E24
+The Magic Inside;And now I feel my stars align;S5;E24
+The Magic Inside;For I had believed what I was sold;S5;E24
+The Magic Inside;I did all the things that I was told;S5;E24
+The Magic Inside;But all that has changed, and now I'm bold;S5;E24
+The Magic Inside;'Cause I know;S5;E24
+The Magic Inside;That I am just a pony;S5;E24
+The Magic Inside;I make mistakes from time to time;S5;E24
+The Magic Inside;But now I know the real me;S5;E24
+The Magic Inside;And put my heart out on the line;S5;E24
+The Magic Inside;And let the magic in my heart stay true;S5;E24
+The Magic Inside;Whoa-whoa-whoa-whoa;S5;E24
+The Magic Inside;And let the magic in my heart stay true;S5;E24
+The Magic Inside;Whoa-whoa-whoa-whoa;S5;E24
+The Magic Inside;Just like the magic inside of you;S5;E24
+The Magic Inside;And now I see those colors;S5;E24
+The Magic Inside;Right before my eyes;S5;E24
+The Magic Inside;I hear my voice so clearly;S5;E24
+The Magic Inside;And I know that it is right;S5;E24
+The Magic Inside;They thought I was weak, but I am strong;S5;E24
+The Magic Inside;They sold me the world, but they were wrong;S5;E24
+The Magic Inside;And now that I'm back, I still belong;S5;E24
+The Magic Inside;'Cause I know;S5;E24
+The Magic Inside;That I am just a pony;S5;E24
+The Magic Inside;I make mistakes from time to time;S5;E24
+The Magic Inside;But now I know the real me;S5;E24
+The Magic Inside;And put my heart out on the line;S5;E24
+The Magic Inside;And let the magic in my heart stay true;S5;E24
+The Magic Inside;Whoa-whoa-whoa-whoa;S5;E24
+The Magic Inside;And let the magic in my heart stay true;S5;E24
+The Magic Inside;Whoa-whoa-whoa-whoa;S5;E24
+The Magic Inside;Just like the magic inside of you;S5;E24
+The Magic Inside;Just like the magic inside of you...;S5;E24
+Equestria, the Land I Love;Equestria, the land I love;S5;E24
+Equestria, the Land I Love;A land of harmony;S5;E24
+Equestria, the Land I Love;Our flag does wave from high above;S5;E24
+Equestria, the Land I Love;For ponykind to see;S5;E24
+Equestria, the Land I Love;Equestria, a land of friends;S5;E24
+Equestria, the Land I Love;Where ponykind do roam;S5;E24
+Equestria, the Land I Love;They say true friendship never ends;S5;E24
+Equestria, the Land I Love;Equestria, my home;S5;E24
+Friends Are Always There For You;I never thought that I would find a place;S5;E26
+Friends Are Always There For You;To step right in and start again;S5;E26
+Friends Are Always There For You;I never thought that I could just begin;S5;E26
+Friends Are Always There For You;Right where I left off and make a friend;S5;E26
+Friends Are Always There For You;Don't ever think that it might be too late;S5;E26
+Friends Are Always There For You;You don't have to wait, there's no mistakes with the friends you make;S5;E26
+Friends Are Always There For You;A friendship's only made of what you bring;S5;E26
+Friends Are Always There For You;And if you do it right, you can do anything;S5;E26
+Friends Are Always There For You;Just use your eyes;S5;E26
+Friends Are Always There For You;This time, no lies;S5;E26
+Friends Are Always There For You;Just don't disguise;S5;E26
+Friends Are Always There For You;Who you are inside;S5;E26
+Friends Are Always There For You;Because your friends are always there for you;S5;E26
+Friends Are Always There For You;You don't have to be the same for friendship to be true;S5;E26
+Friends Are Always There For You;Because your friends are always there for you;S5;E26
+Friends Are Always There For You;Around the world, it's still the same;S5;E26
+Friends Are Always There For You;Together you have more to gain;S5;E26
+Friends Are Always There For You;There's nothing that a friend won't do;S5;E26
+Friends Are Always There For You;Everywhere you go;S5;E26
+Friends Are Always There For You;Friendship there will grow;S5;E26
+Friends Are Always There For You;When you find it, it's the key;S5;E26
+Friends Are Always There For You;Friends can change the world, you see;S5;E26
+Friends Are Always There For You;Everywhere you go;S5;E26
+Friends Are Always There For You;Friendship there will grow;S5;E26
+Friends Are Always There For You;When you find it, it's the key;S5;E26
+Friends Are Always There For You;Friends can change the world ;S5;E26
+Friends Are Always There For You;Friends can change the world ;S5;E26
+Friends Are Always There For You;Friends can change the world, you see;S5;E26
+########################### Season 6 ###########################
 SongName;It's the Pie Sisters' Swap Day Sooooooong!;S6;E3
 SongName;I never imagined myself out on my own;S6;E4
 SongName;Tryin' to find out what's next for me;S6;E4
@@ -2231,6 +2224,7 @@ SongName;You know that you can count on me;S6;E19
 SongName;CMCs, you're gonna help me find my purpose;S6;E19
 SongName;The purpose in my life!;S6;E19
 SongName;In my life!;S6;E19
+########################### Season 7 ###########################
 SongName;Friendship used to make me so queasy, queasy;S7;E2
 SongName;But you made it all so easy, easy;S7;E2
 SongName;Now I don't have to say what I'm thinking;S7;E2
@@ -2432,6 +2426,7 @@ SongName;Blank flanks forever and ever!;S7;E21
 SongName;Blank flanks forever!;S7;E21
 SongName;Blank flanks forever and ever!;S7;E21
 SongName;Blank flanks!;S7;E21
+########################### Season 8 ###########################
 SongName;The School of Friendship, first day of class;S8;E1
 SongName;Will we fail or will we pass?;S8;E1
 SongName;Students come from far and wide;S8;E1
@@ -2729,6 +2724,7 @@ SongName;Time we make the lot all disappear;S8;E24
 SongName;Just grab it all and give to me;S8;E24
 SongName;After that, then you'll be free;S8;E24
 SongName;You just can't be a dragon heeeeere!;S8;E24
+########################### Season 9 ###########################
 SongName;We celebrate our friendship;S9;E3
 SongName;We celebrate the tree;S9;E3
 SongName;The memories inside us;S9;E3
@@ -3706,3 +3702,164 @@ Life is a Runway;Into the light;S0;E2
 Life is a Runway;Into the light;S0;E2
 Life is a Runway;Into the light;S0;E2
 Life is a Runway;Into the light;S0;E2
+########################### EG 3 ###########################
+Friendship Games Opening;The Friendship Games!;S0;E3
+Friendship Games Opening;We've come this far;S0;E3
+Friendship Games Opening;And we're not goin' back (No way!);S0;E3
+Friendship Games Opening;Prepare yourself;S0;E3
+Friendship Games Opening;Cause we're on the attack (Attack!);S0;E3
+Friendship Games Opening;Won't have to find us;S0;E3
+Friendship Games Opening;We'll be tracking you down (Right now!);S0;E3
+Friendship Games Opening;And when we're finished;S0;E3
+Friendship Games Opening;We'll be takin' the crown;S0;E3
+Friendship Games Opening;All the way (all the way);S0;E3
+Friendship Games Opening;All the way to the Friendship Games;S0;E3
+Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
+Friendship Games Opening;Na, na, let's go!;S0;E3
+Friendship Games Opening;All the way (all the way);S0;E3
+Friendship Games Opening;All the way to the Friendship Games;S0;E3
+Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
+Friendship Games Opening;Na, na, let's go!;S0;E3
+Friendship Games Opening;We studied hard;S0;E3
+Friendship Games Opening;And we're here to win;S0;E3
+Friendship Games Opening;We're only tellin' you once;S0;E3
+Friendship Games Opening;Our magic comes from the inside out;S0;E3
+Friendship Games Opening;What you see's what you get;S0;E3
+Friendship Games Opening;Don't you ever forget;S0;E3
+Friendship Games Opening;All the way (all the way);S0;E3
+Friendship Games Opening;All the way to the Friendship Games;S0;E3
+Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
+Friendship Games Opening;Na, na, let's go!;S0;E3
+Friendship Games Opening;All the way (all the way);S0;E3
+Friendship Games Opening;All the way to the Friendship Games;S0;E3
+Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
+Friendship Games Opening;Na, na, let's go!;S0;E3
+CHS Rally Song;We've fought magic more than once;S0;E3
+CHS Rally Song;And come out on top;S0;E3
+CHS Rally Song;There's other schools, but none can make those claims;S0;E3
+CHS Rally Song;Together we are Canterlot;S0;E3
+CHS Rally Song;Come and cheer our name;S0;E3
+CHS Rally Song;This will be our year to win these games;S0;E3
+CHS Rally Song;We'll always be Wondercolts forever;S0;E3
+CHS Rally Song;And now our time has finally arrived;S0;E3
+CHS Rally Song;'Cause we believe in the magic of friendship;S0;E3
+CHS Rally Song;And you know, at the end of the day, it is we who survive;S0;E3
+CHS Rally Song;We're not the school we were before;S0;E3
+CHS Rally Song;Yeah, we're different now;S0;E3
+CHS Rally Song;We overcame the obstacles we faced;S0;E3
+CHS Rally Song;Overcame the obstacles we faced;S0;E3
+CHS Rally Song;We're Canterlot united;S0;E3
+CHS Rally Song;Unite!;S0;E3
+CHS Rally Song;And we'll never bow;S0;E3
+CHS Rally Song;So get ready to see us in first place;S0;E3
+CHS Rally Song;We'll always be Wondercolts forever;S0;E3
+CHS Rally Song;And now our time has finally arrived;S0;E3
+CHS Rally Song;'Cause we believe in the magic of friendship;S0;E3
+CHS Rally Song;And you know, at the end of the day, it is we who survive;S0;E3
+CHS Rally Song;At the end of the day, it is we who survive;S0;E3
+CHS Rally Song;Na, na, na-na-na-na;S0;E3
+CHS Rally Song;Wondercolts united together;S0;E3
+CHS Rally Song;Na, na, na-na-na-na;S0;E3
+CHS Rally Song;Wondercolts united forever;S0;E3
+CHS Rally Song;We'll always be Wondercolts forever;S0;E3
+CHS Rally Song;And now our time has finally arrived;S0;E3
+CHS Rally Song;'Cause we believe in the magic of friendship;S0;E3
+CHS Rally Song;And you know...;S0;E3
+CHS Rally Song;At the end of the day, it is we who survive;S0;E3
+CHS Rally Song;At the end of the day, it is we who survive!;S0;E3
+What More Is Out There;I've walked through all these halls before;S0;E4
+What More Is Out There;I've been in and out of every door, oh-whoa-oh;S0;E4
+What More Is Out There;There's nothin' in this school that I don't know;S0;E4
+What More Is Out There;In every class, my grade's the best;S0;E4
+What More Is Out There;The highest score on every test;S0;E4
+What More Is Out There;I think that means it's time for me to go;S0;E4
+What More Is Out There;I know there's more that's out there;S0;E4
+What More Is Out There;And I just haven't found it yet;S0;E4
+What More Is Out There;I know there's more that's out there;S0;E4
+What More Is Out There;Another me I haven't met;S0;E4
+What More Is Out There;This school is full of people;S0;E4
+What More Is Out There;But still I don't belong;S0;E4
+What More Is Out There;They only dream of winning;S0;E4
+What More Is Out There;Look at me like something's wrong;S0;E4
+What More Is Out There;Maybe I'm better off alone;S0;E4
+What More Is Out There;Will I find what I'm lookin' for;S0;E4
+What More Is Out There;If I just do it on my own?;S0;E4
+What More Is Out There;I know there's more that's out there;S0;E4
+What More Is Out There;Something to fill this hole inside;S0;E4
+What More Is Out There;I know there's more that's out there;S0;E4
+What More Is Out There;And I'm not afraid to try;S0;E4
+What More Is Out There;There's only so much this school can offer;S0;E4
+What More Is Out There;And I'm not saying that it's wrong;S0;E4
+What More Is Out There;But I know there's more that's out there;S0;E4
+What More Is Out There;'Cause I've been searching all along;S0;E4
+What More Is Out There;Beyond these rooms, beyond these walls;S0;E4
+What More Is Out There;So much to learn, I can't see it all;S0;E4
+What More Is Out There;There's somethin' out there callin' me;S0;E4
+What More Is Out There;And it's a mystery that I can't wait to see;S0;E4
+What More Is Out There;'Cause I know there's more that's out there;S0;E4
+What More Is Out There;Another place, another way;S0;E4
+What More Is Out There;And I know there's more that's out there;S0;E4
+What More Is Out There;And I'll find out someday!;S0;E4
+What More Is Out There;I'll find out someday...;S0;E4
+ACADECA;Ho! We're gonna take you down;S0;E3
+ACADECA;Ho! We're gonna take you down!;S0;E3
+ACADECA;Take you down! (Ho! We're gonna take you down!);S0;E3
+ACADECA;Take you down! (Down, down, down);S0;E3
+ACADECA;(Oh oh!) We're here to take you out;S0;E3
+ACADECA;(Aw aw!) We're here to take you out (Aw aw!);S0;E3
+ACADECA;Take you out! (We're here to take you out!);S0;E3
+ACADECA;Take you out!;S0;E3
+ACADECA;We're not about to let you win, so get out of our way;S0;E3
+ACADECA;Think you got us beat, but we're here to stay;S0;E3
+ACADECA;United strong, yeah, we'll take you down;S0;E3
+ACADECA;You're not so tough, now you're in our town;S0;E3
+ACADECA;All of the times we lost before;S0;E3
+ACADECA;Not about to give up, we're only bringin' it more;S0;E3
+ACADECA;We can smell your fear, we can see your sweat;S0;E3
+ACADECA;Hope you didn't spend money 'cause you're losin' this bet!;S0;E3
+ACADECA;You've got nothin' on us;S0;E3
+ACADECA;Na, na, na-na-na, na;S0;E3
+ACADECA;Let's go, Wondercolts!;S0;E3
+ACADECA;You've got nothin' on us;S0;E3
+ACADECA;Na, na, na-na-na, na;S0;E3
+ACADECA;Let's go, Wondercolts!;S0;E3
+ACADECA;Talk a little too much for a school that never wins;S0;E3
+ACADECA;Maybe you should just stop 'fore you even begin;S0;E3
+ACADECA;We are Crystal Prep High and we have a reputation;S0;E3
+ACADECA;Every little moment is about our education;S0;E3
+ACADECA;Put your ear to the ground;S0;E3
+ACADECA;Listen to that sound;S0;E3
+ACADECA;You're a house of cards;S0;E3
+ACADECA;And it's about to fall down (fall down);S0;E3
+ACADECA;About to fall down (fall down), hit the ground;S0;E3
+ACADECA;You've got nothin' on us;S0;E3
+ACADECA;Na, na, na-na-na, na;S0;E3
+ACADECA;Let's go, Shadowbolts!;S0;E3
+ACADECA;You've got nothin' on us;S0;E3
+ACADECA;Na, na, na-na-na, na;S0;E3
+ACADECA;Let's go, Shadowbolts!;S0;E3
+ACADECA;Pressure's on, now we're gonna beat you;S0;E3
+ACADECA;Step aside, it's time that we defeat you;S0;E3
+ACADECA;Crystal Prep yourself 'cause you're about to go;S0;E3
+ACADECA;Down, down, down, down;S0;E3
+ACADECA;Pressure's on, you know we're gonna take you;S0;E3
+ACADECA;Just give up before we have to break you;S0;E3
+ACADECA;Canter-not-a-lot, you're about to go;S0;E3
+ACADECA;Down, down, down, down;S0;E3
+ACADECA;Take it up to the top;S0;E3
+ACADECA;'Cause we know we can win;S0;E3
+ACADECA;Maybe you should just stop;S0;E3
+ACADECA;'Cause we've seen you give in;S0;E3
+ACADECA;We believe in ourselves;S0;E3
+ACADECA;And we've got what it takes;S0;E3
+ACADECA;And we're not gonna stop;S0;E3
+ACADECA;I can't wait 'til this is all over;S0;E3
+ACADECA;There's so much more that's going on;S0;E3
+ACADECA;And before these games are over;S0;E3
+ACADECA;I'll find out just what she's done;S0;E3
+ACADECA;Can she do it? Will she make it?;S0;E3
+ACADECA;Who will win it? Who will take it?;S0;E3
+ACADECA;Can she do it? Who will take it?;S0;E3
+ACADECA;Did she win it? Did she make it?;S0;E3
+ACADECA;Who's the winner? Who's the reject?;S0;E3
+ACADECA;How did she answer?;S0;E3
