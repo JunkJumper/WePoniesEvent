@@ -1038,210 +1038,6 @@ Life in Equestria;That everything ;S3;E13
 Life in Equestria;Yes, everything ;S3;E13
 Life in Equestria;Yes, everything is certainly fine;S3;E13
 Life in Equestria;It’s fine;S3;E13
-########################### EG 1 ###########################
-This strange new world;I've never seen a place;S31;E1
-This strange new world;That's quite like this;S31;E1
-This strange new world;Everything is turned around;S31;E1
-This strange new world;This crazy world is upside-down;S31;E1
-This strange new world;Getting on my feet;S31;E1
-This strange new world;It's the hand that I was dealt;S31;E1
-This strange new world;But I don't have much time with them;S31;E1
-This strange new world;Got to learn all that I can;S31;E1
-This strange new world;They don't use any magic or fly with any wings;S31;E1
-This strange new world;I don't get these funny clothes, skinny legs or tiny nose;S31;E1
-This strange new world;Everything's confusing when it seems so new;S31;E1
-This strange new world;But I look a little closer and it starts to feel familiar too;S31;E1
-This strange new world;What a strange new world (what a strange new world);S31;E1
-This strange new world;I'm trying to make heads or tails of this strange new world (what a strange new world);S31;E1
-This strange new world;Sorting through the small details of this strange new world;S31;E1
-This strange new world;What a strange new world;S31;E1
-Helping Twilight win the wrown;Hey, hey, everybody;S11;E1
-Helping Twilight win the wrown;We've got something to say;S11;E1
-Helping Twilight win the wrown;We may seem as different;S11;E1
-Helping Twilight win the wrown;As the night is from day;S11;E1
-Helping Twilight win the wrown;But you look a little deeper;S11;E1
-Helping Twilight win the wrown;And you will see;S11;E1
-Helping Twilight win the wrown;That I'm just like you;S11;E1
-Helping Twilight win the wrown;And you're just like me;S11;E1
-Helping Twilight win the wrown;Yeah!;S11;E1
-Helping Twilight win the wrown;Hey, hey, everybody;S11;E1
-Helping Twilight win the wrown;We're here to shout;S11;E1
-Helping Twilight win the wrown;That the magic of friendship;S11;E1
-Helping Twilight win the wrown;Is what it's all about;S11;E1
-Helping Twilight win the wrown;Yeah, we thought we were different;S11;E1
-Helping Twilight win the wrown;As the night is from the day;S11;E1
-Helping Twilight win the wrown;Until Twilight Sparkle;S11;E1
-Helping Twilight win the wrown;Helped us see another way;S11;E1
-Helping Twilight win the wrown;So get up, get down;S11;E1
-Helping Twilight win the wrown;If you're gonna come around;S11;E1
-Helping Twilight win the wrown;We can work together;S11;E1
-Helping Twilight win the wrown;Helping Twilight win the crown;S11;E1
-Helping Twilight win the wrown;So get up, get down;S11;E1
-Helping Twilight win the wrown;'Cause it's gonna make a sound;S11;E1
-Helping Twilight win the wrown;If we work together;S11;E1
-Helping Twilight win the wrown;Helping Twilight Sparkle win the crown;S11;E1
-Helping Twilight win the wrown;Hey, hey, hands up now;S11;E1
-Helping Twilight win the wrown;We're sending a message to the crowd;S11;E1
-Helping Twilight win the wrown;Hands wave up, then come down;S11;E1
-Helping Twilight win the wrown;We party together all around;S11;E1
-Helping Twilight win the wrown;Generous, honesty;S11;E1
-Helping Twilight win the wrown;Laughter, kindness, loyalty;S11;E1
-Helping Twilight win the wrown;Twilight helped us each to see;S11;E1
-Helping Twilight win the wrown;All that we can be!;S11;E1
-Helping Twilight win the wrown;So get up, get down;S11;E1
-Helping Twilight win the wrown;If you're gonna come around;S11;E1
-Helping Twilight win the wrown;We can work together;S11;E1
-Helping Twilight win the wrown;Helping Twilight win the crown;S11;E1
-Helping Twilight win the wrown;So get up, get down;S11;E1
-Helping Twilight win the wrown;'Cause it's gonna make a sound;S11;E1
-Helping Twilight win the wrown;If we work together;S11;E1
-Helping Twilight win the wrown;Helping Twilight Sparkle win the crown;S11;E1
-Helping Twilight win the wrown;I'm gonna be myself;S11;E1
-Helping Twilight win the wrown;No matter what I do;S11;E1
-Helping Twilight win the wrown;And if we're different, yeah;S11;E1
-Helping Twilight win the wrown;I want you to be true to you;S11;E1
-Helping Twilight win the wrown;If you follow me;S11;E1
-Helping Twilight win the wrown;We'll put our differences aside;S11;E1
-Helping Twilight win the wrown;We'll stick together and;S11;E1
-Helping Twilight win the wrown;Start working on that school pride!;S11;E1
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S11;E1
-Helping Twilight win the wrown;Stomp your hooves, turn around;S11;E1
-Helping Twilight win the wrown;Start now, make a change;S11;E1
-Helping Twilight win the wrown;Gonna come around;S11;E1
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S11;E1
-Helping Twilight win the wrown;Stomp your hooves, turn around;S11;E1
-Helping Twilight win the wrown;Canterlot Wondercolts;S11;E1
-Helping Twilight win the wrown;Help her win the crown;S11;E1
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S11;E1
-Helping Twilight win the wrown;Stomp your hooves, turn around;S11;E1
-Helping Twilight win the wrown;Start now, make a change;S11;E1
-Helping Twilight win the wrown;Gonna come around;S11;E1
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S11;E1
-Helping Twilight win the wrown;Stomp your hooves, turn around;S11;E1
-Helping Twilight win the wrown;Canterlot Wondercolts;S11;E1
-Helping Twilight win the wrown;Help her win the crown;S11;E1
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S11;E1
-Helping Twilight win the wrown;Stomp your hooves, turn around;S11;E1
-Helping Twilight win the wrown;Start now, make a change;S11;E1
-Helping Twilight win the wrown;Gonna come around;S11;E1
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S11;E1
-Helping Twilight win the wrown;Stomp your hooves, turn around;S11;E1
-Helping Twilight win the wrown;Canterlot...;S11;E1
-Time to come together;It's time for us to come together;S11;E1
-Time to come together;It's the only way that things will get better;S11;E1
-Time to come together;It's time for us to take a stand;S11;E1
-Time to come together;So come on and lend a helping hand;S11;E1
-Time to come together;Fix it up;S11;E1
-Time to come together;Yeah, it's all right;S11;E1
-Time to come together;We'll get it ready by tonight;S11;E1
-Time to come together;Mix it up;S11;E1
-Time to come together;Yeah, help a friend;S11;E1
-Time to come together;We'll come together in the end;S11;E1
-Time to come together;It's time to show that we've got school spirit;S11;E1
-Time to come together;Raise your voice and let everyone hear it;S11;E1
-Time to come together;It's time to show that we're strong;S11;E1
-Time to come together;So come on, everybody, sing along;S11;E1
-Time to come together;(Look...) Look how we've all come together;S11;E1
-Time to come together;(Things...) Things are only just starting to get better;S11;E1
-Time to come together;(Look...) Look how we've all come together;S11;E1
-Time to come together;(Things...) Things are only gonna get better, better, better, better!;S11;E1
-Time to come together;(We... will...) Fix it up, yeah, it's all right;S11;E1
-Time to come together;(Come... tonight, tonight...) We'll get it ready by tonight;S11;E1
-Time to come together;(We... will...) Mix it up, yeah, help a friend;S11;E1
-Time to come together;(Come... together, together...) We'll come together in the end;S11;E1
-Time to come together;(We... will...) Fix it up, yeah, it's all right;S11;E1
-Time to come together;(Come... tonight, tonight...) We'll get it ready by tonight;S11;E1
-Time to come together;(We... will...) Mix it up, yeah, help a friend;S11;E1
-Time to come together;(Come... together, together...) We'll come together, together now!;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;We're getting ready;S11;E1
-This is our big night;And we're doing it up right;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;Friendship survived,;S11;E1
-This is our big night;Now we'll start it out right;S11;E1
-This is our big night;The time's right, gonna make it last 'cause it's the first night;S11;E1
-This is our big night;That we're ever gonna start to just have fun together;S11;E1
-This is our big night;We're so glad, so happy we could never be mad;S11;E1
-This is our big night;Did it right now, this is our big night now;S11;E1
-This is our big night;Six friends on the way up now;S11;E1
-This is our big night;Six friends here to show you how;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;We're getting ready;S11;E1
-This is our big night;And we're doing it up right;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;We made it happen;S11;E1
-This is our big night;Now let's party all night;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;We made it happen;S11;E1
-This is our big night;Now let's party all night;S11;E1
-This is our big night;We're here now and we worked so hard to make it come around;S11;E1
-This is our big night;To tonight so let's try to make it last forever;S11;E1
-This is our big night;The school lights so bright, beat is pumping through the night;S11;E1
-This is our big night;Party's starting, DJ's got the music just right!;S11;E1
-This is our big night;Six friends on the way up now;S11;E1
-This is our big night;Six friends here to show you how;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;This is our big night;S11;E1
-This is our big night;This is our big night;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;I couldn't see what was;S11;E1
-A friend for Life;Right there in front of me;S11;E1
-A friend for Life;Turned my back;S11;E1
-A friend for Life;Got my mind off track;S11;E1
-A friend for Life;Yeah;S11;E1
-A friend for Life;You saw a world that was;S11;E1
-A friend for Life;Something new entirely;S11;E1
-A friend for Life;Helped me to see;S11;E1
-A friend for Life;All the possibilities;S11;E1
-A friend for Life;Oooohhhhh....;S11;E1
-A friend for Life;Like a star in the day light;S11;E1
-A friend for Life;Or like a diamond at night;S11;E1
-A friend for Life;Your light was hidden;S11;E1
-A friend for Life;From my sight;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;Every friendship is tested;S11;E1
-A friend for Life;You say you're sincere;S11;E1
-A friend for Life;But it's all unclear now;S11;E1
-A friend for Life;But with a word;S11;E1
-A friend for Life;Everything changes;S11;E1
-A friend for Life;And just like that;S11;E1
-A friend for Life;You and I are right back;S11;E1
-A friend for Life;Oohhh....;S11;E1
-A friend for Life;Like a star in the day light;S11;E1
-A friend for Life;Or like a diamond at night;S11;E1
-A friend for Life;Your light will shine;S11;E1
-A friend for Life;When the time is right;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;When I put my hand out;S11;E1
-A friend for Life;And I thought I would fall;S11;E1
-A friend for Life;You knew what I needed;S11;E1
-A friend for Life;And you came around;S11;E1
-A friend for Life;To fix it all;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;Ooohh-wa-ooohh;S11;E1
-A friend for Life;Like a star in the day light;S11;E1
-A friend for Life;A friend for life;S11;E1
-A friend for Life;That's what you are to me;S11;E1
-A friend for Life;Like a diamond at night;S11;E1
-A friend for Life;Ah-ah-oh, ah-ah-ohhh;S11;E1
-A friend for Life;That's what you are to me;S11;E1
 ########################### Season 4 ###########################
 Hearts Strong as Horses;We're the toughest little ponies in town;S4;E5
 Hearts Strong as Horses;Got the moves, got the mojo, no harder working ponies around;S4;E5
@@ -3226,3 +3022,358 @@ SongName;The bonds grow deeper, lasting longer;S9;E26
 SongName;And the greatest spell you'll know ;S9;E26
 SongName;Is how the Magic of Friendship grows;S9;E26
 SongName;How the Magic of Friendship grows;S9;E26
+########################### EG 1 ###########################
+This strange new world;I've never seen a place;S31;E1
+This strange new world;That's quite like this;S31;E1
+This strange new world;Everything is turned around;S31;E1
+This strange new world;This crazy world is upside-down;S31;E1
+This strange new world;Getting on my feet;S31;E1
+This strange new world;It's the hand that I was dealt;S31;E1
+This strange new world;But I don't have much time with them;S31;E1
+This strange new world;Got to learn all that I can;S31;E1
+This strange new world;They don't use any magic or fly with any wings;S31;E1
+This strange new world;I don't get these funny clothes, skinny legs or tiny nose;S31;E1
+This strange new world;Everything's confusing when it seems so new;S31;E1
+This strange new world;But I look a little closer and it starts to feel familiar too;S31;E1
+This strange new world;What a strange new world (what a strange new world);S31;E1
+This strange new world;I'm trying to make heads or tails of this strange new world (what a strange new world);S31;E1
+This strange new world;Sorting through the small details of this strange new world;S31;E1
+This strange new world;What a strange new world;S31;E1
+Helping Twilight win the wrown;Hey, hey, everybody;S0;E1
+Helping Twilight win the wrown;We've got something to say;S0;E1
+Helping Twilight win the wrown;We may seem as different;S0;E1
+Helping Twilight win the wrown;As the night is from day;S0;E1
+Helping Twilight win the wrown;But you look a little deeper;S0;E1
+Helping Twilight win the wrown;And you will see;S0;E1
+Helping Twilight win the wrown;That I'm just like you;S0;E1
+Helping Twilight win the wrown;And you're just like me;S0;E1
+Helping Twilight win the wrown;Yeah!;S0;E1
+Helping Twilight win the wrown;Hey, hey, everybody;S0;E1
+Helping Twilight win the wrown;We're here to shout;S0;E1
+Helping Twilight win the wrown;That the magic of friendship;S0;E1
+Helping Twilight win the wrown;Is what it's all about;S0;E1
+Helping Twilight win the wrown;Yeah, we thought we were different;S0;E1
+Helping Twilight win the wrown;As the night is from the day;S0;E1
+Helping Twilight win the wrown;Until Twilight Sparkle;S0;E1
+Helping Twilight win the wrown;Helped us see another way;S0;E1
+Helping Twilight win the wrown;So get up, get down;S0;E1
+Helping Twilight win the wrown;If you're gonna come around;S0;E1
+Helping Twilight win the wrown;We can work together;S0;E1
+Helping Twilight win the wrown;Helping Twilight win the crown;S0;E1
+Helping Twilight win the wrown;So get up, get down;S0;E1
+Helping Twilight win the wrown;'Cause it's gonna make a sound;S0;E1
+Helping Twilight win the wrown;If we work together;S0;E1
+Helping Twilight win the wrown;Helping Twilight Sparkle win the crown;S0;E1
+Helping Twilight win the wrown;Hey, hey, hands up now;S0;E1
+Helping Twilight win the wrown;We're sending a message to the crowd;S0;E1
+Helping Twilight win the wrown;Hands wave up, then come down;S0;E1
+Helping Twilight win the wrown;We party together all around;S0;E1
+Helping Twilight win the wrown;Generous, honesty;S0;E1
+Helping Twilight win the wrown;Laughter, kindness, loyalty;S0;E1
+Helping Twilight win the wrown;Twilight helped us each to see;S0;E1
+Helping Twilight win the wrown;All that we can be!;S0;E1
+Helping Twilight win the wrown;So get up, get down;S0;E1
+Helping Twilight win the wrown;If you're gonna come around;S0;E1
+Helping Twilight win the wrown;We can work together;S0;E1
+Helping Twilight win the wrown;Helping Twilight win the crown;S0;E1
+Helping Twilight win the wrown;So get up, get down;S0;E1
+Helping Twilight win the wrown;'Cause it's gonna make a sound;S0;E1
+Helping Twilight win the wrown;If we work together;S0;E1
+Helping Twilight win the wrown;Helping Twilight Sparkle win the crown;S0;E1
+Helping Twilight win the wrown;I'm gonna be myself;S0;E1
+Helping Twilight win the wrown;No matter what I do;S0;E1
+Helping Twilight win the wrown;And if we're different, yeah;S0;E1
+Helping Twilight win the wrown;I want you to be true to you;S0;E1
+Helping Twilight win the wrown;If you follow me;S0;E1
+Helping Twilight win the wrown;We'll put our differences aside;S0;E1
+Helping Twilight win the wrown;We'll stick together and;S0;E1
+Helping Twilight win the wrown;Start working on that school pride!;S0;E1
+Helping Twilight win the wrown;Jump up, make a sound (Hey!);S0;E1
+Helping Twilight win the wrown;Stomp your hooves, turn around;S0;E1
+Helping Twilight win the wrown;Start now, make a change;S0;E1
+Helping Twilight win the wrown;Gonna come around;S0;E1
+Helping Twilight win the wrown;Jump up, make a sound (Hey!);S0;E1
+Helping Twilight win the wrown;Stomp your hooves, turn around;S0;E1
+Helping Twilight win the wrown;Canterlot Wondercolts;S0;E1
+Helping Twilight win the wrown;Help her win the crown;S0;E1
+Helping Twilight win the wrown;Jump up, make a sound (Hey!);S0;E1
+Helping Twilight win the wrown;Stomp your hooves, turn around;S0;E1
+Helping Twilight win the wrown;Start now, make a change;S0;E1
+Helping Twilight win the wrown;Gonna come around;S0;E1
+Helping Twilight win the wrown;Jump up, make a sound (Hey!);S0;E1
+Helping Twilight win the wrown;Stomp your hooves, turn around;S0;E1
+Helping Twilight win the wrown;Canterlot Wondercolts;S0;E1
+Helping Twilight win the wrown;Help her win the crown;S0;E1
+Helping Twilight win the wrown;Jump up, make a sound (Hey!);S0;E1
+Helping Twilight win the wrown;Stomp your hooves, turn around;S0;E1
+Helping Twilight win the wrown;Start now, make a change;S0;E1
+Helping Twilight win the wrown;Gonna come around;S0;E1
+Helping Twilight win the wrown;Jump up, make a sound (Hey!);S0;E1
+Helping Twilight win the wrown;Stomp your hooves, turn around;S0;E1
+Helping Twilight win the wrown;Canterlot...;S0;E1
+Time to come together;It's time for us to come together;S0;E1
+Time to come together;It's the only way that things will get better;S0;E1
+Time to come together;It's time for us to take a stand;S0;E1
+Time to come together;So come on and lend a helping hand;S0;E1
+Time to come together;Fix it up;S0;E1
+Time to come together;Yeah, it's all right;S0;E1
+Time to come together;We'll get it ready by tonight;S0;E1
+Time to come together;Mix it up;S0;E1
+Time to come together;Yeah, help a friend;S0;E1
+Time to come together;We'll come together in the end;S0;E1
+Time to come together;It's time to show that we've got school spirit;S0;E1
+Time to come together;Raise your voice and let everyone hear it;S0;E1
+Time to come together;It's time to show that we're strong;S0;E1
+Time to come together;So come on, everybody, sing along;S0;E1
+Time to come together;(Look...) Look how we've all come together;S0;E1
+Time to come together;(Things...) Things are only just starting to get better;S0;E1
+Time to come together;(Look...) Look how we've all come together;S0;E1
+Time to come together;(Things...) Things are only gonna get better, better, better, better!;S0;E1
+Time to come together;(We... will...) Fix it up, yeah, it's all right;S0;E1
+Time to come together;(Come... tonight, tonight...) We'll get it ready by tonight;S0;E1
+Time to come together;(We... will...) Mix it up, yeah, help a friend;S0;E1
+Time to come together;(Come... together, together...) We'll come together in the end;S0;E1
+Time to come together;(We... will...) Fix it up, yeah, it's all right;S0;E1
+Time to come together;(Come... tonight, tonight...) We'll get it ready by tonight;S0;E1
+Time to come together;(We... will...) Mix it up, yeah, help a friend;S0;E1
+Time to come together;(Come... together, together...) We'll come together, together now!;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;We're getting ready;S0;E1
+This is our big night;And we're doing it up right;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;Friendship survived,;S0;E1
+This is our big night;Now we'll start it out right;S0;E1
+This is our big night;The time's right, gonna make it last 'cause it's the first night;S0;E1
+This is our big night;That we're ever gonna start to just have fun together;S0;E1
+This is our big night;We're so glad, so happy we could never be mad;S0;E1
+This is our big night;Did it right now, this is our big night now;S0;E1
+This is our big night;Six friends on the way up now;S0;E1
+This is our big night;Six friends here to show you how;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;We're getting ready;S0;E1
+This is our big night;And we're doing it up right;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;We made it happen;S0;E1
+This is our big night;Now let's party all night;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;We made it happen;S0;E1
+This is our big night;Now let's party all night;S0;E1
+This is our big night;We're here now and we worked so hard to make it come around;S0;E1
+This is our big night;To tonight so let's try to make it last forever;S0;E1
+This is our big night;The school lights so bright, beat is pumping through the night;S0;E1
+This is our big night;Party's starting, DJ's got the music just right!;S0;E1
+This is our big night;Six friends on the way up now;S0;E1
+This is our big night;Six friends here to show you how;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;This is our big night;S0;E1
+This is our big night;This is our big night;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;I couldn't see what was;S0;E1
+A friend for Life;Right there in front of me;S0;E1
+A friend for Life;Turned my back;S0;E1
+A friend for Life;Got my mind off track;S0;E1
+A friend for Life;Yeah;S0;E1
+A friend for Life;You saw a world that was;S0;E1
+A friend for Life;Something new entirely;S0;E1
+A friend for Life;Helped me to see;S0;E1
+A friend for Life;All the possibilities;S0;E1
+A friend for Life;Oooohhhhh....;S0;E1
+A friend for Life;Like a star in the day light;S0;E1
+A friend for Life;Or like a diamond at night;S0;E1
+A friend for Life;Your light was hidden;S0;E1
+A friend for Life;From my sight;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;Every friendship is tested;S0;E1
+A friend for Life;You say you're sincere;S0;E1
+A friend for Life;But it's all unclear now;S0;E1
+A friend for Life;But with a word;S0;E1
+A friend for Life;Everything changes;S0;E1
+A friend for Life;And just like that;S0;E1
+A friend for Life;You and I are right back;S0;E1
+A friend for Life;Oohhh....;S0;E1
+A friend for Life;Like a star in the day light;S0;E1
+A friend for Life;Or like a diamond at night;S0;E1
+A friend for Life;Your light will shine;S0;E1
+A friend for Life;When the time is right;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;When I put my hand out;S0;E1
+A friend for Life;And I thought I would fall;S0;E1
+A friend for Life;You knew what I needed;S0;E1
+A friend for Life;And you came around;S0;E1
+A friend for Life;To fix it all;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;Ooohh-wa-ooohh;S0;E1
+A friend for Life;Like a star in the day light;S0;E1
+A friend for Life;A friend for life;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+A friend for Life;Like a diamond at night;S0;E1
+A friend for Life;Ah-ah-oh, ah-ah-ohhh;S0;E1
+A friend for Life;That's what you are to me;S0;E1
+########################### EG 2 ###########################
+Equestria Girls Rainbow Rocks Opening;We used to fight with each other;S0;E2
+Equestria Girls Rainbow Rocks Opening;(Oh, whoa-oh, whoa-oh, whoa-oh);S0;E2
+Equestria Girls Rainbow Rocks Opening;That was before we discovered;S0;E2
+Equestria Girls Rainbow Rocks Opening;(Oh, whoa-oh, whoa-oh, whoa-oh);S0;E2
+Equestria Girls Rainbow Rocks Opening;That when your friendship is real;S0;E2
+Equestria Girls Rainbow Rocks Opening;(Oh, whoa-oh, whoa-oh, whoa-oh);S0;E2
+Equestria Girls Rainbow Rocks Opening;Yeah, you just say what ya feel;S0;E2
+Equestria Girls Rainbow Rocks Opening;And the music, yeah, the music;S0;E2
+Equestria Girls Rainbow Rocks Opening;Gets us to the top;S0;E2
+Equestria Girls Rainbow Rocks Opening;As we learn how the rainbow...;S0;E2
+Equestria Girls Rainbow Rocks Opening;Rainbow Rocks!;S0;E2
+Equestria Girls Rainbow Rocks Opening;You can pick up the bass;S0;E2
+Equestria Girls Rainbow Rocks Opening;(Oh, whoa-oh, whoa-oh, whoa-oh);S0;E2
+Equestria Girls Rainbow Rocks Opening;And you can play the guitar;S0;E2
+Equestria Girls Rainbow Rocks Opening;(Oh, whoa-oh, whoa-oh, whoa-oh);S0;E2
+Equestria Girls Rainbow Rocks Opening;You can bang on the drums;S0;E2
+Equestria Girls Rainbow Rocks Opening;(Oh, whoa-oh, whoa-oh, whoa-oh);S0;E2
+Equestria Girls Rainbow Rocks Opening;Or you can sing like a star;S0;E2
+Equestria Girls Rainbow Rocks Opening;And the music, yeah, the music;S0;E2
+Equestria Girls Rainbow Rocks Opening;Gets us to the top;S0;E2
+Equestria Girls Rainbow Rocks Opening;As we learn how the rainbow...;S0;E2
+Equestria Girls Rainbow Rocks Opening;Rainbow Rocks!;S0;E2
+Equestria Girls Rainbow Rocks Opening;As we learn how the rainbow...;S0;E2
+Equestria Girls Rainbow Rocks Opening;Rainbow Rocks!;S0;E2
+Better Than Ever;There was a time we were apart;S0;E2
+Better Than Ever;But that's behind us now;S0;E2
+Better Than Ever;See how we've made a brand new start;S0;E2
+Better Than Ever;And the future's lookin' up, ah-oh, ah-oh;S0;E2
+Better Than Ever;And when you walk these halls;S0;E2
+Better Than Ever;You feel it everywhere;S0;E2
+Better Than Ever;Yeah, we're the Wondercolts forever, ah-oh, yeah!;S0;E2
+Better Than Ever;We are all together;S0;E2
+Better Than Ever;(Ah, ah, oh-oh-oh-oh);S0;E2
+Better Than Ever;Now it's better than ever;S0;E2
+Better Than Ever;(Ah, ah, oh-oh-oh-oh);S0;E2
+Better Than Ever;You can feel it, we are back (You... can... feel... it...);S0;E2
+Better Than Ever;And I'm so glad that we're better;S0;E2
+Better Than Ever;Better than ever;S0;E2
+Better Than Ever;Whoa-oh, oh-whoa-oh;S0;E2
+Better Than Ever;Oh yeah, we're better than ever;S0;E2
+Better Than Ever;Whoa-oh, oh-whoa-oh;S0;E2
+Better Than Ever;There was a time we couldn't see;S0;E2
+Better Than Ever;Past the differences;S0;E2
+Better Than Ever;That separated you and me;S0;E2
+Better Than Ever;And it left us on our own;S0;E2
+Better Than Ever;But now you walk these halls;S0;E2
+Better Than Ever;And friends are everywhere;S0;E2
+Better Than Ever;Yeah, we're the Wondercolts forever, ah-oh, yeah!;S0;E2
+Better Than Ever;We are all together;S0;E2
+Better Than Ever;(Ah, ah, oh-oh-oh-oh);S0;E2
+Better Than Ever;Now it's better than ever;S0;E2
+Better Than Ever;(Ah, ah, oh-oh-oh-oh);S0;E2
+Better Than Ever;Now that we are back on track (Now... that... we... are...);S0;E2
+Better Than Ever;Yes, I'm so glad that we're better;S0;E2
+Better Than Ever;Better than ever;S0;E2
+Better Than Ever;Whoa-oh, oh-whoa-oh;S0;E2
+Better Than Ever;Oh yeah, we're better than ever;S0;E2
+Better Than Ever;Whoa-oh, oh-whoa-oh;S0;E2
+Better Than Ever;Oh yeah, we're better than ever;S0;E2
+Better Than Ever;Whoa-oh, oh-whoa-oh;S0;E2
+Better Than Ever;Oh yeah, we're better than ever!;S0;E2
+Battle;We heard you want to get together ;S0;E2
+Battle;We heard you want to rock this school ;S0;E2
+Battle;We've thought of something that is better ;S0;E2
+Battle;Something that changes all the rules ;S0;E2
+Battle;Why pretend we're all the same ;S0;E2
+Battle;When some of us shine brighter? ;S0;E2
+Battle;Shine brighter ;S0;E2
+Battle;Here's a chance to find your flame ;S0;E2
+Battle;Are you a loser or a fighter? ;S0;E2
+Battle;Me and you, you and me ;S0;E2
+Battle;Why don't we see who is better? ;S0;E2
+Battle;We don't have to be one and the same thing ;S0;E2
+Battle;Oh, what's so wrong with a little competition? ;S0;E2
+Battle;Are you afraid of failing the audition? ;S0;E2
+Battle;You're a star and you should know it ;S0;E2
+Battle;Yeah, you rise above the rest ;S0;E2
+Battle;It doesn't matter who you hurt ;S0;E2
+Battle;If you're just proving you're the best ;S0;E2
+Battle;Battle! You wanna win it ;S0;E2
+Battle;Let's have a battle, battle of the bands ;S0;E2
+Battle;Let's have a battle, we'll go all in it ;S0;E2
+Battle;Let's have a battle, battle, battle ;S0;E2
+Battle;Battle of the bands ;S0;E2
+Battle;Battle! ;S0;E2
+Battle;I can beat you! ;S0;E2
+Battle;Battle! ;S0;E2
+Battle;Ha! You wish! ;S0;E2
+Battle;Battle! ;S0;E2
+Battle;I so want this! ;S0;E2
+Battle;Battle! ;S0;E2
+Battle;Not if I get it first! ;S0;E2
+Battle;Me and you, you and me ;S0;E2
+Battle;Why don't we see who is better? ;S0;E2
+Battle;We don't have to be one and the same thing ;S0;E2
+Battle;Oh, what's so wrong with a little competition? ;S0;E2
+Battle;I'm going out and winning the audition ;S0;E2
+Battle;Battle! We wanna win it ;S0;E2
+Battle;Let's have a battle, battle of the bands ;S0;E2
+Battle;Let's have a battle, we'll go all in it ;S0;E2
+Battle;Let's have a battle, battle, battle ;S0;E2
+Battle;Battle of the bands! ;S0;E2
+Bad Counter Spell;Hey, hey, listen;S0;E2
+Bad Counter Spell;We've got a message for you;S0;E2
+Bad Counter Spell;We're not all alike;S0;E2
+Bad Counter Spell;But our friendship is true;S0;E2
+Bad Counter Spell;Yeah, we're really different;S0;E2
+Bad Counter Spell;But we still get along;S0;E2
+Bad Counter Spell;So hey, hey, listen to our song;S0;E2
+Bad Counter Spell;You may think you're in control;S0;E2
+Bad Counter Spell;But we're here to prove you wrong;S0;E2
+Bad Counter Spell;With our friendship and our music;S0;E2
+Bad Counter Spell;With the power of our song;S0;E2
+Bad Counter Spell;Gonna stomp our feet, clap our hands;S0;E2
+Bad Counter Spell;With the magic of friendship;S0;E2
+Bad Counter Spell;Gonna stop your evil plan;S0;E2
+Shake tour tail;We've just got the day to get ready;S0;E2
+Shake tour tail;And there's only so much time to lose;S0;E2
+Shake tour tail;Because tonight, yeah, we're here to party;S0;E2
+Shake tour tail;So let's think of something fun to do;S0;E2
+Shake tour tail;We don't know (we don't know) what's gonna happen;S0;E2
+Shake tour tail;We just know (we just know) it's gonna feel right;S0;E2
+Shake tour tail;All our friends are here;S0;E2
+Shake tour tail;And it's time to ignite the lights!;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
+Shake tour tail;Shake your tail, shake your tail;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
+Shake tour tail;Shake your tail, shake your tail;S0;E2
+Shake tour tail;So what you didn't get it right the first time;S0;E2
+Shake tour tail;Laugh it off, no one said it is a crime;S0;E2
+Shake tour tail;Do your thing, you know you're an original;S0;E2
+Shake tour tail;Your ideas are so funny that they're criminal;S0;E2
+Shake tour tail;Ohhh-ahh!;S0;E2
+Shake tour tail;We've just got the day to get ready;S0;E2
+Shake tour tail;And there's only so much time to lose;S0;E2
+Shake tour tail;Because tonight, yeah, we're here to party;S0;E2
+Shake tour tail;So let's think of something fun to do;S0;E2
+Shake tour tail;We don't know (we don't know) what's gonna happen;S0;E2
+Shake tour tail;We just know (we just know) it's gonna feel right;S0;E2
+Shake tour tail;All our friends are here;S0;E2
+Shake tour tail;And it's time to ignite the lights!;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
+Shake tour tail;Shake your tail, shake your tail;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
+Shake tour tail;Shake your tail, shake your tail;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
+Shake tour tail;Shake your tail, shake your tail;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight;S0;E2
+Shake tour tail;Shake your tail, shake your tail;S0;E2
+Shake tour tail;Shake your tail 'cause we're here to have a party tonight!;S0;E2
