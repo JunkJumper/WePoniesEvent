@@ -1939,291 +1939,286 @@ Friends Are Always There For You;Friends can change the world ;S5;E26
 Friends Are Always There For You;Friends can change the world ;S5;E26
 Friends Are Always There For You;Friends can change the world, you see;S5;E26
 ########################### Season 6 ###########################
-SongName;It's the Pie Sisters' Swap Day Sooooooong!;S6;E3
-SongName;I never imagined myself out on my own;S6;E4
-SongName;Tryin' to find out what's next for me;S6;E4
-SongName;The Cutie Mark Crusaders have always been my home;S6;E4
-SongName;Maybe now there's more that I could be;S6;E4
-SongName;I guess as time goes by;S6;E4
-SongName;Everypony has to go out on their own;S6;E4
-SongName;And maybe someday I'll have to try;S6;E4
-SongName;Somethin' new that's just for me;S6;E4
-SongName;A little somethin' that could be;S6;E4
-SongName;Just my own and I won't feel so left behind;S6;E4
-SongName;We used to say that we'd be always side by side;S6;E4
-SongName;Maybe things are changin' and this could mean goodbye;S6;E4
-SongName;I always thought our friendship was all I'd ever need;S6;E4
-SongName;We've always been crusadin' – what else is there for me?;S6;E4
-SongName;I guess as time goes by;S6;E4
-SongName;Everypony has to go out on their own;S6;E4
-SongName;And maybe someday I'll have to try;S6;E4
-SongName;Somethin' new that's just for me;S6;E4
-SongName;A little somethin' that could be;S6;E4
-SongName;Just my own and I won't feel so left behind;S6;E4
-SongName;Ponies' voices fill the night;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Happy hearts so full and bright;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Oh, what a sight;S6;E8
-SongName;Look at the light;S6;E8
-SongName;All for tonight;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName; they're just so;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Gonna make some awesome snow;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;The chill wind blows;S6;E8
-SongName;Making a show;S6;E8
-SongName;Snowflakes aglow;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;A day that's filled with songs to sing;S6;E8
-SongName;Ding-dong, ding-dong-ding;S6;E8
-SongName;Cakes and pastries we shall bring;S6;E8
-SongName;Ding-dong, ding-dong-ding;S6;E8
-SongName;We're so busy making merry;S6;E8
-SongName;Windigos should all be wary;S6;E8
-SongName;As our mighty voices carry;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Decorations we shall make;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Perfection you just cannot fake;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Not one mistake;S6;E8
-SongName;Don't let that break;S6;E8
-SongName;Oh, goodness' sake!;S6;E8
-SongName;Hearth's Warming Eve is here once a—;S6;E8
-SongName;Happy, happy Hearth's Warming Eve;S6;E8
-SongName;Happy, happy Hearth's Warming Eve;S6;E8
-SongName;Hearth's Warming Eve is here once again!;S6;E8
-SongName;Hearth's Warming Eve is filled with presents;S6;E8
-SongName;Some take you by surprise;S6;E8
-SongName;A story shared by your good friends;S6;E8
-SongName;That makes your spirits rise;S6;E8
-SongName;Sometimes you just let go of the past;S6;E8
-SongName;Enjoy the present while it lasts;S6;E8
-SongName;And really it's not that much to ask;S6;E8
-SongName;With good friends by your side;S6;E8
-SongName;Now it's time to celebrate;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;All together, feeling great;S6;E8
-SongName;Hearth's Warming Eve is here once again;S6;E8
-SongName;Can hardly wait;S6;E8
-SongName;We'll party 'til late;S6;E8
-SongName;Our favorite date;S6;E8
-SongName;Hearth's Warming Eve is here once a—;S6;E8
-SongName;Happy, happy Hearth's Warming Eve;S6;E8
-SongName;Happy, happy Hearth's Warming Eve;S6;E8
-SongName;Hearth's Warming Eve is here once again!;S6;E8
-SongName;Everypony has times in their lives;S6;E11
-SongName;When their hearts are filled with doubt;S6;E11
-SongName;Frustration builds up inside;S6;E11
-SongName;And it makes you want to shout;S6;E11
-SongName;But if you just take that first step;S6;E11
-SongName;The next one will appear;S6;E11
-SongName;And you find you can walk, then run;S6;E11
-SongName;Then fly...!;S6;E11
-SongName;Into the stratosphere;S6;E11
-SongName;You've got to give it your best;S6;E11
-SongName;So you can pass the test;S6;E11
-SongName;Give it everything that you've got;S6;E11
-SongName;And we know you can win;S6;E11
-SongName;You just have to begin;S6;E11
-SongName;Have to give it your very best shot;S6;E11
-SongName;There are times when you want to give up;S6;E11
-SongName;When you think that you can't go on;S6;E11
-SongName;But if you fight through with all of your might;S6;E11
-SongName;You will find that you can't go wrong;S6;E11
-SongName;That you could do it all along;S6;E11
-SongName;Everypony has times in their lives;S6;E11
-SongName;When their hearts are filled with doubt;S6;E11
-SongName;But if you just give it your all;S6;E11
-SongName;You'll start to work it out;S6;E11
-SongName;And I know I can't give up too soon;S6;E11
-SongName;Get myself in the zone;S6;E11
-SongName;And I find I can walk, then run;S6;E11
-SongName;Then fly...!;S6;E11
-SongName;I can do it on my own;S6;E11
-SongName;You can do it on your own;S6;E11
-SongName;I can do it on my own;S6;E11
-SongName;I can do it on my own;S6;E11
-SongName;Here's what I know:;S6;E12
-SongName;If you want to succeed;S6;E12
-SongName;You must follow the trends, that's the key;S6;E12
-SongName;If you want to show;S6;E12
-SongName;That you've got what it takes;S6;E12
-SongName;You must be what they want you to be;S6;E12
-SongName;Here's what I know:;S6;E12
-SongName;Your food is so good;S6;E12
-SongName;The flavor's so fancy and free;S6;E12
-SongName;You just need to show;S6;E12
-SongName;That unique sense of taste;S6;E12
-SongName;Go on, be yourself, let them see;S6;E12
-SongName;It's gonna work;S6;E12
-SongName;I know it's gonna work;S6;E12
-SongName;It's gonna work out just fine, trust me;S6;E12
-SongName;It's gonna work;S6;E12
-SongName;I swear it's gonna work;S6;E12
-SongName;It's gonna work out just fine, you'll see!;S6;E12
-SongName;You need to change;S6;E12
-SongName;If you want to compete;S6;E12
-SongName;But fear not, for I know what to do;S6;E12
-SongName;I know it feels strange;S6;E12
-SongName;But trust me, when we're done;S6;E12
-SongName;We'll make sure that you're a hit, too;S6;E12
-SongName;Don't ever change;S6;E12
-SongName;Being different is good;S6;E12
-SongName;Don't let what others do be your cue;S6;E12
-SongName;Never rearrange;S6;E12
-SongName;'Cause somepony said you should;S6;E12
-SongName;Just trust your heart, it will know what to do;S6;E12
-SongName;It's gonna work;S6;E12
-SongName;I know it's gonna work;S6;E12
-SongName;It's gonna work out just fine, trust me;S6;E12
-SongName;It's gonna work;S6;E12
-SongName;I swear it's gonna work;S6;E12
-SongName;It's gonna work out just fine, you'll see!;S6;E12
-SongName;Be unique;S6;E12
-SongName;Just be the same;S6;E12
-SongName;Trust your heart;S6;E12
-SongName;You'll make your name;S6;E12
-SongName;We'll help you every step of the way;S6;E12
-SongName;Because we know what you need to do;S6;E12
-SongName;And you should know it too;S6;E12
-SongName;It's gonna work;S6;E12
-SongName;I know it's gonna work;S6;E12
-SongName;It's gonna work out just fine, trust me;S6;E12
-SongName;It's gonna work;S6;E12
-SongName;I swear it's gonna work;S6;E12
-SongName;It's gonna work out just fine, you'll see!;S6;E12
-SongName;Go, go, go!;S6;E14
-SongName;Check me out, racin' the Derby;S6;E14
-SongName;Check out my old-fashioned cart;S6;E14
-SongName;Check me out, racing the Derby;S6;E14
-SongName;In my original work of art;S6;E14
-SongName;Check me out, faster than ever;S6;E14
-SongName;There's nopony can catch me now;S6;E14
-SongName;Let me out, I'd do it over;S6;E14
-SongName;If I only knew how!;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Go, go, go!;S6;E14
-SongName;My cart's the most original;S6;E14
-SongName;Designed with imagination;S6;E14
-SongName;My cart's the most traditional;S6;E14
-SongName;Just plain, no complications;S6;E14
-SongName;Look at me, I am the ace;S6;E14
-SongName;Might as well give up the chase;S6;E14
-SongName;Wish we could stop this race;S6;E14
-SongName;Start again and do it our way;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Go, go, go!;S6;E14
-SongName;Gotta get some attention;S6;E14
-SongName;If I want that ribbon;S6;E14
-SongName;Gotta push the limit further;S6;E14
-SongName;Blow away the competition;S6;E14
-SongName;Gotta coast on through;S6;E14
-SongName;Just relax, we're gonna cruise it;S6;E14
-SongName;Guess I don't really care;S6;E14
-SongName;Since we're clearly gonna lose it;S6;E14
-SongName;See, everypony's watching;S6;E14
-SongName;Presentation is a glory;S6;E14
-SongName;Just passed you, even faster;S6;E14
-SongName;Speed is king, end of story;S6;E14
-SongName;Bigger, bolder down the track;S6;E14
-SongName;Love the view from the back of the pack;S6;E14
-SongName;Won't stop, we're on the attack;S6;E14
-SongName;Too late to take it all back!;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Giddyup, derby racers;S6;E14
-SongName;Go, go—;S6;E14
-SongName;Would you say I'm a hero;S6;E16
-SongName;Glorious and brave;S6;E16
-SongName;If I told you something you wouldn't believe?;S6;E16
-SongName;That sometimes I'm scared;S6;E16
-SongName;And I can make mistakes;S6;E16
-SongName;And I'm not so heroic, it seems;S6;E16
-SongName;But if day can turn to night;S6;E16
-SongName;And the darkness turn to light;S6;E16
-SongName;Then why can't we imagine a changeling can change?;S6;E16
-SongName;No two ponies are exactly the same;S6;E16
-SongName;No two snowflakes ever match their design;S6;E16
-SongName;And I thought I was strong;S6;E16
-SongName;But I was nothing but wrong;S6;E16
-SongName;When I forgot to be friendly and kind;S6;E16
-SongName;But if day can turn to night;S6;E16
-SongName;And the darkness turn to light;S6;E16
-SongName;Then why can't we imagine a changeling can change?;S6;E16
-SongName;Would you say I'm a hero;S6;E16
-SongName;Glorious and brave;S6;E16
-SongName;If I told you something you wouldn't believe?;S6;E16
-SongName;This changeling, it seems;S6;E16
-SongName;Knows the real me;S6;E16
-SongName;And would stay by my side 'til the end;S6;E16
-SongName;So if day can turn to night;S6;E16
-SongName;And the darkness turn to light;S6;E16
-SongName;Then why can't we imagine;S6;E16
-SongName;Just why can't we imagine;S6;E16
-SongName;Then why can't we imagine a changeling can change?;S6;E16
-SongName;Carryin' my water;S6;E18
-SongName;My water, my water;S6;E18
-SongName;Carryin' my water;S6;E18
-SongName;On my shoulder pole;S6;E18
-SongName;Like a racer at the starting line;S6;E19
-SongName;You're chomping at the bit;S6;E19
-SongName;You are here to find your purpose;S6;E19
-SongName;And a place you really fit;S6;E19
-SongName;And until you find your place in life;S6;E19
-SongName;You're never gonna quit;S6;E19
-SongName;We can help you find the purpose in your life;S6;E19
-SongName;A griffon mixes lion's strength;S6;E19
-SongName;With winged eagle's might;S6;E19
-SongName;When I finally find my purpose;S6;E19
-SongName;Then my cutie mark's in sight;S6;E19
-SongName;Crusaders, I won't let you down;S6;E19
-SongName;I've just begun to fight;S6;E19
-SongName;You're gonna help me find the purpose in my life;S6;E19
-SongName;Got a job that's just no fun?;S6;E19
-SongName;Call on me, I'll get it done;S6;E19
-SongName;Cauldron's stuck and needs a mix?;S6;E19
-SongName;I'm the one who's got the fix;S6;E19
-SongName;Help you teach pre-calculus;S6;E19
-SongName;Scrub the floors, won't make a fuss;S6;E19
-SongName;Clearing kelp? Just give a yelp;S6;E19
-SongName;Raring to go, ready to help!;S6;E19
-SongName;That's the spirit;S6;E19
-SongName;You ought to see what you do best;S6;E19
-SongName;Try it all, pick your fave;S6;E19
-SongName;And leave behind the rest;S6;E19
-SongName;I'll try anything;S6;E19
-SongName;To get my cutie mark;S6;E19
-SongName;Keep up with me, Crusaders;S6;E19
-SongName;We're just getting our start;S6;E19
-SongName;Rock your little ones to sleep;S6;E19
-SongName;While hanging up the sheets;S6;E19
-SongName;I can help you with your heavy load;S6;E19
-SongName;Walk Granny 'cross the street;S6;E19
-SongName;I'll run you 'round the bases fast;S6;E19
-SongName;It's really no big feat;S6;E19
-SongName;Can we help her find the purpose in her life?;S6;E19
-SongName;Cheer you if you're feeling low;S6;E19
-SongName;Plant your garden, make it grow;S6;E19
-SongName;Write a piece for your quartet;S6;E19
-SongName;Filling in on clarinet;S6;E19
-SongName;Bake that cake as fast as lightning;S6;E19
-SongName;She's so good at things, it's frightening;S6;E19
-SongName;Cutie Mark Crusaders,;S6;E19
-SongName;I think we've got a problem!;S6;E19
-SongName;Build a boat;S6;E19
-SongName;And sail it out across the sea;S6;E19
-SongName;Need some help?;S6;E19
-SongName;You know that you can count on me;S6;E19
-SongName;CMCs, you're gonna help me find my purpose;S6;E19
-SongName;The purpose in my life!;S6;E19
-SongName;In my life!;S6;E19
+Out On My Own;I never imagined myself out on my own;S6;E4
+Out On My Own;Tryin' to find out what's next for me;S6;E4
+Out On My Own;The Cutie Mark Crusaders have always been my home;S6;E4
+Out On My Own;Maybe now there's more that I could be;S6;E4
+Out On My Own;I guess as time goes by;S6;E4
+Out On My Own;Everypony has to go out on their own;S6;E4
+Out On My Own;And maybe someday I'll have to try;S6;E4
+Out On My Own;Somethin' new that's just for me;S6;E4
+Out On My Own;A little somethin' that could be;S6;E4
+Out On My Own;Just my own and I won't feel so left behind;S6;E4
+Out On My Own;We used to say that we'd be always side by side;S6;E4
+Out On My Own;Maybe things are changin' and this could mean goodbye;S6;E4
+Out On My Own;I always thought our friendship was all I'd ever need;S6;E4
+Out On My Own;We've always been crusadin' – what else is there for me?;S6;E4
+Out On My Own;I guess as time goes by;S6;E4
+Out On My Own;Everypony has to go out on their own;S6;E4
+Out On My Own;And maybe someday I'll have to try;S6;E4
+Out On My Own;Somethin' new that's just for me;S6;E4
+Out On My Own;A little somethin' that could be;S6;E4
+Out On My Own;Just my own and I won't feel so left behind;S6;E4
+Hearth's Warming Eve Is Here Once Again;Ponies' voices fill the night;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Happy hearts so full and bright;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Oh, what a sight;S6;E8
+Hearth's Warming Eve Is Here Once Again;Look at the light;S6;E8
+Hearth's Warming Eve Is Here Once Again;All for tonight;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again; they're just so;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Gonna make some awesome snow;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;The chill wind blows;S6;E8
+Hearth's Warming Eve Is Here Once Again;Making a show;S6;E8
+Hearth's Warming Eve Is Here Once Again;Snowflakes aglow;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;A day that's filled with songs to sing;S6;E8
+Hearth's Warming Eve Is Here Once Again;Ding-dong, ding-dong-ding;S6;E8
+Hearth's Warming Eve Is Here Once Again;Cakes and pastries we shall bring;S6;E8
+Hearth's Warming Eve Is Here Once Again;Ding-dong, ding-dong-ding;S6;E8
+Hearth's Warming Eve Is Here Once Again;We're so busy making merry;S6;E8
+Hearth's Warming Eve Is Here Once Again;Windigos should all be wary;S6;E8
+Hearth's Warming Eve Is Here Once Again;As our mighty voices carry;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Decorations we shall make;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Perfection you just cannot fake;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Not one mistake;S6;E8
+Hearth's Warming Eve Is Here Once Again;Don't let that break;S6;E8
+Hearth's Warming Eve Is Here Once Again;Oh, goodness' sake!;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once a—;S6;E8
+Hearth's Warming Eve Is Here Once Again;Happy, happy Hearth's Warming Eve;S6;E8
+Hearth's Warming Eve Is Here Once Again;Happy, happy Hearth's Warming Eve;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again!;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is filled with presents;S6;E8
+Hearth's Warming Eve Is Here Once Again;Some take you by surprise;S6;E8
+Hearth's Warming Eve Is Here Once Again;A story shared by your good friends;S6;E8
+Hearth's Warming Eve Is Here Once Again;That makes your spirits rise;S6;E8
+Hearth's Warming Eve Is Here Once Again;Sometimes you just let go of the past;S6;E8
+Hearth's Warming Eve Is Here Once Again;Enjoy the present while it lasts;S6;E8
+Hearth's Warming Eve Is Here Once Again;And really it's not that much to ask;S6;E8
+Hearth's Warming Eve Is Here Once Again;With good friends by your side;S6;E8
+Hearth's Warming Eve Is Here Once Again;Now it's time to celebrate;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;All together, feeling great;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again;S6;E8
+Hearth's Warming Eve Is Here Once Again;Can hardly wait;S6;E8
+Hearth's Warming Eve Is Here Once Again;We'll party 'til late;S6;E8
+Hearth's Warming Eve Is Here Once Again;Our favorite date;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once a—;S6;E8
+Hearth's Warming Eve Is Here Once Again;Happy, happy Hearth's Warming Eve;S6;E8
+Hearth's Warming Eve Is Here Once Again;Happy, happy Hearth's Warming Eve;S6;E8
+Hearth's Warming Eve Is Here Once Again;Hearth's Warming Eve is here once again!;S6;E8
+Can I Do It On My Own;Everypony has times in their lives;S6;E11
+Can I Do It On My Own;When their hearts are filled with doubt;S6;E11
+Can I Do It On My Own;Frustration builds up inside;S6;E11
+Can I Do It On My Own;And it makes you want to shout;S6;E11
+Can I Do It On My Own;But if you just take that first step;S6;E11
+Can I Do It On My Own;The next one will appear;S6;E11
+Can I Do It On My Own;And you find you can walk, then run;S6;E11
+Can I Do It On My Own;Then fly...!;S6;E11
+Can I Do It On My Own;Into the stratosphere;S6;E11
+Can I Do It On My Own;You've got to give it your best;S6;E11
+Can I Do It On My Own;So you can pass the test;S6;E11
+Can I Do It On My Own;Give it everything that you've got;S6;E11
+Can I Do It On My Own;And we know you can win;S6;E11
+Can I Do It On My Own;You just have to begin;S6;E11
+Can I Do It On My Own;Have to give it your very best shot;S6;E11
+Can I Do It On My Own;There are times when you want to give up;S6;E11
+Can I Do It On My Own;When you think that you can't go on;S6;E11
+Can I Do It On My Own;But if you fight through with all of your might;S6;E11
+Can I Do It On My Own;You will find that you can't go wrong;S6;E11
+Can I Do It On My Own;That you could do it all along;S6;E11
+Can I Do It On My Own;Everypony has times in their lives;S6;E11
+Can I Do It On My Own;When their hearts are filled with doubt;S6;E11
+Can I Do It On My Own;But if you just give it your all;S6;E11
+Can I Do It On My Own;You'll start to work it out;S6;E11
+Can I Do It On My Own;And I know I can't give up too soon;S6;E11
+Can I Do It On My Own;Get myself in the zone;S6;E11
+Can I Do It On My Own;And I find I can walk, then run;S6;E11
+Can I Do It On My Own;Then fly...!;S6;E11
+Can I Do It On My Own;I can do it on my own;S6;E11
+Can I Do It On My Own;You can do it on your own;S6;E11
+Can I Do It On My Own;I can do it on my own;S6;E11
+Can I Do It On My Own;I can do it on my own;S6;E11
+It's Gonna Work;Here's what I know:;S6;E12
+It's Gonna Work;If you want to succeed;S6;E12
+It's Gonna Work;You must follow the trends, that's the key;S6;E12
+It's Gonna Work;If you want to show;S6;E12
+It's Gonna Work;That you've got what it takes;S6;E12
+It's Gonna Work;You must be what they want you to be;S6;E12
+It's Gonna Work;Here's what I know:;S6;E12
+It's Gonna Work;Your food is so good;S6;E12
+It's Gonna Work;The flavor's so fancy and free;S6;E12
+It's Gonna Work;You just need to show;S6;E12
+It's Gonna Work;That unique sense of taste;S6;E12
+It's Gonna Work;Go on, be yourself, let them see;S6;E12
+It's Gonna Work;It's gonna work;S6;E12
+It's Gonna Work;I know it's gonna work;S6;E12
+It's Gonna Work;It's gonna work out just fine, trust me;S6;E12
+It's Gonna Work;It's gonna work;S6;E12
+It's Gonna Work;I swear it's gonna work;S6;E12
+It's Gonna Work;It's gonna work out just fine, you'll see!;S6;E12
+It's Gonna Work;You need to change;S6;E12
+It's Gonna Work;If you want to compete;S6;E12
+It's Gonna Work;But fear not, for I know what to do;S6;E12
+It's Gonna Work;I know it feels strange;S6;E12
+It's Gonna Work;But trust me, when we're done;S6;E12
+It's Gonna Work;We'll make sure that you're a hit, too;S6;E12
+It's Gonna Work;Don't ever change;S6;E12
+It's Gonna Work;Being different is good;S6;E12
+It's Gonna Work;Don't let what others do be your cue;S6;E12
+It's Gonna Work;Never rearrange;S6;E12
+It's Gonna Work;'Cause somepony said you should;S6;E12
+It's Gonna Work;Just trust your heart, it will know what to do;S6;E12
+It's Gonna Work;It's gonna work;S6;E12
+It's Gonna Work;I know it's gonna work;S6;E12
+It's Gonna Work;It's gonna work out just fine, trust me;S6;E12
+It's Gonna Work;It's gonna work;S6;E12
+It's Gonna Work;I swear it's gonna work;S6;E12
+It's Gonna Work;It's gonna work out just fine, you'll see!;S6;E12
+It's Gonna Work;Be unique;S6;E12
+It's Gonna Work;Just be the same;S6;E12
+It's Gonna Work;Trust your heart;S6;E12
+It's Gonna Work;You'll make your name;S6;E12
+It's Gonna Work;We'll help you every step of the way;S6;E12
+It's Gonna Work;Because we know what you need to do;S6;E12
+It's Gonna Work;And you should know it too;S6;E12
+It's Gonna Work;It's gonna work;S6;E12
+It's Gonna Work;I know it's gonna work;S6;E12
+It's Gonna Work;It's gonna work out just fine, trust me;S6;E12
+It's Gonna Work;It's gonna work;S6;E12
+It's Gonna Work;I swear it's gonna work;S6;E12
+It's Gonna Work;It's gonna work out just fine, you'll see!;S6;E12
+Derby Racers;Go, go, go!;S6;E14
+Derby Racers;Check me out, racin' the Derby;S6;E14
+Derby Racers;Check out my old-fashioned cart;S6;E14
+Derby Racers;Check me out, racing the Derby;S6;E14
+Derby Racers;In my original work of art;S6;E14
+Derby Racers;Check me out, faster than ever;S6;E14
+Derby Racers;There's nopony can catch me now;S6;E14
+Derby Racers;Let me out, I'd do it over;S6;E14
+Derby Racers;If I only knew how!;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Go, go, go!;S6;E14
+Derby Racers;My cart's the most original;S6;E14
+Derby Racers;Designed with imagination;S6;E14
+Derby Racers;My cart's the most traditional;S6;E14
+Derby Racers;Just plain, no complications;S6;E14
+Derby Racers;Look at me, I am the ace;S6;E14
+Derby Racers;Might as well give up the chase;S6;E14
+Derby Racers;Wish we could stop this race;S6;E14
+Derby Racers;Start again and do it our way;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Go, go, go!;S6;E14
+Derby Racers;Gotta get some attention;S6;E14
+Derby Racers;If I want that ribbon;S6;E14
+Derby Racers;Gotta push the limit further;S6;E14
+Derby Racers;Blow away the competition;S6;E14
+Derby Racers;Gotta coast on through;S6;E14
+Derby Racers;Just relax, we're gonna cruise it;S6;E14
+Derby Racers;Guess I don't really care;S6;E14
+Derby Racers;Since we're clearly gonna lose it;S6;E14
+Derby Racers;See, everypony's watching;S6;E14
+Derby Racers;Presentation is a glory;S6;E14
+Derby Racers;Just passed you, even faster;S6;E14
+Derby Racers;Speed is king, end of story;S6;E14
+Derby Racers;Bigger, bolder down the track;S6;E14
+Derby Racers;Love the view from the back of the pack;S6;E14
+Derby Racers;Won't stop, we're on the attack;S6;E14
+Derby Racers;Too late to take it all back!;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Giddyup, derby racers;S6;E14
+Derby Racers;Go, go—;S6;E14
+A Changeling Can Change;Would you say I'm a hero;S6;E16
+A Changeling Can Change;Glorious and brave;S6;E16
+A Changeling Can Change;If I told you something you wouldn't believe?;S6;E16
+A Changeling Can Change;That sometimes I'm scared;S6;E16
+A Changeling Can Change;And I can make mistakes;S6;E16
+A Changeling Can Change;And I'm not so heroic, it seems;S6;E16
+A Changeling Can Change;But if day can turn to night;S6;E16
+A Changeling Can Change;And the darkness turn to light;S6;E16
+A Changeling Can Change;Then why can't we imagine a changeling can change?;S6;E16
+A Changeling Can Change;No two ponies are exactly the same;S6;E16
+A Changeling Can Change;No two snowflakes ever match their design;S6;E16
+A Changeling Can Change;And I thought I was strong;S6;E16
+A Changeling Can Change;But I was nothing but wrong;S6;E16
+A Changeling Can Change;When I forgot to be friendly and kind;S6;E16
+A Changeling Can Change;But if day can turn to night;S6;E16
+A Changeling Can Change;And the darkness turn to light;S6;E16
+A Changeling Can Change;Then why can't we imagine a changeling can change?;S6;E16
+A Changeling Can Change;Would you say I'm a hero;S6;E16
+A Changeling Can Change;Glorious and brave;S6;E16
+A Changeling Can Change;If I told you something you wouldn't believe?;S6;E16
+A Changeling Can Change;This changeling, it seems;S6;E16
+A Changeling Can Change;Knows the real me;S6;E16
+A Changeling Can Change;And would stay by my side 'til the end;S6;E16
+A Changeling Can Change;So if day can turn to night;S6;E16
+A Changeling Can Change;And the darkness turn to light;S6;E16
+A Changeling Can Change;Then why can't we imagine;S6;E16
+A Changeling Can Change;Just why can't we imagine;S6;E16
+A Changeling Can Change;Then why can't we imagine a changeling can change?;S6;E16
+Find the Purpose in Your Life;Like a racer at the starting line;S6;E19
+Find the Purpose in Your Life;You're chomping at the bit;S6;E19
+Find the Purpose in Your Life;You are here to find your purpose;S6;E19
+Find the Purpose in Your Life;And a place you really fit;S6;E19
+Find the Purpose in Your Life;And until you find your place in life;S6;E19
+Find the Purpose in Your Life;You're never gonna quit;S6;E19
+Find the Purpose in Your Life;We can help you find the purpose in your life;S6;E19
+Find the Purpose in Your Life;A griffon mixes lion's strength;S6;E19
+Find the Purpose in Your Life;With winged eagle's might;S6;E19
+Find the Purpose in Your Life;When I finally find my purpose;S6;E19
+Find the Purpose in Your Life;Then my cutie mark's in sight;S6;E19
+Find the Purpose in Your Life;Crusaders, I won't let you down;S6;E19
+Find the Purpose in Your Life;I've just begun to fight;S6;E19
+Find the Purpose in Your Life;You're gonna help me find the purpose in my life;S6;E19
+Find the Purpose in Your Life;Got a job that's just no fun?;S6;E19
+Find the Purpose in Your Life;Call on me, I'll get it done;S6;E19
+Find the Purpose in Your Life;Cauldron's stuck and needs a mix?;S6;E19
+Find the Purpose in Your Life;I'm the one who's got the fix;S6;E19
+Find the Purpose in Your Life;Help you teach pre-calculus;S6;E19
+Find the Purpose in Your Life;Scrub the floors, won't make a fuss;S6;E19
+Find the Purpose in Your Life;Clearing kelp? Just give a yelp;S6;E19
+Find the Purpose in Your Life;Raring to go, ready to help!;S6;E19
+Find the Purpose in Your Life;That's the spirit;S6;E19
+Find the Purpose in Your Life;You ought to see what you do best;S6;E19
+Find the Purpose in Your Life;Try it all, pick your fave;S6;E19
+Find the Purpose in Your Life;And leave behind the rest;S6;E19
+Find the Purpose in Your Life;I'll try anything;S6;E19
+Find the Purpose in Your Life;To get my cutie mark;S6;E19
+Find the Purpose in Your Life;Keep up with me, Crusaders;S6;E19
+Find the Purpose in Your Life;We're just getting our start;S6;E19
+Find the Purpose in Your Life;Rock your little ones to sleep;S6;E19
+Find the Purpose in Your Life;While hanging up the sheets;S6;E19
+Find the Purpose in Your Life;I can help you with your heavy load;S6;E19
+Find the Purpose in Your Life;Walk Granny 'cross the street;S6;E19
+Find the Purpose in Your Life;I'll run you 'round the bases fast;S6;E19
+Find the Purpose in Your Life;It's really no big feat;S6;E19
+Find the Purpose in Your Life;Can we help her find the purpose in her life?;S6;E19
+Find the Purpose in Your Life;Cheer you if you're feeling low;S6;E19
+Find the Purpose in Your Life;Plant your garden, make it grow;S6;E19
+Find the Purpose in Your Life;Write a piece for your quartet;S6;E19
+Find the Purpose in Your Life;Filling in on clarinet;S6;E19
+Find the Purpose in Your Life;Bake that cake as fast as lightning;S6;E19
+Find the Purpose in Your Life;She's so good at things, it's frightening;S6;E19
+Find the Purpose in Your Life;Cutie Mark Crusaders,;S6;E19
+Find the Purpose in Your Life;I think we've got a problem!;S6;E19
+Find the Purpose in Your Life;Build a boat;S6;E19
+Find the Purpose in Your Life;And sail it out across the sea;S6;E19
+Find the Purpose in Your Life;Need some help?;S6;E19
+Find the Purpose in Your Life;You know that you can count on me;S6;E19
+Find the Purpose in Your Life;CMCs, you're gonna help me find my purpose;S6;E19
+Find the Purpose in Your Life;The purpose in my life!;S6;E19
+Find the Purpose in Your Life;In my life!;S6;E19
 ########################### Season 7 ###########################
 SongName;Friendship used to make me so queasy, queasy;S7;E2
 SongName;But you made it all so easy, easy;S7;E2
@@ -3863,3 +3858,45 @@ ACADECA;Can she do it? Who will take it?;S0;E3
 ACADECA;Did she win it? Did she make it?;S0;E3
 ACADECA;Who's the winner? Who's the reject?;S0;E3
 ACADECA;How did she answer?;S0;E3
+Unleash the magic;I realize that you've always been an outcast;S0;E3
+Unleash the magic;It's not everyone at school who likes to think;S0;E3
+Unleash the magic;To find a student that's like you;S0;E3
+Unleash the magic;I've had one or maybe two;S0;E3
+Unleash the magic;But the good ones disappear before I blink;S0;E3
+Unleash the magic;Now, I understand you have your reservations (oh-wuh);S0;E3
+Unleash the magic;It's hard to have a brain as large as yours (oh-oh-oh-oh);S0;E3
+Unleash the magic;But if we don't win these games;S0;E3
+Unleash the magic;Well, I think I've made it plain;S0;E3
+Unleash the magic;What will happen if we have the losing scores!;S0;E3
+Unleash the magic;Unleash the magic, unleash the magic;S0;E3
+Unleash the magic;If we lose, then you're to blame (ah, ah-ah-ah);S0;E3
+Unleash the magic;They all have used it, maybe abused it (ah-ah-ah);S0;E3
+Unleash the magic;So then why can't we do the same?;S0;E3
+Unleash the magic;Call it power, call it magic;S0;E3
+Unleash the magic;If we lose, it will be tragic;S0;E3
+Unleash the magic;More important is the knowledge we'll have lost (oh-oh-oh-oh);S0;E3
+Unleash the magic;A chance like this won't come again;S0;E3
+Unleash the magic;You'll regret not giving in;S0;E3
+Unleash the magic;Isn't understanding magic worth the cost?;S0;E3
+Unleash the magic;Unleash the magic, unleash the magic;S0;E3
+Unleash the magic;We're not friends here after all;S0;E3
+Unleash the magic;Our only interest in this business (ah-ah-ah);S0;E3
+Unleash the magic;Is seeing Canterlot High School fall;S0;E3
+Unleash the magic;What I'm suggesting's very simple;S0;E3
+Unleash the magic;And since it's win-win on all scores;S0;E3
+Unleash the magic;You only want to learn about the;S0;E3
+Unleash the magic;Magic that you have stored;S0;E3
+Unleash the magic;And as for me and all the others;S0;E3
+Unleash the magic;We only want what we deserve;S0;E3
+Unleash the magic;That our school will clinch the win;S0;E3
+Unleash the magic;And my legacy will endure;S0;E3
+Unleash the magic;Unleash the magic, unleash the magic;S0;E3
+Unleash the magic;If we lose, then it's a crime;S0;E3
+Unleash the magic;But we can win it if you begin it (ah-ah-ah);S0;E3
+Unleash the magic;It's up to you to not fail this time;S0;E3
+Unleash the magic;Unleash the magic, free the magic now;S0;E3
+Unleash the magic;Unleash the magic, free the magic now;S0;E3
+Unleash the magic;Imagine all I'll learn by setting it free;S0;E3
+Unleash the magic;And now winning these games depends on me;S0;E3
+Unleash the magic;And what doors might open if I try to use it;S0;E3
+Unleash the magic;But the magic's what I really want to see;S0;E3

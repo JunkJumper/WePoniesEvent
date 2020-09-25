@@ -28,8 +28,8 @@ public class SongLine {
 	
 	@Override
 	public String toString() {
-		//return this.getName() + " : " + '"' + this.getLyric() + '"' + " - S" + this.getSeason() + "E" + this.getEpisode() + "\n";
-		return '"' + this.getLyric() + '"';
+		return this.getName() + " : " + '"' + this.getLyric() + '"' + " - S" + this.getSeason() + "E" + this.getEpisode() + "\n";
+		//return '"' + this.getLyric() + '"';
 	}
 
 	/**
