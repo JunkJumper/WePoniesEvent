@@ -20,12 +20,12 @@ public class TranscriptSongParser {
 	private List<SongLine> listeQuotestoCheck;
 	private List<SongLine> listeSongLines;
 	
-	public TranscriptSongParser() {
+	protected TranscriptSongParser() {
 		this.setListeQuotestoCheck(new ArrayList<SongLine>());
 		
 	}
 	
-	public static void initialise(TranscriptSongParser tsp) throws IOException {
+	protected static void initialise(TranscriptSongParser tsp) throws IOException {
 		/**
 		 * Call it only one time
 		 */
@@ -34,7 +34,7 @@ public class TranscriptSongParser {
 		
 	}
 	
-	public static List<SongLine> ParseEnglish() throws IOException {
+	protected static List<SongLine> ParseEnglish() throws IOException {
 		
 		Pattern pattern = Pattern.compile("^*@.+?@$"); //Regex to get all Strings of type "{any text}@{SongLine lyric}@"
 		Matcher matcher;
@@ -56,7 +56,7 @@ public class TranscriptSongParser {
 		return listeQuotesChecked;
 	}
 	
-	public static void writeEnglish(List<SongLine> l) throws IOException {
+	protected static void writeEnglish(List<SongLine> l) throws IOException {
 		File fichier = new File("./textFiles/englishSongLines.txt");
 		fichier.delete();
 		fichier.createNewFile();
@@ -74,7 +74,7 @@ public class TranscriptSongParser {
 		writer.close();
 	}
 	
-	public static List<SongLine> fillList() throws IOException {
+	protected static List<SongLine> fillList() throws IOException {
 		
 		BufferedReader in = new BufferedReader(new FileReader("./textFiles/englishSongsWithName.txt"));
 		String line; String[] o;
@@ -88,48 +88,33 @@ public class TranscriptSongParser {
 			}
 		}
 
+		/*
 		int i = (int)(Math.random()*list.size());
 		int max = i+2;
 		while(i < max) {
 			System.out.println(list.get(i).toString());
 			i++;
 		}
+		*/ //testing only
 
 		
 		in.close();
 		return list;
 	}
 	
-	
-
-	public static void main(String[] args) throws IOException {
-		TranscriptSongParser tsp = new TranscriptSongParser();
-		
-		/*
-		 * CALL IT ONLY ONE TIME !!!
-		 */
-					//initialise(tsp);
-		/*
-		 * CALL IT ONLY ONE TIME !!!
-		 */
-		
-		
-		tsp.setListeSongLines(fillList());
-	}
-
-	public List<SongLine> getListeSongLines() {
+	protected List<SongLine> getListeSongLines() {
 		return listeSongLines;
 	}
 
-	public void setListeSongLines(List<SongLine> listeSongLines) {
+	protected void setListeSongLines(List<SongLine> listeSongLines) {
 		this.listeSongLines = listeSongLines;
 	}
 
-	public List<SongLine> getListeQuotestoCheck() {
+	protected List<SongLine> getListeQuotestoCheck() {
 		return this.listeQuotestoCheck;
 	}
 
-	public void setListeQuotestoCheck(List<SongLine> listeQuotestoCheck) {
+	protected void setListeQuotestoCheck(List<SongLine> listeQuotestoCheck) {
 		this.listeQuotestoCheck = listeQuotestoCheck;
 	}
 	

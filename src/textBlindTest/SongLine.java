@@ -14,11 +14,11 @@ public class SongLine {
 	private int season;
 	private int episode;
 	
-	public SongLine(String la, String ly, int s, int e) {
+	protected SongLine(String la, String ly, int s, int e) {
 		this(null, la, ly, s, e);
 	}
 	
-	public SongLine(String n, String la, String ly, int s, int e) {
+	protected SongLine(String n, String la, String ly, int s, int e) {
 		this.setName(n);
 		this.setLang(la);
 		this.setLyric(ly);
@@ -35,70 +35,70 @@ public class SongLine {
 	/**
 	 * @return the name
 	 */
-	public String getName() {
+	protected String getName() {
 		return name;
 	}
 
 	/**
 	 * @param name the name to set
 	 */
-	public void setName(String name) {
+	protected void setName(String name) {
 		this.name = name;
 	}
 
 	/**
 	 * @return the lang
 	 */
-	public String getLang() {
+	protected String getLang() {
 		return lang;
 	}
 
 	/**
 	 * @param lang the lang to set
 	 */
-	public void setLang(String lang) {
+	protected void setLang(String lang) {
 		this.lang = lang;
 	}
 
 	/**
 	 * @return the lyric
 	 */
-	public String getLyric() {
+	protected String getLyric() {
 		return lyric;
 	}
 
 	/**
 	 * @param lyric the lyric to set
 	 */
-	public void setLyric(String lyric) {
+	protected void setLyric(String lyric) {
 		this.lyric = lyric;
 	}
 
 	/**
 	 * @return the season
 	 */
-	public int getSeason() {
+	protected int getSeason() {
 		return season;
 	}
 
 	/**
 	 * @param season the season to set
 	 */
-	public void setSeason(int season) {
+	protected void setSeason(int season) {
 		this.season = season;
 	}
 
 	/**
 	 * @return the episode
 	 */
-	public int getEpisode() {
+	protected int getEpisode() {
 		return episode;
 	}
 
 	/**
 	 * @param episode the episode to set
 	 */
-	public void setEpisode(int episode) {
+	protected void setEpisode(int episode) {
 		this.episode = episode;
 	}
 	
