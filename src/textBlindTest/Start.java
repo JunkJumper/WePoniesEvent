@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Start {
 	public static void main(String[] args) throws IOException {
-		//TranscriptSongParser tsp = new TranscriptSongParser();
+		TranscriptSongParser tsp = new TranscriptSongParser();
 		
 		/*
 		 * CALL IT ONLY ONE TIME !!!
@@ -15,11 +15,7 @@ public class Start {
 		 * CALL IT ONLY ONE TIME !!!
 		 */
 
-		//tsp.setListeSongLines(TranscriptSongParser.fillList());
-		//ArrayList<String> as = SongManager.setCompleteLyric(tsp, 1, 9); //just to test
-		
-		SongLibrary sl = new SongLibrary();
-		System.out.println(sl.toString());
+		tsp.setListeSongLines(TranscriptSongParser.fillList());
 	}
 
 }

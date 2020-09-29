@@ -88,14 +88,14 @@ public class TranscriptSongParser {
 			}
 		}
 
-		/*
+		
 		int i = (int)(Math.random()*list.size());
 		int max = i+2;
 		while(i < max) {
 			System.out.println(list.get(i).toString());
 			i++;
 		}
-		*/ //testing only
+		 //testing only
 
 		
 		in.close();

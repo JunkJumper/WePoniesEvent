@@ -19,25 +19,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="textBlindTest.Song" project="WePoniesEvent" 
-    file="/WePoniesEvent/src/textBlindTest/Song.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="622" y="166"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="4" language="java" name="textBlindTest.SongManager" project="WePoniesEvent" 
-    file="/WePoniesEvent/src/textBlindTest/SongManager.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="640" y="506"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="5" language="java" name="textBlindTest.Start" project="WePoniesEvent" 
+  <class id="3" language="java" name="textBlindTest.Start" project="WePoniesEvent" 
     file="/WePoniesEvent/src/textBlindTest/Start.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="83" y="58"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -46,39 +28,28 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="textBlindTest.SongLibrary" project="WePoniesEvent" 
-    file="/WePoniesEvent/src/textBlindTest/SongLibrary.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="920" y="100"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <association id="7">    
+  <association id="4">    
     <bendpoint x="392" y="384"/>    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="8" name="listeSongLines"/>      
-      <multiplicity id="9" minimum="0" maximum="2147483647">        
+      <attribute id="5" name="listeSongLines">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="6" minimum="0" maximum="2147483647">        
         <position height="16" width="21" x="357" y="417"/>      
       </multiplicity>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="10">    
-    <end type="SOURCE" refId="6" navigable="false">      
-      <attribute id="11" name="playlist"/>      
-      <multiplicity id="12" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="3" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="13">    
+  <association id="7">    
     <bendpoint x="192" y="366"/>    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="14" name="listeQuotestoCheck"/>      
-      <multiplicity id="15" minimum="0" maximum="2147483647"/>    
+      <attribute id="8" name="listeQuotestoCheck">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="9" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
