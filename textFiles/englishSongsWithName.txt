@@ -2220,207 +2220,207 @@ Find the Purpose in Your Life;CMCs, you're gonna help me find my purpose;S6;E19
 Find the Purpose in Your Life;The purpose in my life!;S6;E19
 Find the Purpose in Your Life;In my life!;S6;E19
 ########################### Season 7 ###########################
-SongName;Friendship used to make me so queasy, queasy;S7;E2
-SongName;But you made it all so easy, easy;S7;E2
-SongName;Now I don't have to say what I'm thinking;S7;E2
-SongName;You already know without even blinking;S7;E2
-SongName;You girls are the apple of my eye;S7;E2
-SongName;The race that doesn't end in a tie;S7;E2
-SongName;You are the funnel cake at my fair;S7;E2
-SongName;The warm hug of a fuzzy bear;S7;E2
-SongName;Best friends until the end of time;S7;E2
-SongName;We'll have each other's backs;S7;E2
-SongName;And let our true selves shine;S7;E2
-SongName;And that's because everything we need is all right here;S7;E2
-SongName;When we're with our team;S7;E2
-SongName;I simply can't imagine there'd be a day;S7;E2
-SongName;Where I wouldn't want to be walking your way;S7;E2
-SongName;Whatever new problems there may be, may be;S7;E2
-SongName;Our friendship is always the door with a key;S7;E2
-SongName;You are the jewels in my friendship crown;S7;E2
-SongName;The sparks that make my world go 'round;S7;E2
-SongName;We bring the best out, that's our goal;S7;E2
-SongName;There's no telling how far we'll go;S7;E2
-SongName;Best friends until the end of time;S7;E2
-SongName;We'll have each other's backs;S7;E2
-SongName;And let our true selves shine;S7;E2
-SongName;And that's because everything we need is all right here;S7;E2
-SongName;When we're with our team!;S7;E2
-SongName;We'll take a walk down by the river;S7;E8
-SongName;Watch the sunset from the field;S7;E8
-SongName;We'll plant the seeds of love together;S7;E8
-SongName;And water 'em right for a really good yield;S7;E8
-SongName;Sugar Belle, sweet as pie;S7;E8
-SongName;You're the apple of my eye;S7;E8
-SongName;A cherry blossom in a field of rye;S7;E8
-SongName;And when the heifer's milked and fed;S7;E8
-SongName;And the pigs are in the sty;S7;E8
-SongName;Won't you be there by my side?;S7;E8
-SongName;Oh, oh;S7;E8
-SongName;Oh, ah-oh;S7;E8
-SongName;When you appeared before me;S7;E8
-SongName;My heart stopped beating;S7;E8
-SongName;Stars crossed the sky;S7;E8
-SongName;To come see what I was seeing;S7;E8
-SongName;You were the one;S7;E8
-SongName;That made me believe I could fly;S7;E8
-SongName;Whoa, whoa, whoa;S7;E8
-SongName;Birds could not sing;S7;E8
-SongName;A song that's as beautiful;S7;E8
-SongName;I'd do anything;S7;E8
-SongName;That's irrefutable;S7;E8
-SongName;'Cause you are the sun;S7;E8
-SongName;Painting my heart in the sky ;S7;E8
-SongName;Sugar, Sugar Belle, whoa-oh;S7;E8
-SongName;When will you tell me that you feel the same?;S7;E8
-SongName;Like an angel on a candy cane;S7;E8
-SongName;Or the sunlight shining through a drain;S7;E8
-SongName;Sugar Belle, when I look in your eyes;S7;E8
-SongName;I see the color blue;S7;E8
-SongName;And it reminds me of the sky above;S7;E8
-SongName;Uh, which is also... blue;S7;E8
-SongName;Hey, hey, hey, yeah;S7;E8
-SongName;Be my sugarplum;S7;E8
-SongName;I will be your watermelon;S7;E8
-SongName;Every time you smile;S7;E8
-SongName;I can feel my heart a-swellin';S7;E8
-SongName;Blood is rushing from my head to my hooves, yeah;S7;E8
-SongName;I start movin' when I'm feeling that groove, yeah;S7;E8
-SongName;I've been writin' this song for you;S7;E8
-SongName;Searchin' for the perfect rhyme;S7;E8
-SongName;For the words I wanna say;S7;E8
-SongName; Be mine;S7;E8
-SongName; Every day I see you;S7;E8
-SongName;I know you could be the one for me;S7;E8
-SongName;Feel my heart a-beating like;S7;E8
-SongName;The rain upon a bumblebee;S7;E8
-SongName;Don't you see that I could, ah oh, ah oh;S7;E8
-SongName;Whenever you are near me, I'm so... ah-oh;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Roses are red and violets are blue!;S7;E8
-SongName;Sugar, Sugar!;S7;E8
-SongName;My love is burning hot like a cheese fondue!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;Sugar Belle!;S7;E8
-SongName;We're far apart in every way;S7;E13
-SongName;But you're the best part of my day;S7;E13
-SongName;And sure as I breathe the air;S7;E13
-SongName;I know we are the perfect pair;S7;E13
-SongName;On a prickly path that goes on for miles;S7;E13
-SongName;But it's worth it just to see you smile;S7;E13
-SongName;And I cannot be pulled apart;S7;E13
-SongName;From the hold you have on my heart;S7;E13
-SongName;And even if the world tells us it's wrong;S7;E13
-SongName;You're in my head like a catchy song;S7;E13
-SongName;The seasons change and leaves may fall;S7;E13
-SongName;But I'll be with you through them all;S7;E13
-SongName;And rain or shine, you'll always be mine;S7;E13
-SongName;On a prickly path that goes on for miles;S7;E13
-SongName;You're the only one who makes it all worthwhile;S7;E13
-SongName;And you should not blame me, too;S7;E13
-SongName;If I can't help fallin' in love with you...;S7;E13
-SongName;I never claimed to be perfect;S7;E14
-SongName;My mistakes are all written in ink;S7;E14
-SongName;None of us claimed to be perfect;S7;E14
-SongName;And it's sad if that's what you all think;S7;E14
-SongName;Our flaws helped to make us special;S7;E14
-SongName;They bond us and keep us strong;S7;E14
-SongName;Our flaws are what brought us together;S7;E14
-SongName;So stop actin' like somethin's wrong;S7;E14
-SongName;We're not flawless;S7;E14
-SongName;We're a work in progress;S7;E14
-SongName;We've got dents and we've got quirks;S7;E14
-SongName;But it's our flaws that make us work;S7;E14
-SongName;Yeah, we're not flawless;S7;E14
-SongName;We're a work in progress;S7;E14
-SongName;So tell me what flaws you got, too;S7;E14
-SongName;'Cause I still like what's flawed about you;S7;E14
-SongName;They say I'm a big shot;S7;E14
-SongName;That my ego's the size of a whale;S7;E14
-SongName;My confidence comes off as cocky;S7;E14
-SongName;But it gives me the courage to fail;S7;E14
-SongName;Sure, I can be a drama queen;S7;E14
-SongName;A bit stuck-up, it's true;S7;E14
-SongName;And I can be too eager to please;S7;E14
-SongName;There's such thing as bein' too honest, too, 'cause;S7;E14
-SongName;We're not flawless;S7;E14
-SongName;We're a work in progress;S7;E14
-SongName;We've got dents and we've got quirks;S7;E14
-SongName;But it's our flaws that make us work;S7;E14
-SongName;Yeah, we're not flawless;S7;E14
-SongName;We're a work in progress;S7;E14
-SongName;So tell me what flaws you got, too;S7;E14
-SongName;'Cause I still like what's flawed about you;S7;E14
-SongName;Ponies think I'm all bubbles and laughter;S7;E14
-SongName;That I don't seem sincere;S7;E14
-SongName;I might joke around a little too much;S7;E14
-SongName;But I'm just so happy you're here;S7;E14
-SongName;It took me a while to be confident;S7;E14
-SongName;To really come out of my shell;S7;E14
-SongName;But nopony has to be perfect;S7;E14
-SongName;By now, don't you know us so well? Because, yeah;S7;E14
-SongName;We're not flawless;S7;E14
-SongName;We're a work in progress;S7;E14
-SongName;We've got dents and we've got quirks;S7;E14
-SongName;But it's our flaws that make us work;S7;E14
-SongName;Yeah, we're not flawless;S7;E14
-SongName;We're a work in progress;S7;E14
-SongName;"Cutie marks are great," they say;S7;E21
-SongName;Pfft, yeah, right!;S7;E21
-SongName;They make you special in your way;S7;E21
-SongName;But that special mark that's just for you;S7;E21
-SongName;Will erase the stuff you liiiiiiike... to do;S7;E21
-SongName;So you're good at charming snakes;S7;E21
-SongName;Too bad!;S7;E21
-SongName;Or you bake delicious cakes;S7;E21
-SongName;Oh, well!;S7;E21
-SongName;Maybe there are lots of things;S7;E21
-SongName;That you like to do;S7;E21
-SongName;Well, your options get pretty stark;S7;E21
-SongName;Once you got that cutie mark;S7;E21
-SongName;Blank flanks are better;S7;E21
-SongName;Nopony to tell you who you have to be;S7;E21
-SongName;Blank flanks are better;S7;E21
-SongName;Keep your spirit soarin' free;S7;E21
-SongName;So listen up 'cause I ain't lyin';S7;E21
-SongName;Don't need no mark, so why keep tryin'?;S7;E21
-SongName;If you like just bein' you;S7;E21
-SongName;Then keepin' that blank flank blank;S7;E21
-SongName;Is the thiiiiiiiing to do;S7;E21
-SongName;Blank flanks;S7;E21
-SongName;Blank flanks;S7;E21
-SongName;Blank flanks;S7;E21
-SongName;Blank flanks;S7;E21
-SongName;You say there's nothin' you can do?;S7;E21
-SongName;A blank flank is the way for you;S7;E21
-SongName;It's no work to just be who you are;S7;E21
-SongName;No hunt to be some cutie star;S7;E21
-SongName;You're perfect just being you;S7;E21
-SongName;Don't bother with what you cannot do;S7;E21
-SongName;Blank flanks!;S7;E21
-SongName;...are better;S7;E21
-SongName;Nopony to tell you who you have to be;S7;E21
-SongName;Blank flanks!;S7;E21
-SongName;...are better;S7;E21
-SongName;Keep your spirit soarin' free;S7;E21
-SongName;So listen up 'cause I ain't lyin';S7;E21
-SongName;Don't need no mark...;S7;E21
-SongName;...so why keep tryin'?;S7;E21
-SongName;If you like just bein' you;S7;E21
-SongName;Then keepin' that blank flank blank;S7;E21
-SongName;Is the thiiiiiiiiiing to do!;S7;E21
-SongName;Blank flanks forever!;S7;E21
-SongName;Blank flanks forever and ever!;S7;E21
-SongName;Blank flanks forever!;S7;E21
-SongName;Blank flanks forever and ever!;S7;E21
-SongName;Blank flanks forever!;S7;E21
-SongName;Blank flanks forever and ever!;S7;E21
-SongName;Blank flanks!;S7;E21
+Best Friends Until the End of Time;Friendship used to make me so queasy, queasy;S7;E2
+Best Friends Until the End of Time;But you made it all so easy, easy;S7;E2
+Best Friends Until the End of Time;Now I don't have to say what I'm thinking;S7;E2
+Best Friends Until the End of Time;You already know without even blinking;S7;E2
+Best Friends Until the End of Time;You girls are the apple of my eye;S7;E2
+Best Friends Until the End of Time;The race that doesn't end in a tie;S7;E2
+Best Friends Until the End of Time;You are the funnel cake at my fair;S7;E2
+Best Friends Until the End of Time;The warm hug of a fuzzy bear;S7;E2
+Best Friends Until the End of Time;Best friends until the end of time;S7;E2
+Best Friends Until the End of Time;We'll have each other's backs;S7;E2
+Best Friends Until the End of Time;And let our true selves shine;S7;E2
+Best Friends Until the End of Time;And that's because everything we need is all right here;S7;E2
+Best Friends Until the End of Time;When we're with our team;S7;E2
+Best Friends Until the End of Time;I simply can't imagine there'd be a day;S7;E2
+Best Friends Until the End of Time;Where I wouldn't want to be walking your way;S7;E2
+Best Friends Until the End of Time;Whatever new problems there may be, may be;S7;E2
+Best Friends Until the End of Time;Our friendship is always the door with a key;S7;E2
+Best Friends Until the End of Time;You are the jewels in my friendship crown;S7;E2
+Best Friends Until the End of Time;The sparks that make my world go 'round;S7;E2
+Best Friends Until the End of Time;We bring the best out, that's our goal;S7;E2
+Best Friends Until the End of Time;There's no telling how far we'll go;S7;E2
+Best Friends Until the End of Time;Best friends until the end of time;S7;E2
+Best Friends Until the End of Time;We'll have each other's backs;S7;E2
+Best Friends Until the End of Time;And let our true selves shine;S7;E2
+Best Friends Until the End of Time;And that's because everything we need is all right here;S7;E2
+Best Friends Until the End of Time;When we're with our team!;S7;E2
+Battle for Sugar Belle;We'll take a walk down by the river;S7;E8
+Battle for Sugar Belle;Watch the sunset from the field;S7;E8
+Battle for Sugar Belle;We'll plant the seeds of love together;S7;E8
+Battle for Sugar Belle;And water 'em right for a really good yield;S7;E8
+Battle for Sugar Belle;Sugar Belle, sweet as pie;S7;E8
+Battle for Sugar Belle;You're the apple of my eye;S7;E8
+Battle for Sugar Belle;A cherry blossom in a field of rye;S7;E8
+Battle for Sugar Belle;And when the heifer's milked and fed;S7;E8
+Battle for Sugar Belle;And the pigs are in the sty;S7;E8
+Battle for Sugar Belle;Won't you be there by my side?;S7;E8
+Battle for Sugar Belle;Oh, oh;S7;E8
+Battle for Sugar Belle;Oh, ah-oh;S7;E8
+Battle for Sugar Belle;When you appeared before me;S7;E8
+Battle for Sugar Belle;My heart stopped beating;S7;E8
+Battle for Sugar Belle;Stars crossed the sky;S7;E8
+Battle for Sugar Belle;To come see what I was seeing;S7;E8
+Battle for Sugar Belle;You were the one;S7;E8
+Battle for Sugar Belle;That made me believe I could fly;S7;E8
+Battle for Sugar Belle;Whoa, whoa, whoa;S7;E8
+Battle for Sugar Belle;Birds could not sing;S7;E8
+Battle for Sugar Belle;A song that's as beautiful;S7;E8
+Battle for Sugar Belle;I'd do anything;S7;E8
+Battle for Sugar Belle;That's irrefutable;S7;E8
+Battle for Sugar Belle;'Cause you are the sun;S7;E8
+Battle for Sugar Belle;Painting my heart in the sky ;S7;E8
+Battle for Sugar Belle;Sugar, Sugar Belle, whoa-oh;S7;E8
+Battle for Sugar Belle;When will you tell me that you feel the same?;S7;E8
+Battle for Sugar Belle;Like an angel on a candy cane;S7;E8
+Battle for Sugar Belle;Or the sunlight shining through a drain;S7;E8
+Battle for Sugar Belle;Sugar Belle, when I look in your eyes;S7;E8
+Battle for Sugar Belle;I see the color blue;S7;E8
+Battle for Sugar Belle;And it reminds me of the sky above;S7;E8
+Battle for Sugar Belle;Uh, which is also... blue;S7;E8
+Battle for Sugar Belle;Hey, hey, hey, yeah;S7;E8
+Battle for Sugar Belle;Be my sugarplum;S7;E8
+Battle for Sugar Belle;I will be your watermelon;S7;E8
+Battle for Sugar Belle;Every time you smile;S7;E8
+Battle for Sugar Belle;I can feel my heart a-swellin';S7;E8
+Battle for Sugar Belle;Blood is rushing from my head to my hooves, yeah;S7;E8
+Battle for Sugar Belle;I start movin' when I'm feeling that groove, yeah;S7;E8
+Battle for Sugar Belle;I've been writin' this song for you;S7;E8
+Battle for Sugar Belle;Searchin' for the perfect rhyme;S7;E8
+Battle for Sugar Belle;For the words I wanna say;S7;E8
+Battle for Sugar Belle; Be mine;S7;E8
+Battle for Sugar Belle; Every day I see you;S7;E8
+Battle for Sugar Belle;I know you could be the one for me;S7;E8
+Battle for Sugar Belle;Feel my heart a-beating like;S7;E8
+Battle for Sugar Belle;The rain upon a bumblebee;S7;E8
+Battle for Sugar Belle;Don't you see that I could, ah oh, ah oh;S7;E8
+Battle for Sugar Belle;Whenever you are near me, I'm so... ah-oh;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Roses are red and violets are blue!;S7;E8
+Battle for Sugar Belle;Sugar, Sugar!;S7;E8
+Battle for Sugar Belle;My love is burning hot like a cheese fondue!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+Battle for Sugar Belle;Sugar Belle!;S7;E8
+You're In My Head Like a Catchy Song;We're far apart in every way;S7;E13
+You're In My Head Like a Catchy Song;But you're the best part of my day;S7;E13
+You're In My Head Like a Catchy Song;And sure as I breathe the air;S7;E13
+You're In My Head Like a Catchy Song;I know we are the perfect pair;S7;E13
+You're In My Head Like a Catchy Song;On a prickly path that goes on for miles;S7;E13
+You're In My Head Like a Catchy Song;But it's worth it just to see you smile;S7;E13
+You're In My Head Like a Catchy Song;And I cannot be pulled apart;S7;E13
+You're In My Head Like a Catchy Song;From the hold you have on my heart;S7;E13
+You're In My Head Like a Catchy Song;And even if the world tells us it's wrong;S7;E13
+You're In My Head Like a Catchy Song;You're in my head like a catchy song;S7;E13
+You're In My Head Like a Catchy Song;The seasons change and leaves may fall;S7;E13
+You're In My Head Like a Catchy Song;But I'll be with you through them all;S7;E13
+You're In My Head Like a Catchy Song;And rain or shine, you'll always be mine;S7;E13
+You're In My Head Like a Catchy Song;On a prickly path that goes on for miles;S7;E13
+You're In My Head Like a Catchy Song;You're the only one who makes it all worthwhile;S7;E13
+You're In My Head Like a Catchy Song;And you should not blame me, too;S7;E13
+You're In My Head Like a Catchy Song;If I can't help fallin' in love with you...;S7;E13
+Flawless;I never claimed to be perfect;S7;E14
+Flawless;My mistakes are all written in ink;S7;E14
+Flawless;None of us claimed to be perfect;S7;E14
+Flawless;And it's sad if that's what you all think;S7;E14
+Flawless;Our flaws helped to make us special;S7;E14
+Flawless;They bond us and keep us strong;S7;E14
+Flawless;Our flaws are what brought us together;S7;E14
+Flawless;So stop actin' like somethin's wrong;S7;E14
+Flawless;We're not flawless;S7;E14
+Flawless;We're a work in progress;S7;E14
+Flawless;We've got dents and we've got quirks;S7;E14
+Flawless;But it's our flaws that make us work;S7;E14
+Flawless;Yeah, we're not flawless;S7;E14
+Flawless;We're a work in progress;S7;E14
+Flawless;So tell me what flaws you got, too;S7;E14
+Flawless;'Cause I still like what's flawed about you;S7;E14
+Flawless;They say I'm a big shot;S7;E14
+Flawless;That my ego's the size of a whale;S7;E14
+Flawless;My confidence comes off as cocky;S7;E14
+Flawless;But it gives me the courage to fail;S7;E14
+Flawless;Sure, I can be a drama queen;S7;E14
+Flawless;A bit stuck-up, it's true;S7;E14
+Flawless;And I can be too eager to please;S7;E14
+Flawless;There's such thing as bein' too honest, too, 'cause;S7;E14
+Flawless;We're not flawless;S7;E14
+Flawless;We're a work in progress;S7;E14
+Flawless;We've got dents and we've got quirks;S7;E14
+Flawless;But it's our flaws that make us work;S7;E14
+Flawless;Yeah, we're not flawless;S7;E14
+Flawless;We're a work in progress;S7;E14
+Flawless;So tell me what flaws you got, too;S7;E14
+Flawless;'Cause I still like what's flawed about you;S7;E14
+Flawless;Ponies think I'm all bubbles and laughter;S7;E14
+Flawless;That I don't seem sincere;S7;E14
+Flawless;I might joke around a little too much;S7;E14
+Flawless;But I'm just so happy you're here;S7;E14
+Flawless;It took me a while to be confident;S7;E14
+Flawless;To really come out of my shell;S7;E14
+Flawless;But nopony has to be perfect;S7;E14
+Flawless;By now, don't you know us so well? Because, yeah;S7;E14
+Flawless;We're not flawless;S7;E14
+Flawless;We're a work in progress;S7;E14
+Flawless;We've got dents and we've got quirks;S7;E14
+Flawless;But it's our flaws that make us work;S7;E14
+Flawless;Yeah, we're not flawless;S7;E14
+Flawless;We're a work in progress;S7;E14
+Blank Flanks Forever;"Cutie marks are great," they say;S7;E21
+Blank Flanks Forever;Pfft, yeah, right!;S7;E21
+Blank Flanks Forever;They make you special in your way;S7;E21
+Blank Flanks Forever;But that special mark that's just for you;S7;E21
+Blank Flanks Forever;Will erase the stuff you liiiiiiike... to do;S7;E21
+Blank Flanks Forever;So you're good at charming snakes;S7;E21
+Blank Flanks Forever;Too bad!;S7;E21
+Blank Flanks Forever;Or you bake delicious cakes;S7;E21
+Blank Flanks Forever;Oh, well!;S7;E21
+Blank Flanks Forever;Maybe there are lots of things;S7;E21
+Blank Flanks Forever;That you like to do;S7;E21
+Blank Flanks Forever;Well, your options get pretty stark;S7;E21
+Blank Flanks Forever;Once you got that cutie mark;S7;E21
+Blank Flanks Forever;Blank flanks are better;S7;E21
+Blank Flanks Forever;Nopony to tell you who you have to be;S7;E21
+Blank Flanks Forever;Blank flanks are better;S7;E21
+Blank Flanks Forever;Keep your spirit soarin' free;S7;E21
+Blank Flanks Forever;So listen up 'cause I ain't lyin';S7;E21
+Blank Flanks Forever;Don't need no mark, so why keep tryin'?;S7;E21
+Blank Flanks Forever;If you like just bein' you;S7;E21
+Blank Flanks Forever;Then keepin' that blank flank blank;S7;E21
+Blank Flanks Forever;Is the thiiiiiiiing to do;S7;E21
+Blank Flanks Forever;Blank flanks;S7;E21
+Blank Flanks Forever;Blank flanks;S7;E21
+Blank Flanks Forever;Blank flanks;S7;E21
+Blank Flanks Forever;Blank flanks;S7;E21
+Blank Flanks Forever;You say there's nothin' you can do?;S7;E21
+Blank Flanks Forever;A blank flank is the way for you;S7;E21
+Blank Flanks Forever;It's no work to just be who you are;S7;E21
+Blank Flanks Forever;No hunt to be some cutie star;S7;E21
+Blank Flanks Forever;You're perfect just being you;S7;E21
+Blank Flanks Forever;Don't bother with what you cannot do;S7;E21
+Blank Flanks Forever;Blank flanks!;S7;E21
+Blank Flanks Forever;...are better;S7;E21
+Blank Flanks Forever;Nopony to tell you who you have to be;S7;E21
+Blank Flanks Forever;Blank flanks!;S7;E21
+Blank Flanks Forever;...are better;S7;E21
+Blank Flanks Forever;Keep your spirit soarin' free;S7;E21
+Blank Flanks Forever;So listen up 'cause I ain't lyin';S7;E21
+Blank Flanks Forever;Don't need no mark...;S7;E21
+Blank Flanks Forever;...so why keep tryin'?;S7;E21
+Blank Flanks Forever;If you like just bein' you;S7;E21
+Blank Flanks Forever;Then keepin' that blank flank blank;S7;E21
+Blank Flanks Forever;Is the thiiiiiiiiiing to do!;S7;E21
+Blank Flanks Forever;Blank flanks forever!;S7;E21
+Blank Flanks Forever;Blank flanks forever and ever!;S7;E21
+Blank Flanks Forever;Blank flanks forever!;S7;E21
+Blank Flanks Forever;Blank flanks forever and ever!;S7;E21
+Blank Flanks Forever;Blank flanks forever!;S7;E21
+Blank Flanks Forever;Blank flanks forever and ever!;S7;E21
+Blank Flanks Forever;Blank flanks!;S7;E21
 ########################### Season 8 ###########################
 SongName;The School of Friendship, first day of class;S8;E1
 SongName;Will we fail or will we pass?;S8;E1
@@ -3900,3 +3900,234 @@ Unleash the magic;Imagine all I'll learn by setting it free;S0;E3
 Unleash the magic;And now winning these games depends on me;S0;E3
 Unleash the magic;And what doors might open if I try to use it;S0;E3
 Unleash the magic;But the magic's what I really want to see;S0;E3
+########################### EG 4 ###########################
+The Legend of Everfree;Will you be lost by time or be part of history?;S0;E4
+The Legend of Everfree;Will your story be told or remain a mystery?;S0;E4
+The Legend of Everfree;Will they sing your song, telling all that you have done?;S0;E4
+The Legend of Everfree;Time to make your choice, only you can be the one;S0;E4
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey! Hey! Hey!);S0;E4
+The Legend of Everfree;Will you do something great with the time that you have here?;S0;E4
+The Legend of Everfree;Will you make your mark? Will you conquer what you fear?;S0;E4
+The Legend of Everfree;And when you go back home, everybody there will see;S0;E4
+The Legend of Everfree;You were part of the Legend of Everfree!;S0;E4
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
+The Legend of Everfree;Will you find your greatest glory?;S0;E4
+The Legend of Everfree;Will you be a falling star?;S0;E4
+The Legend of Everfree;Here to learn what nature teaches;S0;E4
+The Legend of Everfree;Here to learn more who you are;S0;E4
+The Legend of Everfree;Will you be lost by time or be part of history?;S0;E4
+The Legend of Everfree;Will your story be told or remain a mystery?;S0;E4
+The Legend of Everfree;And when you go back home, everybody there will see;S0;E4
+The Legend of Everfree;You were part of the Legend of Everfree!;S0;E4
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
+The Legend of Everfree;As you join in the Legend of Everfree!;S0;E4
+The Legend of Everfree;Hey!;S0;E4
+The Midnight in Me;It used to be so simple;S0;E4
+The Midnight in Me;It was a world I understood;S0;E4
+The Midnight in Me;I didn't know what I didn't know;S0;E4
+The Midnight in Me;And life seemed pretty good;S0;E4
+The Midnight in Me;But now the darkness rises;S0;E4
+The Midnight in Me;From somewhere deep inside of me;S0;E4
+The Midnight in Me;Her power overtakes me;S0;E4
+The Midnight in Me;Can I keep this midnight from getting free?;S0;E4
+The Midnight in Me;If I can stay with the light;S0;E4
+The Midnight in Me;I know I'll be free;S0;E4
+The Midnight in Me;And I can start to be whole;S0;E4
+The Midnight in Me;I can start to be me;S0;E4
+The Midnight in Me;But instead I am struggling;S0;E4
+The Midnight in Me;With all that I see;S0;E4
+The Midnight in Me;And these friends;S0;E4
+The Midnight in Me;Mustn't see the midnight in me!;S0;E4
+The Midnight in Me;The midnight in me!;S0;E4
+The Midnight in Me;They mustn't see the midnight in me...;S0;E4
+Embrace the Magic;So you have magic;S0;E4
+Embrace the Magic;And it's not that great;S0;E4
+Embrace the Magic;But when it found you;S0;E4
+Embrace the Magic;You know it was fate;S0;E4
+Embrace the Magic;And it might seem scary now;S0;E4
+Embrace the Magic;But it can be wonderful, too;S0;E4
+Embrace the Magic;So how about we embrace the magic;S0;E4
+Embrace the Magic;And make the magic part of you?;S0;E4
+Embrace the Magic;You take a little dash of magic;S0;E4
+Embrace the Magic;And you let it ignite;S0;E4
+Embrace the Magic;Mix things up a little bit;S0;E4
+Embrace the Magic;And it might start to go right;S0;E4
+Embrace the Magic;In just five seconds flat;S0;E4
+Embrace the Magic;How the story has changed;S0;E4
+Embrace the Magic;All 'cause now you've embraced the magic;S0;E4
+Embrace the Magic;And it just got better in every way;S0;E4
+Embrace the Magic;I say embrace the magic;S0;E4
+Embrace the Magic;No more holding back, just let it out;S0;E4
+Embrace the Magic;If you can take the magic;S0;E4
+Embrace the Magic;And learn a little more what it can do;S0;E4
+Embrace the Magic;Once the magic is part of you;S0;E4
+Embrace the Magic;What's standing in your way;S0;E4
+Embrace the Magic;That you can't move today?;S0;E4
+Embrace the Magic;You've got the strength in you;S0;E4
+Embrace the Magic;To make your dreams come true;S0;E4
+Embrace the Magic;No need to shield yourself;S0;E4
+Embrace the Magic;From the magic that can help;S0;E4
+Embrace the Magic;Protect from any harm that might come;S0;E4
+Embrace the Magic;So you have magic;S0;E4
+Embrace the Magic;And it's not that great;S0;E4
+Embrace the Magic;But when it found you;S0;E4
+Embrace the Magic;You know it was fate;S0;E4
+Embrace the Magic;So if you listen close;S0;E4
+Embrace the Magic;You might make a new friend;S0;E4
+Embrace the Magic;And together we can make it!;S0;E4
+Embrace the Magic;I say embrace the magic;S0;E4
+Embrace the Magic;No more holding back, just let it out;S0;E4
+Embrace the Magic;If you can take the magic;S0;E4
+Embrace the Magic;And learn a little more what it can do;S0;E4
+Embrace the Magic;Once the magic is part of you;S0;E4
+Embrace the Magic;Once the magic is part of you;S0;E4
+Embrace the Magic;Once the magic is part of you;S0;E4
+Embrace the Magic;Once the magic is part of you;S0;E4
+We Will Stand For Everfree;I have waited for the day;S0;E4
+We Will Stand For Everfree;To send this greedy wolf away;S0;E4
+We Will Stand For Everfree;Now the magic is my salvation;S0;E4
+We Will Stand For Everfree;Gather close in my protection;S0;E4
+We Will Stand For Everfree;We... will... stand for Everfree!;S0;E4
+We Will Stand For Everfree;Behold the beauty of nature in all its glory;S0;E4
+We Will Stand For Everfree;No need to fear the vultures at the door;S0;E4
+We Will Stand For Everfree;Right here you have me to protect you;S0;E4
+We Will Stand For Everfree;Within these walls of thorns;S0;E4
+We Will Stand For Everfree;Forever free, forevermore!;S0;E4
+We Will Stand For Everfree;They have come into our domain;S0;E4
+We Will Stand For Everfree;Here to seal our camp in chains;S0;E4
+We Will Stand For Everfree;But we have held it for generations;S0;E4
+We Will Stand For Everfree;This is just a complication;S0;E4
+We Will Stand For Everfree;We... will... stand for Everfree!;S0;E4
+We Will Stand For Everfree;Trust in me, this is for your own good;S0;E4
+We Will Stand For Everfree;Don't be afraid, nature is our friend;S0;E4
+We Will Stand For Everfree;All of this beauty that surrounds us;S0;E4
+We Will Stand For Everfree;Every lovely bloom designed to defend;S0;E4
+We Will Stand For Everfree;Let them come, just let them try!;S0;E4
+We Will Stand For Everfree;I'm not about to say goodbye!;S0;E4
+We Will Stand For Everfree;This camp will be here throughout the ages;S0;E4
+We Will Stand For Everfree;Written into the history pages;S0;E4
+We Will Stand For Everfree;We... will... stand for Everfree!;S0;E4
+Legend You Were Meant To Be;I used to think that stories were just that;S0;E4
+Legend You Were Meant To Be;Set in stone, concrete as a fact;S0;E4
+Legend You Were Meant To Be;It didn't dawn on me;S0;E4
+Legend You Were Meant To Be;That I could change history;S0;E4
+Legend You Were Meant To Be;Now I know I'm writing my own song;S0;E4
+Legend You Were Meant To Be;Fight my way to the ending that I want;S0;E4
+Legend You Were Meant To Be;I'll turn a tragedy;S0;E4
+Legend You Were Meant To Be;Into an epic fantasy;S0;E4
+Legend You Were Meant To Be;Hey, hey, hey;S0;E4
+Legend You Were Meant To Be;You can be a hero (hero) too;S0;E4
+Legend You Were Meant To Be;Oh-oh-oh;S0;E4
+Legend You Were Meant To Be;Take my hand, I'm here for you;S0;E4
+Legend You Were Meant To Be;Come away with me;S0;E4
+Legend You Were Meant To Be;Be the legend you were meant to be;S0;E4
+Legend You Were Meant To Be;You'll always be Everfree;S0;E4
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
+Legend You Were Meant To Be;To be the legend you were meant to be;S0;E4
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
+Legend You Were Meant To Be;To be the legend you were meant to be;S0;E4
+Legend You Were Meant To Be;There was a time when fear would hold me down;S0;E4
+Legend You Were Meant To Be;'Cause I let it chain me to the ground;S0;E4
+Legend You Were Meant To Be;Look at me now, I'm soaring high;S0;E4
+Legend You Were Meant To Be;It's never boring in the sky;S0;E4
+Legend You Were Meant To Be;When I know I've got friends on my side;S0;E4
+Legend You Were Meant To Be;Whatever trials, I'll take them all in stride;S0;E4
+Legend You Were Meant To Be;Together we will shine so bright;S0;E4
+Legend You Were Meant To Be;A radiant brilliance in the night;S0;E4
+Legend You Were Meant To Be;Hey, hey, hey;S0;E4
+Legend You Were Meant To Be;You can be a hero (hero) too;S0;E4
+Legend You Were Meant To Be;Oh-oh-oh;S0;E4
+Legend You Were Meant To Be;Take my hand, I'm here for you;S0;E4
+Legend You Were Meant To Be;Come away with me;S0;E4
+Legend You Were Meant To Be;Be the legend you were meant to be;S0;E4
+Legend You Were Meant To Be;You'll always be Everfree;S0;E4
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
+Legend You Were Meant To Be;To be the legend you were meant to be;S0;E4
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
+Legend You Were Meant To Be;To be the legend you were meant to be!;S0;E4
+Dance Magic;I feel it stirrin' deep down inside my soul;S0;E5
+Dance Magic;The rhythm's taking hold, and it's about to roll;S0;E5
+Dance Magic;A million sparkles falling across the floor;S0;E5
+Dance Magic;So, DJ, give it more, it's what we're looking for;S0;E5
+Dance Magic;Dance the night away;S0;E5
+Dance Magic;All our friends right by our side;S0;E5
+Dance Magic;It doesn't matter what style you bring;S0;E5
+Dance Magic;We're about to go on that ride (Hey!);S0;E5
+Dance Magic;It's dance magic, once you have it;S0;E5
+Dance Magic;Let your body move, step into the music;S0;E5
+Dance Magic;It's dance magic, and it's electric;S0;E5
+Dance Magic;Let your body move to the music;S0;E5
+Dance Magic;Doesn't matter what style you got;S0;E5
+Dance Magic;Just keep dancin' on that spot;S0;E5
+Dance Magic;Your friends like you for who you are;S0;E5
+Dance Magic;Dance queen, on the scene, superstar!;S0;E5
+Dance Magic;Crystal Prep, you got the moves;S0;E5
+Dance Magic;Rainboom bringin' all the grooves;S0;E5
+Dance Magic;Put it together and make it fit;S0;E5
+Dance Magic;Crystal Rainbooms, dance magic;S0;E5
+Dance Magic;Dance the night away;S0;E5
+Dance Magic;All our friends right by our side;S0;E5
+Dance Magic;It doesn't matter what style you bring;S0;E5
+Dance Magic;We're about to go on that ride (Hey!);S0;E5
+Dance Magic;It's dance magic, once you have it;S0;E5
+Dance Magic;Let your body move, step into the music;S0;E5
+Dance Magic;It's dance magic, and it's electric;S0;E5
+Dance Magic;Let your body move to the music;S0;E5
+Dance Magic;Crystal Rainbooms got a style that's all our own;S0;E5
+Dance Magic;Dancin' nonstop, body movin' in the zone;S0;E5
+Dance Magic;Bring whatever style you got;S0;E5
+Dance Magic;'Cause the party is goin' off;S0;E5
+Dance Magic;It's dance magic, and it's electric;S0;E5
+Dance Magic;Let your body move to the music;S0;E5
+The other side;Sitting here with my head in my hands;S0;E6
+The other side;Ideas that come and go;S0;E6
+The other side;Sketching my heart out, nothing will turn out;S0;E6
+The other side;Everything seems so-so;S0;E6
+The other side;I've been here before, and I know that I can;S0;E6
+The other side;Do it if I try;S0;E6
+The other side;But why, oh, why;S0;E6
+The other side;Do you stumble before you fly?;S0;E6
+The other side;My wheels keep turnin' (Oh, oh!);S0;E6
+The other side;My fire's still burnin' (Oh, oh!);S0;E6
+The other side;'Cause right now I'm learnin' (Oh, oh!);S0;E6
+The other side;How to get to the other side;S0;E6
+The other side;It's a game of waitin' (Hey, hey!);S0;E6
+The other side;Anticipatin' (Hey, hey!);S0;E6
+The other side;But I keep creatin' (Hey, hey!);S0;E6
+The other side;So I can get to the other;S0;E6
+The other side;Get to the other side;S0;E6
+The other side;(Get to the other side, hey!);S0;E6
+The other side;(Hey!);S0;E6
+The other side;(Get to the other side, hey!);S0;E6
+The other side;So I can get to the other;S0;E6
+The other side;Get to the other...;S0;E6
+The other side;Keep on believin', I'll be achievin';S0;E6
+The other side;The harder that I go;S0;E6
+The other side;Don't really know how, I won't give up now;S0;E6
+The other side;Until I steal the show;S0;E6
+The other side;With time, it gets better, I'll be a trendsetter;S0;E6
+The other side;Doin' it my own way;S0;E6
+The other side;Hey, hey, hey!;S0;E6
+The other side;Won't stop 'til I seize the day;S0;E6
+The other side;My wheels keep turnin' (Oh, oh!);S0;E6
+The other side;My fire's still burnin' (Oh, oh!);S0;E6
+The other side;'Cause right now I'm learnin' (Oh, oh!);S0;E6
+The other side;How to get to the other side;S0;E6
+The other side;It's a game of waitin' (Hey, hey!);S0;E6
+The other side;Anticipatin' (Hey, hey!);S0;E6
+The other side;But I keep creatin' (Hey, hey!);S0;E6
+The other side;So I can get to the other;S0;E6
+The other side;Get to the other side;S0;E6
+The other side;(Get to the other side, hey!);S0;E6
+The other side;(Hey!);S0;E6
+The other side;(Get to the other side, hey!);S0;E6
+The other side;So I can get to the other;S0;E6
+The other side;Get to the other side!;S0;E6
