@@ -12,7 +12,7 @@ import java.util.List;
 //import java.util.ArrayList;
 
 public class Start {
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, InterruptedException {
 		List<Song> library = new ArrayList<>();
 		TranscriptSongParser tsp = new TranscriptSongParser();
 		
@@ -46,7 +46,33 @@ public class Start {
 			i++;
 		} while (i < tsp.getListeSongLines().size());
 		
-		System.out.println(library.toString());
+		//System.out.println(library.toString());
+		
+		
+		int j = (int)(Math.random()*library.size()-1);
+		int maxLyricNumber = (int)(Math.random()*library.get(j).getLyric().getL().size());
+		int lyricNumber = maxLyricNumber - 5;
+		
+		if(j <= 0) {
+			j += 5;
+		}
+		
+		if(maxLyricNumber <= 0) {
+			maxLyricNumber += 5;
+		}
+		
+		if(lyricNumber <= 0) {
+			lyricNumber += 5;
+		}
+		
+		while(lyricNumber < maxLyricNumber) {
+			System.out.println(library.get(j).getLyric().getL().get(lyricNumber));
+			lyricNumber++;
+		}
+		Thread.sleep(8000);
+		System.out.println(library.get(j).getName());
+		
+		//System.out.println(library.get(1).toString());
 		
 	}
 
