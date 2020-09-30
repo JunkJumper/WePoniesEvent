@@ -117,7 +117,7 @@ public class TranscriptSongParser {
 		this.listeSongLines = listeSongLines;
 	}
 
-	protected List<SongLine> getListeQuotestoCheck() {
+	private List<SongLine> getListeQuotestoCheck() {
 		return this.listeQuotestoCheck;
 	}
 
