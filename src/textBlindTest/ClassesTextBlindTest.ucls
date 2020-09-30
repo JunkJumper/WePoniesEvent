@@ -28,26 +28,52 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <association id="4">    
+  <class id="4" language="java" name="textBlindTest.Lyrics" project="WePoniesEvent" 
+    file="/WePoniesEvent/src/textBlindTest/Lyrics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="855" y="163"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="textBlindTest.Song" project="WePoniesEvent" 
+    file="/WePoniesEvent/src/textBlindTest/Song.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="559" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="6">    
     <bendpoint x="392" y="384"/>    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="5" name="listeSongLines">        
+      <attribute id="7" name="listeSongLines">        
         <position height="0" width="0" x="0" y="0"/>      
       </attribute>      
-      <multiplicity id="6" minimum="0" maximum="2147483647">        
+      <multiplicity id="8" minimum="0" maximum="2147483647">        
         <position height="16" width="21" x="357" y="417"/>      
       </multiplicity>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="7">    
+  <association id="9">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="10" name="lyric"/>      
+      <multiplicity id="11" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="12">    
     <bendpoint x="192" y="366"/>    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="8" name="listeQuotestoCheck">        
+      <attribute id="13" name="listeQuotestoCheck">        
         <position height="0" width="0" x="0" y="0"/>      
       </attribute>      
-      <multiplicity id="9" minimum="0" maximum="2147483647">        
+      <multiplicity id="14" minimum="0" maximum="2147483647">        
         <position height="0" width="0" x="0" y="0"/>      
       </multiplicity>    
     </end>    
