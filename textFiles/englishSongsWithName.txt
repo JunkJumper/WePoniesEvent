@@ -3668,361 +3668,361 @@ Life is a Runway;Into the light;S11;E13
 Life is a Runway;Into the light;S11;E13
 Life is a Runway;Into the light;S11;E13
 ########################### EG 3 ###########################
-Friendship Games Opening;The Friendship Games!;S0;E3
-Friendship Games Opening;We've come this far;S0;E3
-Friendship Games Opening;And we're not goin' back (No way!);S0;E3
-Friendship Games Opening;Prepare yourself;S0;E3
-Friendship Games Opening;Cause we're on the attack (Attack!);S0;E3
-Friendship Games Opening;Won't have to find us;S0;E3
-Friendship Games Opening;We'll be tracking you down (Right now!);S0;E3
-Friendship Games Opening;And when we're finished;S0;E3
-Friendship Games Opening;We'll be takin' the crown;S0;E3
-Friendship Games Opening;All the way (all the way);S0;E3
-Friendship Games Opening;All the way to the Friendship Games;S0;E3
-Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
-Friendship Games Opening;Na, na, let's go!;S0;E3
-Friendship Games Opening;All the way (all the way);S0;E3
-Friendship Games Opening;All the way to the Friendship Games;S0;E3
-Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
-Friendship Games Opening;Na, na, let's go!;S0;E3
-Friendship Games Opening;We studied hard;S0;E3
-Friendship Games Opening;And we're here to win;S0;E3
-Friendship Games Opening;We're only tellin' you once;S0;E3
-Friendship Games Opening;Our magic comes from the inside out;S0;E3
-Friendship Games Opening;What you see's what you get;S0;E3
-Friendship Games Opening;Don't you ever forget;S0;E3
-Friendship Games Opening;All the way (all the way);S0;E3
-Friendship Games Opening;All the way to the Friendship Games;S0;E3
-Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
-Friendship Games Opening;Na, na, let's go!;S0;E3
-Friendship Games Opening;All the way (all the way);S0;E3
-Friendship Games Opening;All the way to the Friendship Games;S0;E3
-Friendship Games Opening;Na, na, na-na-na, oh;S0;E3
-Friendship Games Opening;Na, na, let's go!;S0;E3
-CHS Rally Song;We've fought magic more than once;S0;E3
-CHS Rally Song;And come out on top;S0;E3
-CHS Rally Song;There's other schools, but none can make those claims;S0;E3
-CHS Rally Song;Together we are Canterlot;S0;E3
-CHS Rally Song;Come and cheer our name;S0;E3
-CHS Rally Song;This will be our year to win these games;S0;E3
-CHS Rally Song;We'll always be Wondercolts forever;S0;E3
-CHS Rally Song;And now our time has finally arrived;S0;E3
-CHS Rally Song;'Cause we believe in the magic of friendship;S0;E3
-CHS Rally Song;And you know, at the end of the day, it is we who survive;S0;E3
-CHS Rally Song;We're not the school we were before;S0;E3
-CHS Rally Song;Yeah, we're different now;S0;E3
-CHS Rally Song;We overcame the obstacles we faced;S0;E3
-CHS Rally Song;Overcame the obstacles we faced;S0;E3
-CHS Rally Song;We're Canterlot united;S0;E3
-CHS Rally Song;Unite!;S0;E3
-CHS Rally Song;And we'll never bow;S0;E3
-CHS Rally Song;So get ready to see us in first place;S0;E3
-CHS Rally Song;We'll always be Wondercolts forever;S0;E3
-CHS Rally Song;And now our time has finally arrived;S0;E3
-CHS Rally Song;'Cause we believe in the magic of friendship;S0;E3
-CHS Rally Song;And you know, at the end of the day, it is we who survive;S0;E3
-CHS Rally Song;At the end of the day, it is we who survive;S0;E3
-CHS Rally Song;Na, na, na-na-na-na;S0;E3
-CHS Rally Song;Wondercolts united together;S0;E3
-CHS Rally Song;Na, na, na-na-na-na;S0;E3
-CHS Rally Song;Wondercolts united forever;S0;E3
-CHS Rally Song;We'll always be Wondercolts forever;S0;E3
-CHS Rally Song;And now our time has finally arrived;S0;E3
-CHS Rally Song;'Cause we believe in the magic of friendship;S0;E3
-CHS Rally Song;And you know...;S0;E3
-CHS Rally Song;At the end of the day, it is we who survive;S0;E3
-CHS Rally Song;At the end of the day, it is we who survive!;S0;E3
-What More Is Out There;I've walked through all these halls before;S0;E4
-What More Is Out There;I've been in and out of every door, oh-whoa-oh;S0;E4
-What More Is Out There;There's nothin' in this school that I don't know;S0;E4
-What More Is Out There;In every class, my grade's the best;S0;E4
-What More Is Out There;The highest score on every test;S0;E4
-What More Is Out There;I think that means it's time for me to go;S0;E4
-What More Is Out There;I know there's more that's out there;S0;E4
-What More Is Out There;And I just haven't found it yet;S0;E4
-What More Is Out There;I know there's more that's out there;S0;E4
-What More Is Out There;Another me I haven't met;S0;E4
-What More Is Out There;This school is full of people;S0;E4
-What More Is Out There;But still I don't belong;S0;E4
-What More Is Out There;They only dream of winning;S0;E4
-What More Is Out There;Look at me like something's wrong;S0;E4
-What More Is Out There;Maybe I'm better off alone;S0;E4
-What More Is Out There;Will I find what I'm lookin' for;S0;E4
-What More Is Out There;If I just do it on my own?;S0;E4
-What More Is Out There;I know there's more that's out there;S0;E4
-What More Is Out There;Something to fill this hole inside;S0;E4
-What More Is Out There;I know there's more that's out there;S0;E4
-What More Is Out There;And I'm not afraid to try;S0;E4
-What More Is Out There;There's only so much this school can offer;S0;E4
-What More Is Out There;And I'm not saying that it's wrong;S0;E4
-What More Is Out There;But I know there's more that's out there;S0;E4
-What More Is Out There;'Cause I've been searching all along;S0;E4
-What More Is Out There;Beyond these rooms, beyond these walls;S0;E4
-What More Is Out There;So much to learn, I can't see it all;S0;E4
-What More Is Out There;There's somethin' out there callin' me;S0;E4
-What More Is Out There;And it's a mystery that I can't wait to see;S0;E4
-What More Is Out There;'Cause I know there's more that's out there;S0;E4
-What More Is Out There;Another place, another way;S0;E4
-What More Is Out There;And I know there's more that's out there;S0;E4
-What More Is Out There;And I'll find out someday!;S0;E4
-What More Is Out There;I'll find out someday...;S0;E4
-ACADECA;Ho! We're gonna take you down;S0;E3
-ACADECA;Ho! We're gonna take you down!;S0;E3
-ACADECA;Take you down! (Ho! We're gonna take you down!);S0;E3
-ACADECA;Take you down! (Down, down, down);S0;E3
-ACADECA;(Oh oh!) We're here to take you out;S0;E3
-ACADECA;(Aw aw!) We're here to take you out (Aw aw!);S0;E3
-ACADECA;Take you out! (We're here to take you out!);S0;E3
-ACADECA;Take you out!;S0;E3
-ACADECA;We're not about to let you win, so get out of our way;S0;E3
-ACADECA;Think you got us beat, but we're here to stay;S0;E3
-ACADECA;United strong, yeah, we'll take you down;S0;E3
-ACADECA;You're not so tough, now you're in our town;S0;E3
-ACADECA;All of the times we lost before;S0;E3
-ACADECA;Not about to give up, we're only bringin' it more;S0;E3
-ACADECA;We can smell your fear, we can see your sweat;S0;E3
-ACADECA;Hope you didn't spend money 'cause you're losin' this bet!;S0;E3
-ACADECA;You've got nothin' on us;S0;E3
-ACADECA;Na, na, na-na-na, na;S0;E3
-ACADECA;Let's go, Wondercolts!;S0;E3
-ACADECA;You've got nothin' on us;S0;E3
-ACADECA;Na, na, na-na-na, na;S0;E3
-ACADECA;Let's go, Wondercolts!;S0;E3
-ACADECA;Talk a little too much for a school that never wins;S0;E3
-ACADECA;Maybe you should just stop 'fore you even begin;S0;E3
-ACADECA;We are Crystal Prep High and we have a reputation;S0;E3
-ACADECA;Every little moment is about our education;S0;E3
-ACADECA;Put your ear to the ground;S0;E3
-ACADECA;Listen to that sound;S0;E3
-ACADECA;You're a house of cards;S0;E3
-ACADECA;And it's about to fall down (fall down);S0;E3
-ACADECA;About to fall down (fall down), hit the ground;S0;E3
-ACADECA;You've got nothin' on us;S0;E3
-ACADECA;Na, na, na-na-na, na;S0;E3
-ACADECA;Let's go, Shadowbolts!;S0;E3
-ACADECA;You've got nothin' on us;S0;E3
-ACADECA;Na, na, na-na-na, na;S0;E3
-ACADECA;Let's go, Shadowbolts!;S0;E3
-ACADECA;Pressure's on, now we're gonna beat you;S0;E3
-ACADECA;Step aside, it's time that we defeat you;S0;E3
-ACADECA;Crystal Prep yourself 'cause you're about to go;S0;E3
-ACADECA;Down, down, down, down;S0;E3
-ACADECA;Pressure's on, you know we're gonna take you;S0;E3
-ACADECA;Just give up before we have to break you;S0;E3
-ACADECA;Canter-not-a-lot, you're about to go;S0;E3
-ACADECA;Down, down, down, down;S0;E3
-ACADECA;Take it up to the top;S0;E3
-ACADECA;'Cause we know we can win;S0;E3
-ACADECA;Maybe you should just stop;S0;E3
-ACADECA;'Cause we've seen you give in;S0;E3
-ACADECA;We believe in ourselves;S0;E3
-ACADECA;And we've got what it takes;S0;E3
-ACADECA;And we're not gonna stop;S0;E3
-ACADECA;I can't wait 'til this is all over;S0;E3
-ACADECA;There's so much more that's going on;S0;E3
-ACADECA;And before these games are over;S0;E3
-ACADECA;I'll find out just what she's done;S0;E3
-ACADECA;Can she do it? Will she make it?;S0;E3
-ACADECA;Who will win it? Who will take it?;S0;E3
-ACADECA;Can she do it? Who will take it?;S0;E3
-ACADECA;Did she win it? Did she make it?;S0;E3
-ACADECA;Who's the winner? Who's the reject?;S0;E3
-ACADECA;How did she answer?;S0;E3
-Unleash the magic;I realize that you've always been an outcast;S0;E3
-Unleash the magic;It's not everyone at school who likes to think;S0;E3
-Unleash the magic;To find a student that's like you;S0;E3
-Unleash the magic;I've had one or maybe two;S0;E3
-Unleash the magic;But the good ones disappear before I blink;S0;E3
-Unleash the magic;Now, I understand you have your reservations (oh-wuh);S0;E3
-Unleash the magic;It's hard to have a brain as large as yours (oh-oh-oh-oh);S0;E3
-Unleash the magic;But if we don't win these games;S0;E3
-Unleash the magic;Well, I think I've made it plain;S0;E3
-Unleash the magic;What will happen if we have the losing scores!;S0;E3
-Unleash the magic;Unleash the magic, unleash the magic;S0;E3
-Unleash the magic;If we lose, then you're to blame (ah, ah-ah-ah);S0;E3
-Unleash the magic;They all have used it, maybe abused it (ah-ah-ah);S0;E3
-Unleash the magic;So then why can't we do the same?;S0;E3
-Unleash the magic;Call it power, call it magic;S0;E3
-Unleash the magic;If we lose, it will be tragic;S0;E3
-Unleash the magic;More important is the knowledge we'll have lost (oh-oh-oh-oh);S0;E3
-Unleash the magic;A chance like this won't come again;S0;E3
-Unleash the magic;You'll regret not giving in;S0;E3
-Unleash the magic;Isn't understanding magic worth the cost?;S0;E3
-Unleash the magic;Unleash the magic, unleash the magic;S0;E3
-Unleash the magic;We're not friends here after all;S0;E3
-Unleash the magic;Our only interest in this business (ah-ah-ah);S0;E3
-Unleash the magic;Is seeing Canterlot High School fall;S0;E3
-Unleash the magic;What I'm suggesting's very simple;S0;E3
-Unleash the magic;And since it's win-win on all scores;S0;E3
-Unleash the magic;You only want to learn about the;S0;E3
-Unleash the magic;Magic that you have stored;S0;E3
-Unleash the magic;And as for me and all the others;S0;E3
-Unleash the magic;We only want what we deserve;S0;E3
-Unleash the magic;That our school will clinch the win;S0;E3
-Unleash the magic;And my legacy will endure;S0;E3
-Unleash the magic;Unleash the magic, unleash the magic;S0;E3
-Unleash the magic;If we lose, then it's a crime;S0;E3
-Unleash the magic;But we can win it if you begin it (ah-ah-ah);S0;E3
-Unleash the magic;It's up to you to not fail this time;S0;E3
-Unleash the magic;Unleash the magic, free the magic now;S0;E3
-Unleash the magic;Unleash the magic, free the magic now;S0;E3
-Unleash the magic;Imagine all I'll learn by setting it free;S0;E3
-Unleash the magic;And now winning these games depends on me;S0;E3
-Unleash the magic;And what doors might open if I try to use it;S0;E3
-Unleash the magic;But the magic's what I really want to see;S0;E3
+Friendship Games Opening;The Friendship Games!;S12;E1
+Friendship Games Opening;We've come this far;S12;E1
+Friendship Games Opening;And we're not goin' back (No way!);S12;E1
+Friendship Games Opening;Prepare yourself;S12;E1
+Friendship Games Opening;Cause we're on the attack (Attack!);S12;E1
+Friendship Games Opening;Won't have to find us;S12;E1
+Friendship Games Opening;We'll be tracking you down (Right now!);S12;E1
+Friendship Games Opening;And when we're finished;S12;E1
+Friendship Games Opening;We'll be takin' the crown;S12;E1
+Friendship Games Opening;All the way (all the way);S12;E1
+Friendship Games Opening;All the way to the Friendship Games;S12;E1
+Friendship Games Opening;Na, na, na-na-na, oh;S12;E1
+Friendship Games Opening;Na, na, let's go!;S12;E1
+Friendship Games Opening;All the way (all the way);S12;E1
+Friendship Games Opening;All the way to the Friendship Games;S12;E1
+Friendship Games Opening;Na, na, na-na-na, oh;S12;E1
+Friendship Games Opening;Na, na, let's go!;S12;E1
+Friendship Games Opening;We studied hard;S12;E1
+Friendship Games Opening;And we're here to win;S12;E1
+Friendship Games Opening;We're only tellin' you once;S12;E1
+Friendship Games Opening;Our magic comes from the inside out;S12;E1
+Friendship Games Opening;What you see's what you get;S12;E1
+Friendship Games Opening;Don't you ever forget;S12;E1
+Friendship Games Opening;All the way (all the way);S12;E1
+Friendship Games Opening;All the way to the Friendship Games;S12;E1
+Friendship Games Opening;Na, na, na-na-na, oh;S12;E1
+Friendship Games Opening;Na, na, let's go!;S12;E1
+Friendship Games Opening;All the way (all the way);S12;E1
+Friendship Games Opening;All the way to the Friendship Games;S12;E1
+Friendship Games Opening;Na, na, na-na-na, oh;S12;E1
+Friendship Games Opening;Na, na, let's go!;S12;E1
+CHS Rally Song;We've fought magic more than once;S12;E2
+CHS Rally Song;And come out on top;S12;E2
+CHS Rally Song;There's other schools, but none can make those claims;S12;E2
+CHS Rally Song;Together we are Canterlot;S12;E2
+CHS Rally Song;Come and cheer our name;S12;E2
+CHS Rally Song;This will be our year to win these games;S12;E2
+CHS Rally Song;We'll always be Wondercolts forever;S12;E2
+CHS Rally Song;And now our time has finally arrived;S12;E2
+CHS Rally Song;'Cause we believe in the magic of friendship;S12;E2
+CHS Rally Song;And you know, at the end of the day, it is we who survive;S12;E2
+CHS Rally Song;We're not the school we were before;S12;E2
+CHS Rally Song;Yeah, we're different now;S12;E2
+CHS Rally Song;We overcame the obstacles we faced;S12;E2
+CHS Rally Song;Overcame the obstacles we faced;S12;E2
+CHS Rally Song;We're Canterlot united;S12;E2
+CHS Rally Song;Unite!;S12;E2
+CHS Rally Song;And we'll never bow;S12;E2
+CHS Rally Song;So get ready to see us in first place;S12;E2
+CHS Rally Song;We'll always be Wondercolts forever;S12;E2
+CHS Rally Song;And now our time has finally arrived;S12;E2
+CHS Rally Song;'Cause we believe in the magic of friendship;S12;E2
+CHS Rally Song;And you know, at the end of the day, it is we who survive;S12;E2
+CHS Rally Song;At the end of the day, it is we who survive;S12;E2
+CHS Rally Song;Na, na, na-na-na-na;S12;E2
+CHS Rally Song;Wondercolts united together;S12;E2
+CHS Rally Song;Na, na, na-na-na-na;S12;E2
+CHS Rally Song;Wondercolts united forever;S12;E2
+CHS Rally Song;We'll always be Wondercolts forever;S12;E2
+CHS Rally Song;And now our time has finally arrived;S12;E2
+CHS Rally Song;'Cause we believe in the magic of friendship;S12;E2
+CHS Rally Song;And you know...;S12;E2
+CHS Rally Song;At the end of the day, it is we who survive;S12;E2
+CHS Rally Song;At the end of the day, it is we who survive!;S12;E2
+What More Is Out There;I've walked through all these halls before;S12;E3
+What More Is Out There;I've been in and out of every door, oh-whoa-oh;S12;E3
+What More Is Out There;There's nothin' in this school that I don't know;S12;E3
+What More Is Out There;In every class, my grade's the best;S12;E3
+What More Is Out There;The highest score on every test;S12;E3
+What More Is Out There;I think that means it's time for me to go;S12;E3
+What More Is Out There;I know there's more that's out there;S12;E3
+What More Is Out There;And I just haven't found it yet;S12;E3
+What More Is Out There;I know there's more that's out there;S12;E3
+What More Is Out There;Another me I haven't met;S12;E3
+What More Is Out There;This school is full of people;S12;E3
+What More Is Out There;But still I don't belong;S12;E3
+What More Is Out There;They only dream of winning;S12;E3
+What More Is Out There;Look at me like something's wrong;S12;E3
+What More Is Out There;Maybe I'm better off alone;S12;E3
+What More Is Out There;Will I find what I'm lookin' for;S12;E3
+What More Is Out There;If I just do it on my own?;S12;E3
+What More Is Out There;I know there's more that's out there;S12;E3
+What More Is Out There;Something to fill this hole inside;S12;E3
+What More Is Out There;I know there's more that's out there;S12;E3
+What More Is Out There;And I'm not afraid to try;S12;E3
+What More Is Out There;There's only so much this school can offer;S12;E3
+What More Is Out There;And I'm not saying that it's wrong;S12;E3
+What More Is Out There;But I know there's more that's out there;S12;E3
+What More Is Out There;'Cause I've been searching all along;S12;E3
+What More Is Out There;Beyond these rooms, beyond these walls;S12;E3
+What More Is Out There;So much to learn, I can't see it all;S12;E3
+What More Is Out There;There's somethin' out there callin' me;S12;E3
+What More Is Out There;And it's a mystery that I can't wait to see;S12;E3
+What More Is Out There;'Cause I know there's more that's out there;S12;E3
+What More Is Out There;Another place, another way;S12;E3
+What More Is Out There;And I know there's more that's out there;S12;E3
+What More Is Out There;And I'll find out someday!;S12;E3
+What More Is Out There;I'll find out someday...;S12;E3
+ACADECA;Ho! We're gonna take you down!;S12;E4
+ACADECA;Ho! We're gonna take you down;S12;E4
+ACADECA;Take you down! (Ho! We're gonna take you down!);S12;E4
+ACADECA;Take you down! (Down, down, down);S12;E4
+ACADECA;(Oh oh!) We're here to take you out;S12;E4
+ACADECA;(Aw aw!) We're here to take you out (Aw aw!);S12;E4
+ACADECA;Take you out! (We're here to take you out!);S12;E4
+ACADECA;Take you out!;S12;E4
+ACADECA;We're not about to let you win, so get out of our way;S12;E4
+ACADECA;Think you got us beat, but we're here to stay;S12;E4
+ACADECA;United strong, yeah, we'll take you down;S12;E4
+ACADECA;You're not so tough, now you're in our town;S12;E4
+ACADECA;All of the times we lost before;S12;E4
+ACADECA;Not about to give up, we're only bringin' it more;S12;E4
+ACADECA;We can smell your fear, we can see your sweat;S12;E4
+ACADECA;Hope you didn't spend money 'cause you're losin' this bet!;S12;E4
+ACADECA;You've got nothin' on us;S12;E4
+ACADECA;Na, na, na-na-na, na;S12;E4
+ACADECA;Let's go, Wondercolts!;S12;E4
+ACADECA;You've got nothin' on us;S12;E4
+ACADECA;Na, na, na-na-na, na;S12;E4
+ACADECA;Let's go, Wondercolts!;S12;E4
+ACADECA;Talk a little too much for a school that never wins;S12;E4
+ACADECA;Maybe you should just stop 'fore you even begin;S12;E4
+ACADECA;We are Crystal Prep High and we have a reputation;S12;E4
+ACADECA;Every little moment is about our education;S12;E4
+ACADECA;Put your ear to the ground;S12;E4
+ACADECA;Listen to that sound;S12;E4
+ACADECA;You're a house of cards;S12;E4
+ACADECA;And it's about to fall down (fall down);S12;E4
+ACADECA;About to fall down (fall down), hit the ground;S12;E4
+ACADECA;You've got nothin' on us;S12;E4
+ACADECA;Na, na, na-na-na, na;S12;E4
+ACADECA;Let's go, Shadowbolts!;S12;E4
+ACADECA;You've got nothin' on us;S12;E4
+ACADECA;Na, na, na-na-na, na;S12;E4
+ACADECA;Let's go, Shadowbolts!;S12;E4
+ACADECA;Pressure's on, now we're gonna beat you;S12;E4
+ACADECA;Step aside, it's time that we defeat you;S12;E4
+ACADECA;Crystal Prep yourself 'cause you're about to go;S12;E4
+ACADECA;Down, down, down, down;S12;E4
+ACADECA;Pressure's on, you know we're gonna take you;S12;E4
+ACADECA;Just give up before we have to break you;S12;E4
+ACADECA;Canter-not-a-lot, you're about to go;S12;E4
+ACADECA;Down, down, down, down;S12;E4
+ACADECA;Take it up to the top;S12;E4
+ACADECA;'Cause we know we can win;S12;E4
+ACADECA;Maybe you should just stop;S12;E4
+ACADECA;'Cause we've seen you give in;S12;E4
+ACADECA;We believe in ourselves;S12;E4
+ACADECA;And we've got what it takes;S12;E4
+ACADECA;And we're not gonna stop;S12;E4
+ACADECA;I can't wait 'til this is all over;S12;E4
+ACADECA;There's so much more that's going on;S12;E4
+ACADECA;And before these games are over;S12;E4
+ACADECA;I'll find out just what she's done;S12;E4
+ACADECA;Can she do it? Will she make it?;S12;E4
+ACADECA;Who will win it? Who will take it?;S12;E4
+ACADECA;Can she do it? Who will take it?;S12;E4
+ACADECA;Did she win it? Did she make it?;S12;E4
+ACADECA;Who's the winner? Who's the reject?;S12;E4
+ACADECA;How did she answer?;S12;E4
+Unleash the magic;I realize that you've always been an outcast;S12;E4
+Unleash the magic;It's not everyone at school who likes to think;S12;E4
+Unleash the magic;To find a student that's like you;S12;E4
+Unleash the magic;I've had one or maybe two;S12;E4
+Unleash the magic;But the good ones disappear before I blink;S12;E4
+Unleash the magic;Now, I understand you have your reservations (oh-wuh);S12;E4
+Unleash the magic;It's hard to have a brain as large as yours (oh-oh-oh-oh);S12;E4
+Unleash the magic;But if we don't win these games;S12;E4
+Unleash the magic;Well, I think I've made it plain;S12;E4
+Unleash the magic;What will happen if we have the losing scores!;S12;E4
+Unleash the magic;Unleash the magic, unleash the magic;S12;E4
+Unleash the magic;If we lose, then you're to blame (ah, ah-ah-ah);S12;E4
+Unleash the magic;They all have used it, maybe abused it (ah-ah-ah);S12;E4
+Unleash the magic;So then why can't we do the same?;S12;E4
+Unleash the magic;Call it power, call it magic;S12;E4
+Unleash the magic;If we lose, it will be tragic;S12;E4
+Unleash the magic;More important is the knowledge we'll have lost (oh-oh-oh-oh);S12;E4
+Unleash the magic;A chance like this won't come again;S12;E4
+Unleash the magic;You'll regret not giving in;S12;E4
+Unleash the magic;Isn't understanding magic worth the cost?;S12;E4
+Unleash the magic;Unleash the magic, unleash the magic;S12;E4
+Unleash the magic;We're not friends here after all;S12;E4
+Unleash the magic;Our only interest in this business (ah-ah-ah);S12;E4
+Unleash the magic;Is seeing Canterlot High School fall;S12;E4
+Unleash the magic;What I'm suggesting's very simple;S12;E4
+Unleash the magic;And since it's win-win on all scores;S12;E4
+Unleash the magic;You only want to learn about the;S12;E4
+Unleash the magic;Magic that you have stored;S12;E4
+Unleash the magic;And as for me and all the others;S12;E4
+Unleash the magic;We only want what we deserve;S12;E4
+Unleash the magic;That our school will clinch the win;S12;E4
+Unleash the magic;And my legacy will endure;S12;E4
+Unleash the magic;Unleash the magic, unleash the magic;S12;E4
+Unleash the magic;If we lose, then it's a crime;S12;E4
+Unleash the magic;But we can win it if you begin it (ah-ah-ah);S12;E4
+Unleash the magic;It's up to you to not fail this time;S12;E4
+Unleash the magic;Unleash the magic, free the magic now;S12;E4
+Unleash the magic;Unleash the magic, free the magic now;S12;E4
+Unleash the magic;Imagine all I'll learn by setting it free;S12;E4
+Unleash the magic;And now winning these games depends on me;S12;E4
+Unleash the magic;And what doors might open if I try to use it;S12;E4
+Unleash the magic;But the magic's what I really want to see;S12;E4
 ########################### EG 4 ###########################
-The Legend of Everfree;Will you be lost by time or be part of history?;S0;E4
-The Legend of Everfree;Will your story be told or remain a mystery?;S0;E4
-The Legend of Everfree;Will they sing your song, telling all that you have done?;S0;E4
-The Legend of Everfree;Time to make your choice, only you can be the one;S0;E4
-The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
-The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
-The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
-The Legend of Everfree;As you join in the Legend of Everfree! (Hey! Hey! Hey!);S0;E4
-The Legend of Everfree;Will you do something great with the time that you have here?;S0;E4
-The Legend of Everfree;Will you make your mark? Will you conquer what you fear?;S0;E4
-The Legend of Everfree;And when you go back home, everybody there will see;S0;E4
-The Legend of Everfree;You were part of the Legend of Everfree!;S0;E4
-The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
-The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
-The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
-The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
-The Legend of Everfree;Will you find your greatest glory?;S0;E4
-The Legend of Everfree;Will you be a falling star?;S0;E4
-The Legend of Everfree;Here to learn what nature teaches;S0;E4
-The Legend of Everfree;Here to learn more who you are;S0;E4
-The Legend of Everfree;Will you be lost by time or be part of history?;S0;E4
-The Legend of Everfree;Will your story be told or remain a mystery?;S0;E4
-The Legend of Everfree;And when you go back home, everybody there will see;S0;E4
-The Legend of Everfree;You were part of the Legend of Everfree!;S0;E4
-The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
-The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S0;E4
-The Legend of Everfree;Oh, oh, oh-oh-whoa;S0;E4
-The Legend of Everfree;As you join in the Legend of Everfree!;S0;E4
-The Legend of Everfree;Hey!;S0;E4
-The Midnight in Me;It used to be so simple;S0;E4
-The Midnight in Me;It was a world I understood;S0;E4
-The Midnight in Me;I didn't know what I didn't know;S0;E4
-The Midnight in Me;And life seemed pretty good;S0;E4
-The Midnight in Me;But now the darkness rises;S0;E4
-The Midnight in Me;From somewhere deep inside of me;S0;E4
-The Midnight in Me;Her power overtakes me;S0;E4
-The Midnight in Me;Can I keep this midnight from getting free?;S0;E4
-The Midnight in Me;If I can stay with the light;S0;E4
-The Midnight in Me;I know I'll be free;S0;E4
-The Midnight in Me;And I can start to be whole;S0;E4
-The Midnight in Me;I can start to be me;S0;E4
-The Midnight in Me;But instead I am struggling;S0;E4
-The Midnight in Me;With all that I see;S0;E4
-The Midnight in Me;And these friends;S0;E4
-The Midnight in Me;Mustn't see the midnight in me!;S0;E4
-The Midnight in Me;The midnight in me!;S0;E4
-The Midnight in Me;They mustn't see the midnight in me...;S0;E4
-Embrace the Magic;So you have magic;S0;E4
-Embrace the Magic;And it's not that great;S0;E4
-Embrace the Magic;But when it found you;S0;E4
-Embrace the Magic;You know it was fate;S0;E4
-Embrace the Magic;And it might seem scary now;S0;E4
-Embrace the Magic;But it can be wonderful, too;S0;E4
-Embrace the Magic;So how about we embrace the magic;S0;E4
-Embrace the Magic;And make the magic part of you?;S0;E4
-Embrace the Magic;You take a little dash of magic;S0;E4
-Embrace the Magic;And you let it ignite;S0;E4
-Embrace the Magic;Mix things up a little bit;S0;E4
-Embrace the Magic;And it might start to go right;S0;E4
-Embrace the Magic;In just five seconds flat;S0;E4
-Embrace the Magic;How the story has changed;S0;E4
-Embrace the Magic;All 'cause now you've embraced the magic;S0;E4
-Embrace the Magic;And it just got better in every way;S0;E4
-Embrace the Magic;I say embrace the magic;S0;E4
-Embrace the Magic;No more holding back, just let it out;S0;E4
-Embrace the Magic;If you can take the magic;S0;E4
-Embrace the Magic;And learn a little more what it can do;S0;E4
-Embrace the Magic;Once the magic is part of you;S0;E4
-Embrace the Magic;What's standing in your way;S0;E4
-Embrace the Magic;That you can't move today?;S0;E4
-Embrace the Magic;You've got the strength in you;S0;E4
-Embrace the Magic;To make your dreams come true;S0;E4
-Embrace the Magic;No need to shield yourself;S0;E4
-Embrace the Magic;From the magic that can help;S0;E4
-Embrace the Magic;Protect from any harm that might come;S0;E4
-Embrace the Magic;So you have magic;S0;E4
-Embrace the Magic;And it's not that great;S0;E4
-Embrace the Magic;But when it found you;S0;E4
-Embrace the Magic;You know it was fate;S0;E4
-Embrace the Magic;So if you listen close;S0;E4
-Embrace the Magic;You might make a new friend;S0;E4
-Embrace the Magic;And together we can make it!;S0;E4
-Embrace the Magic;I say embrace the magic;S0;E4
-Embrace the Magic;No more holding back, just let it out;S0;E4
-Embrace the Magic;If you can take the magic;S0;E4
-Embrace the Magic;And learn a little more what it can do;S0;E4
-Embrace the Magic;Once the magic is part of you;S0;E4
-Embrace the Magic;Once the magic is part of you;S0;E4
-Embrace the Magic;Once the magic is part of you;S0;E4
-Embrace the Magic;Once the magic is part of you;S0;E4
-We Will Stand For Everfree;I have waited for the day;S0;E4
-We Will Stand For Everfree;To send this greedy wolf away;S0;E4
-We Will Stand For Everfree;Now the magic is my salvation;S0;E4
-We Will Stand For Everfree;Gather close in my protection;S0;E4
-We Will Stand For Everfree;We... will... stand for Everfree!;S0;E4
-We Will Stand For Everfree;Behold the beauty of nature in all its glory;S0;E4
-We Will Stand For Everfree;No need to fear the vultures at the door;S0;E4
-We Will Stand For Everfree;Right here you have me to protect you;S0;E4
-We Will Stand For Everfree;Within these walls of thorns;S0;E4
-We Will Stand For Everfree;Forever free, forevermore!;S0;E4
-We Will Stand For Everfree;They have come into our domain;S0;E4
-We Will Stand For Everfree;Here to seal our camp in chains;S0;E4
-We Will Stand For Everfree;But we have held it for generations;S0;E4
-We Will Stand For Everfree;This is just a complication;S0;E4
-We Will Stand For Everfree;We... will... stand for Everfree!;S0;E4
-We Will Stand For Everfree;Trust in me, this is for your own good;S0;E4
-We Will Stand For Everfree;Don't be afraid, nature is our friend;S0;E4
-We Will Stand For Everfree;All of this beauty that surrounds us;S0;E4
-We Will Stand For Everfree;Every lovely bloom designed to defend;S0;E4
-We Will Stand For Everfree;Let them come, just let them try!;S0;E4
-We Will Stand For Everfree;I'm not about to say goodbye!;S0;E4
-We Will Stand For Everfree;This camp will be here throughout the ages;S0;E4
-We Will Stand For Everfree;Written into the history pages;S0;E4
-We Will Stand For Everfree;We... will... stand for Everfree!;S0;E4
-Legend You Were Meant To Be;I used to think that stories were just that;S0;E4
-Legend You Were Meant To Be;Set in stone, concrete as a fact;S0;E4
-Legend You Were Meant To Be;It didn't dawn on me;S0;E4
-Legend You Were Meant To Be;That I could change history;S0;E4
-Legend You Were Meant To Be;Now I know I'm writing my own song;S0;E4
-Legend You Were Meant To Be;Fight my way to the ending that I want;S0;E4
-Legend You Were Meant To Be;I'll turn a tragedy;S0;E4
-Legend You Were Meant To Be;Into an epic fantasy;S0;E4
-Legend You Were Meant To Be;Hey, hey, hey;S0;E4
-Legend You Were Meant To Be;You can be a hero (hero) too;S0;E4
-Legend You Were Meant To Be;Oh-oh-oh;S0;E4
-Legend You Were Meant To Be;Take my hand, I'm here for you;S0;E4
-Legend You Were Meant To Be;Come away with me;S0;E4
-Legend You Were Meant To Be;Be the legend you were meant to be;S0;E4
-Legend You Were Meant To Be;You'll always be Everfree;S0;E4
-Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
-Legend You Were Meant To Be;To be the legend you were meant to be;S0;E4
-Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
-Legend You Were Meant To Be;To be the legend you were meant to be;S0;E4
-Legend You Were Meant To Be;There was a time when fear would hold me down;S0;E4
-Legend You Were Meant To Be;'Cause I let it chain me to the ground;S0;E4
-Legend You Were Meant To Be;Look at me now, I'm soaring high;S0;E4
-Legend You Were Meant To Be;It's never boring in the sky;S0;E4
-Legend You Were Meant To Be;When I know I've got friends on my side;S0;E4
-Legend You Were Meant To Be;Whatever trials, I'll take them all in stride;S0;E4
-Legend You Were Meant To Be;Together we will shine so bright;S0;E4
-Legend You Were Meant To Be;A radiant brilliance in the night;S0;E4
-Legend You Were Meant To Be;Hey, hey, hey;S0;E4
-Legend You Were Meant To Be;You can be a hero (hero) too;S0;E4
-Legend You Were Meant To Be;Oh-oh-oh;S0;E4
-Legend You Were Meant To Be;Take my hand, I'm here for you;S0;E4
-Legend You Were Meant To Be;Come away with me;S0;E4
-Legend You Were Meant To Be;Be the legend you were meant to be;S0;E4
-Legend You Were Meant To Be;You'll always be Everfree;S0;E4
-Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
-Legend You Were Meant To Be;To be the legend you were meant to be;S0;E4
-Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S0;E4
-Legend You Were Meant To Be;To be the legend you were meant to be!;S0;E4
+The Legend of Everfree;Will you be lost by time or be part of history?;S13;E1
+The Legend of Everfree;Will your story be told or remain a mystery?;S13;E1
+The Legend of Everfree;Will they sing your song, telling all that you have done?;S13;E1
+The Legend of Everfree;Time to make your choice, only you can be the one;S13;E1
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S13;E1
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S13;E1
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S13;E1
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey! Hey! Hey!);S13;E1
+The Legend of Everfree;Will you do something great with the time that you have here?;S13;E1
+The Legend of Everfree;Will you make your mark? Will you conquer what you fear?;S13;E1
+The Legend of Everfree;And when you go back home, everybody there will see;S13;E1
+The Legend of Everfree;You were part of the Legend of Everfree!;S13;E1
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S13;E1
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S13;E1
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S13;E1
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S13;E1
+The Legend of Everfree;Will you find your greatest glory?;S13;E1
+The Legend of Everfree;Will you be a falling star?;S13;E1
+The Legend of Everfree;Here to learn what nature teaches;S13;E1
+The Legend of Everfree;Here to learn more who you are;S13;E1
+The Legend of Everfree;Will you be lost by time or be part of history?;S13;E1
+The Legend of Everfree;Will your story be told or remain a mystery?;S13;E1
+The Legend of Everfree;And when you go back home, everybody there will see;S13;E1
+The Legend of Everfree;You were part of the Legend of Everfree!;S13;E1
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S13;E1
+The Legend of Everfree;As you join in the Legend of Everfree! (Hey!);S13;E1
+The Legend of Everfree;Oh, oh, oh-oh-whoa;S13;E1
+The Legend of Everfree;As you join in the Legend of Everfree!;S13;E1
+The Legend of Everfree;Hey!;S13;E1
+The Midnight in Me;It used to be so simple;S13;E2
+The Midnight in Me;It was a world I understood;S13;E2
+The Midnight in Me;I didn't know what I didn't know;S13;E2
+The Midnight in Me;And life seemed pretty good;S13;E2
+The Midnight in Me;But now the darkness rises;S13;E2
+The Midnight in Me;From somewhere deep inside of me;S13;E2
+The Midnight in Me;Her power overtakes me;S13;E2
+The Midnight in Me;Can I keep this midnight from getting free?;S13;E2
+The Midnight in Me;If I can stay with the light;S13;E2
+The Midnight in Me;I know I'll be free;S13;E2
+The Midnight in Me;And I can start to be whole;S13;E2
+The Midnight in Me;I can start to be me;S13;E2
+The Midnight in Me;But instead I am struggling;S13;E2
+The Midnight in Me;With all that I see;S13;E2
+The Midnight in Me;And these friends;S13;E2
+The Midnight in Me;Mustn't see the midnight in me!;S13;E2
+The Midnight in Me;The midnight in me!;S13;E2
+The Midnight in Me;They mustn't see the midnight in me...;S13;E2
+Embrace the Magic;So you have magic;S13;E3
+Embrace the Magic;And it's not that great;S13;E3
+Embrace the Magic;But when it found you;S13;E3
+Embrace the Magic;You know it was fate;S13;E3
+Embrace the Magic;And it might seem scary now;S13;E3
+Embrace the Magic;But it can be wonderful, too;S13;E3
+Embrace the Magic;So how about we embrace the magic;S13;E3
+Embrace the Magic;And make the magic part of you?;S13;E3
+Embrace the Magic;You take a little dash of magic;S13;E3
+Embrace the Magic;And you let it ignite;S13;E3
+Embrace the Magic;Mix things up a little bit;S13;E3
+Embrace the Magic;And it might start to go right;S13;E3
+Embrace the Magic;In just five seconds flat;S13;E3
+Embrace the Magic;How the story has changed;S13;E3
+Embrace the Magic;All 'cause now you've embraced the magic;S13;E3
+Embrace the Magic;And it just got better in every way;S13;E3
+Embrace the Magic;I say embrace the magic;S13;E3
+Embrace the Magic;No more holding back, just let it out;S13;E3
+Embrace the Magic;If you can take the magic;S13;E3
+Embrace the Magic;And learn a little more what it can do;S13;E3
+Embrace the Magic;Once the magic is part of you;S13;E3
+Embrace the Magic;What's standing in your way;S13;E3
+Embrace the Magic;That you can't move today?;S13;E3
+Embrace the Magic;You've got the strength in you;S13;E3
+Embrace the Magic;To make your dreams come true;S13;E3
+Embrace the Magic;No need to shield yourself;S13;E3
+Embrace the Magic;From the magic that can help;S13;E3
+Embrace the Magic;Protect from any harm that might come;S13;E3
+Embrace the Magic;So you have magic;S13;E3
+Embrace the Magic;And it's not that great;S13;E3
+Embrace the Magic;But when it found you;S13;E3
+Embrace the Magic;You know it was fate;S13;E3
+Embrace the Magic;So if you listen close;S13;E3
+Embrace the Magic;You might make a new friend;S13;E3
+Embrace the Magic;And together we can make it!;S13;E3
+Embrace the Magic;I say embrace the magic;S13;E3
+Embrace the Magic;No more holding back, just let it out;S13;E3
+Embrace the Magic;If you can take the magic;S13;E3
+Embrace the Magic;And learn a little more what it can do;S13;E3
+Embrace the Magic;Once the magic is part of you;S13;E3
+Embrace the Magic;Once the magic is part of you;S13;E3
+Embrace the Magic;Once the magic is part of you;S13;E3
+Embrace the Magic;Once the magic is part of you;S13;E3
+We Will Stand For Everfree;I have waited for the day;S13;E4
+We Will Stand For Everfree;To send this greedy wolf away;S13;E4
+We Will Stand For Everfree;Now the magic is my salvation;S13;E4
+We Will Stand For Everfree;Gather close in my protection;S13;E4
+We Will Stand For Everfree;We... will... stand for Everfree!;S13;E4
+We Will Stand For Everfree;Behold the beauty of nature in all its glory;S13;E4
+We Will Stand For Everfree;No need to fear the vultures at the door;S13;E4
+We Will Stand For Everfree;Right here you have me to protect you;S13;E4
+We Will Stand For Everfree;Within these walls of thorns;S13;E4
+We Will Stand For Everfree;Forever free, forevermore!;S13;E4
+We Will Stand For Everfree;They have come into our domain;S13;E4
+We Will Stand For Everfree;Here to seal our camp in chains;S13;E4
+We Will Stand For Everfree;But we have held it for generations;S13;E4
+We Will Stand For Everfree;This is just a complication;S13;E4
+We Will Stand For Everfree;We... will... stand for Everfree!;S13;E4
+We Will Stand For Everfree;Trust in me, this is for your own good;S13;E4
+We Will Stand For Everfree;Don't be afraid, nature is our friend;S13;E4
+We Will Stand For Everfree;All of this beauty that surrounds us;S13;E4
+We Will Stand For Everfree;Every lovely bloom designed to defend;S13;E4
+We Will Stand For Everfree;Let them come, just let them try!;S13;E4
+We Will Stand For Everfree;I'm not about to say goodbye!;S13;E4
+We Will Stand For Everfree;This camp will be here throughout the ages;S13;E4
+We Will Stand For Everfree;Written into the history pages;S13;E4
+We Will Stand For Everfree;We... will... stand for Everfree!;S13;E4
+Legend You Were Meant To Be;I used to think that stories were just that;S13;E5
+Legend You Were Meant To Be;Set in stone, concrete as a fact;S13;E5
+Legend You Were Meant To Be;It didn't dawn on me;S13;E5
+Legend You Were Meant To Be;That I could change history;S13;E5
+Legend You Were Meant To Be;Now I know I'm writing my own song;S13;E5
+Legend You Were Meant To Be;Fight my way to the ending that I want;S13;E5
+Legend You Were Meant To Be;I'll turn a tragedy;S13;E5
+Legend You Were Meant To Be;Into an epic fantasy;S13;E5
+Legend You Were Meant To Be;Hey, hey, hey;S13;E5
+Legend You Were Meant To Be;You can be a hero (hero) too;S13;E5
+Legend You Were Meant To Be;Oh-oh-oh;S13;E5
+Legend You Were Meant To Be;Take my hand, I'm here for you;S13;E5
+Legend You Were Meant To Be;Come away with me;S13;E5
+Legend You Were Meant To Be;Be the legend you were meant to be;S13;E5
+Legend You Were Meant To Be;You'll always be Everfree;S13;E5
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S13;E5
+Legend You Were Meant To Be;To be the legend you were meant to be;S13;E5
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S13;E5
+Legend You Were Meant To Be;To be the legend you were meant to be;S13;E5
+Legend You Were Meant To Be;There was a time when fear would hold me down;S13;E5
+Legend You Were Meant To Be;'Cause I let it chain me to the ground;S13;E5
+Legend You Were Meant To Be;Look at me now, I'm soaring high;S13;E5
+Legend You Were Meant To Be;It's never boring in the sky;S13;E5
+Legend You Were Meant To Be;When I know I've got friends on my side;S13;E5
+Legend You Were Meant To Be;Whatever trials, I'll take them all in stride;S13;E5
+Legend You Were Meant To Be;Together we will shine so bright;S13;E5
+Legend You Were Meant To Be;A radiant brilliance in the night;S13;E5
+Legend You Were Meant To Be;Hey, hey, hey;S13;E5
+Legend You Were Meant To Be;You can be a hero (hero) too;S13;E5
+Legend You Were Meant To Be;Oh-oh-oh;S13;E5
+Legend You Were Meant To Be;Take my hand, I'm here for you;S13;E5
+Legend You Were Meant To Be;Come away with me;S13;E5
+Legend You Were Meant To Be;Be the legend you were meant to be;S13;E5
+Legend You Were Meant To Be;You'll always be Everfree;S13;E5
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S13;E5
+Legend You Were Meant To Be;To be the legend you were meant to be;S13;E5
+Legend You Were Meant To Be;Oh, oo-wah, ah-oh, oo-wah, ah-oh, oo-wah;S13;E5
+Legend You Were Meant To Be;To be the legend you were meant to be!;S13;E5
 ########################### EG specials ###########################
 Dance Magic;I feel it stirrin' deep down inside my soul;S0;E5
 Dance Magic;The rhythm's taking hold, and it's about to roll;S0;E5
