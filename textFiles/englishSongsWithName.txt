@@ -2422,508 +2422,497 @@ Blank Flanks Forever;Blank flanks forever!;S7;E21
 Blank Flanks Forever;Blank flanks forever and ever!;S7;E21
 Blank Flanks Forever;Blank flanks!;S7;E21
 ########################### Season 8 ###########################
-SongName;The School of Friendship, first day of class;S8;E1
-SongName;Will we fail or will we pass?;S8;E1
-SongName;Students come from far and wide;S8;E1
-SongName;Brand-new friends here by our side;S8;E1
-SongName;Take a breath, look around, it's amazing;S8;E1
-SongName;I can't believe that it's real;S8;E1
-SongName;Students galore, new ideas to explore;S8;E1
-SongName;Can't contain the excitement I feel;S8;E1
-SongName;Can't mess up, can't afford a mistake now;S8;E1
-SongName;Think "success", keep it firmly in sight;S8;E1
-SongName;Make sure to do things by the book;S8;E1
-SongName;Make sure to do it all right;S8;E1
-SongName;The School of Friendship, must get to class;S8;E1
-SongName;Will we fail or will we pass?;S8;E1
-SongName;Students learning from the best;S8;E1
-SongName;Taking notes to pass the test;S8;E1
-SongName;Wait, hold on! Not like that! Just a second!;S8;E1
-SongName;I'm not sure if that method's approved;S8;E1
-SongName;Let me take a look – yup, right here in the book;S8;E1
-SongName;Come on! We just got in the groove!;S8;E1
-SongName;Can't mess up, can't afford a mistake now;S8;E1
-SongName;We are shaping young minds to ignite;S8;E1
-SongName;Do it like it says in the book;S8;E1
-SongName;Now make sure you're doing it right;S8;E1
-SongName;There's not an equation on how to have fun;S8;E1
-SongName;The students look bored now – oh, what have I done?;S8;E1
-SongName;Can't teach bein' honest, not sure what to do;S8;E1
-SongName;I'm quite certain I'm lost;S8;E1
-SongName;None of us has a clue!;S8;E1
-SongName;School of Friendship, another class;S8;E1
-SongName;Wish it were more of a blast;S8;E1
-SongName;Thought this school would be more fun;S8;E1
-SongName;Can't wait for our classes to be done;S8;E1
-SongName;School of Friendship;S8;E1
-SongName;Can't mess up, can't afford a mistake now;S8;E1
-SongName;No way to have fun;S8;E1
-SongName;Oh, what have I done?;S8;E1
-SongName;Bored with this class;S8;E1
-SongName;Think "success", keep it firmly in sight;S8;E1
-SongName;Wish that we could leave en masse!;S8;E1
-SongName;We don't have a clue;S8;E1
-SongName;Listen to this one request;S8;E1
-SongName;Make things fun, we're really stressed;S8;E1
-SongName;Make sure to do things by the book now;S8;E1
-SongName;Can we tell her this thing is a mess?;S8;E1
-SongName;This brand new school of friendship;S8;E2
-SongName;Is home to everyone;S8;E2
-SongName;We're learning how to trust;S8;E2
-SongName;We're here to all have fun;S8;E2
-SongName;With friendship ties that bind us;S8;E2
-SongName;Tighter than the strongest bonds;S8;E2
-SongName;We're hoof-in-hoof;S8;E2
-SongName;In hand in hoof in wing or even claw;S8;E2
-SongName;There's a griffon in the garden;S8;E2
-SongName;Hippogriffs hang in the hall;S8;E2
-SongName;And the door will be open;S8;E2
-SongName;To all creatures great and small;S8;E2
-SongName;And a yak or two or three;S8;E2
-SongName;Sing in perfect harmony;S8;E2
-SongName;That might have been a changeling;S8;E2
-SongName;But it kind of looks like me;S8;E2
-SongName;This school of friendship is for all of us;S8;E2
-SongName;A place where we belong;S8;E2
-SongName;Where we all learn to share and trust;S8;E2
-SongName;The only rule here is to find your way;S8;E2
-SongName;And friendship always wins at the end of the day;S8;E2
-SongName;Some things you just can't teach with books;S8;E2
-SongName;Some things you only know;S8;E2
-SongName;So trust your heart and let us lead;S8;E2
-SongName;And your friendship's sure to grow;S8;E2
-SongName;And once we master kindness;S8;E2
-SongName;We will spread it 'cross this land;S8;E2
-SongName;And give the gift that's ours to share;S8;E2
-SongName;So others understand;S8;E2
-SongName;This school of friendship is for all of us;S8;E2
-SongName;A place where we belong;S8;E2
-SongName;Where we all learn to share and trust;S8;E2
-SongName;The only rule here is to find your way;S8;E2
-SongName;And friendship always wins at the end of the day!;S8;E2
-SongName;Your heart is in two places, you can only live in one;S8;E6
-SongName;You're torn between the hilltops and the tide;S8;E6
-SongName;Thank goodness that the Cutie Mark Crusaders have begun;S8;E6
-SongName;To give you hope and help you to decide;S8;E6
-SongName;These hills, they call to you, they say "Harmonizing Heights";S8;E6
-SongName;This is your home, simple and serene;S8;E6
-SongName;The sun-dappled leaves or a mountain terrace;S8;E6
-SongName;You can see twenty-three different shades of green;S8;E6
-SongName;To dare to compare anywhere to there;S8;E6
-SongName;Is unfair and just plain wrong;S8;E6
-SongName;Colt or mare or you wear feathers, fins, or hair;S8;E6
-SongName;This is where you belong;S8;E6
-SongName;Build your nest here on Harmonizing Heights;S8;E6
-SongName;Live it up here in Seaquestria;S8;E6
-SongName;Nothing compares to Harmonizing Heights;S8;E6
-SongName;The eagles are regal;S8;E6
-SongName;But the schools are cooler;S8;E6
-SongName;Their claws are so awesome;S8;E6
-SongName;With their sweet maneuvers;S8;E6
-SongName;Star wishes every night;S8;E6
-SongName;Starfish by eel light;S8;E6
-SongName;Better;S8;E6
-SongName;Wetter;S8;E6
-SongName;Shinier;S8;E6
-SongName;Brinier;S8;E6
-SongName;Seaquestria!;S8;E6
-SongName;Harmonizing Heights!;S8;E6
-SongName;Seaquestria!;S8;E6
-SongName;Harmonizing Heights!;S8;E6
-SongName;That's it! This is the end!;S8;E6
-SongName;Don't ever talk to me again!;S8;E6
-SongName;Ponies' voices fill the night;S8;E15
-SongName;Hearth's Warming Eve is here once again;S8;E15
-SongName;Come on, everycreature! Sing!;S8;E15
-SongName;La-la-la-la, la-la-la-la;S8;E15
-SongName;La-la, la-la, la-la, la-la;S8;E15
-SongName; La-la-la-la... la...;S8;E15
-SongName;Carols, carols, carols, carols, caroooools;S8;E15
-SongName;Yak song! Yak song! Not very long! Sing again!;S8;E15
-SongName;Yak song! Yak song! Not very long! Sing again!;S8;E15
-SongName;Yak song! Yak song! Not very long! Sing again!;S8;E15
-SongName;Hearth's Warming Eve is here once again!;S8;E15
-SongName;If you're alone and you can't make friends;S8;E16
-SongName;We understand your plight;S8;E16
-SongName;Until now, there was just one way;S8;E16
-SongName;Your friendships could take flight;S8;E16
-SongName;There is a school real far away;S8;E16
-SongName;That'll teach you what to know;S8;E16
-SongName;But if you live here, you couldn't stay;S8;E16
-SongName;You'd learn you have to go-o-o-o;S8;E16
-SongName;Now, there is an alternative to all of that adversity;S8;E16
-SongName;Not just a school, I'll have you know;S8;E16
-SongName;But a whole university;S8;E16
-SongName;At Friendship U, our aim is true;S8;E16
-SongName;In a city, not some backwater;S8;E16
-SongName;You'll learn the things you need to know;S8;E16
-SongName;At our new alma mater;S8;E16
-SongName;As you can see, we're a success;S8;E16
-SongName;By any kind of stat;S8;E16
-SongName;That may be so, for all I know;S8;E16
-SongName;But I still smell a rat;S8;E16
-SongName;Everypony, lookie here;S8;E16
-SongName;That other school's headmare;S8;E16
-SongName;Her presence is a testament;S8;E16
-SongName;To the mutual respect...;S8;E16
-SongName;...we sha-a-a-are;S8;E16
-SongName;It really is the final piece;S8;E16
-SongName;To make our work complete;S8;E16
-SongName;To have the Friendship Princess;S8;E16
-SongName;Bless our school is such a treat;S8;E16
-SongName;At Friendship U, we teach to you ;S8;E16
-SongName;All of our friendship knowledge;S8;E16
-SongName;You'll learn it all in half the time;S8;E16
-SongName;At the one and only friendship college;S8;E16
-SongName;The lessons that we teach have been;S8;E16
-SongName;Reviewed and checked and edited;S8;E16
-SongName;Which might explain why our new school's;S8;E16
-SongName;About to be accredited;S8;E16
-SongName;At Friendship U, oh, yes, it's true;S8;E16
-SongName;Even the Princess of Friendship agrees;S8;E16
-SongName;The only place in Equestria;S8;E16
-SongName;To give out friendship degrees;S8;E16
-SongName;Yeah!;S8;E16
-SongName;Friendship U!;S8;E16
-SongName;Friendship U!;S8;E16
-SongName;Friendship U!;S8;E16
-SongName;Friendship U!;S8;E16
-SongName;Friendship U!;S8;E16
-SongName;Friendship U!;S8;E16
-SongName;It's the only university of Friendship U!;S8;E16
-SongName;Yeah!;S8;E16
-SongName;We're off on the road to friendship;S8;E19
-SongName;Our ride might be tiny and small;S8;E19
-SongName;But road trips are a great way, we've been told, to get along;S8;E19
-SongName;I'm glad we're sticking to it, we've already got a song;S8;E19
-SongName;We're off on the road to friendship;S8;E19
-SongName;Side by side, just like peas in a pod;S8;E19
-SongName;Our bond of friendship is stronger than this tour's demands;S8;E19
-SongName;We're so tight, we can't move around;S8;E19
-SongName;I guess we're stuck together 'cause we're friendship bound;S8;E19
-SongName;We're off on the road to friendship;S8;E19
-SongName;We've each got the other to blame;S8;E19
-SongName;Any trip can be exhausting if you make a fuss;S8;E19
-SongName;But we get on so well that's there no way that could be us;S8;E19
-SongName;We're off on the road to friendship;S8;E19
-SongName;And there's nowhere that we'd rather be;S8;E19
-SongName;In summer, winter, spring, and fall, we're friends throughout the year;S8;E19
-SongName;For untold seasons yet to come, our friendship will be here;S8;E19
-SongName;We're so tight, we can't move around;S8;E19
-SongName;We're friendship boooooound;S8;E19
-SongName;We're friendship boooooound!;S8;E19
-SongName;La, la-la-la, la-la;S8;E23
-SongName;La-la-la, la-la-la;S8;E23
-SongName;The Kirin used to speak and sing;S8;E23
-SongName;We weren't always quiet;S8;E23
-SongName;We told stories and funny jokes;S8;E23
-SongName;My stand-up was a riot;S8;E23
-SongName;But then one day, a fight broke out;S8;E23
-SongName;And hurtful words were said;S8;E23
-SongName;Flaring tempers were inflamed;S8;E23
-SongName;Destruction quickly spread;S8;E23
-SongName;And flaming bred from head to head;S8;E23
-SongName;It even burnt our... bread;S8;E23
-SongName;Sorry, I forgot how much I love rhyming. Where was I? Oh, right!;S8;E23
-SongName;My happy village lay in ruins;S8;E23
-SongName;Relationships got worse;S8;E23
-SongName;Spoiler alert: we quickly learned;S8;E23
-SongName;That words could be a curse;S8;E23
-SongName;"No more talking," yelled our leader;S8;E23
-SongName;The last thing said aloud;S8;E23
-SongName;Into the Stream of Silence;S8;E23
-SongName;We stepped as a crowd;S8;E23
-SongName;The water cooled emotions;S8;E23
-SongName;And peace was soon restored;S8;E23
-SongName;But with no way to speak my thoughts;S8;E23
-SongName;I got super... bored;S8;E23
-SongName;Seriously, there's only so long that Sudoku can keep you entertained!;S8;E23
-SongName;'Cause rainbows won't light up the sky;S8;E23
-SongName;Unless you let it rain;S8;E23
-SongName;And shiny apples sometimes come with worms;S8;E23
-SongName;No, you can't give up your laughter;S8;E23
-SongName;'Cause you're scared of a little pain;S8;E23
-SongName;It's a lesson that the Kirin never learned;S8;E23
-SongName;I was stuck in silent prison;S8;E23
-SongName;With the voices in my head;S8;E23
-SongName;'Til I tripped over my salvation;S8;E23
-SongName;In a helpful flowerbed;S8;E23
-SongName;I found a cure to clear my pipes;S8;E23
-SongName;And I became quite chatty;S8;E23
-SongName;With years and years of stored-up words;S8;E23
-SongName;I drove my village batty;S8;E23
-SongName;They didn't like my jokes and songs;S8;E23
-SongName;And daily dose of news;S8;E23
-SongName;The plays I wrote, the speeches spoke;S8;E23
-SongName;Variety revues;S8;E23
-SongName;Or the story about the Kirin who hid below an opera stage;S8;E23
-SongName;And fell in love with this opera singer, and he wore a freaky half-mask thing, and he played the organ a lot and got all broody 'cause the singer was in love with another dude, so he took her away on this underground gondola. I mean, who doesn't love musical theater?!;S8;E23
-SongName;The village leader made it clear;S8;E23
-SongName;I had to make my choice;S8;E23
-SongName;I could stay and live with them;S8;E23
-SongName;Or I could keep my voice;S8;E23
-SongName;So I came here, but left the couch alone;S8;E23
-SongName;They're hard to move;S8;E23
-SongName;With just the view for company;S8;E23
-SongName;Until ya heard me groove;S8;E23
-SongName;Take it away, boys!;S8;E23
-SongName;'Cause rainbows won't light up the sky;S8;E23
-SongName;Unless you let it rain;S8;E23
-SongName;And candles just won't glow until they're burned;S8;E23
-SongName;No, you can't give up your laughter;S8;E23
-SongName;'Cause you're scared of a little pain;S8;E23
-SongName;It's a lesson that my village never learned;S8;E23
-SongName;No matter how hard I schooled them;S8;E23
-SongName;Fear of hurt is still what ruled them;S8;E23
-SongName;Sometimes you gotta let it raaaaaaaain!;S8;E23
-SongName;Yeah, sometimes you've gotta let it rain;S8;E23
-SongName;'Cause rainbows won't light up the sky ;S8;E23
-SongName;Unless you let it rain ;S8;E23
-SongName;And candles just won't glow until they're burned ;S8;E23
-SongName;No, you can't give up your laughter ;S8;E23
-SongName;'Cause you're scared of a little pain ;S8;E23
-SongName;It's a lesson that my village never learned;S8;E23
-SongName;Oh, yes, 'cause rainbows won't light up the sky ;S8;E23
-SongName;Unless you let it...;S8;E23
-SongName;Raaaaaaaain!;S8;E23
-SongName;You can't be a dragon here;S8;E24
-SongName;Look at these books up on the wall;S8;E24
-SongName;This treasure pile's not right, I fear;S8;E24
-SongName;Trust me, I got you covered here. You see all this soft pony stuff you're surrounded with? This has got to be the first thing to go.;S8;E24
-SongName;Nothin' 'bout this place says "dragon den", there's too much fluff;S8;E24
-SongName;All these fancy robes, toss in a pile;S8;E24
-SongName;Take those goblets, dishes, is that gold? Still not enough!;S8;E24
-SongName;De-ponifying might just take a while;S8;E24
-SongName;Sure, this place is grandiose;S8;E24
-SongName;But to a dragon, it's just gross;S8;E24
-SongName;Time we make the lot all disappear;S8;E24
-SongName;Reality you need a dose;S8;E24
-SongName;To all these ponies, you're too close;S8;E24
-SongName;You just can't be a dragon here;S8;E24
-SongName;Good job, my boy! But this is still just the beginning!;S8;E24
-SongName;Each and every dragon has a swagger all his own;S8;E24
-SongName;Watch and I'll show you what I mean;S8;E24
-SongName;You can't move like this with so much stuff to weigh you down;S8;E24
-SongName;A dragon always keeps it lean;S8;E24
-SongName;Lose this! This! Ooh, this is nice!;S8;E24
-SongName;Your life is soft, your scales are coiffed;S8;E24
-SongName;These pillows, beds, and sheets are washed;S8;E24
-SongName;A delight, but it's just not right what's underneath;S8;E24
-SongName;Every dragon must be free;S8;E24
-SongName;Look at you, then look at me;S8;E24
-SongName;Since when do dragons brush their teeth?;S8;E24
-SongName;Ha! Please!;S8;E24
-SongName;Sure, this place is grandiose;S8;E24
-SongName;But to a dragon, it's just gross;S8;E24
-SongName;Time we make the lot all disappear;S8;E24
-SongName;Just grab it all and give to me;S8;E24
-SongName;After that, then you'll be free;S8;E24
-SongName;You just can't be a dragon heeeeere!;S8;E24
+School of Friendship;The School of Friendship, first day of class;S8;E1
+School of Friendship;Will we fail or will we pass?;S8;E1
+School of Friendship;Students come from far and wide;S8;E1
+School of Friendship;Brand-new friends here by our side;S8;E1
+School of Friendship;Take a breath, look around, it's amazing;S8;E1
+School of Friendship;I can't believe that it's real;S8;E1
+School of Friendship;Students galore, new ideas to explore;S8;E1
+School of Friendship;Can't contain the excitement I feel;S8;E1
+School of Friendship;Can't mess up, can't afford a mistake now;S8;E1
+School of Friendship;Think "success", keep it firmly in sight;S8;E1
+School of Friendship;Make sure to do things by the book;S8;E1
+School of Friendship;Make sure to do it all right;S8;E1
+School of Friendship;The School of Friendship, must get to class;S8;E1
+School of Friendship;Will we fail or will we pass?;S8;E1
+School of Friendship;Students learning from the best;S8;E1
+School of Friendship;Taking notes to pass the test;S8;E1
+School of Friendship;Wait, hold on! Not like that! Just a second!;S8;E1
+School of Friendship;I'm not sure if that method's approved;S8;E1
+School of Friendship;Let me take a look – yup, right here in the book;S8;E1
+School of Friendship;Come on! We just got in the groove!;S8;E1
+School of Friendship;Can't mess up, can't afford a mistake now;S8;E1
+School of Friendship;We are shaping young minds to ignite;S8;E1
+School of Friendship;Do it like it says in the book;S8;E1
+School of Friendship;Now make sure you're doing it right;S8;E1
+School of Friendship;There's not an equation on how to have fun;S8;E1
+School of Friendship;The students look bored now – oh, what have I done?;S8;E1
+School of Friendship;Can't teach bein' honest, not sure what to do;S8;E1
+School of Friendship;I'm quite certain I'm lost;S8;E1
+School of Friendship;None of us has a clue!;S8;E1
+School of Friendship;School of Friendship, another class;S8;E1
+School of Friendship;Wish it were more of a blast;S8;E1
+School of Friendship;Thought this school would be more fun;S8;E1
+School of Friendship;Can't wait for our classes to be done;S8;E1
+School of Friendship;School of Friendship;S8;E1
+School of Friendship;Can't mess up, can't afford a mistake now;S8;E1
+School of Friendship;No way to have fun;S8;E1
+School of Friendship;Oh, what have I done?;S8;E1
+School of Friendship;Bored with this class;S8;E1
+School of Friendship;Think "success", keep it firmly in sight;S8;E1
+School of Friendship;Wish that we could leave en masse!;S8;E1
+School of Friendship;We don't have a clue;S8;E1
+School of Friendship;Listen to this one request;S8;E1
+School of Friendship;Make things fun, we're really stressed;S8;E1
+School of Friendship;Make sure to do things by the book now;S8;E1
+School of Friendship;Can we tell her this thing is a mess?;S8;E1
+Friendship Always Wins;This brand new school of friendship;S8;E2
+Friendship Always Wins;Is home to everyone;S8;E2
+Friendship Always Wins;We're learning how to trust;S8;E2
+Friendship Always Wins;We're here to all have fun;S8;E2
+Friendship Always Wins;With friendship ties that bind us;S8;E2
+Friendship Always Wins;Tighter than the strongest bonds;S8;E2
+Friendship Always Wins;We're hoof-in-hoof;S8;E2
+Friendship Always Wins;In hand in hoof in wing or even claw;S8;E2
+Friendship Always Wins;There's a griffon in the garden;S8;E2
+Friendship Always Wins;Hippogriffs hang in the hall;S8;E2
+Friendship Always Wins;And the door will be open;S8;E2
+Friendship Always Wins;To all creatures great and small;S8;E2
+Friendship Always Wins;And a yak or two or three;S8;E2
+Friendship Always Wins;Sing in perfect harmony;S8;E2
+Friendship Always Wins;That might have been a changeling;S8;E2
+Friendship Always Wins;But it kind of looks like me;S8;E2
+Friendship Always Wins;This school of friendship is for all of us;S8;E2
+Friendship Always Wins;A place where we belong;S8;E2
+Friendship Always Wins;Where we all learn to share and trust;S8;E2
+Friendship Always Wins;The only rule here is to find your way;S8;E2
+Friendship Always Wins;And friendship always wins at the end of the day;S8;E2
+Friendship Always Wins;Some things you just can't teach with books;S8;E2
+Friendship Always Wins;Some things you only know;S8;E2
+Friendship Always Wins;So trust your heart and let us lead;S8;E2
+Friendship Always Wins;And your friendship's sure to grow;S8;E2
+Friendship Always Wins;And once we master kindness;S8;E2
+Friendship Always Wins;We will spread it 'cross this land;S8;E2
+Friendship Always Wins;And give the gift that's ours to share;S8;E2
+Friendship Always Wins;So others understand;S8;E2
+Friendship Always Wins;This school of friendship is for all of us;S8;E2
+Friendship Always Wins;A place where we belong;S8;E2
+Friendship Always Wins;Where we all learn to share and trust;S8;E2
+Friendship Always Wins;The only rule here is to find your way;S8;E2
+Friendship Always Wins;And friendship always wins at the end of the day!;S8;E2
+Your Heart Is in Two Places;Your heart is in two places, you can only live in one;S8;E6
+Your Heart Is in Two Places;You're torn between the hilltops and the tide;S8;E6
+Your Heart Is in Two Places;Thank goodness that the Cutie Mark Crusaders have begun;S8;E6
+Your Heart Is in Two Places;To give you hope and help you to decide;S8;E6
+Your Heart Is in Two Places;These hills, they call to you, they say "Harmonizing Heights";S8;E6
+Your Heart Is in Two Places;This is your home, simple and serene;S8;E6
+Your Heart Is in Two Places;The sun-dappled leaves or a mountain terrace;S8;E6
+Your Heart Is in Two Places;You can see twenty-three different shades of green;S8;E6
+Your Heart Is in Two Places;To dare to compare anywhere to there;S8;E6
+Your Heart Is in Two Places;Is unfair and just plain wrong;S8;E6
+Your Heart Is in Two Places;Colt or mare or you wear feathers, fins, or hair;S8;E6
+Your Heart Is in Two Places;This is where you belong;S8;E6
+Your Heart Is in Two Places;Build your nest here on Harmonizing Heights;S8;E6
+Your Heart Is in Two Places;Live it up here in Seaquestria;S8;E6
+Your Heart Is in Two Places;Nothing compares to Harmonizing Heights;S8;E6
+Your Heart Is in Two Places;The eagles are regal;S8;E6
+Your Heart Is in Two Places;But the schools are cooler;S8;E6
+Your Heart Is in Two Places;Their claws are so awesome;S8;E6
+Your Heart Is in Two Places;With their sweet maneuvers;S8;E6
+Your Heart Is in Two Places;Star wishes every night;S8;E6
+Your Heart Is in Two Places;Starfish by eel light;S8;E6
+Your Heart Is in Two Places;Better;S8;E6
+Your Heart Is in Two Places;Wetter;S8;E6
+Your Heart Is in Two Places;Shinier;S8;E6
+Your Heart Is in Two Places;Brinier;S8;E6
+Your Heart Is in Two Places;Seaquestria!;S8;E6
+Your Heart Is in Two Places;Harmonizing Heights!;S8;E6
+Your Heart Is in Two Places;Seaquestria!;S8;E6
+Your Heart Is in Two Places;Harmonizing Heights!;S8;E6
+Your Heart Is in Two Places;That's it! This is the end!;S8;E6
+Your Heart Is in Two Places;Don't ever talk to me again!;S8;E6
+Friendship U;If you're alone and you can't make friends;S8;E16
+Friendship U;We understand your plight;S8;E16
+Friendship U;Until now, there was just one way;S8;E16
+Friendship U;Your friendships could take flight;S8;E16
+Friendship U;There is a school real far away;S8;E16
+Friendship U;That'll teach you what to know;S8;E16
+Friendship U;But if you live here, you couldn't stay;S8;E16
+Friendship U;You'd learn you have to go-o-o-o;S8;E16
+Friendship U;Now, there is an alternative to all of that adversity;S8;E16
+Friendship U;Not just a school, I'll have you know;S8;E16
+Friendship U;But a whole university;S8;E16
+Friendship U;At Friendship U, our aim is true;S8;E16
+Friendship U;In a city, not some backwater;S8;E16
+Friendship U;You'll learn the things you need to know;S8;E16
+Friendship U;At our new alma mater;S8;E16
+Friendship U;As you can see, we're a success;S8;E16
+Friendship U;By any kind of stat;S8;E16
+Friendship U;That may be so, for all I know;S8;E16
+Friendship U;But I still smell a rat;S8;E16
+Friendship U;Everypony, lookie here;S8;E16
+Friendship U;That other school's headmare;S8;E16
+Friendship U;Her presence is a testament;S8;E16
+Friendship U;To the mutual respect...;S8;E16
+Friendship U;...we sha-a-a-are;S8;E16
+Friendship U;It really is the final piece;S8;E16
+Friendship U;To make our work complete;S8;E16
+Friendship U;To have the Friendship Princess;S8;E16
+Friendship U;Bless our school is such a treat;S8;E16
+Friendship U;At Friendship U, we teach to you ;S8;E16
+Friendship U;All of our friendship knowledge;S8;E16
+Friendship U;You'll learn it all in half the time;S8;E16
+Friendship U;At the one and only friendship college;S8;E16
+Friendship U;The lessons that we teach have been;S8;E16
+Friendship U;Reviewed and checked and edited;S8;E16
+Friendship U;Which might explain why our new school's;S8;E16
+Friendship U;About to be accredited;S8;E16
+Friendship U;At Friendship U, oh, yes, it's true;S8;E16
+Friendship U;Even the Princess of Friendship agrees;S8;E16
+Friendship U;The only place in Equestria;S8;E16
+Friendship U;To give out friendship degrees;S8;E16
+Friendship U;Yeah!;S8;E16
+Friendship U;Friendship U!;S8;E16
+Friendship U;Friendship U!;S8;E16
+Friendship U;Friendship U!;S8;E16
+Friendship U;Friendship U!;S8;E16
+Friendship U;Friendship U!;S8;E16
+Friendship U;Friendship U!;S8;E16
+Friendship U;It's the only university of Friendship U!;S8;E16
+Friendship U;Yeah!;S8;E16
+We're Friendship Bound;We're off on the road to friendship;S8;E19
+We're Friendship Bound;Our ride might be tiny and small;S8;E19
+We're Friendship Bound;But road trips are a great way, we've been told, to get along;S8;E19
+We're Friendship Bound;I'm glad we're sticking to it, we've already got a song;S8;E19
+We're Friendship Bound;We're off on the road to friendship;S8;E19
+We're Friendship Bound;Side by side, just like peas in a pod;S8;E19
+We're Friendship Bound;Our bond of friendship is stronger than this tour's demands;S8;E19
+We're Friendship Bound;We're so tight, we can't move around;S8;E19
+We're Friendship Bound;I guess we're stuck together 'cause we're friendship bound;S8;E19
+We're Friendship Bound;We're off on the road to friendship;S8;E19
+We're Friendship Bound;We've each got the other to blame;S8;E19
+We're Friendship Bound;Any trip can be exhausting if you make a fuss;S8;E19
+We're Friendship Bound;But we get on so well that's there no way that could be us;S8;E19
+We're Friendship Bound;We're off on the road to friendship;S8;E19
+We're Friendship Bound;And there's nowhere that we'd rather be;S8;E19
+We're Friendship Bound;In summer, winter, spring, and fall, we're friends throughout the year;S8;E19
+We're Friendship Bound;For untold seasons yet to come, our friendship will be here;S8;E19
+We're Friendship Bound;We're so tight, we can't move around;S8;E19
+We're Friendship Bound;We're friendship boooooound;S8;E19
+We're Friendship Bound;We're friendship boooooound!;S8;E19
+A Kirin Tale;La, la-la-la, la-la;S8;E23
+A Kirin Tale;La-la-la, la-la-la;S8;E23
+A Kirin Tale;The Kirin used to speak and sing;S8;E23
+A Kirin Tale;We weren't always quiet;S8;E23
+A Kirin Tale;We told stories and funny jokes;S8;E23
+A Kirin Tale;My stand-up was a riot;S8;E23
+A Kirin Tale;But then one day, a fight broke out;S8;E23
+A Kirin Tale;And hurtful words were said;S8;E23
+A Kirin Tale;Flaring tempers were inflamed;S8;E23
+A Kirin Tale;Destruction quickly spread;S8;E23
+A Kirin Tale;And flaming bred from head to head;S8;E23
+A Kirin Tale;It even burnt our... bread;S8;E23
+A Kirin Tale;Sorry, I forgot how much I love rhyming. Where was I? Oh, right!;S8;E23
+A Kirin Tale;My happy village lay in ruins;S8;E23
+A Kirin Tale;Relationships got worse;S8;E23
+A Kirin Tale;Spoiler alert: we quickly learned;S8;E23
+A Kirin Tale;That words could be a curse;S8;E23
+A Kirin Tale;"No more talking," yelled our leader;S8;E23
+A Kirin Tale;The last thing said aloud;S8;E23
+A Kirin Tale;Into the Stream of Silence;S8;E23
+A Kirin Tale;We stepped as a crowd;S8;E23
+A Kirin Tale;The water cooled emotions;S8;E23
+A Kirin Tale;And peace was soon restored;S8;E23
+A Kirin Tale;But with no way to speak my thoughts;S8;E23
+A Kirin Tale;I got super... bored;S8;E23
+A Kirin Tale;Seriously, there's only so long that Sudoku can keep you entertained!;S8;E23
+A Kirin Tale;'Cause rainbows won't light up the sky;S8;E23
+A Kirin Tale;Unless you let it rain;S8;E23
+A Kirin Tale;And shiny apples sometimes come with worms;S8;E23
+A Kirin Tale;No, you can't give up your laughter;S8;E23
+A Kirin Tale;'Cause you're scared of a little pain;S8;E23
+A Kirin Tale;It's a lesson that the Kirin never learned;S8;E23
+A Kirin Tale;I was stuck in silent prison;S8;E23
+A Kirin Tale;With the voices in my head;S8;E23
+A Kirin Tale;'Til I tripped over my salvation;S8;E23
+A Kirin Tale;In a helpful flowerbed;S8;E23
+A Kirin Tale;I found a cure to clear my pipes;S8;E23
+A Kirin Tale;And I became quite chatty;S8;E23
+A Kirin Tale;With years and years of stored-up words;S8;E23
+A Kirin Tale;I drove my village batty;S8;E23
+A Kirin Tale;They didn't like my jokes and songs;S8;E23
+A Kirin Tale;And daily dose of news;S8;E23
+A Kirin Tale;The plays I wrote, the speeches spoke;S8;E23
+A Kirin Tale;Variety revues;S8;E23
+A Kirin Tale;Or the story about the Kirin who hid below an opera stage;S8;E23
+A Kirin Tale;And fell in love with this opera singer, and he wore a freaky half-mask thing, and he played the organ a lot and got all broody 'cause the singer was in love with another dude, so he took her away on this underground gondola. I mean, who doesn't love musical theater?!;S8;E23
+A Kirin Tale;The village leader made it clear;S8;E23
+A Kirin Tale;I had to make my choice;S8;E23
+A Kirin Tale;I could stay and live with them;S8;E23
+A Kirin Tale;Or I could keep my voice;S8;E23
+A Kirin Tale;So I came here, but left the couch alone;S8;E23
+A Kirin Tale;They're hard to move;S8;E23
+A Kirin Tale;With just the view for company;S8;E23
+A Kirin Tale;Until ya heard me groove;S8;E23
+A Kirin Tale;Take it away, boys!;S8;E23
+A Kirin Tale;'Cause rainbows won't light up the sky;S8;E23
+A Kirin Tale;Unless you let it rain;S8;E23
+A Kirin Tale;And candles just won't glow until they're burned;S8;E23
+A Kirin Tale;No, you can't give up your laughter;S8;E23
+A Kirin Tale;'Cause you're scared of a little pain;S8;E23
+A Kirin Tale;It's a lesson that my village never learned;S8;E23
+A Kirin Tale;No matter how hard I schooled them;S8;E23
+A Kirin Tale;Fear of hurt is still what ruled them;S8;E23
+A Kirin Tale;Sometimes you gotta let it raaaaaaaain!;S8;E23
+A Kirin Tale;Yeah, sometimes you've gotta let it rain;S8;E23
+A Kirin Tale;'Cause rainbows won't light up the sky ;S8;E23
+A Kirin Tale;Unless you let it rain ;S8;E23
+A Kirin Tale;And candles just won't glow until they're burned ;S8;E23
+A Kirin Tale;No, you can't give up your laughter ;S8;E23
+A Kirin Tale;'Cause you're scared of a little pain ;S8;E23
+A Kirin Tale;It's a lesson that my village never learned;S8;E23
+A Kirin Tale;Oh, yes, 'cause rainbows won't light up the sky ;S8;E23
+A Kirin Tale;Unless you let it...;S8;E23
+A Kirin Tale;Raaaaaaaain!;S8;E23
+Just Can't Be a Dragon Here;You can't be a dragon here;S8;E24
+Just Can't Be a Dragon Here;Look at these books up on the wall;S8;E24
+Just Can't Be a Dragon Here;This treasure pile's not right, I fear;S8;E24
+Just Can't Be a Dragon Here;Trust me, I got you covered here. You see all this soft pony stuff you're surrounded with? This has got to be the first thing to go.;S8;E24
+Just Can't Be a Dragon Here;Nothin' 'bout this place says "dragon den", there's too much fluff;S8;E24
+Just Can't Be a Dragon Here;All these fancy robes, toss in a pile;S8;E24
+Just Can't Be a Dragon Here;Take those goblets, dishes, is that gold? Still not enough!;S8;E24
+Just Can't Be a Dragon Here;De-ponifying might just take a while;S8;E24
+Just Can't Be a Dragon Here;Sure, this place is grandiose;S8;E24
+Just Can't Be a Dragon Here;But to a dragon, it's just gross;S8;E24
+Just Can't Be a Dragon Here;Time we make the lot all disappear;S8;E24
+Just Can't Be a Dragon Here;Reality you need a dose;S8;E24
+Just Can't Be a Dragon Here;To all these ponies, you're too close;S8;E24
+Just Can't Be a Dragon Here;You just can't be a dragon here;S8;E24
+Just Can't Be a Dragon Here;Good job, my boy! But this is still just the beginning!;S8;E24
+Just Can't Be a Dragon Here;Each and every dragon has a swagger all his own;S8;E24
+Just Can't Be a Dragon Here;Watch and I'll show you what I mean;S8;E24
+Just Can't Be a Dragon Here;You can't move like this with so much stuff to weigh you down;S8;E24
+Just Can't Be a Dragon Here;A dragon always keeps it lean;S8;E24
+Just Can't Be a Dragon Here;Lose this! This! Ooh, this is nice!;S8;E24
+Just Can't Be a Dragon Here;Your life is soft, your scales are coiffed;S8;E24
+Just Can't Be a Dragon Here;These pillows, beds, and sheets are washed;S8;E24
+Just Can't Be a Dragon Here;A delight, but it's just not right what's underneath;S8;E24
+Just Can't Be a Dragon Here;Every dragon must be free;S8;E24
+Just Can't Be a Dragon Here;Look at you, then look at me;S8;E24
+Just Can't Be a Dragon Here;Since when do dragons brush their teeth?;S8;E24
+Just Can't Be a Dragon Here;Ha! Please!;S8;E24
+Just Can't Be a Dragon Here;Sure, this place is grandiose;S8;E24
+Just Can't Be a Dragon Here;But to a dragon, it's just gross;S8;E24
+Just Can't Be a Dragon Here;Time we make the lot all disappear;S8;E24
+Just Can't Be a Dragon Here;Just grab it all and give to me;S8;E24
+Just Can't Be a Dragon Here;After that, then you'll be free;S8;E24
+Just Can't Be a Dragon Here;You just can't be a dragon heeeeere!;S8;E24
 ########################### Season 9 ###########################
-SongName;We celebrate our friendship;S9;E3
-SongName;We celebrate the tree;S9;E3
-SongName;The memories inside us;S9;E3
-SongName;We'll build for all to see;S9;E3
-SongName;The tree brought us together;S9;E3
-SongName;And even though it's gone;S9;E3
-SongName;Our monument of friendship;S9;E3
-SongName;Can make the gift live on;S9;E3
-SongName;A piece from me, a piece from you;S9;E3
-SongName;We'll use the tree and we'll make do;S9;E3
-SongName;If things don't fit, there's lots of glue;S9;E3
-SongName;Friends don't quit in the end;S9;E3
-SongName;And together, we'll see this through;S9;E3
-SongName;It's hard to say farewell;S9;E3
-SongName;To something you hold dear;S9;E3
-SongName;But goodbye isn't forever;S9;E3
-SongName;As long as we are here;S9;E3
-SongName;The tree is in our memory ;S9;E3
-SongName;Its roots have grown deep in our hearts;S9;E3
-SongName;Its branches raise our spirits, together we're all bound;S9;E3
-SongName;Forever it stands, lost but now it's found;S9;E3
-SongName;So lift a beam and build it strong;S9;E3
-SongName;Work as a team, it won't take long;S9;E3
-SongName;Hey, Silverstream, I think that's wrong;S9;E3
-SongName;We'll live the dream and sing our song;S9;E3
-SongName;And make the tree something all can see;S9;E3
-SongName;In a place where we belong!;S9;E3
-SongName;The more you know how things are done;S9;E7
-SongName;The more confident you'll be;S9;E7
-SongName;There's more to a dance than just having fun;S9;E7
-SongName;And there's no better teacher than me;S9;E7
-SongName;Rarity!;S9;E7
-SongName;Right in!;S9;E7
-SongName;No need to wait another day;S9;E7
-SongName;To be part of our smart soiree;S9;E7
-SongName;The perfect dress;S9;E7
-SongName;A color all the rage, but still unique;S9;E7
-SongName;Now loose the braids;S9;E7
-SongName;Try a style more fantastique;S9;E7
-SongName;Here's what we'll do:;S9;E7
-SongName;A horn-icure and a de-frizz;S9;E7
-SongName;We'll dry shampoo this;S9;E7
-SongName;Whatever yak part this is;S9;E7
-SongName;Too curly, too blue;S9;E7
-SongName;Too retro, too new;S9;E7
-SongName;Too Twilight, too furry;S9;E7
-SongName;We'll find one, don't you worry;S9;E7
-SongName;Choose what you want to be and be it;S9;E7
-SongName;Picture you to see and see it;S9;E7
-SongName;I'm the mare to guarantee it;S9;E7
-SongName;You'll fit right in;S9;E7
-SongName;My plan, my grand design;S9;E7
-SongName;Your friends will thrill to find;S9;E7
-SongName;A new you that's too divine;S9;E7
-SongName;Yeah, you're gonna—;S9;E7
-SongName;Yona gonna—;S9;E7
-SongName;Fit right in;S9;E7
-SongName;Right in;S9;E7
-SongName;Listen to me when I say;S9;E7
-SongName;Once you learn the pony way;S9;E7
-SongName;You'll/I'll start to fit right in;S9;E7
-SongName;Right in;S9;E7
-SongName;Yak not waste another day;S9;E7
-SongName;To be part of your pony...;S9;E7
-SongName;Waaaaayyyyy;S9;E7
-SongName;Yak not waste another day to;S9;E7
-SongName;Fit... right... in!;S9;E7
-SongName;You've mastered so many pony ways;S9;E7
-SongName;And grown a lot in the past few days;S9;E7
-SongName;You've shown a turn that has earned our praise;S9;E7
-SongName;And now I fit right...;S9;E7
-SongName;...in;S9;E7
-SongName;You fit right in!;S9;E7
-SongName;I think I know a way that we can grow;S9;E8
-SongName;Time to try something new, something better;S9;E8
-SongName;No more solo, trust is the way to go;S9;E8
-SongName;And all we need to do is work together;S9;E8
-SongName;It's time to try a better way to be bad;S9;E8
-SongName;Do we really need a better way to be bad?;S9;E8
-SongName;United as one;S9;E8
-SongName;Teamwork? Please, what a fad;S9;E8
-SongName;Combine all our strength, we'll go to any length;S9;E8
-SongName;Once we have a better way to be bad;S9;E8
-SongName;Let's go begin, this time we're gonna win;S9;E8
-SongName; say;S9;E8
-SongName;I know you're in, I think I see a grin;S9;E8
-SongName;For all this pain and torture, I swear you'll pay;S9;E8
-SongName;This time, we've got a better way to be bad;S9;E8
-SongName;Sounds like a long shot, this "better way" to be bad;S9;E8
-SongName;United as one, we'll make those ponies so sad;S9;E8
-SongName;If we say "okay", would you just go away?;S9;E8
-SongName;Once we have a better way to be bad;S9;E8
-SongName;We want to break their friendship;S9;E8
-SongName;We want to make them weak;S9;E8
-SongName;You want revenge on Starlight;S9;E8
-SongName;You want that huge physique;S9;E8
-SongName;So let's increase our chances;S9;E8
-SongName;By working as a team;S9;E8
-SongName;To crush our enemies to dust;S9;E8
-SongName;And laugh as they all scream!;S9;E8
-SongName;I think I see a better way to be bad;S9;E8
-SongName;Just put me in charge, make me queen, you'll be glad;S9;E8
-SongName;No! Listen to me, I'm the best of us three;S9;E8
-SongName;Then you'll see a better way to be bad;S9;E8
-SongName;You shall do as I command, I will rule this triad!;S9;E8
-SongName; song!;S9;E8
-SongName;Sorry, not any longer!;S9;E8
-SongName;A better way to be bad;S9;E8
-SongName;Now you're making me mad;S9;E8
-SongName;Won't the ponies be sad?;S9;E8
-SongName;That would make me so glad;S9;E8
-SongName;Now we've got a better way to be baaaaaad!;S9;E8
-SongName;There's a lotta little things you gotta do in this world;S9;E13
-SongName;There's a lotta little things you gotta try;S9;E13
-SongName;Just a pack of punchy plunges other ponies all take;S9;E13
-SongName;That have princess-pony-passed us right by;S9;E13
-SongName;Nopony knows you like your little sister;S9;E13
-SongName;Nopony is a better confidante;S9;E13
-SongName;Nopony is truer than the one you are;S9;E13
-SongName;Nopony else here I could want;S9;E13
-SongName;You can't saunter on a sojourn hid behind castle walls;S9;E13
-SongName;You can't throw a throne down on the beach;S9;E13
-SongName;So we're gonna be absconding;S9;E13
-SongName;To a little vagabonding;S9;E13
-SongName;And this bucket list is gonna be a peach;S9;E13
-SongName;Nopony knows you like your older sister;S9;E13
-SongName;Nopony is a better confidante;S9;E13
-SongName;Nopony is truer than the one you are;S9;E13
-SongName;Nopony else here I could want;S9;E13
-SongName;There's a lotta little things you gotta try in this world;S9;E13
-SongName;There's a lotta little things you gotta see;S9;E13
-SongName;But just reading by a river and resting our hooves;S9;E13
-SongName;Would practically be perfect for me;S9;E13
-SongName;Nopony knows you like your sister;S9;E13
-SongName;Nopony is a better confidante;S9;E13
-SongName;Nopony is truer than the one you are;S9;E13
-SongName;Nopony else here I could want;S9;E13
-SongName;You can't venture on adventures if you're taking a nap;S9;E13
-SongName;You can't check things off your checklist while you sleep;S9;E13
-SongName;So let's take another hill;S9;E13
-SongName;Sometimes you can be a pill;S9;E13
-SongName;And why's the way ahead always so steep?;S9;E13
-SongName;There's a lotta little things you gotta do in this world;S9;E13
-SongName;There's a lotta little things you ought to view;S9;E13
-SongName;And our little lotta list may be a little bit long;S9;E13
-SongName; And might take a lotta bother to do;S9;E13
-SongName;But I'm sure it gets better later on;S9;E13
-SongName;And after darkest night's a new dawn;S9;E13
-SongName;It's my turn to do the choosing;S9;E13
-SongName;After river rapid cruising;S9;E13
-SongName;This adventure isn't too fun to be on;S9;E13
-SongName;So you're saying it's a mix-up;S9;E14
-SongName;Of the sounds that I just made;S9;E14
-SongName;That coaxed the snicker from your throat;S9;E14
-SongName;In a delicate cascade?;S9;E14
-SongName;If I did it one more time;S9;E14
-SongName;If I reproduced that feat;S9;E14
-SongName;Mixed up some letters here and there;S9;E14
-SongName;You'd "lelly-baugh" tout suite?;S9;E14
-SongName;Then that's all I need to do;S9;E14
-SongName;That's who I need to be;S9;E14
-SongName;I thought I needed laughter;S9;E14
-SongName;But it has to come from me;S9;E14
-SongName;Squirting flowers and knobby knees;S9;E14
-SongName;Rubber chickens my expertise;S9;E14
-SongName;If you want laughter, then stick with Cheese;S9;E14
-SongName;I suppose now I should amp things up;S9;E14
-SongName;To get the thing I'm after;S9;E14
-SongName;Move whole syll-AB-les around;S9;E14
-SongName;And change em-PHA-sis to get laughter ;S9;E14
-SongName;Can't stop now, I'm on a roll;S9;E14
-SongName;I've almost got it back;S9;E14
-SongName;Bright folks like you aren't subject to;S9;E14
-SongName;My play-on-words attack!;S9;E14
-SongName;With something else, I'll have to play;S9;E14
-SongName;To get me where I'm going;S9;E14
-SongName;To get the laughter flowing;S9;E14
-SongName;And it's what I need to do;S9;E14
-SongName;It's who I need to be;S9;E14
-SongName;I thought I needed laughter;S9;E14
-SongName;But it has to come from me;S9;E14
-SongName;Follow right behind, if you please;S9;E14
-SongName;Walk this way and I guarantee;S9;E14
-SongName;If you want laughter, then stick with Cheese;S9;E14
-SongName;Accordion solo!;S9;E14
-SongName;And now my biggest test;S9;E14
-SongName;The hardest fish to fry;S9;E14
-SongName;Ooh-ooh-ooh-ooh;S9;E14
-SongName;A mind so analytical;S9;E14
-SongName;A sense of humor dry ;S9;E14
-SongName;So dry!;S9;E14
-SongName;To make you laugh would prove to me;S9;E14
-SongName;That this experiment's done;S9;E14
-SongName;Ooh-ooh-ooh-ooh;S9;E14
-SongName;Something ridiculous and not too smart;S9;E14
-SongName;Something like a pun;S9;E14
-SongName;Hey, Sans! How did the laughing bird's eggs hatch? They cracked up!;S9;E14
-SongName;Then that's all I need to do;S9;E14
-SongName;That's all I need to see;S9;E14
-SongName;I thought I needed laughter;S9;E14
-SongName;But it had to come from me;S9;E14
-SongName;Squirting flowers and knobby knees;S9;E14
-SongName;Rubber chickens and Dungarees;S9;E14
-SongName;If you want laughter, then stick with Cheese!;S9;E14
+The Place Where We Belong;We celebrate our friendship;S9;E3
+The Place Where We Belong;We celebrate the tree;S9;E3
+The Place Where We Belong;The memories inside us;S9;E3
+The Place Where We Belong;We'll build for all to see;S9;E3
+The Place Where We Belong;The tree brought us together;S9;E3
+The Place Where We Belong;And even though it's gone;S9;E3
+The Place Where We Belong;Our monument of friendship;S9;E3
+The Place Where We Belong;Can make the gift live on;S9;E3
+The Place Where We Belong;A piece from me, a piece from you;S9;E3
+The Place Where We Belong;We'll use the tree and we'll make do;S9;E3
+The Place Where We Belong;If things don't fit, there's lots of glue;S9;E3
+The Place Where We Belong;Friends don't quit in the end;S9;E3
+The Place Where We Belong;And together, we'll see this through;S9;E3
+The Place Where We Belong;It's hard to say farewell;S9;E3
+The Place Where We Belong;To something you hold dear;S9;E3
+The Place Where We Belong;But goodbye isn't forever;S9;E3
+The Place Where We Belong;As long as we are here;S9;E3
+The Place Where We Belong;The tree is in our memory ;S9;E3
+The Place Where We Belong;Its roots have grown deep in our hearts;S9;E3
+The Place Where We Belong;Its branches raise our spirits, together we're all bound;S9;E3
+The Place Where We Belong;Forever it stands, lost but now it's found;S9;E3
+The Place Where We Belong;So lift a beam and build it strong;S9;E3
+The Place Where We Belong;Work as a team, it won't take long;S9;E3
+The Place Where We Belong;Hey, Silverstream, I think that's wrong;S9;E3
+The Place Where We Belong;We'll live the dream and sing our song;S9;E3
+The Place Where We Belong;And make the tree something all can see;S9;E3
+The Place Where We Belong;In a place where we belong!;S9;E3
+Fit Right In;The more you know how things are done;S9;E7
+Fit Right In;The more confident you'll be;S9;E7
+Fit Right In;There's more to a dance than just having fun;S9;E7
+Fit Right In;And there's no better teacher than me;S9;E7
+Fit Right In;Rarity!;S9;E7
+Fit Right In;Right in!;S9;E7
+Fit Right In;No need to wait another day;S9;E7
+Fit Right In;To be part of our smart soiree;S9;E7
+Fit Right In;The perfect dress;S9;E7
+Fit Right In;A color all the rage, but still unique;S9;E7
+Fit Right In;Now loose the braids;S9;E7
+Fit Right In;Try a style more fantastique;S9;E7
+Fit Right In;Here's what we'll do:;S9;E7
+Fit Right In;A horn-icure and a de-frizz;S9;E7
+Fit Right In;We'll dry shampoo this;S9;E7
+Fit Right In;Whatever yak part this is;S9;E7
+Fit Right In;Too curly, too blue;S9;E7
+Fit Right In;Too retro, too new;S9;E7
+Fit Right In;Too Twilight, too furry;S9;E7
+Fit Right In;We'll find one, don't you worry;S9;E7
+Fit Right In;Choose what you want to be and be it;S9;E7
+Fit Right In;Picture you to see and see it;S9;E7
+Fit Right In;I'm the mare to guarantee it;S9;E7
+Fit Right In;You'll fit right in;S9;E7
+Fit Right In;My plan, my grand design;S9;E7
+Fit Right In;Your friends will thrill to find;S9;E7
+Fit Right In;A new you that's too divine;S9;E7
+Fit Right In;Yeah, you're gonna—;S9;E7
+Fit Right In;Yona gonna—;S9;E7
+Fit Right In;Fit right in;S9;E7
+Fit Right In;Right in;S9;E7
+Fit Right In;Listen to me when I say;S9;E7
+Fit Right In;Once you learn the pony way;S9;E7
+Fit Right In;You'll/I'll start to fit right in;S9;E7
+Fit Right In;Right in;S9;E7
+Fit Right In;Yak not waste another day;S9;E7
+Fit Right In;To be part of your pony...;S9;E7
+Fit Right In;Waaaaayyyyy;S9;E7
+Fit Right In;Yak not waste another day to;S9;E7
+Fit Right In;Fit... right... in!;S9;E7
+Fit Right In;You've mastered so many pony ways;S9;E7
+Fit Right In;And grown a lot in the past few days;S9;E7
+Fit Right In;You've shown a turn that has earned our praise;S9;E7
+Fit Right In;And now I fit right...;S9;E7
+Fit Right In;...in;S9;E7
+Fit Right In;You fit right in!;S9;E7
+Better Way to Be Bad;I think I know a way that we can grow;S9;E8
+Better Way to Be Bad;Time to try something new, something better;S9;E8
+Better Way to Be Bad;No more solo, trust is the way to go;S9;E8
+Better Way to Be Bad;And all we need to do is work together;S9;E8
+Better Way to Be Bad;It's time to try a better way to be bad;S9;E8
+Better Way to Be Bad;Do we really need a better way to be bad?;S9;E8
+Better Way to Be Bad;United as one;S9;E8
+Better Way to Be Bad;Teamwork? Please, what a fad;S9;E8
+Better Way to Be Bad;Combine all our strength, we'll go to any length;S9;E8
+Better Way to Be Bad;Once we have a better way to be bad;S9;E8
+Better Way to Be Bad;Let's go begin, this time we're gonna win;S9;E8
+Better Way to Be Bad; say;S9;E8
+Better Way to Be Bad;I know you're in, I think I see a grin;S9;E8
+Better Way to Be Bad;For all this pain and torture, I swear you'll pay;S9;E8
+Better Way to Be Bad;This time, we've got a better way to be bad;S9;E8
+Better Way to Be Bad;Sounds like a long shot, this "better way" to be bad;S9;E8
+Better Way to Be Bad;United as one, we'll make those ponies so sad;S9;E8
+Better Way to Be Bad;If we say "okay", would you just go away?;S9;E8
+Better Way to Be Bad;Once we have a better way to be bad;S9;E8
+Better Way to Be Bad;We want to break their friendship;S9;E8
+Better Way to Be Bad;We want to make them weak;S9;E8
+Better Way to Be Bad;You want revenge on Starlight;S9;E8
+Better Way to Be Bad;You want that huge physique;S9;E8
+Better Way to Be Bad;So let's increase our chances;S9;E8
+Better Way to Be Bad;By working as a team;S9;E8
+Better Way to Be Bad;To crush our enemies to dust;S9;E8
+Better Way to Be Bad;And laugh as they all scream!;S9;E8
+Better Way to Be Bad;I think I see a better way to be bad;S9;E8
+Better Way to Be Bad;Just put me in charge, make me queen, you'll be glad;S9;E8
+Better Way to Be Bad;No! Listen to me, I'm the best of us three;S9;E8
+Better Way to Be Bad;Then you'll see a better way to be bad;S9;E8
+Better Way to Be Bad;You shall do as I command, I will rule this triad!;S9;E8
+Better Way to Be Bad; song!;S9;E8
+Better Way to Be Bad;Sorry, not any longer!;S9;E8
+Better Way to Be Bad;A better way to be bad;S9;E8
+Better Way to Be Bad;Now you're making me mad;S9;E8
+Better Way to Be Bad;Won't the ponies be sad?;S9;E8
+Better Way to Be Bad;That would make me so glad;S9;E8
+Better Way to Be Bad;Now we've got a better way to be baaaaaad!;S9;E8
+Lotta Little Things;There's a lotta little things you gotta do in this world;S9;E13
+Lotta Little Things;There's a lotta little things you gotta try;S9;E13
+Lotta Little Things;Just a pack of punchy plunges other ponies all take;S9;E13
+Lotta Little Things;That have princess-pony-passed us right by;S9;E13
+Lotta Little Things;Nopony knows you like your little sister;S9;E13
+Lotta Little Things;Nopony is a better confidante;S9;E13
+Lotta Little Things;Nopony is truer than the one you are;S9;E13
+Lotta Little Things;Nopony else here I could want;S9;E13
+Lotta Little Things;You can't saunter on a sojourn hid behind castle walls;S9;E13
+Lotta Little Things;You can't throw a throne down on the beach;S9;E13
+Lotta Little Things;So we're gonna be absconding;S9;E13
+Lotta Little Things;To a little vagabonding;S9;E13
+Lotta Little Things;And this bucket list is gonna be a peach;S9;E13
+Lotta Little Things;Nopony knows you like your older sister;S9;E13
+Lotta Little Things;Nopony is a better confidante;S9;E13
+Lotta Little Things;Nopony is truer than the one you are;S9;E13
+Lotta Little Things;Nopony else here I could want;S9;E13
+Lotta Little Things;There's a lotta little things you gotta try in this world;S9;E13
+Lotta Little Things;There's a lotta little things you gotta see;S9;E13
+Lotta Little Things;But just reading by a river and resting our hooves;S9;E13
+Lotta Little Things;Would practically be perfect for me;S9;E13
+Lotta Little Things;Nopony knows you like your sister;S9;E13
+Lotta Little Things;Nopony is a better confidante;S9;E13
+Lotta Little Things;Nopony is truer than the one you are;S9;E13
+Lotta Little Things;Nopony else here I could want;S9;E13
+Lotta Little Things;You can't venture on adventures if you're taking a nap;S9;E13
+Lotta Little Things;You can't check things off your checklist while you sleep;S9;E13
+Lotta Little Things;So let's take another hill;S9;E13
+Lotta Little Things;Sometimes you can be a pill;S9;E13
+Lotta Little Things;And why's the way ahead always so steep?;S9;E13
+Lotta Little Things;There's a lotta little things you gotta do in this world;S9;E13
+Lotta Little Things;There's a lotta little things you ought to view;S9;E13
+Lotta Little Things;And our little lotta list may be a little bit long;S9;E13
+Lotta Little Things; And might take a lotta bother to do;S9;E13
+Lotta Little Things;But I'm sure it gets better later on;S9;E13
+Lotta Little Things;And after darkest night's a new dawn;S9;E13
+Lotta Little Things;It's my turn to do the choosing;S9;E13
+Lotta Little Things;After river rapid cruising;S9;E13
+Lotta Little Things;This adventure isn't too fun to be on;S9;E13
+The Last Laugh;So you're saying it's a mix-up;S9;E14
+The Last Laugh;Of the sounds that I just made;S9;E14
+The Last Laugh;That coaxed the snicker from your throat;S9;E14
+The Last Laugh;In a delicate cascade?;S9;E14
+The Last Laugh;If I did it one more time;S9;E14
+The Last Laugh;If I reproduced that feat;S9;E14
+The Last Laugh;Mixed up some letters here and there;S9;E14
+The Last Laugh;You'd "lelly-baugh" tout suite?;S9;E14
+The Last Laugh;Then that's all I need to do;S9;E14
+The Last Laugh;That's who I need to be;S9;E14
+The Last Laugh;I thought I needed laughter;S9;E14
+The Last Laugh;But it has to come from me;S9;E14
+The Last Laugh;Squirting flowers and knobby knees;S9;E14
+The Last Laugh;Rubber chickens my expertise;S9;E14
+The Last Laugh;If you want laughter, then stick with Cheese;S9;E14
+The Last Laugh;I suppose now I should amp things up;S9;E14
+The Last Laugh;To get the thing I'm after;S9;E14
+The Last Laugh;Move whole syll-AB-les around;S9;E14
+The Last Laugh;And change em-PHA-sis to get laughter ;S9;E14
+The Last Laugh;Can't stop now, I'm on a roll;S9;E14
+The Last Laugh;I've almost got it back;S9;E14
+The Last Laugh;Bright folks like you aren't subject to;S9;E14
+The Last Laugh;My play-on-words attack!;S9;E14
+The Last Laugh;With something else, I'll have to play;S9;E14
+The Last Laugh;To get me where I'm going;S9;E14
+The Last Laugh;To get the laughter flowing;S9;E14
+The Last Laugh;And it's what I need to do;S9;E14
+The Last Laugh;It's who I need to be;S9;E14
+The Last Laugh;I thought I needed laughter;S9;E14
+The Last Laugh;But it has to come from me;S9;E14
+The Last Laugh;Follow right behind, if you please;S9;E14
+The Last Laugh;Walk this way and I guarantee;S9;E14
+The Last Laugh;If you want laughter, then stick with Cheese;S9;E14
+The Last Laugh;Accordion solo!;S9;E14
+The Last Laugh;And now my biggest test;S9;E14
+The Last Laugh;The hardest fish to fry;S9;E14
+The Last Laugh;Ooh-ooh-ooh-ooh;S9;E14
+The Last Laugh;A mind so analytical;S9;E14
+The Last Laugh;A sense of humor dry ;S9;E14
+The Last Laugh;So dry!;S9;E14
+The Last Laugh;To make you laugh would prove to me;S9;E14
+The Last Laugh;That this experiment's done;S9;E14
+The Last Laugh;Ooh-ooh-ooh-ooh;S9;E14
+The Last Laugh;Something ridiculous and not too smart;S9;E14
+The Last Laugh;Something like a pun;S9;E14
+The Last Laugh;Hey, Sans! How did the laughing bird's eggs hatch? They cracked up!;S9;E14
+The Last Laugh;Then that's all I need to do;S9;E14
+The Last Laugh;That's all I need to see;S9;E14
+The Last Laugh;I thought I needed laughter;S9;E14
+The Last Laugh;But it had to come from me;S9;E14
+The Last Laugh;Squirting flowers and knobby knees;S9;E14
+The Last Laugh;Rubber chickens and Dungarees;S9;E14
+The Last Laugh;If you want laughter, then stick with Cheese!;S9;E14
 SongName; We wanna dance for each other and for all of our friends!;S9;E15
 SongName;Over... and over... and over again!;S9;E15
 SongName;We wanna dance for each other and for all of our friends!;S9;E15
