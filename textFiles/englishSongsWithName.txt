@@ -2913,95 +2913,76 @@ The Last Laugh;But it had to come from me;S9;E14
 The Last Laugh;Squirting flowers and knobby knees;S9;E14
 The Last Laugh;Rubber chickens and Dungarees;S9;E14
 The Last Laugh;If you want laughter, then stick with Cheese!;S9;E14
-SongName; We wanna dance for each other and for all of our friends!;S9;E15
-SongName;Over... and over... and over again!;S9;E15
-SongName;We wanna dance for each other and for all of our friends!;S9;E15
-SongName; School of Friendship, rah, rah, rah;S9;E15
-SongName;Let's win this game and hit the... oh, what rhymes with "rah"? Spa?;S9;E15
-SongName;Over and over and over again!;S9;E15
-SongName;We'll cheer for our team 'til the ve-ry end!;S9;E15
-SongName;Everypony in the crowd, if you're feeling hip;S9;E15
-SongName;When I say "friend-", you say "-ship"!;S9;E15
-SongName;Friend!;S9;E15
-SongName;Ship!;S9;E15
-SongName;Friend!;S9;E15
-SongName;Ship!;S9;E15
-SongName;Welcome, everypony, to the halftime show;S9;E15
-SongName;We're the friendship squad, and we're ready to go!;S9;E15
-SongName;We're here to cheer and get you all excited;S9;E15
-SongName;If you'd like to join in, then you're all invited!;S9;E15
-SongName;It's a simple cheer, so don't chime in late;S9;E15
-SongName;It goes two, four, six, GREAT!;S9;E15
-SongName;Woke up this morning feeling tired and small;S9;E22
-SongName;But look at us now - we must be ninety feet tall;S9;E22
-SongName;Don't have to worry 'bout making mistakes;S9;E22
-SongName;Because being big is all it takes;S9;E22
-SongName;A tiny twist of fate brought on this big change;S9;E22
-SongName;Give me room, gotta zoom, I've got plans to arrange;S9;E22
-SongName;Can do what I want, be it run, trot, or traipse;S9;E22
-SongName;'Cause being big is all it takes;S9;E22
-SongName;Being big isn't just a size;S9;E22
-SongName;At bedtime we don't even have to close our eyes;S9;E22
-SongName;We're in control now, for goodness' sake;S9;E22
-SongName;'Cause being big is all it takes;S9;E22
-SongName;Leaving behind the little pony you've known;S9;E22
-SongName;Stepping out, growing up, making moves of my own;S9;E22
-SongName;You can't tell me no, there's no place I can't go;S9;E22
-SongName;Mountains, cities, jungles, or lakes;S9;E22
-SongName;'Cause being big is all it takes;S9;E22
-SongName;Being big isn't just a size;S9;E22
-SongName;We'll tell you our opinion 'cause we're oh, so wise;S9;E22
-SongName;We're in control now, for goodness' sake;S9;E22
-SongName;'Cause being big is all it takes;S9;E22
-SongName;I can eat all the snacks 'cause that's for me to decide;S9;E22
-SongName;We know how it all works, even what we ain't tried;S9;E22
-SongName;Facts don't matter now 'cause it's not what we know;S9;E22
-SongName;We can win any argument with...;S9;E22
-SongName;"Because I say so!";S9;E22
-SongName;Can't stop us now, don't try to stand in our way;S9;E22
-SongName;We're awake, gonna take all we can from today;S9;E22
-SongName;Once we had to listen, now you'll hear what we say;S9;E22
-SongName;Everything is always okay;S9;E22
-SongName;'Cause being big is all it taaaaaakes;S9;E22
-SongName;All it takes!;S9;E22
-SongName;When I started out, I was unsure;S9;E26
-SongName;I thought I knew all that I needed, didn't know what to expect;S9;E26
-SongName;But when my walls came down, I saw the truth;S9;E26
-SongName;All along something was missing;S9;E26
-SongName;And I think you'll see it, too;S9;E26
-SongName;This is where the magic happens;S9;E26
-SongName;This is where the magic lives;S9;E26
-SongName;Our friendships weave together stronger;S9;E26
-SongName;The bonds grow deeper, lasting longer;S9;E26
-SongName;And the greatest spell you'll know;S9;E26
-SongName;Is how the Magic of Friendship grows;S9;E26
-SongName;And no matter how much time goes by;S9;E26
-SongName;The party will still be here with some fun new games to try;S9;E26
-SongName;Big adventure's waiting obviously;S9;E26
-SongName;Long as we're still here together;S9;E26
-SongName;We'll be flying happily;S9;E26
-SongName;This is where the magic happens ;S9;E26
-SongName;This is where the magic lives ;S9;E26
-SongName;Our friendships weave together stronger;S9;E26
-SongName;The bonds grow deeper, lasting longer;S9;E26
-SongName;And the greatest spell there is;S9;E26
-SongName;What the Magic of Friendship gives;S9;E26
-SongName;And it's somethin' true to pass on down;S9;E26
-SongName;To generations yet to come;S9;E26
-SongName;And we'll never stop believing in;S9;E26
-SongName;The generosity of the friendships we've won;S9;E26
-SongName;And because the love that I feel;S9;E26
-SongName;For every single living creature is something that is real;S9;E26
-SongName;Friendship happens so naturally;S9;E26
-SongName;Oh, and how I used to wonder;S9;E26
-SongName;What friendship could be!;S9;E26
-SongName;This is where the magic happens ;S9;E26
-SongName;This is where the magic lives ;S9;E26
-SongName;Our friendships weave together stronger;S9;E26
-SongName;The bonds grow deeper, lasting longer;S9;E26
-SongName;And the greatest spell you'll know ;S9;E26
-SongName;Is how the Magic of Friendship grows;S9;E26
-SongName;How the Magic of Friendship grows;S9;E26
+Being Big is All It Takes;Woke up this morning feeling tired and small;S9;E22
+Being Big is All It Takes;But look at us now - we must be ninety feet tall;S9;E22
+Being Big is All It Takes;Don't have to worry 'bout making mistakes;S9;E22
+Being Big is All It Takes;Because being big is all it takes;S9;E22
+Being Big is All It Takes;A tiny twist of fate brought on this big change;S9;E22
+Being Big is All It Takes;Give me room, gotta zoom, I've got plans to arrange;S9;E22
+Being Big is All It Takes;Can do what I want, be it run, trot, or traipse;S9;E22
+Being Big is All It Takes;'Cause being big is all it takes;S9;E22
+Being Big is All It Takes;Being big isn't just a size;S9;E22
+Being Big is All It Takes;At bedtime we don't even have to close our eyes;S9;E22
+Being Big is All It Takes;We're in control now, for goodness' sake;S9;E22
+Being Big is All It Takes;'Cause being big is all it takes;S9;E22
+Being Big is All It Takes;Leaving behind the little pony you've known;S9;E22
+Being Big is All It Takes;Stepping out, growing up, making moves of my own;S9;E22
+Being Big is All It Takes;You can't tell me no, there's no place I can't go;S9;E22
+Being Big is All It Takes;Mountains, cities, jungles, or lakes;S9;E22
+Being Big is All It Takes;'Cause being big is all it takes;S9;E22
+Being Big is All It Takes;Being big isn't just a size;S9;E22
+Being Big is All It Takes;We'll tell you our opinion 'cause we're oh, so wise;S9;E22
+Being Big is All It Takes;We're in control now, for goodness' sake;S9;E22
+Being Big is All It Takes;'Cause being big is all it takes;S9;E22
+Being Big is All It Takes;I can eat all the snacks 'cause that's for me to decide;S9;E22
+Being Big is All It Takes;We know how it all works, even what we ain't tried;S9;E22
+Being Big is All It Takes;Facts don't matter now 'cause it's not what we know;S9;E22
+Being Big is All It Takes;We can win any argument with...;S9;E22
+Being Big is All It Takes;"Because I say so!";S9;E22
+Being Big is All It Takes;Can't stop us now, don't try to stand in our way;S9;E22
+Being Big is All It Takes;We're awake, gonna take all we can from today;S9;E22
+Being Big is All It Takes;Once we had to listen, now you'll hear what we say;S9;E22
+Being Big is All It Takes;Everything is always okay;S9;E22
+Being Big is All It Takes;'Cause being big is all it taaaaaakes;S9;E22
+Being Big is All It Takes;All it takes!;S9;E22
+The Magic of Friendship Grows;When I started out, I was unsure;S9;E26
+The Magic of Friendship Grows;I thought I knew all that I needed, didn't know what to expect;S9;E26
+The Magic of Friendship Grows;But when my walls came down, I saw the truth;S9;E26
+The Magic of Friendship Grows;All along something was missing;S9;E26
+The Magic of Friendship Grows;And I think you'll see it, too;S9;E26
+The Magic of Friendship Grows;This is where the magic happens;S9;E26
+The Magic of Friendship Grows;This is where the magic lives;S9;E26
+The Magic of Friendship Grows;Our friendships weave together stronger;S9;E26
+The Magic of Friendship Grows;The bonds grow deeper, lasting longer;S9;E26
+The Magic of Friendship Grows;And the greatest spell you'll know;S9;E26
+The Magic of Friendship Grows;Is how the Magic of Friendship grows;S9;E26
+The Magic of Friendship Grows;And no matter how much time goes by;S9;E26
+The Magic of Friendship Grows;The party will still be here with some fun new games to try;S9;E26
+The Magic of Friendship Grows;Big adventure's waiting obviously;S9;E26
+The Magic of Friendship Grows;Long as we're still here together;S9;E26
+The Magic of Friendship Grows;We'll be flying happily;S9;E26
+The Magic of Friendship Grows;This is where the magic happens ;S9;E26
+The Magic of Friendship Grows;This is where the magic lives ;S9;E26
+The Magic of Friendship Grows;Our friendships weave together stronger;S9;E26
+The Magic of Friendship Grows;The bonds grow deeper, lasting longer;S9;E26
+The Magic of Friendship Grows;And the greatest spell there is;S9;E26
+The Magic of Friendship Grows;What the Magic of Friendship gives;S9;E26
+The Magic of Friendship Grows;And it's somethin' true to pass on down;S9;E26
+The Magic of Friendship Grows;To generations yet to come;S9;E26
+The Magic of Friendship Grows;And we'll never stop believing in;S9;E26
+The Magic of Friendship Grows;The generosity of the friendships we've won;S9;E26
+The Magic of Friendship Grows;And because the love that I feel;S9;E26
+The Magic of Friendship Grows;For every single living creature is something that is real;S9;E26
+The Magic of Friendship Grows;Friendship happens so naturally;S9;E26
+The Magic of Friendship Grows;Oh, and how I used to wonder;S9;E26
+The Magic of Friendship Grows;What friendship could be!;S9;E26
+The Magic of Friendship Grows;This is where the magic happens ;S9;E26
+The Magic of Friendship Grows;This is where the magic lives ;S9;E26
+The Magic of Friendship Grows;Our friendships weave together stronger;S9;E26
+The Magic of Friendship Grows;The bonds grow deeper, lasting longer;S9;E26
+The Magic of Friendship Grows;And the greatest spell you'll know ;S9;E26
+The Magic of Friendship Grows;Is how the Magic of Friendship grows;S9;E26
+The Magic of Friendship Grows;How the Magic of Friendship grows;S9;E26
 ########################### EG 1 ###########################
 This strange new world;I've never seen a place;S31;E1
 This strange new world;That's quite like this;S31;E1
