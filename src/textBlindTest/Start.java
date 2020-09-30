@@ -16,6 +16,7 @@ public class Start {
 		 */
 
 		tsp.setListeSongLines(TranscriptSongParser.fillList());
+		System.out.println(tsp.toString());
 	}
 
 }
