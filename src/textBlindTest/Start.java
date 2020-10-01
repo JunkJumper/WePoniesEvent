@@ -11,9 +11,9 @@ import java.io.IOException;
 public class Start {
 	
 	private static class LocalGameManager {
-		@SuppressWarnings("unused")
+		
 		public static void getRandomQuote(SongLibrary library) throws InterruptedException {
-			int j = (int)(Math.random()*library.getBibli().size()-1);
+			int j = library.getBibli().size()-1;
 			int maxLyricNumber = (int)(Math.random()*library.getBibli().get(j).getLyric().getL().size());
 			int lyricNumber = maxLyricNumber - 5;
 			
@@ -49,8 +49,6 @@ public class Start {
 				System.out.println(library.getBibli().get(i).toString());
 			}
 		}
-		
-		
 	}
 	
 	public static void main(String[] args) throws IOException, InterruptedException {
@@ -61,8 +59,6 @@ public class Start {
 		bibli.fillPlaylist(tsp);
 		LocalGameManager.getRandomQuote(bibli);
 		//LocalGameManager.getSongFrom(bibli, 8, 23);
-		
-		
 	}
 
 }
