@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 public class QueryGenerator {
 	
-	private final static String url = "jdbc:postgresql://localhost:3306/WePoniesDatabase";
+	private final static String url = "jdbc:mysql://localhost:3306/WePoniesDatabase";
     private final static String user = "WPmanager";
     private final static String password = "snowpearl1234";
 

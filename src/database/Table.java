@@ -20,19 +20,19 @@ public class Table {
 	private List<Record> list = new ArrayList<Record>();
 	
 	public Table() {
-		this.name = "";
+		this("");
 	}
 	
 	public Table(String JavaTableName) {
-		this.name = JavaTableName;
+		this.setName(JavaTableName);
 	}
 
 	public void fillList(String query) {
-		this.list = DatabaseManager.remplirTable(query);
+		this.list = DatabaseManager.remplirLocalTable(query);
 	}
 	
 	public void remplirTableQuery(String query) {
-		try (Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:3306/WePoniesDatabase", "WPmanager", "snowpearl1234")) {
+		try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/WePoniesDatabase", "WPmanager", "snowpearl1234")) {
 
             Statement statement = connection.createStatement();
 
@@ -64,6 +64,6 @@ public class Table {
 	}
 	
 	protected boolean isEmpty() {
-		return list.isEmpty();
+		return this.getList().isEmpty();
 	}
 }
