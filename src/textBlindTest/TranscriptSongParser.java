@@ -91,6 +91,26 @@ public class TranscriptSongParser {
 		in.close();
 		return list;
 	}
+	
+	protected void writeEnglishForDB(SongLibrary l) throws IOException {
+		File fichier = new File("./textFiles/DBenglishSong.csv");
+		fichier.delete();
+		fichier.createNewFile();
+		PrintWriter writer = new PrintWriter("./textFiles/DBenglishSong.csv", "UTF-8");
+		String token = "|";
+
+		String sb = "";
+		int i = 1;
+		
+		//idSong, nameSong, lyricSong, seasonSong, episodeSong
+		for (Song s : l.getBibli()) {
+			sb = i + token + s.getName() + token + s.getLyric().toDBString() + token + s.getSeason() + token + s.getEpisode();
+			writer.println(sb);
+			System.out.println("Writing " + s.getName() + "'s lyrics for DB support.");
+			i++;
+		}
+		writer.close();
+	}
 
 	@Override
 	public String toString() {
