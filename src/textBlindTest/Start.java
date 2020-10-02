@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class Start {
 
-	private static final int QUOTES_NUMBER = 2;
+	private static final int QUOTES_NUMBER = 5;
 
 	public static int alea(int nb) {
 		return (int) (Math.random() * nb);
