@@ -41,4 +41,13 @@ public class Lyrics {
 		}
 		return r;
 	}
+	
+	public String toDBString() {
+		String r = "";
+		for (String string : l) {
+			r += string + "-a-";
+		}
+		r = r.substring(0, r.length()-3);
+		return r;
+	}
 }
