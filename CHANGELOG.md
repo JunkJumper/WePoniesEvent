@@ -9,7 +9,7 @@
 * [x] DB's Data
 * [x] Java programm to read the DB
 * [ ] PhP and Js programms to read the DB
-* [ ] IHM's Front End
+* [ ] IHM's Front End (50%)
 * [ ] Game Gestionnary's Back End
 
 ###  ``textFiles`` package
