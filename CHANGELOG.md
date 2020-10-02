@@ -1,5 +1,5 @@
 # Changelogs File History
-## Changelog 01/10/2020
+## Changelog 02/10/2020
 
 ### ``textBlindTest`` package
 
