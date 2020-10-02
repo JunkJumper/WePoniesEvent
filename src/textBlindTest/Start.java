@@ -10,35 +10,38 @@ import java.io.IOException;
 
 public class Start {
 	
+	private static final int QUOTES_NUMBER = 1;
+	
+	public static int alea(int nb) {
+		return (int) (Math.random() * nb);
+	}
+	
 	private static class LocalGameManager {
 		
-		public static void getRandomQuote(SongLibrary library) throws InterruptedException {
-			int j = library.getBibli().size()-1;
-			int maxLyricNumber = (int)(Math.random()*library.getBibli().get(j).getLyric().getL().size());
-			int lyricNumber = maxLyricNumber - 5;
+		@SuppressWarnings("unused")
+		public static void RandomQuote(SongLibrary library) throws InterruptedException {
+			LocalGameManager.RandomQuote(library, 5);
+		}
+		
+		public static void RandomQuote(SongLibrary library, int MAX) throws InterruptedException {
 			
-			if(j <= 0) {
-				j += 5;
-			}
+			int librarySize = library.getBibli().size()-1; //size of the song library 
+			int getRandomLyricIndex = Start.alea(librarySize); //return the index of a random Song from the library
+			int getSizeOfLyric = library.getBibli().get(getRandomLyricIndex).getLyric().getL().size()-1; //return the size of Lyrics String
+			int lastIndexOfLyric = Start.alea(getSizeOfLyric); // return the last index of th elyrci (ex 9)
+			if(lastIndexOfLyric <= MAX) {lastIndexOfLyric += MAX;}
+			int currentRandomLyric = lastIndexOfLyric - MAX;
 			
-			if(maxLyricNumber <= 0) {
-				maxLyricNumber += 5;
-			}
-			
-			if(lyricNumber <= 0) {
-				lyricNumber += 5;
-			}
-			
-			while(lyricNumber < maxLyricNumber) {
-				System.out.println(library.getBibli().get(j).getLyric().getL().get(lyricNumber));
-				lyricNumber++;
+			while(currentRandomLyric < lastIndexOfLyric) {
+				System.out.println(library.getBibli().get(getRandomLyricIndex).getLyric().getL().get(currentRandomLyric));
+				currentRandomLyric++;
 			}
 			Thread.sleep(8000);
-			System.out.println(library.getBibli().get(j).getName());
+			System.out.println(library.getBibli().get(getRandomLyricIndex).getName());
 		}
 		
 		@SuppressWarnings("unused")
-		public static void getSongFrom(SongLibrary library, int season, int episode) throws InterruptedException {
+		public static void SongFrom(SongLibrary library, int season, int episode) throws InterruptedException {
 			int i = -1;
 			for(int j = 0; j < library.getBibli().size(); j++) {
 				if (library.getBibli().get(j).getEpisode() == episode && library.getBibli().get(j).getSeason() == season) {
@@ -57,8 +60,8 @@ public class Start {
 		TranscriptSongParser tsp = new TranscriptSongParser();
 		tsp.setListeSongLines(TranscriptSongParser.fillList());
 		bibli.fillPlaylist(tsp);
-		LocalGameManager.getRandomQuote(bibli);
-		//LocalGameManager.getSongFrom(bibli, 8, 23);
+		LocalGameManager.RandomQuote(bibli, QUOTES_NUMBER);
+		//LocalGameManager.SongFrom(bibli, 8, 23);
 	}
 
 }
