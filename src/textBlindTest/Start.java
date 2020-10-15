@@ -15,7 +15,21 @@ public class Start {
 	public static int alea(int nb) {
 		return (int) (Math.random() * nb);
 	}
-
+	
+	public String tOStRiNgS(String sO) {
+		String s = sO.toLowerCase();
+		String c = "";
+		for (int i = 0; i < s.length(); i++) {
+			if(i%2==0) {
+				c = s.charAt(i) + "";
+				c.toUpperCase();
+				s = s.replace(s.charAt(i), c.charAt(0));
+				c = "";
+			}
+		}
+		return s;
+	}
+	
 	private static class LocalGameManager {
 
 		@SuppressWarnings("unused")
