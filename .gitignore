@@ -12,7 +12,6 @@
 *.zip
 *.tar.gz
 *.rar
-*.jar
 
 *.war
 *.ear
@@ -42,7 +41,3 @@ local.properties
 # Locally stored "Eclipse launch configurations"
 *.launch
 /.clover/
-
-#Rendus td
-*.odt
-*.pdf
