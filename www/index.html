@@ -1,0 +1,90 @@
+<!--
+ * @ Author: JunkJumper
+ * @ Link: https://github.com/JunkJumper
+ * @ Copyright: Creative Common 4.0 (CC BY 4.0)
+ * @ Create Time: 02-10-2020 21:09:05
+ * @ Modified by: JunkJumper
+ * @ Modified time: 02-10-2020 23:36:33
+ * @ Description: Page de jeu WePonies
+-->
+
+<<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>WePonies Web Games</title>
+        <meta name="description" content="WePonies' web games">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./css/main.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" href="images/logoWPwide.png">
+    </head>
+
+    <body>
+        <!-- Navbar -->
+        <div class="w3-top">
+            <div class="w3-bar w3-blue-wp w3-card w3-left-align w3-large">
+                <a href="https://www.weponies.fr/" target="_blank" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">WePonies</a>
+                <a href="" class="w3-bar-item w3-button w3-padding-large w3-white">Reversed Blind Test</a>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header class="w3-container w3-center w3-img-wp" style="padding:128px 16px">
+            <h1 class="w3-margin w3-jumbo">WePonies</h1>
+            <p class="w3-xlarge">Et les jeux font glisser</p>
+        </header>
+
+        <!-- First Grid -->
+        <div class="w3-row-padding w3-padding-64 w3-container">
+            <div class="w3-content">
+                <div class="w3-twothird">
+                    <h1>Reversed blind test</h1>
+                    <h5 class="w3-padding-24">Devinez d'ou viens cette musique :</h5>
+                    <h6 class="w3-center w3-xlarge" id="lyric">Une Lyric</h6><br />
+
+                    <center>
+                        <input type="text" id="reponse" name="songAnswer" required size="50">
+                    </center>
+
+                </div>
+
+                <div class="w3-third w3-center">
+                    <i class="fa fa-anchor w3-padding-64 w3-text-red"> Scoreboard</i>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="w3-container w3-padding-64 w3-center w3-yellow-wp">
+            <div class="w3-xlarge w3-padding-32">
+                <p>Page and game by JunkJumper</p>
+                <a href="https://github.com/JunkJumper" target="_blank"><i class="fa fa-github fa-3x w3-hover-opacity"></i></a>
+                <a href="https://twitter.com/AppleJunk64" target="_blank"><i class="fa fa-twitter fa-3x w3-hover-opacity"></i></a>
+            </div>
+            <p style="color:white">
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                    <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+                </a>This page is available under the terms of the
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" style="color:white"> Creative Commons Attribution 4.0 International License</a>.</p>
+        </footer>
+
+        <script>
+            // Used to toggle the menu on small screens when clicking on the menu button
+            function myFunction() {
+                var x = document.getElementById("navDemo");
+                if (x.className.indexOf("w3-show") == -1) {
+                    x.className += " w3-show";
+                } else {
+                    x.className = x.className.replace(" w3-show", "");
+                }
+            }
+        </script>
+
+    </body>
+
+    </html>

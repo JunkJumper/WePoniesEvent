@@ -1,29 +1,22 @@
 package textBlindTest;
 
-/**
- * @Author: JunkJumper
- * @Link: https://github.com/JunkJumper
- * @Copyright: Creative Common 4.0 (CC BY 4.0)
- */
-
-public class SongLine {
-	
+public class Song {
 	private String name;
 	private String lang;
-	private String lyric;
+	private Lyrics lyric;
 	private int season;
 	private int episode;
 	
-	protected SongLine(String la, String ly, int s, int e) {
-		this(null, la, ly, s, e);
+	public Song() {
+		
 	}
 	
-	protected SongLine(String n, String la, String ly, int s, int e) {
+	public Song(String n, String la, Lyrics l, int s, int e) {
 		this.setName(n);
 		this.setLang(la);
-		this.setLyric(ly);
 		this.setSeason(s);
 		this.setEpisode(e);
+		this.setLyric(l);
 	}
 	
 	@Override
@@ -31,12 +24,19 @@ public class SongLine {
 		return this.getName() + " : " + '"' + this.getLyric() + '"' + " - S" + this.getSeason() + "E" + this.getEpisode() + "\n";
 		//return '"' + this.getLyric() + '"';
 	}
+	
+	/**
+	 * @param lyric the lyric to set
+	 */
+	protected void setLyric(Lyrics lyric) {
+		this.lyric = lyric;
+	}
 
 	/**
 	 * @return the name
 	 */
 	protected String getName() {
-		return name;
+		return this.name;
 	}
 
 	/**
@@ -50,7 +50,7 @@ public class SongLine {
 	 * @return the lang
 	 */
 	protected String getLang() {
-		return lang;
+		return this.lang;
 	}
 
 	/**
@@ -63,22 +63,15 @@ public class SongLine {
 	/**
 	 * @return the lyric
 	 */
-	protected String getLyric() {
-		return lyric;
-	}
-
-	/**
-	 * @param lyric the lyric to set
-	 */
-	protected void setLyric(String lyric) {
-		this.lyric = lyric;
+	protected Lyrics getLyric() {
+		return this.lyric;
 	}
 
 	/**
 	 * @return the season
 	 */
 	protected int getSeason() {
-		return season;
+		return this.season;
 	}
 
 	/**
@@ -92,7 +85,7 @@ public class SongLine {
 	 * @return the episode
 	 */
 	protected int getEpisode() {
-		return episode;
+		return this.episode;
 	}
 
 	/**
@@ -101,5 +94,4 @@ public class SongLine {
 	protected void setEpisode(int episode) {
 		this.episode = episode;
 	}
-	
 }
