@@ -3000,78 +3000,78 @@ This strange new world;What a strange new world (what a strange new world);S10;E
 This strange new world;I'm trying to make heads or tails of this strange new world (what a strange new world);S10;E1
 This strange new world;Sorting through the small details of this strange new world;S10;E1
 This strange new world;What a strange new world;S10;E1
-Helping Twilight win the wrown;Hey, hey, everybody;S10;E2
-Helping Twilight win the wrown;We've got something to say;S10;E2
-Helping Twilight win the wrown;We may seem as different;S10;E2
-Helping Twilight win the wrown;As the night is from day;S10;E2
-Helping Twilight win the wrown;But you look a little deeper;S10;E2
-Helping Twilight win the wrown;And you will see;S10;E2
-Helping Twilight win the wrown;That I'm just like you;S10;E2
-Helping Twilight win the wrown;And you're just like me;S10;E2
-Helping Twilight win the wrown;Yeah!;S10;E2
-Helping Twilight win the wrown;Hey, hey, everybody;S10;E2
-Helping Twilight win the wrown;We're here to shout;S10;E2
-Helping Twilight win the wrown;That the magic of friendship;S10;E2
-Helping Twilight win the wrown;Is what it's all about;S10;E2
-Helping Twilight win the wrown;Yeah, we thought we were different;S10;E2
-Helping Twilight win the wrown;As the night is from the day;S10;E2
-Helping Twilight win the wrown;Until Twilight Sparkle;S10;E2
-Helping Twilight win the wrown;Helped us see another way;S10;E2
-Helping Twilight win the wrown;So get up, get down;S10;E2
-Helping Twilight win the wrown;If you're gonna come around;S10;E2
-Helping Twilight win the wrown;We can work together;S10;E2
-Helping Twilight win the wrown;Helping Twilight win the crown;S10;E2
-Helping Twilight win the wrown;So get up, get down;S10;E2
-Helping Twilight win the wrown;'Cause it's gonna make a sound;S10;E2
-Helping Twilight win the wrown;If we work together;S10;E2
-Helping Twilight win the wrown;Helping Twilight Sparkle win the crown;S10;E2
-Helping Twilight win the wrown;Hey, hey, hands up now;S10;E2
-Helping Twilight win the wrown;We're sending a message to the crowd;S10;E2
-Helping Twilight win the wrown;Hands wave up, then come down;S10;E2
-Helping Twilight win the wrown;We party together all around;S10;E2
-Helping Twilight win the wrown;Generous, honesty;S10;E2
-Helping Twilight win the wrown;Laughter, kindness, loyalty;S10;E2
-Helping Twilight win the wrown;Twilight helped us each to see;S10;E2
-Helping Twilight win the wrown;All that we can be!;S10;E2
-Helping Twilight win the wrown;So get up, get down;S10;E2
-Helping Twilight win the wrown;If you're gonna come around;S10;E2
-Helping Twilight win the wrown;We can work together;S10;E2
-Helping Twilight win the wrown;Helping Twilight win the crown;S10;E2
-Helping Twilight win the wrown;So get up, get down;S10;E2
-Helping Twilight win the wrown;'Cause it's gonna make a sound;S10;E2
-Helping Twilight win the wrown;If we work together;S10;E2
-Helping Twilight win the wrown;Helping Twilight Sparkle win the crown;S10;E2
-Helping Twilight win the wrown;I'm gonna be myself;S10;E2
-Helping Twilight win the wrown;No matter what I do;S10;E2
-Helping Twilight win the wrown;And if we're different, yeah;S10;E2
-Helping Twilight win the wrown;I want you to be true to you;S10;E2
-Helping Twilight win the wrown;If you follow me;S10;E2
-Helping Twilight win the wrown;We'll put our differences aside;S10;E2
-Helping Twilight win the wrown;We'll stick together and;S10;E2
-Helping Twilight win the wrown;Start working on that school pride!;S10;E2
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S10;E2
-Helping Twilight win the wrown;Stomp your hooves, turn around;S10;E2
-Helping Twilight win the wrown;Start now, make a change;S10;E2
-Helping Twilight win the wrown;Gonna come around;S10;E2
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S10;E2
-Helping Twilight win the wrown;Stomp your hooves, turn around;S10;E2
-Helping Twilight win the wrown;Canterlot Wondercolts;S10;E2
-Helping Twilight win the wrown;Help her win the crown;S10;E2
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S10;E2
-Helping Twilight win the wrown;Stomp your hooves, turn around;S10;E2
-Helping Twilight win the wrown;Start now, make a change;S10;E2
-Helping Twilight win the wrown;Gonna come around;S10;E2
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S10;E2
-Helping Twilight win the wrown;Stomp your hooves, turn around;S10;E2
-Helping Twilight win the wrown;Canterlot Wondercolts;S10;E2
-Helping Twilight win the wrown;Help her win the crown;S10;E2
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S10;E2
-Helping Twilight win the wrown;Stomp your hooves, turn around;S10;E2
-Helping Twilight win the wrown;Start now, make a change;S10;E2
-Helping Twilight win the wrown;Gonna come around;S10;E2
-Helping Twilight win the wrown;Jump up, make a sound (Hey!);S10;E2
-Helping Twilight win the wrown;Stomp your hooves, turn around;S10;E2
-Helping Twilight win the wrown;Canterlot...;S10;E2
+Helping Twilight win the crown;Hey, hey, everybody;S10;E2
+Helping Twilight win the crown;We've got something to say;S10;E2
+Helping Twilight win the crown;We may seem as different;S10;E2
+Helping Twilight win the crown;As the night is from day;S10;E2
+Helping Twilight win the crown;But you look a little deeper;S10;E2
+Helping Twilight win the crown;And you will see;S10;E2
+Helping Twilight win the crown;That I'm just like you;S10;E2
+Helping Twilight win the crown;And you're just like me;S10;E2
+Helping Twilight win the crown;Yeah!;S10;E2
+Helping Twilight win the crown;Hey, hey, everybody;S10;E2
+Helping Twilight win the crown;We're here to shout;S10;E2
+Helping Twilight win the crown;That the magic of friendship;S10;E2
+Helping Twilight win the crown;Is what it's all about;S10;E2
+Helping Twilight win the crown;Yeah, we thought we were different;S10;E2
+Helping Twilight win the crown;As the night is from the day;S10;E2
+Helping Twilight win the crown;Until Twilight Sparkle;S10;E2
+Helping Twilight win the crown;Helped us see another way;S10;E2
+Helping Twilight win the crown;So get up, get down;S10;E2
+Helping Twilight win the crown;If you're gonna come around;S10;E2
+Helping Twilight win the crown;We can work together;S10;E2
+Helping Twilight win the crown;Helping Twilight win the crown;S10;E2
+Helping Twilight win the crown;So get up, get down;S10;E2
+Helping Twilight win the crown;'Cause it's gonna make a sound;S10;E2
+Helping Twilight win the crown;If we work together;S10;E2
+Helping Twilight win the crown;Helping Twilight Sparkle win the crown;S10;E2
+Helping Twilight win the crown;Hey, hey, hands up now;S10;E2
+Helping Twilight win the crown;We're sending a message to the crowd;S10;E2
+Helping Twilight win the crown;Hands wave up, then come down;S10;E2
+Helping Twilight win the crown;We party together all around;S10;E2
+Helping Twilight win the crown;Generous, honesty;S10;E2
+Helping Twilight win the crown;Laughter, kindness, loyalty;S10;E2
+Helping Twilight win the crown;Twilight helped us each to see;S10;E2
+Helping Twilight win the crown;All that we can be!;S10;E2
+Helping Twilight win the crown;So get up, get down;S10;E2
+Helping Twilight win the crown;If you're gonna come around;S10;E2
+Helping Twilight win the crown;We can work together;S10;E2
+Helping Twilight win the crown;Helping Twilight win the crown;S10;E2
+Helping Twilight win the crown;So get up, get down;S10;E2
+Helping Twilight win the crown;'Cause it's gonna make a sound;S10;E2
+Helping Twilight win the crown;If we work together;S10;E2
+Helping Twilight win the crown;Helping Twilight Sparkle win the crown;S10;E2
+Helping Twilight win the crown;I'm gonna be myself;S10;E2
+Helping Twilight win the crown;No matter what I do;S10;E2
+Helping Twilight win the crown;And if we're different, yeah;S10;E2
+Helping Twilight win the crown;I want you to be true to you;S10;E2
+Helping Twilight win the crown;If you follow me;S10;E2
+Helping Twilight win the crown;We'll put our differences aside;S10;E2
+Helping Twilight win the crown;We'll stick together and;S10;E2
+Helping Twilight win the crown;Start working on that school pride!;S10;E2
+Helping Twilight win the crown;Jump up, make a sound (Hey!);S10;E2
+Helping Twilight win the crown;Stomp your hooves, turn around;S10;E2
+Helping Twilight win the crown;Start now, make a change;S10;E2
+Helping Twilight win the crown;Gonna come around;S10;E2
+Helping Twilight win the crown;Jump up, make a sound (Hey!);S10;E2
+Helping Twilight win the crown;Stomp your hooves, turn around;S10;E2
+Helping Twilight win the crown;Canterlot Wondercolts;S10;E2
+Helping Twilight win the crown;Help her win the crown;S10;E2
+Helping Twilight win the crown;Jump up, make a sound (Hey!);S10;E2
+Helping Twilight win the crown;Stomp your hooves, turn around;S10;E2
+Helping Twilight win the crown;Start now, make a change;S10;E2
+Helping Twilight win the crown;Gonna come around;S10;E2
+Helping Twilight win the crown;Jump up, make a sound (Hey!);S10;E2
+Helping Twilight win the crown;Stomp your hooves, turn around;S10;E2
+Helping Twilight win the crown;Canterlot Wondercolts;S10;E2
+Helping Twilight win the crown;Help her win the crown;S10;E2
+Helping Twilight win the crown;Jump up, make a sound (Hey!);S10;E2
+Helping Twilight win the crown;Stomp your hooves, turn around;S10;E2
+Helping Twilight win the crown;Start now, make a change;S10;E2
+Helping Twilight win the crown;Gonna come around;S10;E2
+Helping Twilight win the crown;Jump up, make a sound (Hey!);S10;E2
+Helping Twilight win the crown;Stomp your hooves, turn around;S10;E2
+Helping Twilight win the crown;Canterlot...;S10;E2
 Time to come together;It's time for us to come together;S10;E3
 Time to come together;It's the only way that things will get better;S10;E3
 Time to come together;It's time for us to take a stand;S10;E3
