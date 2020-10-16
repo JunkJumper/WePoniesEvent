@@ -197,6 +197,115 @@ INSERT INTO `weponies_song_en` (`idSong`, `nameSong`, `lyricSong`, `seasonSong`,
 (151, 'I can see a Rainbow', 'I know you, you\'re a special one -a-Some see crazy where I see love -a-You fall so low but soar so high -a-Big dreamers shoot for open sky -a-So much life in those open eyes -a-So much depth, you look for the light -a-But when your wounds open, you will cry -a-You\'ll cry out now and you\'ll question why -a-I can see a rainbow -a-In your tears as they fall on down -a-I can see your soul grow -a-Through the pain as they hit the ground -a-I can see a rainbow -a-In your tears as the sun comes out -a-As the sun comes out -a-I am here and I see your pain -a-Through the storms, through the clouds, the rain -a-I\'m telling you you can not escape -a-You can do it, just feel, baby -a-I can see a rainbow -a-In your tears as they fall on down -a-I can see your soul grow -a-Through the pain as they hit the ground -a-I can see a rainbow -a-In your tears as the sun comes out -a-As the sun comes out -a-Here comes the sun smiling down -a-Here comes the sun smiling down -a-Here comes the sun smiling down -a-Smiling down -a-I can see a rainbow -a-In your tears as they fall on down -a-I can see your soul grow -a-Through the pain as they hit the ground -a-I can see a rainbow -a-In your tears as the sun comes out -a-As the sun comes out -a-I can see a rainbow (Here comes the sun) -a-In your tears as they fall on down -a-I can see your soul grow (Here comes the sun) -a-Through the pain as they hit the ground -a-I can see a rainbow (Here comes the sun) -a-In your tears as the sun comes out ', 17, 7),
 (152, 'Off To See The World', 'So, we wanna stay -a-But can\'t find peace while sittin\' still -a-I guess we never will -a-We\'re on the way -a-We won\'t hurry back again -a-The journey is the end (oh) -a-I love this very moment -a-We\'re speedin\' up, not slowin\' -a-We might know we can\'t win -a-But we\'re dumb enough to try -a-We\'re going, there\'s no maybe -a-That\'s why they call us crazy -a-And we\'ll say if anybody asks us -a-\"Hey (hey!), where you gonna go?\" [clap clap] -a-We\'re off to see the world -a-We don\'t need to know (oh) -a-\"Hey (hey!), where you gonna go?\" [clap clap] -a-We\'re off to see the world -a-We don\'t need to know -a-We never need to know -a-Seekin\' boundaries to break -a-Let\'s forget the ones we\'ve made -a-So we carry on -a-Don\'t let good things pass us by -a-The time we\'re gone will be the best time of our life -a-I love this very moment -a-We\'re speedin\' up, not slowin\' -a-We might know we can\'t win -a-But we\'re dumb enough to try -a-We\'re going, there\'s no maybe -a-That\'s why they call us crazy -a-And we\'ll say if anybody asks us -a-\"Hey (hey!), where you gonna go?\" [clap clap] -a-We\'re off to see the world -a-We don\'t need to know (oh) -a-\"Hey (hey!), where you gonna go?\" [clap clap] -a-We\'re off to see the world -a-We don\'t need to know -a-So go tell \'em we won\'t stop -a-We know they can\'t change us -a-We\'re gonna go way off the map -a-To get ourselves back on the track -a-Go tell \'em we won\'t stop -a-We know they can\'t change us -a-No need to worry so much -a-We do whatever we want (oh) -a-\"Hey (hey!), where you gonna go?\" [clap clap] -a-We\'re off to see the world -a-We don\'t need to know (oh) -a-\"Hey (hey!), where you gonna go?\" [clap clap] -a-We\'re off to see the world -a-We don\'t need to know (oh) -a-Ohhhh-oh-oh-oh-oh-oh -a-Ohhhh-oh-oh-oh-oh-oh -a-Ohhhh-oh-oh-oh-oh-oh ', 17, 8);
 
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_eg`
+--
+DROP TABLE IF EXISTS `en_eg`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_eg`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where ((`weponies_song_en`.`seasonSong` = 10) or (`weponies_song_en`.`seasonSong` = 11) or (`weponies_song_en`.`seasonSong` = 12) or (`weponies_song_en`.`seasonSong` = 13) or (`weponies_song_en`.`seasonSong` = 14)) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_mlp_movie`
+--
+DROP TABLE IF EXISTS `en_mlp_movie`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_mlp_movie`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 17) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_mlp_special`
+--
+DROP TABLE IF EXISTS `en_mlp_special`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_mlp_special`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where ((`weponies_song_en`.`seasonSong` = 15) or (`weponies_song_en`.`seasonSong` = 16)) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_1`
+--
+DROP TABLE IF EXISTS `en_season_1`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_1`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 1) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_2`
+--
+DROP TABLE IF EXISTS `en_season_2`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_2`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 2) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_3`
+--
+DROP TABLE IF EXISTS `en_season_3`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_3`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 3) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_4`
+--
+DROP TABLE IF EXISTS `en_season_4`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_4`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 4) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_5`
+--
+DROP TABLE IF EXISTS `en_season_5`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_5`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 5) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_6`
+--
+DROP TABLE IF EXISTS `en_season_6`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_6`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 6) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_7`
+--
+DROP TABLE IF EXISTS `en_season_7`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_7`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 7) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_8`
+--
+DROP TABLE IF EXISTS `en_season_8`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_8`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 8) order by `weponies_song_en`.`idSong` ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la vue `en_season_9`
+--
+DROP TABLE IF EXISTS `en_season_9`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `en_season_9`  AS  select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 9) order by `weponies_song_en`.`idSong` ;
+COMMIT;
+
 --
 -- Index pour les tables déchargées
 --
