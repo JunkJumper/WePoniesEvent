@@ -9,7 +9,8 @@
  */
 
 function charAt($str, $pos) {
-    return $str{$pos};
+    $unString =$str;
+    return $unString[$pos];
 }
 
 function generateUniqueID() : String {
@@ -24,7 +25,6 @@ function generateUniqueID() : String {
             $id .= rand(0,9);
         }
     }
-
     return $id;
 }
 
@@ -92,28 +92,60 @@ function RandomQuote($element, $MAX) {
 
     while ($currentRandomLyric < $lastIndexOfLyric) {
         if($currentRandomLyric >= $lastIndexOfLyric) {
-            
         } else {
-            $Lyric2return .= $Lyric2Tab[$currentRandomLyric] .".";
-            $currentRandomLyric++;
+            if(charAt($Lyric2Tab[$currentRandomLyric], strlen($Lyric2Tab[$currentRandomLyric]) -2) == "?"
+            || charAt($Lyric2Tab[$currentRandomLyric], strlen($Lyric2Tab[$currentRandomLyric]) -2) == "!"
+            || charAt($Lyric2Tab[$currentRandomLyric], strlen($Lyric2Tab[$currentRandomLyric]) -2) == "."
+            || charAt($Lyric2Tab[$currentRandomLyric], strlen($Lyric2Tab[$currentRandomLyric]) -2) == ","
+            || charAt($Lyric2Tab[$currentRandomLyric], strlen($Lyric2Tab[$currentRandomLyric]) -2) == ";") {
+                $Lyric2return .= substr($Lyric2Tab[$currentRandomLyric], 0, -1);
+                $currentRandomLyric++;
+            } else {
+                $Lyric2return .= substr($Lyric2Tab[$currentRandomLyric], 0, -1) .". ";
+                $currentRandomLyric++;
+            }
+            
         }
     }
     return utf8_decode($Lyric2return);
 }
 
-function fillRealQuestionTab(Array $initialArray, String $difficulty) {
+function fillRealQuestionTab(Array $initialArray, $difficulty) {
     $tabToFill = array();
     $tabToFill[0] = $initialArray[0];                       //NameSong
     $tabToFill[1] = RandomQuote($initialArray, $difficulty);//Lyric
     $tabToFill[2] = $initialArray[2];                       //Season
     $tabToFill[3] = $initialArray[3];                       //Episode
-    $tabToFill[4] = generateUniqueID();                         //Unique Question ID
+    $tabToFill[4] = generateUniqueID();                     //Unique Question ID
 
     return $tabToFill;
 }
 
-$WriteLyric = fillRealQuestionTab(getElementWithLyricTab(), getDifficulty("easy"));
+function printQuestions(Array $questions) {
+    file_put_contents('../game/questions.txt', "#Song Title;Lyrics;Season;Episode;Unique Question ID\n");
+    $write = fopen('../game/questions.txt', 'a');
+    $BufferedString = "";
+    for ($i=0; $i < 10; $i++) { 
+        for ($j=0; $j < 5; $j++) { 
+            $BufferedString .= $questions[$i][$j] .";";
+        }
+        $BufferedString = substr($BufferedString, 0, strlen($BufferedString)-1);
+        fputs($write, $BufferedString ."\n");
+        $BufferedString = "";
+    }
+    fclose($write);
+}
 
-print_r($WriteLyric);
+function generateQuestion($difficulty) : Array {
+    $a = array();
+    for ($i=0; $i < 10; $i++) { 
+        $a[$i] = fillRealQuestionTab(getElementWithLyricTab(), getDifficulty($difficulty));
+    }
+    return $a;
+}
+
+printQuestions(generateQuestion("e"));
+
+
 
 ?>

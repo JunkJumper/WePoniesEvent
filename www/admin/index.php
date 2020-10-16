@@ -4,8 +4,31 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 06-10-2020 21:25:12
  * @ Modified by: JunkJumper
- * @ Modified time: 09-10-2020 18:17:27
+ * @ Modified time: 16-10-2020 22:56:04
 -->
+
+<?php
+    include "../game/getLyric.php";
+
+    if(isset($_GET['easy'])) {
+        printQuestions(generateQuestion("e"));
+    } else if(isset($_GET['medium'])) {
+        printQuestions(generateQuestion("m"));
+    } else if(isset($_GET['hard'])) {
+        printQuestions(generateQuestion("h"));
+    }
+
+    $tabQuestionsTxt = array();
+
+    function readTxt() : Array {
+        $a = array();
+        $pointer = fopen('../game/questions.txt', 'r');
+
+        return $a;
+    }
+
+?>
+
 <!DOCTYPE HTML>
 <html>
 
@@ -34,9 +57,6 @@
     <!-- //jQuery -->
     <link href='//fonts.googleapis.com/css?family=Roboto:700,500,300,100italic,100,400' rel='stylesheet' type='text/css' />
     <link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <!-- lined-icons -->
-    <link rel="stylesheet" href="css/icon-font.min.css" type='text/css' />
-    <!-- //lined-icons -->
 </head>
 
 <body>
@@ -72,8 +92,10 @@
                                 <div class="row m-0 md-bg-grey-100 p-l-20 p-r-20">
                                     <div class="col-md-12 col-sm-12 col-xs-12 w3layouts-aug text-center">
                                         <h3>Gestion du jeu</h3>
-                                        <div class="bg-warning dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions</div>
-                                        <div class="bg-system dark pv20 text-white fw600 text-center hvr-icon-float col-21">&nbsp; &nbsp; Envoyer question suivante</div>
+                                        <a href="./index.php?easy"><div class="bg-success dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions EASY</div></a>
+                                        <a href="./index.php?medium"><div class="bg-primary dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions MEDIUM</div></a>
+                                        <a href="./index.php?hard"><div class="bg-warning dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions HARD</div></a>
+                                        <a href="./index.php?difficulty"><div class="bg-system dark pv20 text-white fw600 text-center hvr-icon-float col-21">&nbsp; &nbsp; Envoyer question suivante</div></a>
                                     </div>
                                 </div>
                             </div>
