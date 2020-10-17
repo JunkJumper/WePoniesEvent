@@ -42,4 +42,4 @@ local.properties
 *.launch
 /.clover/
 
-www/game/question.txt
+www/game/questions.txt
