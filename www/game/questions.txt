@@ -1,11 +1,11 @@
 #Song Title;Lyrics;Season;Episode;Unique Question ID
-Fit Right In;And now I fit right...;9;7;nrgH3445
-Bats;It comes down to just one simple fact. ;4;7;FTeB6119
-The Magic of Friendship Grows;Long as we're still here together. ;9;26;RPNS6623
-Make This Castle A Home;A home she'll adore. ;5;3;qxJq7562
-The Ballad of the Crystal Empire;They flew a flag of many hues. ;3;1;anSO8559
-Equestria, the Land I Love;A land of harmony. ;5;24;jfIQ8581
-Babs Seed;Gotta hurry, don't you see?;3;4;LnEt5735
-Under our spell;Got the song that makes you lose it. ;11;6;fzrZ7730
-Battle for Sugar Belle;We'll plant the seeds of love together. ;7;8;NAOc2624
-Cheese Confesses;Everything was perfect, cheer was filling up the place. ;4;12;aUVM9312
+The Pony I Want to Be;I see the light that shines in me. I know I can be my better self. I can free the past. ;5;18;HMxx5077
+Off To See The World;So, we wanna stay. But can't find peace while sittin' still. I guess we never will. ;17;8;jRQj5367
+We Will Stand For Everfree;Every lovely bloom designed to defend. Let them come, just let them try!I'm not about to say goodbye!;13;4;CKgf8074
+Find the Purpose in Your Life;You are here to find your purpose. And a place you really fit. And until you find your place in life. ;6;19;aTGi4372
+I'm at the Grand Galloping Gala;It's all I ever dreamed.It's all I ever dreamed, woo hoo!It's all I ever dreamed, yippee!;1;26;nnZe3438
+Equestria, the Land I Love;Equestria, the land I love. A land of harmony. Our flag does wave from high above. ;5;24;nlan9323
+Pinkie's Gala Fantasy Song;Oh the Grand Galloping Gala is the best place for me. Oh the Grand Galloping Gala is the best place for me. 'Cause it's the most galarrific superly-terrific gala ever. ;1;3;Svk0547
+Cupcake Song;Now just take a little something sweet, not sour!A bit of salt, just a pinch!Baking these treats is such a cinch!;1;12;Xtcz1564
+We've Come So Far;I needed a friend to lend me a helping hand. I couldn't do it on my own. We've come so far together. ;14;4;Vzsv6665
+Junior Speedsters Chant;Sky-bound soars and daring dives. Junior Speedsters, it's our quest,. ;1;5;sZgk8826

@@ -4,28 +4,105 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 06-10-2020 21:25:12
  * @ Modified by: JunkJumper
- * @ Modified time: 16-10-2020 22:56:04
+ * @ Modified time: 17-10-2020 21:59:30
 -->
 
 <?php
-    include "../game/getLyric.php";
 
-    if(isset($_GET['easy'])) {
-        printQuestions(generateQuestion("e"));
-    } else if(isset($_GET['medium'])) {
-        printQuestions(generateQuestion("m"));
-    } else if(isset($_GET['hard'])) {
-        printQuestions(generateQuestion("h"));
+$tabQuestionsTxt = readTxt();
+(int) $CURRENTQUESTION = getCurrentQuestionValue();
+$display = $tabQuestionsTxt[$CURRENTQUESTION];
+$listQ = array();
+
+for ($i=0; $i < 11; $i++) { 
+    $listQ[$i] = $tabQuestionsTxt[$i];
+}
+
+function getCurrentQuestionValue() : int {
+    include "../game/database.php";
+    (int) $ret = 0;
+
+    try {
+        // Connection MySQL.
+        $bdd = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+    } catch(Exception $e) {
+        // Si il y a une erreur, arret du script.
+        die('Erreur : '.$e->getMessage());
+    } // Récupération du contenu de la table "infos"
+    
+    $reponse = $bdd->query("SELECT value FROM weponies_song WHERE idValue = 1");
+    $donnee = $reponse->fetch();
+    $ret = $donnee[0];
+    return $ret;
+}
+
+function updateCurrentQuestionValue($val) {
+    include "../game/database.php";
+        $conn = new mysqli($servername, $username, $password, $dbname);
+        // Check connection
+        if ($conn->connect_error) {
+            die("Connection failed: " . $conn->connect_error);
+        }
+        
+        $sql = "UPDATE weponies_song SET value=" .$val ." WHERE idValue=1";
+        
+        if ($conn->query($sql) === TRUE) {
+            echo "Record updated successfully";
+        } else {
+            echo "Error updating record: " . $conn->error;
+        }
+        
+        $conn->close();
+}
+
+function resetCurrentQuestionValue() {
+    include "../game/database.php";
+        $conn = new mysqli($servername, $username, $password, $dbname);
+        // Check connection
+        if ($conn->connect_error) {
+            die("Connection failed: " . $conn->connect_error);
+        }
+        
+        $sql = "UPDATE weponies_song SET value=1 WHERE idValue=1";
+        
+        if ($conn->query($sql) === TRUE) {
+            echo "Record updated successfully";
+        } else {
+            echo "Error updating record: " . $conn->error;
+        }
+        
+        $conn->close();
+}
+
+function readTxt() : Array {
+    $a = array();
+    $pointer = fopen('../game/questions.txt', 'r');
+    for ($i=0; $i < 11; $i++) { 
+        $a[$i] = explode(";", fgets($pointer));
     }
+    return $a;
+}
 
-    $tabQuestionsTxt = array();
+include "../game/getLyric.php"; 
 
-    function readTxt() : Array {
-        $a = array();
-        $pointer = fopen('../game/questions.txt', 'r');
+if(isset($_GET['easy'])) {
+    printQuestions(generateQuestion("e"));
+    resetCurrentQuestionValue();
+    echo '<script type="text/javascript">setTimeout(function () {window.location.href = "./index.php";}, 1);</script>';
+} else if(isset($_GET['medium'])) {
+    printQuestions(generateQuestion("m"));
+    resetCurrentQuestionValue();
+    echo '<script type="text/javascript">setTimeout(function () {window.location.href = "./index.php";}, 1);</script>';
+} else if(isset($_GET['hard'])) {
+    printQuestions(generateQuestion("h"));
+    resetCurrentQuestionValue();
+    echo '<script type="text/javascript">setTimeout(function () {window.location.href = "./index.php";}, 1);</script>';
+}
 
-        return $a;
-    }
+if(isset($_GET['next'])) {
+    updateCurrentQuestionValue(getCurrentQuestionValue()+1);
+    echo '<script type="text/javascript">setTimeout(function () {window.location.href = "./index.php";}, 1);</script>';
+}
 
 ?>
 
@@ -59,7 +136,7 @@
     <link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 </head>
 
-<body>
+<body id="<?php echo $CURRENTQUESTION?>">
     <div class="page-container">
         <!--/content-inner-->
         <div class="left-content">
@@ -67,18 +144,18 @@
                 <!--header start here-->
                 <div class="header-main">
                     <center>
-                        <a href="index.html"><img src="./images/WPbanner.png" alt="WP banner" class="aligncenter" /></a>
+                        <a href="./index.php"><img src="./images/WPbanner.png" alt="WP banner" class="aligncenter" /></a>
                     </center>
                 </div>
                 <!--heder end here-->
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a> <i class="fa fa-angle-right"></i></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home</a> <i class="fa fa-angle-right"></i></li>
                 </ol>
                 <!--photoday-section-->
 
                 <div class="breadcrumb text-center">
-                    <h2>Question Actuelle :</h5>
-                        <p style="font-size: 1.3em;">S<b>X</b> - E<b>YY</b> : <i>AAAAAA</i></p>
+                    <h2><?php echo $listQ[$CURRENTQUESTION][1]?></h5>
+                        <p style="font-size: 1.3em;"><?php echo "S<b>" .$listQ[$CURRENTQUESTION][2] ."</b> - E<b>" .$listQ[$CURRENTQUESTION][3] ."</b> : <i>" .$listQ[$CURRENTQUESTION][0] ."</i>"?></p>
                 </div>
 
 
@@ -95,7 +172,17 @@
                                         <a href="./index.php?easy"><div class="bg-success dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions EASY</div></a>
                                         <a href="./index.php?medium"><div class="bg-primary dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions MEDIUM</div></a>
                                         <a href="./index.php?hard"><div class="bg-warning dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions HARD</div></a>
-                                        <a href="./index.php?difficulty"><div class="bg-system dark pv20 text-white fw600 text-center hvr-icon-float col-21">&nbsp; &nbsp; Envoyer question suivante</div></a>
+
+                                        <?php
+                                            if($CURRENTQUESTION<10) {
+                                                if(isset($_GET['next'])) {
+                                                    echo '<a href="./index.php?n"><div class="bg-system dark pv20 text-white fw600 text-center hvr-icon-float col-21">&nbsp; &nbsp; Envoyer question suivante</div></a>';
+                                                } else {
+                                                    echo '<a href="./index.php?next"><div class="bg-system dark pv20 text-white fw600 text-center hvr-icon-float col-21">&nbsp; &nbsp; Envoyer question suivante</div></a>';
+                                                }
+                                            }
+                                            
+                                        ?>
                                     </div>
                                 </div>
                             </div>
@@ -265,20 +352,19 @@
                         <div class="card-body card-padding">
                             <div class="widget">
                                 <header class="widget-header">
-                                    <h4 class="widget-title text-center">Questions :</h4>
+                                    <h4 class="widget-title text-center" id ="question">Questions :</h4>
                                 </header>
                                 <hr class="widget-separator">
                                 <ol>
-                                    <li id="question_1">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_2" style="color: #617eff;">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_3">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_4">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_5">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_6">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_7">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_8">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_9">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
-                                    <li id="question_10">S<b>X</b> - E<b>YY</b> : <i>lyric</i></li>
+                                    <?php
+                                        for ($i=1; $i < 11; $i++) { 
+                                            if($CURRENTQUESTION == $i) {
+                                                echo "<li style=\"color: #617eff;\">S<b>" .$listQ[$i][2] ."</b> - E<b>" .$listQ[$i][3] ."</b> : <i>".$listQ[$i][0] ."</i></li>";
+                                            } else {
+                                                echo "<li>S<b>" .$listQ[$i][2] ."</b> - E<b>" .$listQ[$i][3] ."</b> : <i>".$listQ[$i][0] ."</i></li>";
+                                            }
+                                        }
+                                    ?>
                                 </ol>
 
                             </div>
@@ -288,6 +374,7 @@
                 <div class="clearfix"></div>
 
                 <!--//photoday-section-->
+
                 <!-- script-for sticky-nav -->
                 <script>
                     $(document).ready(function() {
@@ -329,7 +416,7 @@
             <div style="border-top:1px ridge rgba(255, 255, 255, 0.15)"></div>
             <div class="menu">
                 <ul id="menu">
-                    <li><a href="index.html"><i class="fa fa-tachometer"></i> <span>Dashboard</span><div class="clearfix"></div></a></li>
+                    <li><a href="./index.php"><i class="fa fa-tachometer"></i> <span>Dashboard</span><div class="clearfix"></div></a></li>
                     <li id="menu-academico"><a href="errorpage.html"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span>Déconnexion</span><div class="clearfix"></div></a></li>
                 </ul>
             </div>
@@ -358,7 +445,6 @@
         });
     </script>
     <!--js -->
-    <script src="js/jquery.nicescroll.js"></script>
     <script src="js/scripts.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>

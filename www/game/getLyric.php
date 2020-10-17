@@ -143,9 +143,4 @@ function generateQuestion($difficulty) : Array {
     }
     return $a;
 }
-
-printQuestions(generateQuestion("e"));
-
-
-
 ?>
