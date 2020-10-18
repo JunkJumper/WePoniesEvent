@@ -58,7 +58,7 @@ function getDifficulty($stringDiff) {
 
 function getElementWithLyricTab() {
     $int = rand(1, 152);
-    include "database.php";
+    include "../game/database.php";
     $tabRet;
     try {
         // Connection MySQL.
@@ -143,4 +143,5 @@ function generateQuestion($difficulty) : Array {
     }
     return $a;
 }
+
 ?>

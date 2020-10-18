@@ -330,3 +330,34 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+/*pour les autres tables*/
+
+CREATE TABLE `weponies_song` (
+ `idValue` int(11) NOT NULL,
+ `value` int(11) NOT NULL,
+ PRIMARY KEY (`idValue`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+CREATE TABLE `weponies_song_scoreboard` (
+ `idPlayer` int(11) NOT NULL AUTO_INCREMENT,
+ `namePlayer` text NOT NULL,
+ `ppPlayer` int(11) NOT NULL,
+ `pointPlayer` int(11) NOT NULL,
+ `pass` text NOT NULL,
+ PRIMARY KEY (`idPlayer`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+
+CREATE VIEW `en_eg` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where ((`weponies_song_en`.`seasonSong` = 10) or (`weponies_song_en`.`seasonSong` = 11) or (`weponies_song_en`.`seasonSong` = 12) or (`weponies_song_en`.`seasonSong` = 13) or (`weponies_song_en`.`seasonSong` = 14)) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_mlp_movie` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 17) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_mlp_special` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where ((`weponies_song_en`.`seasonSong` = 15) or (`weponies_song_en`.`seasonSong` = 16)) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_1` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 1) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_2` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 2) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_3` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 3) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_4` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 4) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_5` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 5) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_6` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 6) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_7` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 7) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_8` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 8) order by `weponies_song_en`.`idSong`;
+CREATE VIEW `en_season_9` AS select `weponies_song_en`.`idSong` AS `idSong`,`weponies_song_en`.`nameSong` AS `nameSong`,`weponies_song_en`.`lyricSong` AS `lyricSong`,`weponies_song_en`.`seasonSong` AS `seasonSong`,`weponies_song_en`.`episodeSong` AS `episodeSong` from `weponies_song_en` where (`weponies_song_en`.`seasonSong` = 9) order by `weponies_song_en`.`idSong`;

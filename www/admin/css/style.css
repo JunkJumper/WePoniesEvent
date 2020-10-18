@@ -4,7 +4,7 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 06-10-2020 21:25:12
  * @ Modified by: JunkJumper
- * @ Modified time: 16-10-2020 17:59:52
+ * @ Modified time: 18-10-2020 20:37:17
  * @ Description:
  */
 
@@ -627,7 +627,7 @@ i {
 .list-group .list-group-item {
     border: 0;
     margin: 0;
-    padding: 5px 14px
+    padding: 1px 5px
 }
 
 .list-group-item:first-child {
@@ -643,7 +643,7 @@ button.list-group-item {
 .list-group-item {
     position: relative;
     display: block;
-    padding: 10px 15px;
+    padding: 1px 5px;
     margin-bottom: -1px;
     background-color: transparent;
     border: 1px solid #e9e9e9

@@ -4,7 +4,7 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 06-10-2020 21:25:12
  * @ Modified by: JunkJumper
- * @ Modified time: 17-10-2020 21:59:30
+ * @ Modified time: 18-10-2020 20:33:38
 -->
 
 <?php
@@ -13,9 +13,28 @@ $tabQuestionsTxt = readTxt();
 (int) $CURRENTQUESTION = getCurrentQuestionValue();
 $display = $tabQuestionsTxt[$CURRENTQUESTION];
 $listQ = array();
+$scoreboard = getCurrentScoreboard(); //$listQ = idPlayer[0] | namePlayer[1] | ppPlayer[2] | pointPlayer[3]
+$playerAmount = count($scoreboard);
 
 for ($i=0; $i < 11; $i++) { 
     $listQ[$i] = $tabQuestionsTxt[$i];
+}
+
+function getCurrentScoreboard() : Array {
+    include "../game/database.php";
+    $a = array();
+    try {
+        // Connection MySQL.
+        $bdd = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+    } catch(Exception $e) {
+        // Si il y a une erreur, arret du script.
+        die('Erreur : '.$e->getMessage());
+    } // Récupération du contenu de la table "infos"
+    
+    $reponse = $bdd->query("SELECT * FROM weponies_song_scoreboard ORDER BY pointPlayer DESC");
+    $a = $reponse->fetchAll();
+    
+    return $a;
 }
 
 function getCurrentQuestionValue() : int {
@@ -46,12 +65,7 @@ function updateCurrentQuestionValue($val) {
         
         $sql = "UPDATE weponies_song SET value=" .$val ." WHERE idValue=1";
         
-        if ($conn->query($sql) === TRUE) {
-            echo "Record updated successfully";
-        } else {
-            echo "Error updating record: " . $conn->error;
-        }
-        
+        $conn->query($sql);
         $conn->close();
 }
 
@@ -64,13 +78,7 @@ function resetCurrentQuestionValue() {
         }
         
         $sql = "UPDATE weponies_song SET value=1 WHERE idValue=1";
-        
-        if ($conn->query($sql) === TRUE) {
-            echo "Record updated successfully";
-        } else {
-            echo "Error updating record: " . $conn->error;
-        }
-        
+        $conn->query($sql);
         $conn->close();
 }
 
@@ -144,7 +152,7 @@ if(isset($_GET['next'])) {
                 <!--header start here-->
                 <div class="header-main">
                     <center>
-                        <a href="./index.php"><img src="./images/WPbanner.png" alt="WP banner" class="aligncenter" /></a>
+                        <a href="./index.php"><img src="./images/WPbanner.png" alt="WP banner" class="aligncenter" width="40%"/></a>
                     </center>
                 </div>
                 <!--heder end here-->
@@ -190,163 +198,7 @@ if(isset($_GET['next'])) {
                     </div>
                 </div>
 
-                <div class="col-sm-4 w3-agileits-crd">
-
-                    <div class="card card-contact-list">
-                        <div class="agileinfo-cdr">
-                            <div class="card-header text-center">
-                                <h3>Scores</h3>
-                            </div>
-                            <div class="card-body p-b-20">
-                                <div class="list-group center-block">
-                                    <!-- List Begin -->
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/0.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J1</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/1.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J2</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/2.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J3</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/3.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J4</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/4.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J5</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/5.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J6</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/6.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J7</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/7.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J8</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/8.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J9</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="list-group-item media">
-                                        <div class="pull-left">
-                                            <img class="lg-item-img" src="./images/SnowPearlPP/9.png" alt="">
-                                        </div>
-                                        <div class="media-body">
-                                            <div class="pull-left">
-                                                <div class="lg-item-heading">J10</div>
-                                            </div>
-                                            <div class="pull-right">
-                                                <div class="lg-item-heading">X pts</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!--End List-->
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-sm-4 w3-agile-crd">
                     <div class="card">
                         <div class="card-body card-padding">
@@ -371,6 +223,45 @@ if(isset($_GET['next'])) {
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm-4 w3-agileits-crd">
+
+<div class="card card-contact-list">
+    <div class="agileinfo-cdr">
+        <div class="card-header text-center">
+            <h3>Scores</h3>
+        </div>
+        <div class="card-body p-b-20">
+            <div class="list-group center-block">
+                <!-- List Begin -->
+
+                <?php
+                    if($playerAmount <= 0) {
+                        echo "Il n'y a pas de joueurs dans cette partie";
+                    } else {
+                        for ($i=0; $i < $playerAmount; $i++) { 
+                            echo '<div class="list-group-item media">
+                                    <div class="pull-left">
+                                        <img class="lg-item-img" src="./images/SnowPearlPP/' .$scoreboard[$i][2] .'.png" alt="PP player .' .$scoreboard[$i][1].'">
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="pull-left">
+                                            <div class="lg-item-heading">' .$scoreboard[$i][1] .'</div>
+                                        </div>
+                                        <div class="pull-right">
+                                            <div class="lg-item-heading">'.$scoreboard[$i][3] .' pts</div>
+                                        </div>
+                                    </div>
+                                </div>';
+                            }
+                    }
+                ?>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
                 <div class="clearfix"></div>
 
                 <!--//photoday-section-->
@@ -452,100 +343,7 @@ if(isset($_GET['next'])) {
     <!-- morris JavaScript -->
     <script src="js/raphael-min.js"></script>
     <script src="js/morris.js"></script>
-    <script>
-        $(document).ready(function() {
-            //BOX BUTTON SHOW AND CLOSE
-            jQuery('.small-graph-box').hover(function() {
-                jQuery(this).find('.box-button').fadeIn('fast');
-            }, function() {
-                jQuery(this).find('.box-button').fadeOut('fast');
-            });
-            jQuery('.small-graph-box .box-close').click(function() {
-                jQuery(this).closest('.small-graph-box').fadeOut(200);
-                return false;
-            });
 
-            //CHARTS
-            function gd(year, day, month) {
-                return new Date(year, month - 1, day).getTime();
-            }
-
-            graphArea2 = Morris.Area({
-                element: 'hero-area',
-                padding: 10,
-                behaveLikeLine: true,
-                gridEnabled: false,
-                gridLineColor: '#dddddd',
-                axes: true,
-                resize: true,
-                smooth: true,
-                pointSize: 0,
-                lineWidth: 0,
-                fillOpacity: 0.85,
-                data: [{
-                    period: '2014 Q1',
-                    iphone: 2668,
-                    ipad: null,
-                    itouch: 2649
-                }, {
-                    period: '2014 Q2',
-                    iphone: 15780,
-                    ipad: 13799,
-                    itouch: 12051
-                }, {
-                    period: '2014 Q3',
-                    iphone: 12920,
-                    ipad: 10975,
-                    itouch: 9910
-                }, {
-                    period: '2014 Q4',
-                    iphone: 8770,
-                    ipad: 6600,
-                    itouch: 6695
-                }, {
-                    period: '2015 Q1',
-                    iphone: 10820,
-                    ipad: 10924,
-                    itouch: 12300
-                }, {
-                    period: '2015 Q2',
-                    iphone: 9680,
-                    ipad: 9010,
-                    itouch: 7891
-                }, {
-                    period: '2015 Q3',
-                    iphone: 4830,
-                    ipad: 3805,
-                    itouch: 1598
-                }, {
-                    period: '2015 Q4',
-                    iphone: 15083,
-                    ipad: 8977,
-                    itouch: 5185
-                }, {
-                    period: '2016 Q1',
-                    iphone: 10697,
-                    ipad: 4470,
-                    itouch: 2038
-                }, {
-                    period: '2016 Q2',
-                    iphone: 8442,
-                    ipad: 5723,
-                    itouch: 1801
-                }],
-                lineColors: ['#ff4a43', '#a2d200', '#22beef'],
-                xkey: 'period',
-                redraw: true,
-                ykeys: ['iphone', 'ipad', 'itouch'],
-                labels: ['All Visitors', 'Returning Visitors', 'Unique Visitors'],
-                pointSize: 2,
-                hideHover: 'auto',
-                resize: true
-            });
-
-
-        });
-    </script>
 </body>
 
 </html>
