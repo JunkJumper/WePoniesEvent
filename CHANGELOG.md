@@ -1,5 +1,5 @@
 # Changelogs File History
-## Changelog 02/10/2020
+## Changelog 17/10/2020
 
 ### ``textBlindTest`` package
 
@@ -8,9 +8,9 @@
 * [x] DB's Schematic (DB = Database)
 * [x] DB's Data
 * [x] Java programm to read the DB
-* [ ] PhP and Js programms to read the DB
+* [x] PhP and Js programms to read the DB
 * [ ] IHM's Front End (50%)
-* [ ] Game Gestionnary's Back End
+* [x] Game Gestionnary's Back End
 
 ###  ``textFiles`` package
 
