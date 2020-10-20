@@ -4,7 +4,7 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 06-10-2020 21:25:12
  * @ Modified by: JunkJumper
- * @ Modified time: 20-10-2020 16:45:34
+ * @ Modified time: 20-10-2020 17:40:36
 -->
 
 <?php
@@ -183,7 +183,7 @@ if(isset($_GET['next'])) {
                 <!--photoday-section-->
 
                 <div class="breadcrumb text-center">
-                    <h2><?php echo $listQ[$CURRENTQUESTION][1]?></h5>
+                    <h3><?php echo $listQ[$CURRENTQUESTION][1]?></h5>
                         <?php
                             if($listQ[$CURRENTQUESTION][2] == 10 || $listQ[$CURRENTQUESTION][2] == 11 || $listQ[$CURRENTQUESTION][2] == 12 || $listQ[$CURRENTQUESTION][2] == 13 || $listQ[$CURRENTQUESTION][2] == 14) {
                                 echo "<p style=\"font-size: 1.3em;\">Equestria Girls : <i>".$listQ[$CURRENTQUESTION][0] ."</i></p>";
@@ -207,10 +207,6 @@ if(isset($_GET['next'])) {
                                 <div class="row m-0 md-bg-grey-100 p-l-20 p-r-20">
                                     <div class="col-md-12 col-sm-12 col-xs-12 w3layouts-aug text-center">
                                         <h3>Gestion du jeu</h3>
-                                        <a href="./admin.php?easy"><div class="bg-success dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions EASY</div></a>
-                                        <a href="./admin.php?medium"><div class="bg-primary dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions MEDIUM</div></a>
-                                        <a href="./admin.php?hard"><div class="bg-warning dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions HARD</div></a>
-
                                         <?php
                                             if($CURRENTQUESTION<10) {
                                                 if(isset($_GET['next'])) {
@@ -218,6 +214,10 @@ if(isset($_GET['next'])) {
                                                 } else {
                                                     echo '<a href="./admin.php?next"><div class="bg-system dark pv20 text-white fw600 text-center hvr-icon-float col-21">&nbsp; &nbsp; Envoyer question suivante</div></a>';
                                                 }
+                                            } else {
+                                                echo '<a href="./admin.php?easy"><div class="bg-success dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions EASY</div></a>';
+                                                echo '<a href="./admin.php?medium"><div class="bg-primary dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions MEDIUM</div></a>';
+                                                echo '<a href="./admin.php?hard"><div class="bg-warning dark pv20 text-white fw600 text-center hvr-icon-spin col-5">&nbsp; &nbsp; Générer des nouvelles questions HARD</div></a>';
                                             }
                                             
                                         ?>
@@ -353,8 +353,10 @@ if(isset($_GET['next'])) {
             <div style="border-top:1px ridge rgba(255, 255, 255, 0.15)"></div>
             <div class="menu">
                 <ul id="menu">
-                    <li><a href="./admin.php"><i class="fa fa-tachometer"></i> <span>Dashboard</span><div class="clearfix"></div></a></li>
-                    <li id="menu-academico"><a href="./logout.php"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span>Déconnexion</span><div class="clearfix"></div></a></li>
+                    <li><a href="./admin.php?easy"><i class="fa fa-tachometer" aria-hidden="true"></i><span>Générer questions EASY</span><div class="clearfix"></div></a></li>
+                    <li><a href="./admin.php?medium"><i class="fa fa-tachometer" aria-hidden="true"></i><span>Générer questions MEDIUM</span><div class="clearfix"></div></a></li>
+                    <li><a href="./admin.php?hard"><i class="fa fa-tachometer" aria-hidden="true"></i><span>Générer questions HARD</span><div class="clearfix"></div></a></li>
+                    <li><a href="./logout.php"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span>Déconnexion</span><div class="clearfix"></div></a></li>
                 </ul>
             </div>
         </div>

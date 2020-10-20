@@ -4,7 +4,7 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 06-10-2020 21:25:12
  * @ Modified by: JunkJumper
- * @ Modified time: 18-10-2020 20:37:17
+ * @ Modified time: 20-10-2020 17:46:44
  * @ Description:
  */
 
@@ -380,7 +380,7 @@ li#menu-academico {
     right: 20px
 }
 
-::-webkit-input-placeholder {
+ ::-webkit-input-placeholder {
     color: #7a7b78!important
 }
 
@@ -527,7 +527,7 @@ img.lg-item-img {
 
 .card {
     background: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
     -o-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
@@ -535,9 +535,9 @@ img.lg-item-img {
 }
 
 *,
-:active,
-:focus,
-:hover {
+ :active,
+ :focus,
+ :hover {
     outline: 0!important;
     -webkit-tap-highlight-color: transparent!important
 }
@@ -610,9 +610,9 @@ table {
 }
 
 *,
-:active,
-:focus,
-:hover {
+ :active,
+ :focus,
+ :hover {
     outline: 0!important;
     -webkit-tap-highlight-color: transparent!important
 }
@@ -679,7 +679,7 @@ hr {
 }
 
 .card .card-body.card-padding {
-    padding: 23px 27px
+    padding: 10px 10px
 }
 
 .panel-body .list-group {
