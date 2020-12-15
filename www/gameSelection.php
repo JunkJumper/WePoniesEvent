@@ -1,14 +1,17 @@
+<?php
+
+?>
 <!--
  * @ Author: JunkJumper
  * @ Link: https://github.com/JunkJumper
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
- * @ Create Time: 21-10-2020 09:19:54
+ * @ Create Time: 21-10-2020 09:19:53
  * @ Modified by: JunkJumper
- * @ Modified time: 21-10-2020 10:57:05
+ * @ Modified time: 21-10-2020 11:10:08
 -->
 
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -26,29 +29,25 @@
             <img src="images/WPEbanner.png" alt="WEponies Event Banner" />
         </a>
     </h1>
-    <ul id="navigation">
-        <li>
-            <a href="index.html">Accueil</a>
-        </li>
-        <li>
-            <a href="#" class="current">Jeux WePonies</a>
-            <ul>
-                <li>
-                    <a href="blindTest.php">Blind test</a>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <a href="about.html">À propos</a>
-        </li>
-        <li>
-            <a href="https://www.weponies.fr/">Retourner au site principal</a>
-        </li>
-    </ul>
 </div>
-    <div id="body">
-        <img src="images/WP_group_logo.png" alt="lady doing yoga" class="figure">
+<div id="body">
+    <h2>Choix Pseudos/Images</h2>
+    <p>Pour pouvoir joueur à notre jeu, merci de complêter le formumaire suivant :</p>
+    <div class="content">
+        <form action="./blindTest.php" method="post" name="form>
+            <label for="name">Pseudo : </label><br />
+            <input type="text" name="form[pseudo]" id="name" required><br /><br />
+            <label for="name">Image de profil : </label><br />
+            <?php
+            for ($i = 0; $i < 10; ++$i) {
+                echo '<input type="radio" name="form[pp]" value="' .$i .'"><img src="./admin/images/SnowPearlPP/' .$i .'.png" width="80px" />' .'&nbsp&nbsp&nbsp&nbsp&nbsp';
+            }
+            ?>
+            <br /><br />
+            <input type="submit" value="Envoyer" />
+        </form>
     </div>
+</div>
     <div id="footer">
         <p style="color:white;text-align: center;">
             <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">

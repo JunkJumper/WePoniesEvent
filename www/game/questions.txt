@@ -1,11 +1,11 @@
 #Song Title;Lyrics;Season;Episode;Unique Question ID
-Shake tour tail;We don't know (we don't know) what's gonna happen. ;11;5;PMRz2527
-Under our spell;Put your hands up to the sky. ;11;6;jEAo0612
-Pinkie's Lament;I'll try to get up on my hooves. ;4;12;OGto5276
-Sisterhood;Is a special kind of friend. ;5;17;TIdD4816
-Legend You Were Meant To Be;You'll always be Everfree. ;13;5;znIJ6158
-Hearts Strong as Horses;Got the moves, got the mojo...;4;5;TZv0727
-The Heart Carol;Though quarrels arise, their numbers are few. ;2;11;YiwV0813
-The Magic Inside;For I had believed what I was sold. ;5;24;lPnh7006
-Equestria, the Land I Love;Where ponykind do roam. ;5;24;Tvxd8716
-The Success Song;Turns out I was. ;3;2;JCOe5761
+Pony Pokey;You pull your back left out. ;1;26;gvqt4999
+School of Friendship;I'm quite certain I'm lost. ;8;1;FGPU6328
+The Heart Carol;Though quarrels arise, their numbers are few. ;2;11;lIYY2939
+Shine Like Rainbows;Shine like rainbows. ;11;10;EzNx0678
+The Flim Flam Brothers;With your Flim Flam Brothers' Super Speedy Cider Squeezy 6000. ;2;15;gFcM4902
+Piggy Dance;Then you wriggle your snout! Oink oink oink!;2;13;cINy6685
+Tricks Up My Sleeve;I'm here to take you down a peg. ;11;7;kWQz0945
+Better Than Ever;(Ah, ah, oh-oh-oh-oh). ;11;2;sWBK3534
+A Changeling Can Change;So if day can turn to night. ;6;16;exhs9107
+Pony Pokey;And you shake it all about. ;1;26;JCUN8197

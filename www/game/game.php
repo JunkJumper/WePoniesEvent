@@ -6,7 +6,7 @@
  * @ Copyright: Creative Common 4.0 (CC BY 4.0)
  * @ Create Time: 18-10-2020 19:40:45
  * @ Modified by: JunkJumper
- * @ Modified time: 18-10-2020 20:15:48
+ * @ Modified time: 19-10-2020 10:34:39
  */
 
 function charAtpos($str, $pos) {
